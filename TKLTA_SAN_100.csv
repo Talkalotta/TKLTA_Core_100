@@ -1,0 +1,101 @@
+Category,Sentence (Sanskrit)
+Grammar Core,रामः पठति।
+Grammar Core,गावः गच्छन्ति।
+Grammar Core,बालकः खादति।
+Grammar Core,सः पुस्तकं पठति।
+Grammar Core,अहं पाठशालां गच्छामि।
+Grammar Core,सर्वे छात्राः अध्ययनं कुर्वन्ति।
+Grammar Core,सः गृहे अस्ति।
+Grammar Core,गुरुः शिष्याय पाठं ददाति।
+Grammar Core,पक्षिणः आकाशे उड्डयन्ति।
+Grammar Core,ते किं वदन्ति?
+Conversational Data,भवान् कुत्र गच्छति?
+Conversational Data,मम नाम सुरेशः।
+Conversational Data,अद्य किं भोजनं करोति?
+Conversational Data,किं त्वं क्रीडाय इच्छसि?
+Conversational Data,शुभप्रभातं! कथमस्ति?
+Conversational Data,सर्वे कुशलिनः किम्?
+Conversational Data,अहं पाठशालायां पठामि।
+Conversational Data,सः चिकित्सालयं गतः।
+Conversational Data,ते किं चिन्तयन्ति?
+Conversational Data,अत्र आगच्छ।
+Code-Switching & Multilingualism,तस्य मित्रं library गच्छति।
+Code-Switching & Multilingualism,रामः mobile उपयुज्यति।
+Code-Switching & Multilingualism,मम पिता doctor अस्ति।
+Code-Switching & Multilingualism,सा computer पठति।
+Code-Switching & Multilingualism,एषः song उत्तमः अस्ति।
+Code-Switching & Multilingualism,अहं TV पश्यामि।
+Code-Switching & Multilingualism,भवान् email प्रेषयति किम्?
+Code-Switching & Multilingualism,सः market गच्छति।
+Code-Switching & Multilingualism,तस्य teacher शिक्षायाम् उत्तमः।
+Code-Switching & Multilingualism,ते WhatsApp उपयोगयन्ति।
+Formal & Professional Speech,सर्वे नियमाः पालनं करणीयम्।
+Formal & Professional Speech,अस्माकं कार्यालये समयः मूल्यवान् अस्ति।
+Formal & Professional Speech,वैद्यः रोगिणः परीक्षणं करोति।
+Formal & Professional Speech,सर्वे अनुशासनं धारयन्ति।
+Formal & Professional Speech,विधायः शासनं कुर्वन्ति।
+Formal & Professional Speech,न्यायालयः न्यायं करोति।
+Formal & Professional Speech,चिकित्सालये चिकित्सकः सेवां ददाति।
+Formal & Professional Speech,सर्वे अधिकारीः कर्तव्यं कुर्वन्ति।
+Formal & Professional Speech,अध्यापकः शिक्षायाम् तिष्ठति।
+Formal & Professional Speech,परिषद् नीतिं योजयति।
+"Idioms, Proverbs & Cultural Expressions",अग्निशिखा इव क्रुद्धः।
+"Idioms, Proverbs & Cultural Expressions",स्वयमेव मृगः न गच्छति।
+"Idioms, Proverbs & Cultural Expressions",यथा राजा तथा प्रजा।
+"Idioms, Proverbs & Cultural Expressions",गङ्गायां घृतं विसृज्यते।
+"Idioms, Proverbs & Cultural Expressions",अल्पस्य हेतोः महान् क्षयः।
+"Idioms, Proverbs & Cultural Expressions",विद्या धनं सर्वेभ्यः श्रेष्ठम्।
+"Idioms, Proverbs & Cultural Expressions",सर्पः एव वा पादपीडनम्।
+"Idioms, Proverbs & Cultural Expressions",गृहे लक्ष्मीः पूजनीयः।
+"Idioms, Proverbs & Cultural Expressions",महाजनः येन गतः स पन्थाः।
+"Idioms, Proverbs & Cultural Expressions",तैलं तैलं तदेकमेव।
+Question-Answer Pairs,भवतः नाम किम्?
+Question-Answer Pairs,सः चिकित्सकः अस्ति किम्?
+Question-Answer Pairs,अहं गृहे पठामि वा विद्यालये?
+Question-Answer Pairs,सः कदा आगच्छति?
+Question-Answer Pairs,एषः पुस्तकं कस्य अस्ति?
+Question-Answer Pairs,गङ्गा कुत्र प्रवहति?
+Question-Answer Pairs,कः सर्वेभ्यः श्रेष्ठः?
+Question-Answer Pairs,भवान् कः कार्यं करोति?
+Question-Answer Pairs,भारतस्य राजधानी का?
+Question-Answer Pairs,सर्वे कुशलिनः वा?
+Commands & Instructions,अत्र उपविशतु।
+Commands & Instructions,माम् अनुवर्तस्व।
+Commands & Instructions,शीघ्रं पठ।
+Commands & Instructions,द्वारं पिधायतु।
+Commands & Instructions,जलं आनय।
+Commands & Instructions,गृहम् प्रवेश।
+Commands & Instructions,चिन्तां मा कुरु।
+Commands & Instructions,"गच्छन्तु, समयः न अस्ति।"
+Commands & Instructions,पुस्तकं पठ।
+Commands & Instructions,सत्यं वद।
+Named Entity Recognition,रामः अयोध्यायाः राजा।
+Named Entity Recognition,दिल्ली भारतस्य राजधानी अस्ति।
+Named Entity Recognition,गङ्गा भारतस्य महानदी।
+Named Entity Recognition,महात्मा गान्धिः राष्ट्रपिता।
+Named Entity Recognition,ताजमहालः आग्रायाम् अस्ति।
+Named Entity Recognition,विश्वविद्यालयः वाराणस्यां अस्ति।
+Named Entity Recognition,कृष्णः यादवः।
+Named Entity Recognition,हिमालयः उच्चः पर्वतः।
+Named Entity Recognition,भारतं एशियायाः भागः।
+Named Entity Recognition,मुम्बई समुद्रतीरे अस्ति।
+Sentiment Analysis,अहं अतीव प्रसन्नः।
+Sentiment Analysis,सः खिन्नः।
+Sentiment Analysis,मम हृदयः दुःखेन पूरितम्।
+Sentiment Analysis,इदं हास्यास्पदं अस्ति।
+Sentiment Analysis,सः रोदनं करोति।
+Sentiment Analysis,अद्य मम उत्तमः दिनः।
+Sentiment Analysis,सः अत्यन्तः उत्साहितः।
+Sentiment Analysis,तेन विश्वासं तोडितम्।
+Sentiment Analysis,अहं चिन्तितः अस्मि।
+Sentiment Analysis,तस्य कथाः रोमहर्षणाः।
+Paraphrased & Augmented Sentences,रामः पुस्तकं पठति।
+Paraphrased & Augmented Sentences,रामेण पुस्तकं पठ्यते।
+Paraphrased & Augmented Sentences,रामः पुस्तकं अद्य पठिष्यति।
+Paraphrased & Augmented Sentences,रामः पुस्तकं पठितवान्।
+Paraphrased & Augmented Sentences,रामस्य पुस्तकपठनं प्रीतिकरम्।
+Paraphrased & Augmented Sentences,रामः पठनं अतीव रोचते।
+Paraphrased & Augmented Sentences,रामः पठनं अनिवार्यं मन्यते।
+Paraphrased & Augmented Sentences,रामः पुस्तकं पठित्वा सुखं अनुभूयते।
+Paraphrased & Augmented Sentences,रामेण पाठनं करणीयम्।
+Paraphrased & Augmented Sentences,रामः पठने अतीव रुचिं धारयति।

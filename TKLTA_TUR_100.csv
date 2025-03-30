@@ -1,0 +1,101 @@
+Category,Sentence_Turkish
+Grammar Core,Dün sinemaya gittim.
+Grammar Core,Yarın toplantıya katılacağım.
+Grammar Core,"Eğer hava güzel olursa, pikniğe gidelim."
+Grammar Core,Bu kitap geçen yıl basıldı.
+Grammar Core,Ben her gün kahve içerim.
+Grammar Core,Ali ve Ayşe dün akşam yemeğe çıktılar.
+Grammar Core,Kitap okumanın faydalı olduğunu düşünüyorum.
+Grammar Core,O her zaman çok dikkatli çalışır.
+Grammar Core,Bu şehirde yaşamak oldukça keyifli.
+Grammar Core,Telefonum çalınca hemen açtım.
+Conversational Data,Merhaba! Nasılsın?
+Conversational Data,Bugün hava nasıl?
+Conversational Data,"Bir kahve alabilir miyim, lütfen?"
+Conversational Data,Bu filmi izledin mi?
+Conversational Data,Ne yapmayı planlıyorsun bu hafta sonu?
+Conversational Data,Saat kaçta buluşuyoruz?
+Conversational Data,Bu restoran hakkında ne düşünüyorsun?
+Conversational Data,Yardımcı olabilir miyim?
+Conversational Data,Bu fiyat biraz pahalı değil mi?
+Conversational Data,"Teşekkür ederim, iyi günler!"
+Code-Switching & Multilingualism,"Bugün çok yoğunum, later we can talk."
+Code-Switching & Multilingualism,O sunumu check ettin mi?
+Code-Switching & Multilingualism,Yarın meeting saat kaçta?
+Code-Switching & Multilingualism,Bu task'ı bugün bitirebilir misin?
+Code-Switching & Multilingualism,Yeni bir start-up başlattık.
+Code-Switching & Multilingualism,Bunu online order edebilir miyiz?
+Code-Switching & Multilingualism,Kargoyu tracking yapabilir miyim?
+Code-Switching & Multilingualism,Yeni feature'ları test ettin mi?
+Code-Switching & Multilingualism,"Tamam, let's do it."
+Code-Switching & Multilingualism,Bu şarkıyı Spotify'da listen ettim.
+Formal & Professional Speech,"Sayın yetkili, teklifinizi inceledim."
+Formal & Professional Speech,Bu belgeyi imzalayıp geri gönderebilir misiniz?
+Formal & Professional Speech,Toplantı pazartesi günü saat 10'da gerçekleşecektir.
+Formal & Professional Speech,Raporu detaylıca inceleyip geri bildirim vereceğim.
+Formal & Professional Speech,"Saygılarımızla, teklifinizi değerlendireceğiz."
+Formal & Professional Speech,Hasta tedaviye olumlu yanıt vermektedir.
+Formal & Professional Speech,Hukuki süreç hakkında detaylı bilgi almak istiyorum.
+Formal & Professional Speech,Lütfen faturayı tarafımıza iletiniz.
+Formal & Professional Speech,Müşteri memnuniyetini artırmaya odaklanıyoruz.
+Formal & Professional Speech,Bu konuda detaylı bir analiz sunabilir misiniz?
+"Idioms, Proverbs & Cultural Expressions",Azıcık aşım kaygısız başım.
+"Idioms, Proverbs & Cultural Expressions",El elden üstündür.
+"Idioms, Proverbs & Cultural Expressions",Taş yerinde ağırdır.
+"Idioms, Proverbs & Cultural Expressions",Denize düşen yılana sarılır.
+"Idioms, Proverbs & Cultural Expressions",Ağaç yaşken eğilir.
+"Idioms, Proverbs & Cultural Expressions",Komşu komşunun külüne muhtaçtır.
+"Idioms, Proverbs & Cultural Expressions",Üzüm üzüme baka baka kararır.
+"Idioms, Proverbs & Cultural Expressions",Balık baştan kokar.
+"Idioms, Proverbs & Cultural Expressions",Kaş yapayım derken göz çıkarmak.
+"Idioms, Proverbs & Cultural Expressions",İşleyen demir ışıldar.
+Question-Answer Pairs,Bugün hava nasıl? – Güneşli ve sıcak.
+Question-Answer Pairs,En sevdiğin yemek nedir? – Mantı.
+Question-Answer Pairs,"Bu kitabı okudun mu? – Evet, çok güzeldi."
+Question-Answer Pairs,Telefonun nerede? – Masanın üstünde.
+Question-Answer Pairs,İstanbul’a ne zaman gideceksin? – Haftaya.
+Question-Answer Pairs,Bu ürün hangi malzemeden yapılmış? – Pamuktan.
+Question-Answer Pairs,Saat kaç? – 15:30.
+Question-Answer Pairs,Buraya nasıl gelebilirim? – Otobüsle veya taksiyle.
+Question-Answer Pairs,Bu restoranın yemekleri nasıl? – Çok lezzetli.
+Question-Answer Pairs,Hangi dili konuşuyorsun? – Türkçe ve İngilizce.
+Commands & Instructions,Kapıyı kapat lütfen.
+Commands & Instructions,Şifrenizi giriniz.
+Commands & Instructions,Lütfen bekleyiniz.
+Commands & Instructions,Beni arayın.
+Commands & Instructions,Daha yavaş konuşabilir misiniz?
+Commands & Instructions,Bu belgeyi doldurunuz.
+Commands & Instructions,Telefonu sessize al.
+Commands & Instructions,Buraya oturun.
+Commands & Instructions,Yardım edin.
+Commands & Instructions,Lütfen ışıkları kapatın.
+Named Entity Recognition (NER),Ali dün Ankara’ya gitti.
+Named Entity Recognition (NER),Google yeni bir yapay zeka duyurdu.
+Named Entity Recognition (NER),Türkiye’nin başkenti Ankara’dır.
+Named Entity Recognition (NER),Amazon'dan bir kitap sipariş ettim.
+Named Entity Recognition (NER),Elon Musk SpaceX’i kurdu.
+Named Entity Recognition (NER),Üniversite sınavı 15 Haziran'da yapılacak.
+Named Entity Recognition (NER),Microsoft yeni bir güncelleme yayınladı.
+Named Entity Recognition (NER),İstanbul dünyanın en büyük şehirlerinden biridir.
+Named Entity Recognition (NER),Tesla elektrikli otomobiller üretiyor.
+Named Entity Recognition (NER),Facebook ismini Meta olarak değiştirdi.
+Sentiment Analysis Data,Bugün harika bir gün!
+Sentiment Analysis Data,Çok mutsuzum.
+Sentiment Analysis Data,Bu film gerçekten etkileyiciydi.
+Sentiment Analysis Data,Ürünüm zamanında teslim edilmedi.
+Sentiment Analysis Data,Müşteri hizmetleri çok nazikti.
+Sentiment Analysis Data,Bu yer çok kalabalık ve rahatsız edici.
+Sentiment Analysis Data,İnanılmaz güzel bir tatildi!
+Sentiment Analysis Data,Sipariş ettiğim yemek soğuktu.
+Sentiment Analysis Data,Bu kitap sıkıcıydı.
+Sentiment Analysis Data,Harika bir müşteri deneyimi yaşadım.
+Paraphrased & Augmented Sentences,Bugün hava çok güzel!
+Paraphrased & Augmented Sentences,Hava bugün gerçekten harika!
+Paraphrased & Augmented Sentences,Şu an dışarısı çok güzel görünüyor.
+Paraphrased & Augmented Sentences,Gökyüzü açık ve güneşli.
+Paraphrased & Augmented Sentences,Havanın bu kadar güzel olmasına bayıldım!
+Paraphrased & Augmented Sentences,Bugün tam bir yürüyüş havası!
+Paraphrased & Augmented Sentences,Böyle havaları çok seviyorum.
+Paraphrased & Augmented Sentences,Dışarı çıkmak için mükemmel bir gün.
+Paraphrased & Augmented Sentences,Güneşli havalar beni mutlu ediyor.
+Paraphrased & Augmented Sentences,Bugün piknik yapmak için ideal bir hava var.

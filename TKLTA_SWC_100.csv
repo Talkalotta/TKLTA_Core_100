@@ -1,0 +1,101 @@
+Category,Sentence_Swahili
+Grammar Core,Jana nilikwenda sokoni kununua matunda.
+Grammar Core,Kesho nitakula chakula kitamu nyumbani.
+Grammar Core,Ningependa kusafiri kwenda Zanzibar mwaka ujao.
+Grammar Core,Sisi tunacheza mpira kila jioni baada ya kazi.
+Grammar Core,Wanafunzi walifanya mtihani wa mwisho jana.
+Grammar Core,Kuku wangu aliliwa na mbwa wa jirani.
+Grammar Core,"Kama ningejua, nisingefanya hivyo."
+Grammar Core,Miti inamea haraka wakati wa mvua.
+Grammar Core,Nyumba hii imejengwa kwa mawe imara.
+Grammar Core,Wazazi wangu walikuwa wakizungumza kwa Kiswahili kila wakati.
+Conversational Data,"Habari, unajisikiaje leo?"
+Conversational Data,"Nzuri, asante! Na wewe?"
+Conversational Data,Nimefurahi kukuona baada ya muda mrefu.
+Conversational Data,Unataka kwenda wapi jioni hii?
+Conversational Data,Ninapenda kusoma vitabu vya riwaya jioni.
+Conversational Data,"Samahani, unaweza kunisaidia na hili?"
+Conversational Data,"Ndiyo, ninaweza kusaidia, unahitaji nini hasa?"
+Conversational Data,"Nilienda kazini mapema leo, ilikuwa siku ndefu."
+Conversational Data,"Asante kwa msaada wako, nafurahi sana!"
+Conversational Data,"Karibu tena, muda wowote unakaribishwa!"
+Code-Switching & Multilingualism,Ninahitaji kucharge simu yangu haraka.
+Code-Switching & Multilingualism,Leo nitameet na rafiki yangu kwa kahawa.
+Code-Switching & Multilingualism,Uliwatch movie gani jana usiku?
+Code-Switching & Multilingualism,Mimi napenda kutumia apps mpya za Kiswahili.
+Code-Switching & Multilingualism,Siku hizi tunaweza stream muziki popote.
+Code-Switching & Multilingualism,"Kazi yangu ni remote, nafanya kazi nyumbani."
+Code-Switching & Multilingualism,Tuanze project hii mapema kesho.
+Code-Switching & Multilingualism,Nahitaji backup ya documents zangu zote.
+Code-Switching & Multilingualism,Tafadhali share hiyo link na mimi.
+Code-Switching & Multilingualism,Mwalimu wetu hutumia slides kwenye lecture.
+Formal & Professional Speech,Tafadhali jaza fomu hii na urudishe kesho.
+Formal & Professional Speech,"Kwa mujibu wa sheria, kila mtu ana haki ya elimu."
+Formal & Professional Speech,Ripoti yako imepokelewa na inashughulikiwa.
+Formal & Professional Speech,Utafiti huu unaonyesha ongezeko la matumizi ya teknolojia.
+Formal & Professional Speech,Tafadhali hakikisha unawasilisha ripoti kwa wakati.
+Formal & Professional Speech,Mkutano utaanza saa nne asubuhi kwa muda wa Afrika Mashariki.
+Formal & Professional Speech,Tungependa kukufahamisha kuhusu mabadiliko mapya ya sera.
+Formal & Professional Speech,"Katika kikao cha jana, tulijadili mikakati mipya ya kampuni."
+Formal & Professional Speech,Mteja ana haki ya kurejesha bidhaa ndani ya siku saba.
+Formal & Professional Speech,Madaktari wanapendekeza lishe bora kwa afya njema.
+"Idioms, Proverbs & Cultural Expressions",Samaki mkunje angali mbichi.
+"Idioms, Proverbs & Cultural Expressions",Mchovya asali hachovyi mara moja.
+"Idioms, Proverbs & Cultural Expressions",Fahari ya macho haifai njaa.
+"Idioms, Proverbs & Cultural Expressions",Nyumba ya jirani ni chungu kuliko yako.
+"Idioms, Proverbs & Cultural Expressions","Ahadi ni deni, kila mtu ajue."
+"Idioms, Proverbs & Cultural Expressions",Ng'ombe wa masikio mawili hasikii upande mmoja.
+"Idioms, Proverbs & Cultural Expressions",Haraka haraka haina baraka.
+"Idioms, Proverbs & Cultural Expressions",Asiyefunzwa na mamaye hufunzwa na ulimwengu.
+"Idioms, Proverbs & Cultural Expressions",Mwenye pupa hadiriki kula tamu.
+"Idioms, Proverbs & Cultural Expressions",Pole pole ndiyo mwendo.
+Question-Answer Pairs,"Je, unajua mahali hospitali ipo?"
+Question-Answer Pairs,"Ndiyo, hospitali iko barabara ya pili kulia."
+Question-Answer Pairs,Ni saa ngapi sasa?
+Question-Answer Pairs,Ni saa nne na dakika tano asubuhi.
+Question-Answer Pairs,Ninaweza kupata chai hapa?
+Question-Answer Pairs,"Ndiyo, tafadhali subiri kidogo."
+Question-Answer Pairs,Unafanya kazi gani?
+Question-Answer Pairs,Mimi ni mwalimu wa shule ya msingi.
+Question-Answer Pairs,"Je, hali ya hewa ikoje leo?"
+Question-Answer Pairs,Leo kuna jua kali na hali ya hewa ni nzuri.
+Commands & Instructions,Funga mlango tafadhali.
+Commands & Instructions,Tafadhali washa taa.
+Commands & Instructions,Andika jina lako juu ya karatasi.
+Commands & Instructions,Simama hapa na subiri kidogo.
+Commands & Instructions,Tafadhali usivunje sahani.
+Commands & Instructions,Fungua kitabu chako ukurasa wa kumi.
+Commands & Instructions,Tafadhali jaribu tena baada ya dakika tano.
+Commands & Instructions,Ongeza chumvi kidogo kwa chakula.
+Commands & Instructions,Punguza kelele tafadhali.
+Commands & Instructions,Njoo hapa mara moja.
+Named Entity Recognition (NER) Data,Rais wa Tanzania ni Samia Suluhu Hassan.
+Named Entity Recognition (NER) Data,Mto Nile unapita katika nchi nyingi za Afrika.
+Named Entity Recognition (NER) Data,Kampuni ya Google inajulikana duniani kote.
+Named Entity Recognition (NER) Data,Jiji la Nairobi ni mji mkuu wa Kenya.
+Named Entity Recognition (NER) Data,Michael Jordan alikuwa mchezaji maarufu wa mpira wa kikapu.
+Named Entity Recognition (NER) Data,Apple ilianzishwa na Steve Jobs.
+Named Entity Recognition (NER) Data,Serengeti ni mbuga maarufu ya wanyama Tanzania.
+Named Entity Recognition (NER) Data,Shule ya St. Mary's ipo Dar es Salaam.
+Named Entity Recognition (NER) Data,Eneo la Kilimanjaro lina mlima mrefu zaidi Afrika.
+Named Entity Recognition (NER) Data,Jina langu ni Amina na ninaishi Zanzibar.
+Sentiment Analysis Data,Nimefurahi sana leo!
+Sentiment Analysis Data,Siku yangu ilikuwa ya huzuni mno.
+Sentiment Analysis Data,Napenda sana kushinda muda na marafiki.
+Sentiment Analysis Data,Sijaridhika na huduma uliyotoa.
+Sentiment Analysis Data,Hii ni bidhaa bora niliyowahi kutumia!
+Sentiment Analysis Data,Nina wasiwasi kuhusu kesho.
+Sentiment Analysis Data,Najuta kufanya uamuzi huo.
+Sentiment Analysis Data,Kazi yako ni ya kushangaza!
+Sentiment Analysis Data,Ninafurahia huduma bora za kampuni hii.
+Sentiment Analysis Data,Nimechoka sana leo.
+Paraphrased & Augmented Sentences,Kesho nitapika chakula kitamu.
+Paraphrased & Augmented Sentences,Nitaandaa mlo mzuri kesho.
+Paraphrased & Augmented Sentences,Leo hali ya hewa ni baridi.
+Paraphrased & Augmented Sentences,Siku ya leo kuna upepo mkali.
+Paraphrased & Augmented Sentences,Ninakunywa chai asubuhi.
+Paraphrased & Augmented Sentences,Kila asubuhi ninakunywa kikombe cha chai.
+Paraphrased & Augmented Sentences,Unapenda kusoma vitabu gani?
+Paraphrased & Augmented Sentences,Vitabu vipi unavipenda kusoma?
+Paraphrased & Augmented Sentences,Simu yangu imeisha chaji.
+Paraphrased & Augmented Sentences,Betri ya simu yangu imeisha nguvu.

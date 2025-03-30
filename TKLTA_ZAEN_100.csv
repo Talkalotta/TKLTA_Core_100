@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,He had been working late before the meeting.
+Grammar Core,She will be arriving shortly.
+Grammar Core,I do not like eating spinach.
+Grammar Core,The project was completed on time.
+Grammar Core,"If he had studied, he would have passed."
+Grammar Core,We are going to the park later.
+Grammar Core,The report is being written by the intern.
+Grammar Core,She has never seen such a thing before.
+Grammar Core,Would you mind helping me?
+Grammar Core,They were laughing at the joke.
+Conversational Data,"Hey, howzit? Long time no see!"
+Conversational Data,Could you please pass the salt?
+Conversational Data,That was a lekker braai last night!
+Conversational Data,"I’m running a bit late, sorry!"
+Conversational Data,What time are we meeting up?
+Conversational Data,How’s your new job going?
+Conversational Data,I’m keen for a road trip this weekend.
+Conversational Data,"No worries, it happens!"
+Conversational Data,Let’s grab a coffee sometime soon.
+Conversational Data,"I really appreciate your help, thanks!"
+Code-Switching & Multilingualism,"Eish, the traffic was hectic this morning."
+Code-Switching & Multilingualism,"I’ll see you just now, need to finish this first."
+Code-Switching & Multilingualism,"That’s a real jol, man!"
+Code-Switching & Multilingualism,"The service at this place is so dodgy, hey?"
+Code-Switching & Multilingualism,"She’s so clever, she’s top of the class mos."
+Code-Switching & Multilingualism,I’m going to buy some biltong and then head home.
+Code-Switching & Multilingualism,"Ag, shame man, that’s really unfortunate."
+Code-Switching & Multilingualism,"Can you believe it, this guy just skipped the queue!"
+Code-Switching & Multilingualism,"I’ll call you later, né?"
+Code-Switching & Multilingualism,"Yoh, that was a crazy weekend!"
+Formal & Professional Speech,Please find the attached report for your review.
+Formal & Professional Speech,We appreciate your patience in this matter.
+Formal & Professional Speech,Kindly let us know if you require any further assistance.
+Formal & Professional Speech,The proposal has been submitted for approval.
+Formal & Professional Speech,"During the meeting, we discussed strategic objectives."
+Formal & Professional Speech,Your appointment is confirmed for 10 AM on Monday.
+Formal & Professional Speech,We regret to inform you that your application was unsuccessful.
+Formal & Professional Speech,The invoice must be settled within 30 days of receipt.
+Formal & Professional Speech,Our customer service team will get back to you shortly.
+Formal & Professional Speech,The legal department will review the contract.
+"Idioms, Proverbs & Cultural Expressions",Don’t put all your eggs in one basket.
+"Idioms, Proverbs & Cultural Expressions","When days are dark, friends are few."
+"Idioms, Proverbs & Cultural Expressions","It’s not my circus, not my monkeys."
+"Idioms, Proverbs & Cultural Expressions",The early bird catches the worm.
+"Idioms, Proverbs & Cultural Expressions",A boer maak ’n plan (A farmer makes a plan).
+"Idioms, Proverbs & Cultural Expressions",All that glitters is not gold.
+"Idioms, Proverbs & Cultural Expressions",Actions speak louder than words.
+"Idioms, Proverbs & Cultural Expressions",Give credit where credit is due.
+"Idioms, Proverbs & Cultural Expressions",The proof is in the pudding.
+"Idioms, Proverbs & Cultural Expressions",Every cloud has a silver lining.
+Question-Answer Pairs,"What is the capital of South Africa? – Pretoria, Bloemfontein, and Cape Town."
+Question-Answer Pairs,Who won the Rugby World Cup in 2019? – South Africa.
+Question-Answer Pairs,How do you say 'hello' in isiZulu? – Sawubona.
+Question-Answer Pairs,What is the national dish of South Africa? – Bobotie.
+Question-Answer Pairs,When was Nelson Mandela released from prison? – 1990.
+Question-Answer Pairs,How do you get to the airport from here? – Take the N2 highway.
+Question-Answer Pairs,What is the exchange rate for the Rand today? – Check with the bank for live rates.
+Question-Answer Pairs,What time does the store open? – At 9 AM.
+Question-Answer Pairs,What is the meaning of Ubuntu? – Humanity towards others.
+Question-Answer Pairs,How long is the Garden Route? – Around 300 km.
+Commands & Instructions,Please restart your computer.
+Commands & Instructions,Fill in this form before proceeding.
+Commands & Instructions,Take the second left after the traffic light.
+Commands & Instructions,Make sure to save your work before closing the document.
+Commands & Instructions,Insert your card and enter your PIN.
+Commands & Instructions,Keep your hands and feet inside the vehicle.
+Commands & Instructions,Update your software to the latest version.
+Commands & Instructions,Turn off the lights when you leave the room.
+Commands & Instructions,Follow the instructions carefully.
+Commands & Instructions,Click 'Submit' to complete the registration.
+Named Entity Recognition (NER) Data,"Nelson Mandela was born in Mvezo, South Africa."
+Named Entity Recognition (NER) Data,Table Mountain is a popular tourist attraction.
+Named Entity Recognition (NER) Data,The FIFA World Cup was hosted in South Africa in 2010.
+Named Entity Recognition (NER) Data,Cape Town International Airport is one of the busiest in Africa.
+Named Entity Recognition (NER) Data,"Elon Musk was born in Pretoria, South Africa."
+Named Entity Recognition (NER) Data,The Rand is the currency of South Africa.
+Named Entity Recognition (NER) Data,Johannesburg is the economic hub of the country.
+Named Entity Recognition (NER) Data,The Kruger National Park is home to the Big Five.
+Named Entity Recognition (NER) Data,Robben Island is where Nelson Mandela was imprisoned.
+Named Entity Recognition (NER) Data,"The Constitutional Court is in Braamfontein, Johannesburg."
+Sentiment Analysis Data,I absolutely love this new restaurant!
+Sentiment Analysis Data,"This service is terrible, I won’t come here again."
+Sentiment Analysis Data,"The movie was just okay, nothing special."
+Sentiment Analysis Data,I’m so excited for the long weekend!
+Sentiment Analysis Data,I feel really frustrated with the delay.
+Sentiment Analysis Data,That was the best holiday I’ve ever had.
+Sentiment Analysis Data,I’m feeling quite nervous about the interview.
+Sentiment Analysis Data,"The food was decent, but the service could be better."
+Sentiment Analysis Data,I really appreciate the kind gesture.
+Sentiment Analysis Data,I can’t stand the noise in this neighbourhood.
+Paraphrased & Augmented Sentences,She will arrive soon. -> She’s on her way and should be here shortly.
+Paraphrased & Augmented Sentences,That was a fantastic meal! -> I really enjoyed that delicious dinner.
+Paraphrased & Augmented Sentences,The store is closed today. -> The shop isn’t open at the moment.
+Paraphrased & Augmented Sentences,I don’t feel well. -> I’m feeling under the weather.
+Paraphrased & Augmented Sentences,Could you help me? -> Would you mind assisting me?
+Paraphrased & Augmented Sentences,This place is so peaceful. -> It’s really quiet and relaxing here.
+Paraphrased & Augmented Sentences,We need to leave now. -> It’s time for us to head out.
+Paraphrased & Augmented Sentences,The weather is hot today. -> It’s really warm outside.
+Paraphrased & Augmented Sentences,She did an excellent job. -> Her work was outstanding.
+Paraphrased & Augmented Sentences,That’s a great idea! -> I think that’s a brilliant suggestion.

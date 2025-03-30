@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Ah've been waitin' here since mornin'.
+Grammar Core,She'll no be comin' tae the party.
+Grammar Core,"If he'd known, he wouldnae have gone."
+Grammar Core,The house wis built in the 18th century.
+Grammar Core,They were playin' fitba when I arrived.
+Grammar Core,Dinnae touch that! It's hot.
+Grammar Core,"By next year, he'll have finished his studies."
+Grammar Core,Ye shouldnae be runnin' in the corridors.
+Grammar Core,The book must've been left oan the table.
+Grammar Core,Had ye seen the film afore?
+Conversational Data,Whit ye up tae the noo?
+Conversational Data,"Aye, I'll be there in a wee bit."
+Conversational Data,D'ye fancy grabbin' a pint later?
+Conversational Data,Naebody told me aboot the meetin'.
+Conversational Data,Huv ye seen ma keys?
+Conversational Data,"It’s a pure dreich day the day, eh?"
+Conversational Data,A’m just back fae the shops.
+Conversational Data,"I telt ye already, ye never listen!"
+Conversational Data,"Ye ken whit I mean, aye?"
+Conversational Data,"Oh, that wis a right guid laugh!"
+Code-Switching & Multilingualism,"That’s pure braw, pero no entiendo lo que dices."
+Code-Switching & Multilingualism,She wis chattin' away in French n' that.
+Code-Switching & Multilingualism,Dinnae forget yer rendezvous at 3pm.
+Code-Switching & Multilingualism,"Aye, mate, c'est la vie, ken?"
+Code-Switching & Multilingualism,"It’s no my cuppa tea, aber ich mag es."
+Code-Switching & Multilingualism,"Ye speak Spanish? Si, un poco!"
+Code-Switching & Multilingualism,"Ach, mon ami, let’s get goin'."
+Code-Switching & Multilingualism,"Dinnae be daft, das ist nicht gut."
+Code-Switching & Multilingualism,"Ye’d love it, c’est magnifique!"
+Code-Switching & Multilingualism,"Let's hae a blether later, ¿vale?"
+Formal & Professional Speech,Thank ye for attendin' the meetin' the day.
+Formal & Professional Speech,Could ye kindly confirm receipt o' this email?
+Formal & Professional Speech,"As per company policy, all requests must be submitted in writin'."
+Formal & Professional Speech,The medical report indicates a full recovery.
+Formal & Professional Speech,We appreciate yer patience while we process yer request.
+Formal & Professional Speech,This contract is legally bindin' upon signature.
+Formal & Professional Speech,"In accordance wi' regulations, PPE must be worn at all times."
+Formal & Professional Speech,Yer application has been approved for the next stage.
+Formal & Professional Speech,Further clarification can be provided upon request.
+Formal & Professional Speech,The financial projections indicate sustained growth.
+"Idioms, Proverbs & Cultural Expressions",He's aff his heid if he thinks that’ll work!
+"Idioms, Proverbs & Cultural Expressions",Dinnae cry ower spilt milk.
+"Idioms, Proverbs & Cultural Expressions",Wee bairns should be seen an' no heard.
+"Idioms, Proverbs & Cultural Expressions",It’s a long road that’s no got a turn.
+"Idioms, Proverbs & Cultural Expressions",Many a mickle maks a muckle.
+"Idioms, Proverbs & Cultural Expressions",She’s got a face like a weel skelped erse.
+"Idioms, Proverbs & Cultural Expressions",Yer no as green as ye're cabbage lookin'.
+"Idioms, Proverbs & Cultural Expressions","That’s no my circus, no my monkeys."
+"Idioms, Proverbs & Cultural Expressions","If ye want the rainbow, ye must put up wi' the rain."
+"Idioms, Proverbs & Cultural Expressions",He's tryin' to run afore he can walk.
+Question-Answer Pairs,Whit time's the bus comin'? - It should be here at half three.
+Question-Answer Pairs,"D'ye ken where the shop is? - Aye, just doon the road."
+Question-Answer Pairs,"Is it gonnae rain the day? - Aye, best bring a brolly."
+Question-Answer Pairs,Whit dae ye fancy for tea? - How aboot fish n' chips?
+Question-Answer Pairs,"Huv ye seen ma phone? - Aye, it's on the couch."
+Question-Answer Pairs,How d'ye say 'hello' in Gaelic? - 'Halò'!
+Question-Answer Pairs,"Is that shop still open? - Nah, it shut at six."
+Question-Answer Pairs,Why d'ye look so chuffed? - A passed ma test!
+Question-Answer Pairs,"Can ye help me wi' this? - Of course, nae bother."
+Question-Answer Pairs,Whit team d'ye support? - The mighty Hibs!
+Commands & Instructions,Dinnae forget tae lock the door.
+Commands & Instructions,Gie it here!
+Commands & Instructions,Mind an' feed the dug afore ye go.
+Commands & Instructions,Come awa in and hae a seat.
+Commands & Instructions,"Pit that doon, it’s breakable!"
+Commands & Instructions,"Hurry up, we’re runnin' late."
+Commands & Instructions,"Turn the telly aff, it's bedtime."
+Commands & Instructions,Dae yer homework afore ye play.
+Commands & Instructions,"Pass the salt, would ye?"
+Commands & Instructions,"Keep the heid, it'll be fine."
+Named Entity Recognition,Edinburgh Castle is a bonnie sight.
+Named Entity Recognition,Robert Burns is Scotland’s most famous poet.
+Named Entity Recognition,The Forth Bridge is a marvel o' engineerin'.
+Named Entity Recognition,Nicola Sturgeon used tae be First Minister.
+Named Entity Recognition,Hogmanay celebrations in Scotland are legendary.
+Named Entity Recognition,Loch Ness is famous for its mythical monster.
+Named Entity Recognition,Celtic Park is hame to one o' Scotland’s top teams.
+Named Entity Recognition,St Andrews is the birthplace o' golf.
+Named Entity Recognition,The Royal Mile is packed wi' history.
+Named Entity Recognition,Burns Night is celebrated every January.
+Sentiment Analysis Data,Ah’m pure delighted wi' ma new job!
+Sentiment Analysis Data,"This weather is just dreich, so depressing."
+Sentiment Analysis Data,That film wis absolutely fantastic!
+Sentiment Analysis Data,I cannae stand rude folk.
+Sentiment Analysis Data,She’s over the moon wi' her results.
+Sentiment Analysis Data,This coffee is rank rotten!
+Sentiment Analysis Data,"What a beautiful sunset, so peaceful."
+Sentiment Analysis Data,He was fair scunnered wi' the service.
+Sentiment Analysis Data,The concert wis mind-blowin'!
+Sentiment Analysis Data,"It’s been a tough day, am shattered."
+Paraphrased & Augmented Sentences,Am pure knackered. -> Am absolutely shattered.
+Paraphrased & Augmented Sentences,That meal wis braw. -> That wis some guid scran.
+Paraphrased & Augmented Sentences,Ye did a great job. -> Ye fair knocked it oot the park.
+Paraphrased & Augmented Sentences,It’s baltic the day. -> It’s freezin’ oot there.
+Paraphrased & Augmented Sentences,He’s havin’ a laugh. -> He’s no bein’ serious.
+Paraphrased & Augmented Sentences,Let’s hae a cuppa. -> Fancy a brew?
+Paraphrased & Augmented Sentences,The shop’s shut. -> It’s closed up for the night.
+Paraphrased & Augmented Sentences,She’s awfy kind. -> She’s a proper guid soul.
+Paraphrased & Augmented Sentences,It’s no my fault. -> Dinnae pin that oan me.
+Paraphrased & Augmented Sentences,See ye later! -> Catch ye the morn!

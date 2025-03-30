@@ -1,0 +1,101 @@
+Category,Malay_Sentence
+Grammar Core,Saya makan nasi setiap hari.
+Grammar Core,Dia sedang membaca buku di perpustakaan.
+Grammar Core,Kami akan pergi ke pantai esok.
+Grammar Core,Mereka telah selesai bekerja.
+Grammar Core,"Jika saya ada masa, saya akan datang."
+Grammar Core,Dia tidak suka makan pedas.
+Grammar Core,Surat itu ditulis oleh guru.
+Grammar Core,Kami belajar bahasa Melayu sejak tahun lalu.
+Grammar Core,Adakah awak sudah makan tengah hari?
+Grammar Core,Anak itu sedang bermain di taman.
+Conversational Data,Hai! Apa khabar?
+Conversational Data,"Saya sihat, terima kasih. Awak pula?"
+Conversational Data,Nak pergi minum kopi petang ni?
+Conversational Data,Boleh juga. Kat mana nak jumpa?
+Conversational Data,Jom jumpa kat kafe depan sekolah pukul lima.
+Conversational Data,"Okay, saya akan sampai awal sikit."
+Conversational Data,"Eh, semalam tengok wayang tak?"
+Conversational Data,Tengok! Best gila cerita tu!
+Conversational Data,"Nanti kita lepak hujung minggu ni, nak?"
+Conversational Data,Confirm! Saya free hari Sabtu.
+Code-Switching & Multilingualism,"Saya nak pergi ke mall kejap, lepas tu balik."
+Code-Switching & Multilingualism,Dia always forget homework dia.
+Code-Switching & Multilingualism,Can you tolong saya kejap?
+Code-Switching & Multilingualism,Boss suruh submit report before lunch.
+Code-Switching & Multilingualism,Tadi meeting semua cakap pasal budget.
+Code-Switching & Multilingualism,"Kita buat brainstorming session next week, ok?"
+Code-Switching & Multilingualism,"Lunch tadi best, dia bawa nasi lemak homemade."
+Code-Switching & Multilingualism,"Sorry, I tak dengar apa you cakap tadi."
+Code-Switching & Multilingualism,Esok ada kelas English and Science.
+Code-Switching & Multilingualism,Jangan lupa pakai uniform for sports day esok.
+Formal & Professional Speech,Mesyuarat akan bermula tepat pada pukul sembilan pagi.
+Formal & Professional Speech,Sila pastikan semua dokumen telah ditandatangani.
+Formal & Professional Speech,Pesakit perlu mengambil ubat ini setiap lapan jam.
+Formal & Professional Speech,Laporan kewangan suku ketiga telah dihantar kepada pengarah.
+Formal & Professional Speech,Kami menghargai kerjasama anda dalam perkara ini.
+Formal & Professional Speech,Pihak hospital akan menghubungi anda untuk janji temu seterusnya.
+Formal & Professional Speech,Sila rujuk kepada manual pengguna untuk arahan lanjut.
+Formal & Professional Speech,Kami memohon maaf atas sebarang kesulitan yang berlaku.
+Formal & Professional Speech,Sebarang pertanyaan boleh dihantar melalui emel rasmi syarikat.
+Formal & Professional Speech,Pelan tindakan ini dirangka untuk meningkatkan keberkesanan operasi.
+"Idioms, Proverbs & Cultural Expressions",Bagai aur dengan tebing.
+"Idioms, Proverbs & Cultural Expressions","Harapkan pagar, pagar makan padi."
+"Idioms, Proverbs & Cultural Expressions",Seperti kacang lupakan kulit.
+"Idioms, Proverbs & Cultural Expressions",Air dicincang tak akan putus.
+"Idioms, Proverbs & Cultural Expressions","Berat sama dipikul, ringan sama dijinjing."
+"Idioms, Proverbs & Cultural Expressions",Tak kenal maka tak cinta.
+"Idioms, Proverbs & Cultural Expressions",Diam-diam ubi berisi.
+"Idioms, Proverbs & Cultural Expressions","Sepandai-pandai tupai melompat, akhirnya jatuh ke tanah juga."
+"Idioms, Proverbs & Cultural Expressions",Mencurah air ke daun keladi.
+"Idioms, Proverbs & Cultural Expressions",Sudah terang lagi bersuluh.
+Question-Answer Pairs,Apakah nama ibu negara Malaysia? - Kuala Lumpur.
+Question-Answer Pairs,Bila Hari Merdeka disambut? - 31 Ogos.
+Question-Answer Pairs,Siapa Perdana Menteri Malaysia sekarang? - (Isi jawapan semasa)
+Question-Answer Pairs,Di mana letaknya Gunung Kinabalu? - Sabah.
+Question-Answer Pairs,Apa maksud 'integriti'? - Bersikap jujur dan berpegang pada prinsip.
+Question-Answer Pairs,Kenapa penting untuk belajar sejarah? - Supaya kita faham asal-usul dan identiti.
+Question-Answer Pairs,Apakah makanan tradisional Melayu? - Nasi lemak.
+Question-Answer Pairs,Siapa yang menulis buku itu? - Cikgu Azman.
+Question-Answer Pairs,"Bolehkah saya masuk sekarang? - Ya, silakan."
+Question-Answer Pairs,Berapa harga tiket bas ke Johor? - RM35.
+Commands & Instructions,Sila duduk.
+Commands & Instructions,Tolong tutup pintu.
+Commands & Instructions,Jangan lupa bawa buku matematik esok.
+Commands & Instructions,Isi borang ini dengan lengkap.
+Commands & Instructions,Sila beratur dengan tertib.
+Commands & Instructions,Baca soalan dahulu sebelum menjawab.
+Commands & Instructions,Letakkan kasut di rak yang disediakan.
+Commands & Instructions,Jangan bermain di dalam kelas.
+Commands & Instructions,Tolong diam ketika guru sedang bercakap.
+Commands & Instructions,Ambil ubat ini selepas makan.
+Named Entity Recognition (NER) Data,Ali tinggal di Shah Alam.
+Named Entity Recognition (NER) Data,Proton ditubuhkan pada tahun 1983.
+Named Entity Recognition (NER) Data,Saya akan bercuti pada 12 April.
+Named Entity Recognition (NER) Data,Universiti Malaya adalah institusi tertua di Malaysia.
+Named Entity Recognition (NER) Data,Tun Dr. Mahathir ialah bekas Perdana Menteri.
+Named Entity Recognition (NER) Data,Google ialah syarikat teknologi terkenal.
+Named Entity Recognition (NER) Data,KLIA terletak di Sepang.
+Named Entity Recognition (NER) Data,Pilihan raya akan diadakan pada bulan November.
+Named Entity Recognition (NER) Data,Cikgu Norlina mengajar di Sekolah Menengah Seri Indah.
+Named Entity Recognition (NER) Data,Malaysia Airlines menyediakan penerbangan antarabangsa.
+Sentiment Analysis Data,Saya sangat gembira dengan keputusan peperiksaan saya!
+Sentiment Analysis Data,Makanan di restoran itu sangat sedap.
+Sentiment Analysis Data,Saya kecewa dengan layanan pelanggan di sana.
+Sentiment Analysis Data,Hari ini cuaca sungguh menyenangkan.
+Sentiment Analysis Data,Saya benci menunggu terlalu lama.
+Sentiment Analysis Data,Persembahan itu sangat mengagumkan.
+Sentiment Analysis Data,Saya rasa sedih kerana tidak dapat hadir.
+Sentiment Analysis Data,Dia begitu marah sehingga menjerit.
+Sentiment Analysis Data,Saya neutral tentang cadangan itu.
+Sentiment Analysis Data,Saya berasa bangga menjadi rakyat Malaysia.
+Paraphrased & Augmented Sentences,Dia membaca buku di ruang tamu.
+Paraphrased & Augmented Sentences,"Di ruang tamu, dia sedang membaca buku."
+Paraphrased & Augmented Sentences,Buku itu dibaca olehnya di ruang tamu.
+Paraphrased & Augmented Sentences,Dia sedang menelaah buku di ruang tamu.
+Paraphrased & Augmented Sentences,Dia tengah baca buku kat ruang tamu.
+Paraphrased & Augmented Sentences,Dia berada di ruang tamu sambil membaca buku.
+Paraphrased & Augmented Sentences,"Sedang membaca buku, dia duduk di ruang tamu."
+Paraphrased & Augmented Sentences,Ruang tamu menjadi tempat dia membaca buku.
+Paraphrased & Augmented Sentences,"Sambil duduk di ruang tamu, dia membaca buku."
+Paraphrased & Augmented Sentences,Aktiviti dia di ruang tamu adalah membaca buku.

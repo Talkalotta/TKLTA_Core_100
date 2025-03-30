@@ -1,0 +1,101 @@
+Category,Sentence_Ukrainian
+Grammar Core,"Вона читала книгу, коли задзвонив телефон."
+Grammar Core,Завтра ми підемо на прогулянку в парк.
+Grammar Core,"Якби ти вивчив цей матеріал, ти б склав іспит."
+Grammar Core,Цей лист було надіслано ще вчора.
+Grammar Core,Чи бачив ти коли-небудь таку гарну будівлю?
+Grammar Core,"Я не думаю, що він прийде сьогодні."
+Grammar Core,Вони обговорювали новий проєкт весь день.
+Grammar Core,Він повинен був залишитися вдома через дощ.
+Grammar Core,Цей міст був побудований у 18 столітті.
+Grammar Core,"Вчора ми б пішли на концерт, якби не злива."
+Conversational Data,Привіт! Як справи?
+Conversational Data,"Привіт, добре, а в тебе?"
+Conversational Data,Можеш допомогти мені з домашнім завданням?
+Conversational Data,"Так, звичайно, що саме тобі не зрозуміло?"
+Conversational Data,"Я хочу замовити каву з молоком, будь ласка."
+Conversational Data,Чудовий вибір! Вам великий чи маленький?
+Conversational Data,Де знаходиться найближча аптека?
+Conversational Data,Вона розташована через дорогу біля супермаркету.
+Conversational Data,Чи буде завтра дощ?
+Conversational Data,"За прогнозом, день буде сонячним!"
+Code-Switching & Multilingualism,"Я хочу купити new laptop, бо мій старий зламався."
+Code-Switching & Multilingualism,Вона вчить English кожного дня.
+Code-Switching & Multilingualism,Ми booked квитки на концерт на суботу.
+Code-Switching & Multilingualism,Цей ресторан має дуже tasty меню.
+Code-Switching & Multilingualism,Can you help мені з цим питанням?
+Code-Switching & Multilingualism,"Я думаю, що це буде great opportunity для нас."
+Code-Switching & Multilingualism,Його новий проєкт looks very promising.
+Code-Switching & Multilingualism,Що ти думаєш про цей film?
+Code-Switching & Multilingualism,Я люблю українську та французьку music.
+Code-Switching & Multilingualism,Ця ідея sounds interesting!
+Formal & Professional Speech,"Шановні колеги, просимо вас підписати цей документ."
+Formal & Professional Speech,На порядку денному сьогодні обговорення бюджету.
+Formal & Professional Speech,"Докторе, які будуть ваші рекомендації щодо лікування?"
+Formal & Professional Speech,Юридична консультація буде доступна з 9:00 до 18:00.
+Formal & Professional Speech,Цей проєкт відповідає всім технічним стандартам.
+Formal & Professional Speech,Чи можу я отримати копію цього договору?
+Formal & Professional Speech,"Згідно з інструкцією, ми повинні перевірити всі документи."
+Formal & Professional Speech,Просимо дотримуватись усіх вимог безпеки.
+Formal & Professional Speech,Засідання відбудеться в головному офісі компанії.
+Formal & Professional Speech,Ми цінуємо вашу співпрацю та дякуємо за увагу.
+"Idioms, Proverbs & Cultural Expressions","Не все те золото, що блищить."
+"Idioms, Proverbs & Cultural Expressions","Краще синиця в руці, ніж журавель у небі."
+"Idioms, Proverbs & Cultural Expressions","Хто рано встає, тому Бог дає."
+"Idioms, Proverbs & Cultural Expressions","Де тонко, там і рветься."
+"Idioms, Proverbs & Cultural Expressions",Риба гниє з голови.
+"Idioms, Proverbs & Cultural Expressions",Без труда нема плода.
+"Idioms, Proverbs & Cultural Expressions",На злодієві шапка горить.
+"Idioms, Proverbs & Cultural Expressions",Дружба дорожча за золото.
+"Idioms, Proverbs & Cultural Expressions","Не кажи гоп, поки не перескочиш."
+"Idioms, Proverbs & Cultural Expressions","Що посієш, те й пожнеш."
+Question-Answer Pairs,Який сьогодні день? - Сьогодні п’ятниця.
+Question-Answer Pairs,Де ти був вчора? - Я ходив у кіно.
+Question-Answer Pairs,Що ти робиш зараз? - Читаю цікаву книгу.
+Question-Answer Pairs,Коли починається фільм? - О восьмій годині.
+Question-Answer Pairs,Скільки коштує цей товар? - 250 гривень.
+Question-Answer Pairs,Як пройти до вокзалу? - Прямо і направо за рогом.
+Question-Answer Pairs,Хто твій улюблений письменник? - Тарас Шевченко.
+Question-Answer Pairs,Чому ти сумний? - Бо я загубив телефон.
+Question-Answer Pairs,Що ти хочеш на вечерю? - Може піцу?
+Question-Answer Pairs,Яка твоя улюблена пора року? - Осінь.
+Commands & Instructions,"Закрий вікно, будь ласка."
+Commands & Instructions,Поверни книгу у бібліотеку до п’ятниці.
+Commands & Instructions,"Будь ласка, заповніть цю анкету."
+Commands & Instructions,Вимкни світло перед виходом.
+Commands & Instructions,"Будь ласка, говоріть тихіше."
+Commands & Instructions,"Зачекайте тут, ми вас покличемо."
+Commands & Instructions,Відкрийте файл і перевірте інформацію.
+Commands & Instructions,"Будь ласка, надіньте маску у приміщенні."
+Commands & Instructions,"Натисніть кнопку, щоб розпочати процес."
+Commands & Instructions,Збережіть документ перед виходом.
+Named Entity Recognition,Київ — столиця України.
+Named Entity Recognition,Леся Українка була видатною письменницею.
+Named Entity Recognition,Олімпійські ігри відбудуться у Парижі.
+Named Entity Recognition,Google – одна з найбільших IT-компаній.
+Named Entity Recognition,Українська гривня – національна валюта України.
+Named Entity Recognition,Тарас Шевченко народився у 1814 році.
+Named Entity Recognition,Європейський Союз включає 27 країн.
+Named Entity Recognition,Amazon – один із найбільших онлайн-магазинів.
+Named Entity Recognition,Найвища гора України – Говерла.
+Named Entity Recognition,Microsoft випустила нову операційну систему.
+Sentiment Analysis Data,"Це найкращий фільм, який я коли-небудь бачив!"
+Sentiment Analysis Data,Я дуже розчарований якістю цього товару.
+Sentiment Analysis Data,Цей ресторан пропонує чудове обслуговування!
+Sentiment Analysis Data,Я зовсім не очікував такого поганого результату.
+Sentiment Analysis Data,"Мені дуже подобається ця книга, вона надихає."
+Sentiment Analysis Data,Це було найгірше обслуговування у моєму житті!
+Sentiment Analysis Data,"Я відчуваю щастя, коли слухаю цю музику."
+Sentiment Analysis Data,"Який жахливий день, все пішло не так!"
+Sentiment Analysis Data,"Я неймовірно радий, що виграв цей конкурс!"
+Sentiment Analysis Data,Ця гра залишила в мене змішані почуття.
+Paraphrased & Augmented Sentences,Я купив новий телефон. -> Я придбав собі новий смартфон.
+Paraphrased & Augmented Sentences,Вона готує вечерю. -> Вона зараз займається приготуванням їжі.
+Paraphrased & Augmented Sentences,Це цікава книга. -> Ця книга мене захопила!
+Paraphrased & Augmented Sentences,"Дивись під ноги! -> Будь обережний, куди ступаєш!"
+Paraphrased & Augmented Sentences,Вчора ми були в кіно. -> Ми відвідали кінотеатр вчора.
+Paraphrased & Augmented Sentences,Я не впевнений. -> Я сумніваюся в цьому.
+Paraphrased & Augmented Sentences,Давай зустрінемось о третій. -> Побачимось о третій годині.
+Paraphrased & Augmented Sentences,Вона швидко біжить. -> Вона мчить на великій швидкості.
+Paraphrased & Augmented Sentences,Ця проблема складна. -> Це завдання досить непросте.
+Paraphrased & Augmented Sentences,Я згоден з тобою. -> Повністю підтримую твою думку.

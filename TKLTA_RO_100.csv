@@ -1,0 +1,101 @@
+Category,Sentence (Romanian)
+Grammar Core,Eu citesc o carte în fiecare seară.
+Grammar Core,Mâine voi merge la cumpărături.
+Grammar Core,"Dacă aș avea timp, aș învăța o limbă nouă."
+Grammar Core,Copiii au fost duși la școală de părinți.
+Grammar Core,Nu am fost niciodată într-o țară exotică.
+Grammar Core,"Până la sfârșitul anului, voi fi terminat proiectul."
+Grammar Core,Să nu uiți să-ți faci temele!
+Grammar Core,Ai fi plecat în vacanță dacă ai fi avut bani?
+Grammar Core,Cartea fusese citită înainte de a fi returnată.
+Grammar Core,"Dacă plouă, nu ieșim afară."
+Conversational Data,Bună! Cum a fost ziua ta?
+Conversational Data,"Hei, ai văzut filmul acela nou?"
+Conversational Data,"Da, mi-a plăcut foarte mult!"
+Conversational Data,Te-ai gândit unde mergem în vacanță?
+Conversational Data,"Poate la munte, ce zici?"
+Conversational Data,"Scuză-mă, ai putea să-mi împrumuți un stilou?"
+Conversational Data,"Sigur, cu plăcere!"
+Conversational Data,Ne vedem mai târziu?
+Conversational Data,"Da, sună-mă când termini treaba."
+Conversational Data,Mulțumesc! O zi bună!
+Code-Switching & Multilingualism,Am fost la meeting azi și am discutat despre deadline.
+Code-Switching & Multilingualism,Tu ai update-uri pentru project?
+Code-Switching & Multilingualism,Weekend-ul ăsta vreau să fac binge-watching la serial.
+Code-Switching & Multilingualism,Nu uita să dai submit la document.
+Code-Switching & Multilingualism,Suntem on track cu task-urile.
+Code-Switching & Multilingualism,Trebuie să avem un call cu team-ul.
+Code-Switching & Multilingualism,"Ok, hai să facem un brainstorming rapid."
+Code-Switching & Multilingualism,Mi-a plăcut vibe-ul petrecerii de aseară.
+Code-Switching & Multilingualism,Cine face follow-up după meeting?
+Code-Switching & Multilingualism,Mergem la mall după office?
+Formal & Professional Speech,Vă mulțumim pentru participarea la conferință.
+Formal & Professional Speech,În anexă regăsiți toate detaliile necesare.
+Formal & Professional Speech,Contractul va fi analizat și aprobat de conducere.
+Formal & Professional Speech,Vă rugăm să trimiteți documentele până mâine.
+Formal & Professional Speech,"Pentru informații suplimentare, contactați departamentul nostru."
+Formal & Professional Speech,Ne cerem scuze pentru eventualele inconveniente.
+Formal & Professional Speech,Această ofertă este valabilă până la sfârșitul lunii.
+Formal & Professional Speech,"În conformitate cu reglementările în vigoare, trebuie să respectăm termenele."
+Formal & Professional Speech,Am atașat raportul cerut la email.
+Formal & Professional Speech,Apreciem colaborarea dumneavoastră.
+"Idioms, Proverbs & Cultural Expressions",Nu da vrabia din mână pe cioara de pe gard.
+"Idioms, Proverbs & Cultural Expressions",Unde dai și unde crapă.
+"Idioms, Proverbs & Cultural Expressions","Apa trece, pietrele rămân."
+"Idioms, Proverbs & Cultural Expressions","Nu-i pentru cine se pregătește, ci pentru cine se nimerește."
+"Idioms, Proverbs & Cultural Expressions","Cine se scoală de dimineață, departe ajunge."
+"Idioms, Proverbs & Cultural Expressions","Lupul își schimbă părul, dar năravul ba."
+"Idioms, Proverbs & Cultural Expressions",Bate fierul cât e cald.
+"Idioms, Proverbs & Cultural Expressions","Ce ție nu-ți place, altuia nu-i face."
+"Idioms, Proverbs & Cultural Expressions",Mai bine mai târziu decât niciodată.
+"Idioms, Proverbs & Cultural Expressions","Înainte să judeci pe cineva, mergi un kilometru în pantofii lui."
+Question-Answer Pairs,Care este capitala României? - București.
+Question-Answer Pairs,Ce zi este astăzi? - Este luni.
+Question-Answer Pairs,Cum te numești? - Mă numesc Andrei.
+Question-Answer Pairs,Unde se află cel mai apropiat spital? - Pe strada principală.
+Question-Answer Pairs,Câți ani ai? - Am 25 de ani.
+Question-Answer Pairs,De ce plouă astăzi? - Datorită unui front atmosferic rece.
+Question-Answer Pairs,Cine este președintele României? - Klaus Iohannis.
+Question-Answer Pairs,Când pleacă trenul spre Cluj? - La ora 17:00.
+Question-Answer Pairs,"Care sunt culorile drapelului românesc? - Albastru, galben, roșu."
+Question-Answer Pairs,Ce limbă se vorbește în Franța? - Franceză.
+Commands & Instructions,"Închide ușa, te rog!"
+Commands & Instructions,Spală-te pe mâini înainte de masă.
+Commands & Instructions,Nu uita să îți faci temele.
+Commands & Instructions,Descarcă aplicația de pe site-ul oficial.
+Commands & Instructions,Te rog să-mi aduci un pahar cu apă.
+Commands & Instructions,Urmăriți indicațiile instructorului.
+Commands & Instructions,Completați toate câmpurile obligatorii.
+Commands & Instructions,"Stați liniștiți, totul este sub control."
+Commands & Instructions,Nu depășiți viteza legală!
+Commands & Instructions,Respectați regulile de siguranță!
+Named Entity Recognition (NER) Data,Mihai Eminescu este cel mai mare poet român.
+Named Entity Recognition (NER) Data,București este capitala României.
+Named Entity Recognition (NER) Data,Google este o companie de tehnologie.
+Named Entity Recognition (NER) Data,Dacia este un brand de mașini românesc.
+Named Entity Recognition (NER) Data,Amazon a lansat un nou produs ieri.
+Named Entity Recognition (NER) Data,Ion Creangă a scris 'Amintiri din copilărie'.
+Named Entity Recognition (NER) Data,Pe 1 Decembrie este Ziua Națională a României.
+Named Entity Recognition (NER) Data,Paris este un oraș faimos pentru turism.
+Named Entity Recognition (NER) Data,NASA a anunțat o nouă misiune spațială.
+Named Entity Recognition (NER) Data,Microsoft dezvoltă noi tehnologii AI.
+Sentiment Analysis Data,Sunt extrem de fericit astăzi!
+Sentiment Analysis Data,"Acest film a fost groaznic, nu mi-a plăcut deloc."
+Sentiment Analysis Data,Mă simt foarte trist și singur.
+Sentiment Analysis Data,Experiența de la acest restaurant a fost uimitoare!
+Sentiment Analysis Data,Serviciul clienți este dezastruos.
+Sentiment Analysis Data,Mă simt recunoscător pentru tot ce am.
+Sentiment Analysis Data,Nu suport să stau în trafic.
+Sentiment Analysis Data,Iubesc această melodie!
+Sentiment Analysis Data,M-am enervat foarte tare astăzi.
+Sentiment Analysis Data,Este cea mai frumoasă zi din viața mea!
+Paraphrased & Augmented Sentences,Citesc o carte în fiecare seară pentru relaxare.
+Paraphrased & Augmented Sentences,Mâine am de gând să merg la cumpărături.
+Paraphrased & Augmented Sentences,"Dacă aveam mai mult timp, învățam o limbă nouă."
+Paraphrased & Augmented Sentences,Copiii au fost duși de părinți la școală dimineața.
+Paraphrased & Augmented Sentences,Niciodată nu am vizitat o țară exotică.
+Paraphrased & Augmented Sentences,"Până la finalul anului, voi fi terminat lucrarea mea."
+Paraphrased & Augmented Sentences,Nu uita să îți faci temele la timp!
+Paraphrased & Augmented Sentences,"Dacă ai fi avut bani, ai fi plecat în vacanță?"
+Paraphrased & Augmented Sentences,Cartea fusese deja citită înainte să fie returnată.
+Paraphrased & Augmented Sentences,"Dacă afară plouă, atunci rămânem în casă."

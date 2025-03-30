@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Mañana viajaré a El Salvador para visitar a mi familia.
+Grammar Core,"Si hubiera sabido que llovería, habría llevado un paraguas."
+Grammar Core,Los documentos fueron entregados a tiempo por el mensajero.
+Grammar Core,No creo que él haya entendido la explicación completamente.
+Grammar Core,"Cuando era niño, solía jugar en la plaza con mis amigos."
+Grammar Core,El proyecto será completado el próximo mes si todo sale bien.
+Grammar Core,"Aunque tenga miedo, enfrentaré el desafío con valentía."
+Grammar Core,Ayer estaba estudiando cuando recibí una llamada importante.
+Grammar Core,"Si estudias más, tendrás mejores oportunidades en el futuro."
+Grammar Core,No hagas ruido mientras los niños están durmiendo.
+Conversational Data,"¿Qué onda, cómo te ha ido en el trabajo?"
+Conversational Data,"Hey, fíjate que ayer vi a tu hermano en el centro comercial."
+Conversational Data,"Vos sabés que aquí siempre podés contar conmigo, ¿verdad?"
+Conversational Data,"Hola, quisiera una pupusa de queso con loroco, por favor."
+Conversational Data,"Me das un cafecito para llevar, sin azúcar, porfa."
+Conversational Data,"Mirá, la cosa es que necesito un favor, ¿me ayudás?"
+Conversational Data,¿Te parece si nos juntamos en el parque a las cinco?
+Conversational Data,"No hombre, no te preocupés, yo me encargo de eso."
+Conversational Data,"Va pues, nos vemos más tarde en la casa de Luis."
+Conversational Data,"Púchica, qué calor está haciendo hoy, ¿verdad?"
+Code-Switching & Multilingualism,"Ey bro, ¿ya viste la nueva movie que salió?"
+Code-Switching & Multilingualism,"Ahorita vengo, solo voy a comprar un coffee rápido."
+Code-Switching & Multilingualism,"No sé, maybe deberíamos esperar a que llegue Luis."
+Code-Switching & Multilingualism,"Estoy full ocupado con el trabajo, pero mañana hablamos."
+Code-Switching & Multilingualism,Le dije a mi jefe que el meeting sería a las 10.
+Code-Switching & Multilingualism,"Me siento super tired, hoy no dormí bien."
+Code-Switching & Multilingualism,"Chele, vámonos a comer algo fast porque tengo prisa."
+Code-Switching & Multilingualism,"Esa chera es bien nice, siempre ayuda a los demás."
+Code-Switching & Multilingualism,Voy a chequear mi email y te aviso.
+Code-Switching & Multilingualism,"Tuve un deadline super tight, pero ya lo terminé."
+Formal & Professional Speech,"Estimado cliente, su solicitud ha sido procesada exitosamente."
+Formal & Professional Speech,"En referencia a su correo, le informamos que su pedido está en camino."
+Formal & Professional Speech,El informe financiero del trimestre será presentado mañana en la junta.
+Formal & Professional Speech,Agradecemos su paciencia mientras resolvemos su inconveniente.
+Formal & Professional Speech,"Por favor, complete el formulario adjunto para proceder con su solicitud."
+Formal & Professional Speech,La empresa garantiza la calidad y seguridad de nuestros productos.
+Formal & Professional Speech,"Según las normas establecidas, debemos seguir este procedimiento."
+Formal & Professional Speech,El contrato debe ser firmado antes de la fecha límite indicada.
+Formal & Professional Speech,Se requiere confirmación de asistencia para el evento corporativo.
+Formal & Professional Speech,Nos gustaría discutir posibles oportunidades de colaboración.
+"Idioms, Proverbs & Cultural Expressions",Más vale pájaro en mano que cien volando.
+"Idioms, Proverbs & Cultural Expressions","El que madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions",A caballo regalado no se le mira el colmillo.
+"Idioms, Proverbs & Cultural Expressions","Camarón que se duerme, se lo lleva la corriente."
+"Idioms, Proverbs & Cultural Expressions","Cuando el río suena, piedras trae."
+"Idioms, Proverbs & Cultural Expressions",Dime con quién andas y te diré quién eres.
+"Idioms, Proverbs & Cultural Expressions",No hay mal que por bien no venga.
+"Idioms, Proverbs & Cultural Expressions","A palabras necias, oídos sordos."
+"Idioms, Proverbs & Cultural Expressions","El que mucho abarca, poco aprieta."
+"Idioms, Proverbs & Cultural Expressions",Zapatero a su zapato.
+Question-Answer Pairs,¿Dónde queda la catedral de San Salvador? - Está en el centro histórico.
+Question-Answer Pairs,"¿Cuánto cuesta un plato típico salvadoreño? - Depende, pero entre 3 y 5 dólares."
+Question-Answer Pairs,"¿Cuál es la mejor época para visitar El Salvador? - De noviembre a abril, cuando no llueve."
+Question-Answer Pairs,¿Qué tan seguro es viajar a El Salvador? - Hay que tomar precauciones como en cualquier lugar.
+Question-Answer Pairs,¿Cómo se dice ‘hola’ en náhuatl? - Se dice ‘nimitztlahpaloz’
+Question-Answer Pairs,"¿Cuántas pupusas te comiste ayer? - Solo tres, pero estaban buenísimas."
+Question-Answer Pairs,¿Dónde puedo cambiar dólares a colones? - En los bancos o casas de cambio.
+Question-Answer Pairs,¿Cómo está el clima hoy? - Hace bastante calor y hay sol.
+Question-Answer Pairs,"¿Cuál es la comida más típica de El Salvador? - Sin duda, las pupusas."
+Question-Answer Pairs,¿Quién es el presidente de El Salvador? - Actualmente es Nayib Bukele.
+Commands & Instructions,Apaga la luz antes de salir de la habitación.
+Commands & Instructions,Cierra bien la puerta cuando te vayas.
+Commands & Instructions,Llama al técnico si la computadora deja de funcionar.
+Commands & Instructions,Envíame el reporte antes de las cinco de la tarde.
+Commands & Instructions,No uses el celular mientras conduces.
+Commands & Instructions,Dame un minuto para terminar este documento.
+Commands & Instructions,Respeta las señales de tránsito en la carretera.
+Commands & Instructions,Lava los platos después de comer.
+Commands & Instructions,Enciende el aire acondicionado si hace mucho calor.
+Commands & Instructions,Haz tu tarea antes de salir a jugar.
+Named Entity Recognition (NER) Data,San Salvador es la capital de El Salvador.
+Named Entity Recognition (NER) Data,El volcán de Izalco es uno de los más famosos de la región.
+Named Entity Recognition (NER) Data,La pupusa es el plato nacional de El Salvador.
+Named Entity Recognition (NER) Data,La empresa Tigo ofrece servicios de telefonía en el país.
+Named Entity Recognition (NER) Data,El río Lempa es el más largo de El Salvador.
+Named Entity Recognition (NER) Data,El Salvador celebró su independencia el 15 de septiembre de 1821.
+Named Entity Recognition (NER) Data,Nayib Bukele es el presidente de El Salvador.
+Named Entity Recognition (NER) Data,El mercado central de San Salvador es muy visitado.
+Named Entity Recognition (NER) Data,La Universidad de El Salvador es la más antigua del país.
+Named Entity Recognition (NER) Data,La playa El Tunco es famosa por el surf.
+Sentiment Analysis Data,Me encanta cómo preparan las pupusas en este restaurante.
+Sentiment Analysis Data,Estoy muy decepcionado con el servicio que recibí ayer.
+Sentiment Analysis Data,No puedo esperar para visitar a mi familia en diciembre.
+Sentiment Analysis Data,Odio cuando el tráfico en la ciudad es tan pesado.
+Sentiment Analysis Data,Me siento muy agradecido por el apoyo de mis amigos.
+Sentiment Analysis Data,No entiendo por qué la gente es tan impaciente en la fila.
+Sentiment Analysis Data,¡Estoy tan emocionado por mi viaje a la playa este fin de semana!
+Sentiment Analysis Data,Ese comentario fue muy hiriente y ofensivo.
+Sentiment Analysis Data,Este ha sido el mejor día de mi vida.
+Sentiment Analysis Data,"No sé qué hacer, me siento completamente perdido."
+Paraphrased & Augmented Sentences,Voy a comprar pupusas para la cena. → Esta noche cenaré pupusas.
+Paraphrased & Augmented Sentences,El Salvador tiene playas hermosas. → Las playas de El Salvador son espectaculares.
+Paraphrased & Augmented Sentences,Mañana tengo que ir al banco. → Mañana necesito pasar por el banco.
+Paraphrased & Augmented Sentences,Me gusta el café sin azúcar. → Prefiero mi café sin endulzar.
+Paraphrased & Augmented Sentences,Hoy hace mucho calor. → El clima está bastante caluroso hoy.
+Paraphrased & Augmented Sentences,Mi hermano es muy trabajador. → Mi hermano siempre se esfuerza en su trabajo.
+Paraphrased & Augmented Sentences,Necesito descansar un poco. → Me vendría bien un descanso.
+Paraphrased & Augmented Sentences,Voy a visitar a mi abuela este fin de semana. → Este fin de semana iré a la casa de mi abuela.
+Paraphrased & Augmented Sentences,No tengo tiempo para salir hoy. → Hoy estoy demasiado ocupado para salir.
+Paraphrased & Augmented Sentences,El libro que leí ayer fue muy interesante. → Ayer leí un libro fascinante.

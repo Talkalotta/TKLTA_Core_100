@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,我昨天去公园散步了。
+Grammar Core,她正在写作业。
+Grammar Core,明天我们要去北京旅行。
+Grammar Core,如果下雨，我们就不去爬山了。
+Grammar Core,这本书是去年买的。
+Grammar Core,我会说中文和英语。
+Grammar Core,这件事情已经被解决了。
+Grammar Core,他从来没有见过这种情况。
+Grammar Core,你应该早点休息。
+Grammar Core,如果你早点告诉我，我就能帮你了。
+Conversational Data,你好，今天过得怎么样？
+Conversational Data,老板，我要一杯奶茶，谢谢。
+Conversational Data,这个周末你有空吗？
+Conversational Data,天气太热了，我们去喝冷饮吧！
+Conversational Data,你最近看了什么好电影吗？
+Conversational Data,晚上一起吃饭吧？
+Conversational Data,抱歉，我迟到了，刚才堵车了。
+Conversational Data,请问这个地铁站怎么走？
+Conversational Data,谢谢你的帮助，太感激了！
+Conversational Data,下周见，祝你一切顺利！
+Code-Switching & Multilingualism,我今天去了supermarket买东西。
+Code-Switching & Multilingualism,这个app真的很好用！
+Code-Switching & Multilingualism,昨天的meeting很重要。
+Code-Switching & Multilingualism,你喜欢吃sushi还是hotpot？
+Code-Switching & Multilingualism,老师说要submit作业明天之前。
+Code-Switching & Multilingualism,这个place真的很beautiful。
+Code-Switching & Multilingualism,请帮我check一下邮件。
+Code-Switching & Multilingualism,这个presentation是关于AI的。
+Code-Switching & Multilingualism,我想order一个cheeseburger。
+Code-Switching & Multilingualism,这首歌是Taylor Swift的新single。
+Formal & Professional Speech,根据公司的政策，员工需要提前请假。
+Formal & Professional Speech,请您填写这份合同并签字。
+Formal & Professional Speech,本次会议将讨论公司的发展战略。
+Formal & Professional Speech,医生建议患者多喝水，避免辛辣食物。
+Formal & Professional Speech,请问贵公司的联系方式是什么？
+Formal & Professional Speech,您的账户已成功激活。
+Formal & Professional Speech,银行账户的余额不足，请尽快充值。
+Formal & Professional Speech,请确保所有文件都已提交。
+Formal & Professional Speech,法庭将在下周三审理此案件。
+Formal & Professional Speech,请您详细阅读使用条款后再进行注册。
+"Idioms, Proverbs & Cultural Expressions",一分钱一分货。
+"Idioms, Proverbs & Cultural Expressions",百闻不如一见。
+"Idioms, Proverbs & Cultural Expressions",早起的鸟儿有虫吃。
+"Idioms, Proverbs & Cultural Expressions",好事多磨。
+"Idioms, Proverbs & Cultural Expressions",熟能生巧。
+"Idioms, Proverbs & Cultural Expressions",青出于蓝而胜于蓝。
+"Idioms, Proverbs & Cultural Expressions",水能载舟，亦能覆舟。
+"Idioms, Proverbs & Cultural Expressions",人山人海。
+"Idioms, Proverbs & Cultural Expressions",天下没有免费的午餐。
+"Idioms, Proverbs & Cultural Expressions",井底之蛙。
+Question-Answer Pairs,你叫什么名字？
+Question-Answer Pairs,北京的天气怎么样？
+Question-Answer Pairs,这个手机多少钱？
+Question-Answer Pairs,你会说多少种语言？
+Question-Answer Pairs,最近有什么好看的电影？
+Question-Answer Pairs,你觉得人工智能可靠吗？
+Question-Answer Pairs,你最喜欢的中国菜是什么？
+Question-Answer Pairs,请问最近的地铁站在哪里？
+Question-Answer Pairs,这本书的作者是谁？
+Question-Answer Pairs,这个词是什么意思？
+Commands & Instructions,请打开窗户。
+Commands & Instructions,把灯关掉。
+Commands & Instructions,请帮我拿一下那本书。
+Commands & Instructions,请按时完成作业。
+Commands & Instructions,请保持安静。
+Commands & Instructions,请不要在这里吸烟。
+Commands & Instructions,请告诉我你的电话号码。
+Commands & Instructions,请调整座椅高度。
+Commands & Instructions,请尽快回复邮件。
+Commands & Instructions,请排队等待。
+Named Entity Recognition (NER) Data,我住在北京市。
+Named Entity Recognition (NER) Data,华为是一家著名的科技公司。
+Named Entity Recognition (NER) Data,2025年奥运会将在巴黎举行。
+Named Entity Recognition (NER) Data,乔布斯是苹果公司的创始人之一。
+Named Entity Recognition (NER) Data,长城是中国最著名的历史遗迹之一。
+Named Entity Recognition (NER) Data,春节是中国最重要的传统节日。
+Named Entity Recognition (NER) Data,马云是阿里巴巴的创始人。
+Named Entity Recognition (NER) Data,微软总部位于美国。
+Named Entity Recognition (NER) Data,中国的首都是北京。
+Named Entity Recognition (NER) Data,故宫位于北京市中心。
+Sentiment Analysis Data,今天的天气很好，我很开心！
+Sentiment Analysis Data,这个电影太无聊了，不值得看。
+Sentiment Analysis Data,我对这次的考试成绩非常满意。
+Sentiment Analysis Data,餐厅的服务态度特别差。
+Sentiment Analysis Data,我很感激你的帮助，谢谢你！
+Sentiment Analysis Data,今天真是太糟糕了，一整天都不顺利。
+Sentiment Analysis Data,这个手机的性价比很高，值得推荐。
+Sentiment Analysis Data,我对这个产品的质量很失望。
+Sentiment Analysis Data,你的鼓励让我很感动！
+Sentiment Analysis Data,这个公园非常美丽，让人心情愉悦。
+Paraphrased & Augmented Sentences,我昨天去了公园散步。
+Paraphrased & Augmented Sentences,昨天我在公园里散步了一会儿。
+Paraphrased & Augmented Sentences,昨天我去公园走了一下。
+Paraphrased & Augmented Sentences,我在公园里散步了一整天。
+Paraphrased & Augmented Sentences,昨天傍晚，我到公园里走了一下。
+Paraphrased & Augmented Sentences,昨天下午我去了公园走走。
+Paraphrased & Augmented Sentences,我去公园散步了，因为天气很好。
+Paraphrased & Augmented Sentences,公园里的空气很好，所以我去散步了。
+Paraphrased & Augmented Sentences,昨天下午我到公园散步了一会儿。
+Paraphrased & Augmented Sentences,我昨天傍晚在公园里散步。

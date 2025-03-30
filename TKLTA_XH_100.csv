@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Ndifunda incwadi yonke imihla.
+Grammar Core,Ubhuti wam wayefunda ibhayibhile izolo.
+Grammar Core,Ndingakunceda ukuba uyafuna.
+Grammar Core,Abantwana abazukuhlala apha ixesha elide.
+Grammar Core,Ibali belibhalwe kakuhle kakhulu.
+Grammar Core,Ndandicinga ukuba uza kufika kwangoko.
+Grammar Core,Kufuneka sifunde isiXhosa yonke imihla.
+Grammar Core,Umsebenzi uzakwenziwa ngexesha.
+Grammar Core,"Ukuba bendisazi, bendiya kube ndilungiselele."
+Grammar Core,Masibhale isivakalisi esihle.
+Conversational Data,"Molo, unjani namhlanje?"
+Conversational Data,"Ndiya kulibazisa kancinci, uxolo."
+Conversational Data,"Ewe, ndicinga ukuba ilanga libalulekile empilweni."
+Conversational Data,"Hayi, andikavumi kule ngxoxo."
+Conversational Data,Sifuna ukuya eKapa ngempelaveki.
+Conversational Data,Uyazi ukuba ndifunda isiXhosa?
+Conversational Data,Ndingakunceda ngantoni namhlanje?
+Conversational Data,Ngubani igama lakho?
+Conversational Data,Ndiyathemba ukuba yonke into ihamba kakuhle.
+Conversational Data,Ungandixelela ngakumbi ngale ngxelo?
+Code-Switching & Multilingualism,Ndifuna i-coffee yam ibe ne-milk.
+Code-Switching & Multilingualism,Andiqondi le statement yakho.
+Code-Switching & Multilingualism,Siya kwenza i-meeting nge-3 pm.
+Code-Switching & Multilingualism,Please undincede ngale assignment.
+Code-Switching & Multilingualism,Yintoni i-password yaka system?
+Code-Switching & Multilingualism,Ndingayithumela i-email yakho ngoku.
+Code-Switching & Multilingualism,Bendingazi ukuba u-schedule utshintshile.
+Code-Switching & Multilingualism,Ufuna ndichecke i-documents zakho?
+Code-Switching & Multilingualism,Le movie yi-incredible!
+Code-Switching & Multilingualism,Ndiyayithanda i-food yaseMzantsi Afrika.
+Formal & Professional Speech,"Ndicela uxolo ngale ngxaki, siyazama ukuyilungisa."
+Formal & Professional Speech,Singayixoxa le ngxaki ngesikhokelo sethu.
+Formal & Professional Speech,Nceda ugcwalise le fomu ngaphambi kokuba singene kwi-meeting.
+Formal & Professional Speech,Ndifuna ukwenza intetho ephathelele kwiinkonzo zethu.
+Formal & Professional Speech,Izivumelwano kufuneka zibhalwe phantsi phambi kokuba ziqinisekiswe.
+Formal & Professional Speech,"Uxolo, kodwa le ngxelo ifuna ukulungiswa ngaphambi kokuhanjiswa."
+Formal & Professional Speech,Nceda ulandele izikhokelo ezibonelelweyo.
+Formal & Professional Speech,Umgaqo-nkqubo wenkampani uyacacisa ukuba kufuneka sibambe iintlanganiso veki nganye.
+Formal & Professional Speech,Ukuhlonipha imigaqo yinkampani kubalulekile.
+Formal & Professional Speech,Ndiyathemba ukuba sikuncedile kulo mba.
+"Idioms, Proverbs & Cultural Expressions",Ukukhala kwekati akupheli ntweni.
+"Idioms, Proverbs & Cultural Expressions",Ukubona ngamehlo engqondo.
+"Idioms, Proverbs & Cultural Expressions",Amanzi amaxoki awanatyala.
+"Idioms, Proverbs & Cultural Expressions",Isandla esiphakamisayo asiyeki.
+"Idioms, Proverbs & Cultural Expressions",Indlela ibuzwa kwabaphambili.
+"Idioms, Proverbs & Cultural Expressions",Ingwe ikhulelwa ngamacebo.
+"Idioms, Proverbs & Cultural Expressions",Unyawo alunampumlo.
+"Idioms, Proverbs & Cultural Expressions",Akukho qili lahlanga.
+"Idioms, Proverbs & Cultural Expressions",Amathambo amadala awatshaywa.
+"Idioms, Proverbs & Cultural Expressions",Isandla esinye asikwazi ukucofa.
+Question-Answer Pairs,Yintoni igama lakho?
+Question-Answer Pairs,Ndingayenza njani le nto?
+Question-Answer Pairs,Uhlala phi?
+Question-Answer Pairs,Ucinga ukuba le mpendulo ichanekile?
+Question-Answer Pairs,Kutheni ungavumi?
+Question-Answer Pairs,Yintoni eyona ndlela yokufunda isiXhosa?
+Question-Answer Pairs,Ngubani umntu onceda abantu esibhedlele?
+Question-Answer Pairs,Ndifanele ndenze ntoni kule meko?
+Question-Answer Pairs,Ngubani owathi 'Siyaya'?
+Question-Answer Pairs,Uthetha ntoni xa uthi 'Ndiphilile'?
+Commands & Instructions,Vula ucango!
+Commands & Instructions,Hlala phantsi nceda.
+Commands & Instructions,Nceda usinike iincwadi zakho.
+Commands & Instructions,Sebenzisa isixhobo esifanelekileyo.
+Commands & Instructions,Sukwenza impazamo efanayo.
+Commands & Instructions,Yiza apha masithethe.
+Commands & Instructions,Qalisa umsebenzi wakho ngoku.
+Commands & Instructions,Bhala phantsi ezi zinto.
+Commands & Instructions,Mamela kakuhle izinto endizithethayo.
+Commands & Instructions,Landela imiyalelo yokhuseleko.
+Named Entity Recognition (NER) Data,UNelson Mandela wazalwa ngo-1918.
+Named Entity Recognition (NER) Data,Ndihlala eGqeberha.
+Named Entity Recognition (NER) Data,Ikomiti yeZizwe eziManyeneyo yenza imisebenzi ebalulekileyo.
+Named Entity Recognition (NER) Data,Umalume wam usebenza eJohannesburg.
+Named Entity Recognition (NER) Data,NgoMvulo siya kwiNkomfa yeNkcubeko.
+Named Entity Recognition (NER) Data,URobert Sobukwe wayengusopolitiki.
+Named Entity Recognition (NER) Data,Ndithenge incwadi kwiVenek Books.
+Named Entity Recognition (NER) Data,Ixesha lokuhamba ngu-10:00 kusasa.
+Named Entity Recognition (NER) Data,Ndifuna ukuyokutyelela eMonti.
+Named Entity Recognition (NER) Data,I-Africa Cup of Nations iza kubanjwa kulo nyaka.
+Sentiment Analysis Data,Ndiyavuya kakhulu namhlanje!
+Sentiment Analysis Data,Ndikhathele yile meko.
+Sentiment Analysis Data,Andonwabanga ngeziphumo.
+Sentiment Analysis Data,"Ewe, ndivumelana nawe ngokupheleleyo!"
+Sentiment Analysis Data,"Owu, lento iyadanisa kakhulu."
+Sentiment Analysis Data,Ndiyathandabuza ukuba oku kuyinyani.
+Sentiment Analysis Data,"Ewe, lento ilungile!"
+Sentiment Analysis Data,"Yhu, lento yaphula intliziyo yam."
+Sentiment Analysis Data,Ndisoyika ukuba izinto azizukuhamba kakuhle.
+Sentiment Analysis Data,Ndiyathemba ukuba yonke into iza kulunga.
+Paraphrased & Augmented Sentences,Ndifunda isiXhosa yonke imihla.
+Paraphrased & Augmented Sentences,Ukufunda isiXhosa kubalulekile yonke imihla.
+Paraphrased & Augmented Sentences,Andizange ndibone into enje ngaphambili.
+Paraphrased & Augmented Sentences,Andikaze ndihlangabezane nale ngxaki.
+Paraphrased & Augmented Sentences,Ndicela undincede nceda.
+Paraphrased & Augmented Sentences,"Nceda, ndifuna uncedo lwakho."
+Paraphrased & Augmented Sentences,Umsebenzi wakhe uyamangalisa.
+Paraphrased & Augmented Sentences,Uyenza umsebenzi wakhe ngendlela encomekayo.
+Paraphrased & Augmented Sentences,Ndiyathemba ukuba uza kuphumelela.
+Paraphrased & Augmented Sentences,Ndinethemba lokuba uza kwenza kakuhle.

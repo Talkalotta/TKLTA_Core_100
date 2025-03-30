@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,J’irai à l’épicerie demain.
+Grammar Core,"Si j’avais su, je serais resté chez moi."
+Grammar Core,Elle est allée au cinéma hier soir.
+Grammar Core,Nous avions déjà mangé avant d’arriver.
+Grammar Core,Il faut que tu fasses attention.
+Grammar Core,Le livre a été écrit par un auteur québécois.
+Grammar Core,Tu ne devrais pas parler si fort.
+Grammar Core,Elles se sont rencontrées à Montréal.
+Grammar Core,On aurait pu éviter ce problème.
+Grammar Core,Le projet sera terminé la semaine prochaine.
+Conversational Data,Allô! Comment ça va?
+Conversational Data,T’as entendu parler du nouveau café en ville?
+Conversational Data,"Je peux avoir un café double double, s’il vous plaît?"
+Conversational Data,"Pis, qu’est-ce que tu fais ce week-end?"
+Conversational Data,"Attends une minute, j’te reviens."
+Conversational Data,Ça fait longtemps qu’on s’est pas vus!
+Conversational Data,"J’comprends pas, peux-tu répéter?"
+Conversational Data,C’est ben l’fun ici!
+Conversational Data,As-tu vu la dernière game du Canadien?
+Conversational Data,"Excuse, j’étais perdu dans mes pensées."
+Code-Switching & Multilingualism,J’suis allé au dépanneur pour acheter du milk.
+Code-Switching & Multilingualism,T’as-tu checké ton email aujourd’hui?
+Code-Switching & Multilingualism,Le meeting est à trois heures sharp.
+Code-Switching & Multilingualism,On chill chez moi ce soir?
+Code-Switching & Multilingualism,J’vais runner des errands après le boulot.
+Code-Switching & Multilingualism,J’trouve ça legit trop cool!
+Code-Switching & Multilingualism,J’ai booké mon flight pour Paris.
+Code-Switching & Multilingualism,On se texte plus tard!
+Code-Switching & Multilingualism,Le deadline est demain matin.
+Code-Switching & Multilingualism,J’capote sur ce new album!
+Formal & Professional Speech,"Veuillez agréer, Madame, Monsieur, mes salutations distinguées."
+Formal & Professional Speech,Pourriez-vous m’envoyer le rapport d’ici lundi?
+Formal & Professional Speech,Nous vous remercions pour votre patience.
+Formal & Professional Speech,Ce contrat prend effet dès la signature des parties.
+Formal & Professional Speech,Merci de bien vouloir respecter les délais établis.
+Formal & Professional Speech,Le patient présente des symptômes de grippe.
+Formal & Professional Speech,Nous devons respecter les normes environnementales.
+Formal & Professional Speech,Ce document est confidentiel et ne doit pas être partagé.
+Formal & Professional Speech,L’assemblée générale aura lieu jeudi prochain.
+Formal & Professional Speech,Le médecin recommande une surveillance accrue.
+"Idioms, Proverbs & Cultural Expressions",Il fait frette aujourd’hui!
+"Idioms, Proverbs & Cultural Expressions",Arrête de niaiser avec la puck!
+"Idioms, Proverbs & Cultural Expressions",Je suis dans le jus ces jours-ci.
+"Idioms, Proverbs & Cultural Expressions",T’es ben smatte!
+"Idioms, Proverbs & Cultural Expressions",J’ai la chienne de rater mon examen.
+"Idioms, Proverbs & Cultural Expressions",Il m’a posé un lapin hier soir.
+"Idioms, Proverbs & Cultural Expressions",Ça coûte un bras!
+"Idioms, Proverbs & Cultural Expressions",J’ai pogné les nerfs après lui.
+"Idioms, Proverbs & Cultural Expressions",Elle a mis les bouts après la discussion.
+"Idioms, Proverbs & Cultural Expressions",Il pleut à boire debout!
+Question-Answer Pairs,Où est la station de métro la plus proche?
+Question-Answer Pairs,Quelles sont vos heures d’ouverture?
+Question-Answer Pairs,Comment puis-je vous aider aujourd’hui?
+Question-Answer Pairs,Quelle est la météo pour demain?
+Question-Answer Pairs,Peux-tu me donner ton avis sur ce film?
+Question-Answer Pairs,Est-ce que ce produit est en rabais?
+Question-Answer Pairs,À quelle heure ferme le magasin?
+Question-Answer Pairs,Pourquoi es-tu en retard aujourd’hui?
+Question-Answer Pairs,Quel est le meilleur restaurant en ville?
+Question-Answer Pairs,Comment fonctionne ce service?
+Commands & Instructions,"Ferme la porte, s’il te plaît."
+Commands & Instructions,Attends-moi ici.
+Commands & Instructions,Ne touche pas à ça!
+Commands & Instructions,Suis les instructions à la lettre.
+Commands & Instructions,Rentre avant la pluie.
+Commands & Instructions,Dis-moi ce que tu en penses.
+Commands & Instructions,Ne fais pas de bruit.
+Commands & Instructions,Vérifie ton courriel avant de partir.
+Commands & Instructions,Écoute attentivement ce qu’il dit.
+Commands & Instructions,"Mets ton manteau, il fait froid."
+Named Entity Recognition,Marie habite à Québec depuis dix ans.
+Named Entity Recognition,Le festival de jazz de Montréal est célèbre.
+Named Entity Recognition,La Tour Eiffel est située à Paris.
+Named Entity Recognition,Google a annoncé une nouvelle mise à jour.
+Named Entity Recognition,Jean Tremblay est un célèbre auteur québécois.
+Named Entity Recognition,Mon rendez-vous est le 15 septembre.
+Named Entity Recognition,Air Canada offre des vols directs pour Vancouver.
+Named Entity Recognition,La rivière Saint-Laurent traverse le Québec.
+Named Entity Recognition,Apple a sorti un nouvel iPhone.
+Named Entity Recognition,Mon anniversaire est en juillet.
+Sentiment Analysis,Je suis tellement content aujourd’hui!
+Sentiment Analysis,Ce film était incroyablement émouvant.
+Sentiment Analysis,Je suis frustré par ce retard.
+Sentiment Analysis,Ça me rend triste de voir ça.
+Sentiment Analysis,Je suis complètement extatique!
+Sentiment Analysis,Je n’aime vraiment pas ce service.
+Sentiment Analysis,C’est la meilleure journée de ma vie!
+Sentiment Analysis,Je suis anxieux pour mon examen.
+Sentiment Analysis,Ce repas était affreux.
+Sentiment Analysis,Je me sens paisible et détendu.
+Paraphrased & Augmented Sentences,J’irai au magasin demain.
+Paraphrased & Augmented Sentences,"Demain, je vais au dépanneur."
+Paraphrased & Augmented Sentences,J’ai prévu d’aller à l’épicerie demain.
+Paraphrased & Augmented Sentences,Elle a regardé un film hier soir.
+Paraphrased & Augmented Sentences,"Hier soir, elle a vu un long-métrage."
+Paraphrased & Augmented Sentences,Elle s’est rendue au cinéma la veille.
+Paraphrased & Augmented Sentences,On se verra bientôt.
+Paraphrased & Augmented Sentences,On va se revoir dans pas long.
+Paraphrased & Augmented Sentences,On se retrouve dans quelques jours.
+Paraphrased & Augmented Sentences,On aurait pu éviter ça.

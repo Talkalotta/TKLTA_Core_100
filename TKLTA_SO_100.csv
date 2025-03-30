@@ -1,0 +1,101 @@
+Category,Somali Sentence
+Grammar Core,Wiilku wuu ciyaaray shalay.
+Grammar Core,Gabadhu waxay akhrinaysaa buug hadda.
+Grammar Core,Barnaamijku wuu shaqayn doonaa berrito.
+Grammar Core,"Haddii roob da’o, waan joogi doonaa guriga."
+Grammar Core,Ardaydu ma samaynin layliskoodii.
+Grammar Core,Shaqada waxaa la qabtay shalay.
+Grammar Core,"Haddaad shaqeyso, lacagtaada waad kasban doontaa."
+Grammar Core,Waan jeclahay inaan luuqado barto.
+Grammar Core,"Haddii aad caafimaad leedahay, waad faraxsan tahay."
+Grammar Core,Wuxuu lahaa guri weyn oo qurux badan.
+Conversational Data,Maxaad samaynaysaa caawa?
+Conversational Data,"Haye, ma ii diyaarineysaa shaah?"
+Conversational Data,Miyaad aragtay buuggii aan doonayay?
+Conversational Data,"Haa, waan tegayaa suuqa goor dhow."
+Conversational Data,Sidee tahay saaxiib? Waan ku waayey!
+Conversational Data,"Waan ka xumahay, dib ayaan kuu soo wici doonaa."
+Conversational Data,Waa maxay qorshahaaga axadda?
+Conversational Data,Xalay cunto wanaagsan ayaan cunay!
+Conversational Data,"I sug daqiiqad, wicitaan ayaan helayaa."
+Conversational Data,"Haddii aad rabto caawimaad, ii sheeg."
+Code-Switching & Multilingualism,Ma fahamtay waxa loo yaqaan 'Artificial Intelligence'?
+Code-Switching & Multilingualism,Shaqadayda waa software developer.
+Code-Switching & Multilingualism,"Waxaan rabaa inaan order sameeyo, fadlan ii sheeg menu-ga."
+Code-Switching & Multilingualism,Ma haysaa charger-ka iPhone-ka?
+Code-Switching & Multilingualism,Event-kan waxaa lagu qaban doonaa Villa Somalia.
+Code-Switching & Multilingualism,Meeting-ka berri subax ayaan imaan doonaa.
+Code-Switching & Multilingualism,Bank transfer ma sameyn karaa?
+Code-Switching & Multilingualism,Halkan waxaa lagu isticmaalaa free Wi-Fi.
+Code-Switching & Multilingualism,Dukaankaas aad ayuu u expensive yahay.
+Code-Switching & Multilingualism,Casharka maanta wuxuu ahaa physics iyo chemistry.
+Formal & Professional Speech,Fadlan buuxi foomkan si aad u hesho oggolaanshahaaga.
+Formal & Professional Speech,Shirkaddani waxay bixisaa adeegyo tayo sare leh.
+Formal & Professional Speech,Daraasaddan waxay muujinaysaa in cilmi-baarista ay muhiim tahay.
+Formal & Professional Speech,Fadlan nala soo xiriir haddii aad su’aalo qabto.
+Formal & Professional Speech,Dhaqaalaha waddanku wuu kobcayaa sanadkan.
+Formal & Professional Speech,Qareenku wuxuu sharraxay xeerka cusub.
+Formal & Professional Speech,Fadlan sug ilaa aad loogu yeero.
+Formal & Professional Speech,Baaritaan caafimaad ayaad mari doontaa.
+Formal & Professional Speech,Mushaharkaagu wuxuu ku xiran yahay waxqabadkaaga.
+Formal & Professional Speech,Sharciyadu waa in si sax ah loo raaco.
+"Idioms, Proverbs & Cultural Expressions",Aqoon la’aan waa iftiin la’aan.
+"Idioms, Proverbs & Cultural Expressions",Dadku waa labo: mid wax barta iyo mid wax timaada.
+"Idioms, Proverbs & Cultural Expressions","Libaax aan cadho lahayn, wuxuu noqonayaa bisad."
+"Idioms, Proverbs & Cultural Expressions",Dhirta waa midabka nolosha.
+"Idioms, Proverbs & Cultural Expressions",Gacmo wadajir bay wax ku gooyaan.
+"Idioms, Proverbs & Cultural Expressions",Nin la arag iyo nin la sugaaba isma oga.
+"Idioms, Proverbs & Cultural Expressions","Mar kasta oo aad wax barato, waa dhaxalkaaga."
+"Idioms, Proverbs & Cultural Expressions","Nolosha waa sida badda, marna deggan marna kacsan."
+"Idioms, Proverbs & Cultural Expressions",Af jooga looma adeego.
+"Idioms, Proverbs & Cultural Expressions",Dabeecad wanaagsani waa dahab.
+Question-Answer Pairs,Sidee caafimaadkaagu yahay maanta?
+Question-Answer Pairs,Maxaad rabtaa in aad cunto?
+Question-Answer Pairs,Meeqa saac ayaa kulanka bilaabanayaa?
+Question-Answer Pairs,Xaggee bay ku taal maktabadda magaalada?
+Question-Answer Pairs,Maxaad u malaynaysaa arrintan?
+Question-Answer Pairs,Miyaad diyaar u tahay safarka berrito?
+Question-Answer Pairs,Sidee baan kuu caawin karaa maanta?
+Question-Answer Pairs,Ma rabtaa in aad wax ka ogaato mashruucan?
+Question-Answer Pairs,Yaa keenay fikraddan wanaagsan?
+Question-Answer Pairs,Goorma ayay xafladdu bilaabanaysaa?
+Commands & Instructions,I keen koob biyo ah.
+Commands & Instructions,Guriga nadaafad ku samee.
+Commands & Instructions,Fadlan albaabka xir.
+Commands & Instructions,Layliskaaga dhameystir maanta.
+Commands & Instructions,Fadlan fariin u dir asxaabtaada.
+Commands & Instructions,Buuggaaga akhri oo faham.
+Commands & Instructions,"Haddii ay dhakhso kuu tahay, fadlan sug!"
+Commands & Instructions,Fadlan fiiri jadwalka shaqada.
+Commands & Instructions,Telefoonka dami marka aad hurdaysid.
+Commands & Instructions,Xusuusnow inaad subaxdii jimicsi sameyso.
+Named Entity Recognition (NER) Data,Magaalada Muqdisho waa caasimadda Soomaaliya.
+Named Entity Recognition (NER) Data,Shirkadda Dahabshiil waxay ku taal Hargeisa.
+Named Entity Recognition (NER) Data,"Sanadkii 1960, Soomaaliya waxay xorriyadeeda qaadatay."
+Named Entity Recognition (NER) Data,Dr. Ahmed wuxuu xirfaddiisa caafimaad ku shaqeeyaa.
+Named Entity Recognition (NER) Data,Maalinta Ciidda waxay tahay munaasabad weyn.
+Named Entity Recognition (NER) Data,Kooxda Kubadda Cagta ee Muqdisho ayaa guulaysatay.
+Named Entity Recognition (NER) Data,Jaamacadda Ummadda Soomaaliyeed waa mid qadiimi ah.
+Named Entity Recognition (NER) Data,Xildhibaan Maxamed wuxuu matalaa degmada Hodan.
+Named Entity Recognition (NER) Data,Wabiga Shabeelle wuxuu maraa magaalooyin badan.
+Named Entity Recognition (NER) Data,Xisbiga mucaaradka wuxuu ka hadlay arrimaha siyaasadda.
+Sentiment Analysis Data,Waan faraxsanahay maanta.
+Sentiment Analysis Data,Filimkaas aad ayuu u xiiso badan yahay.
+Sentiment Analysis Data,Wuxuu ahaa maalin murugo leh.
+Sentiment Analysis Data,Waan ka xumaaday wararkii aan maqlay.
+Sentiment Analysis Data,Jacaylku waa dareen cajiib ah.
+Sentiment Analysis Data,Waxaan la yaabay sida wanaagsan ee ay u hadashay.
+Sentiment Analysis Data,Waan ka xumahay inaad bukooto.
+Sentiment Analysis Data,Xafladdii xalay aad bay u qurux badnayd.
+Sentiment Analysis Data,Waa wax laga xumaado xaaladda waddanka.
+Sentiment Analysis Data,Wuxuu dareemay niyad-jab weyn.
+Paraphrased & Augmented Sentences,Habeen hore waxaan arkay filim xiiso leh.
+Paraphrased & Augmented Sentences,"Xalay filim ayaan daawaday, aad buu u fiicnaa."
+Paraphrased & Augmented Sentences,"Shalay buug ayaan akhriyay, aad baan u jeclaystay."
+Paraphrased & Augmented Sentences,Daraasadda waxay muujisay in waxbarashadu muhiim tahay.
+Paraphrased & Augmented Sentences,"Cilmiga waa iftiin, qofka aqoonta leh wuu ka hormaraa."
+Paraphrased & Augmented Sentences,Ganacsiga wuu kobcayaa sanadkan.
+Paraphrased & Augmented Sentences,Suuqa maanta aad ayuu u mashquul badnaa.
+Paraphrased & Augmented Sentences,Hawlaha guriga waxaan dhammeeyey subaxnimadii.
+Paraphrased & Augmented Sentences,Isbedelka cimiladu waa mid la dareemi karo.
+Paraphrased & Augmented Sentences,Dhammaan ardayda waa inay shaqadooda dhameeyaan.

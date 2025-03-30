@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,She has been reading for three hours.
+Grammar Core,"Had they known earlier, they would have attended the event."
+Grammar Core,He is going to visit his grandparents tomorrow.
+Grammar Core,The cake was baked by my grandmother.
+Grammar Core,"If it rains, we will stay indoors."
+Grammar Core,They were not expecting such a huge crowd.
+Grammar Core,The documents must be signed by the director.
+Grammar Core,I wish I had studied harder for the exam.
+Grammar Core,"By next year, she will have completed her degree."
+Grammar Core,It’s essential that he be present at the meeting.
+Conversational Data,"Hey, are you free this evening?"
+Conversational Data,"I’d love to, but I have an early meeting tomorrow."
+Conversational Data,Where’s the nearest café around here?
+Conversational Data,You won’t believe what happened today!
+Conversational Data,Fancy grabbing a bite after work?
+Conversational Data,"Oh, that’s absolutely brilliant!"
+Conversational Data,Can you help me carry these bags?
+Conversational Data,"No worries, I’ll handle it myself."
+Conversational Data,"I’m not sure, let’s check Google Maps."
+Conversational Data,It’s been ages since we last caught up!
+Code-Switching & Multilingualism,That’s such a déjà vu moment!
+Code-Switching & Multilingualism,She said ‘ciao’ as she left the café.
+Code-Switching & Multilingualism,His accent is a mix of British and Australian English.
+Code-Switching & Multilingualism,I love the concept of ‘hygge’ in Danish culture.
+Code-Switching & Multilingualism,Can you pass me the ‘salsa’ please?
+Code-Switching & Multilingualism,‘Faux pas’ like that can be embarrassing.
+Code-Switching & Multilingualism,Let’s meet at the ‘plaza’ around noon.
+Code-Switching & Multilingualism,He greeted me with a friendly ‘namaste’.
+Code-Switching & Multilingualism,I’ll have a ‘croissant’ and black coffee.
+Code-Switching & Multilingualism,Her ‘joie de vivre’ is truly infectious.
+Formal & Professional Speech,Please find the attached report for your review.
+Formal & Professional Speech,It is imperative that we meet the deadline.
+Formal & Professional Speech,The committee will reconvene next Wednesday.
+Formal & Professional Speech,We appreciate your prompt response to this matter.
+Formal & Professional Speech,Our legal team will handle the necessary documentation.
+Formal & Professional Speech,Kindly ensure that the files are updated accordingly.
+Formal & Professional Speech,The conference will commence at 9 a.m. sharp.
+Formal & Professional Speech,The patient’s condition remains stable at this time.
+Formal & Professional Speech,This report highlights key performance metrics.
+Formal & Professional Speech,Further research is needed to substantiate the claims.
+"Idioms, Proverbs & Cultural Expressions",The ball is in your court now.
+"Idioms, Proverbs & Cultural Expressions",Every cloud has a silver lining.
+"Idioms, Proverbs & Cultural Expressions",She was over the moon about her promotion.
+"Idioms, Proverbs & Cultural Expressions",Better late than never.
+"Idioms, Proverbs & Cultural Expressions",A penny for your thoughts?
+"Idioms, Proverbs & Cultural Expressions",Actions speak louder than words.
+"Idioms, Proverbs & Cultural Expressions",Let’s not put all our eggs in one basket.
+"Idioms, Proverbs & Cultural Expressions",You can’t judge a book by its cover.
+"Idioms, Proverbs & Cultural Expressions",It’s the best thing since sliced bread.
+"Idioms, Proverbs & Cultural Expressions",Don’t cry over spilt milk.
+Question-Answer Pairs,What time does the train to Manchester leave?
+Question-Answer Pairs,Why did the chicken cross the road?
+Question-Answer Pairs,How does climate change affect daily life?
+Question-Answer Pairs,Where can I find the nearest pharmacy?
+Question-Answer Pairs,What are the benefits of meditation?
+Question-Answer Pairs,Can you recommend a good book to read?
+Question-Answer Pairs,Who is the current Prime Minister of the UK?
+Question-Answer Pairs,What’s the meaning of life?
+Question-Answer Pairs,How long does it take to learn a new language?
+Question-Answer Pairs,Is it going to rain tomorrow?
+Commands & Instructions,Turn off the lights before you leave.
+Commands & Instructions,Please submit your assignment by Friday.
+Commands & Instructions,Kindly refrain from using your mobile phone during the lecture.
+Commands & Instructions,Walk straight ahead and take the second left.
+Commands & Instructions,Ensure that all equipment is functioning properly.
+Commands & Instructions,Read the instructions carefully before proceeding.
+Commands & Instructions,Keep your belongings secure at all times.
+Commands & Instructions,Press the green button to start the machine.
+Commands & Instructions,Hold the line while I transfer your call.
+Commands & Instructions,Always wash your hands before handling food.
+Named Entity Recognition (NER) Data,London is the capital of the United Kingdom.
+Named Entity Recognition (NER) Data,Shakespeare wrote Romeo and Juliet.
+Named Entity Recognition (NER) Data,Amazon was founded by Jeff Bezos.
+Named Entity Recognition (NER) Data,"The Eiffel Tower is located in Paris, France."
+Named Entity Recognition (NER) Data,The World Cup final will take place in Qatar.
+Named Entity Recognition (NER) Data,Albert Einstein developed the theory of relativity.
+Named Entity Recognition (NER) Data,Oxford University is one of the oldest in the world.
+Named Entity Recognition (NER) Data,The Mona Lisa is displayed in the Louvre.
+Named Entity Recognition (NER) Data,Elon Musk is the CEO of Tesla.
+Named Entity Recognition (NER) Data,The Great Wall of China is a popular tourist attraction.
+Sentiment Analysis Data,I absolutely love this new book!
+Sentiment Analysis Data,This is the worst customer service I’ve ever experienced.
+Sentiment Analysis Data,I feel incredibly grateful for all the support.
+Sentiment Analysis Data,"That movie was just okay, nothing special."
+Sentiment Analysis Data,I am so excited about the upcoming trip!
+Sentiment Analysis Data,"It was a rather disappointing meal, to be honest."
+Sentiment Analysis Data,The concert last night was absolutely fantastic!
+Sentiment Analysis Data,I’m not sure how I feel about this new policy.
+Sentiment Analysis Data,This product exceeded my expectations!
+Sentiment Analysis Data,I’m feeling a bit under the weather today.
+Paraphrased & Augmented Sentences,He is currently reading a book.
+Paraphrased & Augmented Sentences,"At this moment, he is engaged in reading."
+Paraphrased & Augmented Sentences,"Right now, he has his nose in a book."
+Paraphrased & Augmented Sentences,He is flipping through the pages of his book.
+Paraphrased & Augmented Sentences,He’s busy immersing himself in a book.
+Paraphrased & Augmented Sentences,"At present, he’s occupied with a book."
+Paraphrased & Augmented Sentences,He is devouring a fascinating novel.
+Paraphrased & Augmented Sentences,He is lost in the world of his book.
+Paraphrased & Augmented Sentences,"Currently, he is indulging in some reading."
+Paraphrased & Augmented Sentences,"At this very instant, he is focused on a book."

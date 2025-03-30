@@ -1,0 +1,101 @@
+Category,Sentence (Valencian)
+Grammar Core,Hui fa sol i m'agrada passejar per la platja.
+Grammar Core,Ahir vaig anar al mercat i vaig comprar taronges.
+Grammar Core,Demà viatjaré a Barcelona per una reunió important.
+Grammar Core,"Si tinguera temps, aprenguera a tocar la guitarra."
+Grammar Core,El llibre va ser escrit per un autor valencià.
+Grammar Core,No he vist mai una posta de sol tan bonica.
+Grammar Core,"Quan era xicotet, jugava al carrer amb els amics."
+Grammar Core,Haurem acabat el projecte abans del termini establit.
+Grammar Core,No crec que això siga una bona idea.
+Grammar Core,"Si haguera estudiat més, hauria aprovat l'examen."
+Conversational Data,Hola! Com va tot?
+Conversational Data,"Ei, què fas aquest cap de setmana?"
+Conversational Data,"Vull una tassa de café amb llet, per favor."
+Conversational Data,"M'agrada molt eixa cançó, com es diu?"
+Conversational Data,"Perdona, podries dir-me on està l'estació de tren?"
+Conversational Data,"Ens veiem demà a les set, d'acord?"
+Conversational Data,Has vist l'última pel·lícula de Marvel?
+Conversational Data,He trobat un nou restaurant que t'agradaria!
+Conversational Data,Podem parlar després? Ara estic ocupat.
+Conversational Data,"Bon dia! Tinc una reunió a les 10, t'acompanyes?"
+Code-Switching & Multilingualism,Estic molt busy aquesta setmana.
+Code-Switching & Multilingualism,Quedem per a un coffee després del treball?
+Code-Switching & Multilingualism,Vaig a comprar groceries abans de tornar a casa.
+Code-Switching & Multilingualism,"No entenc aquesta frase en francés, em pots ajudar?"
+Code-Switching & Multilingualism,Demà tinc un meeting amb el client a les nou.
+Code-Switching & Multilingualism,"Açò és un fail total, no creus?"
+Code-Switching & Multilingualism,Let's go a la platja aquest cap de setmana!
+Code-Switching & Multilingualism,Ell parla un mix de valencià i anglès sempre.
+Code-Switching & Multilingualism,Vaig a fer un upgrade del meu ordinador.
+Code-Switching & Multilingualism,"No puc venir hui, estic sick."
+Formal & Professional Speech,"Benvolguts senyors, els informem que la reunió començarà a les 10 h."
+Formal & Professional Speech,"Per a qualsevol dubte, poden contactar amb el nostre servei d’atenció al client."
+Formal & Professional Speech,La present oferta laboral és per a un contracte de duració indefinida.
+Formal & Professional Speech,La paciència és essencial en l’àmbit mèdic.
+Formal & Professional Speech,El resultat de l’anàlisi ha sigut concloent.
+Formal & Professional Speech,Els documents requerits han de ser lliurats abans del divendres.
+Formal & Professional Speech,L’empresa aplicarà les mesures de seguretat pertinents.
+Formal & Professional Speech,Aquest contracte ha de ser signat per ambdues parts.
+Formal & Professional Speech,Es prega als assistents que apaguen els seus dispositius mòbils.
+Formal & Professional Speech,La reunió tindrà lloc a la sala de conferències principal.
+"Idioms, Proverbs & Cultural Expressions","A qui matina, Déu l’ajuda."
+"Idioms, Proverbs & Cultural Expressions",És més llest que una rabosa.
+"Idioms, Proverbs & Cultural Expressions","Feta la llei, feta la trampa."
+"Idioms, Proverbs & Cultural Expressions",L’hàbit no fa el monjo.
+"Idioms, Proverbs & Cultural Expressions",Val més tard que mai.
+"Idioms, Proverbs & Cultural Expressions",Estar entre l’espasa i la paret.
+"Idioms, Proverbs & Cultural Expressions",Tirar la tovallola.
+"Idioms, Proverbs & Cultural Expressions",Tenir memòria de peix.
+"Idioms, Proverbs & Cultural Expressions",Fer la vista grossa.
+"Idioms, Proverbs & Cultural Expressions",Estar amb l’aigua al coll.
+Question-Answer Pairs,On és el supermercat més proper?
+Question-Answer Pairs,Quant costa aquest producte?
+Question-Answer Pairs,Com puc arribar a la plaça de l’Ajuntament?
+Question-Answer Pairs,A quina hora obri la botiga?
+Question-Answer Pairs,Tens alguna recomanació per a sopar?
+Question-Answer Pairs,Què en penses d’aquest llibre?
+Question-Answer Pairs,Qui és el teu actor preferit?
+Question-Answer Pairs,Quin temps farà demà?
+Question-Answer Pairs,On vas anar de vacances l'any passat?
+Question-Answer Pairs,Podries ajudar-me amb aquesta tasca?
+Commands & Instructions,Apaga la llum abans d'eixir.
+Commands & Instructions,"Dona’m el llibre, per favor."
+Commands & Instructions,Truca’m quan arribes a casa.
+Commands & Instructions,No oblides portar el teu passaport.
+Commands & Instructions,Tanca la porta abans d’anar-te’n.
+Commands & Instructions,Envia aquest correu electrònic ara.
+Commands & Instructions,Fes el llit cada matí.
+Commands & Instructions,Digues-me què necessites.
+Commands & Instructions,Escriu la teua resposta al full.
+Commands & Instructions,Vine ací immediatament.
+Named Entity Recognition (NER) Data,Joan viu a València.
+Named Entity Recognition (NER) Data,Maria va visitar París l'estiu passat.
+Named Entity Recognition (NER) Data,L'empresa Microsoft ha llançat un nou producte.
+Named Entity Recognition (NER) Data,El riu Túria passa per la ciutat de València.
+Named Entity Recognition (NER) Data,Aquest dissabte hi ha un concert a Barcelona.
+Named Entity Recognition (NER) Data,La Universitat de València ofereix nous cursos.
+Named Entity Recognition (NER) Data,L’equip del Barça ha guanyat el partit.
+Named Entity Recognition (NER) Data,El president va fer un discurs ahir.
+Named Entity Recognition (NER) Data,El 9 d’octubre és la festa de la Comunitat Valenciana.
+Named Entity Recognition (NER) Data,La novel·la ha sigut escrita per Isabel Allende.
+Sentiment Analysis Data,"M'encanta aquest llibre, és fantàstic!"
+Sentiment Analysis Data,Estic molt decebut amb aquest servei.
+Sentiment Analysis Data,Aquest restaurant és meravellós!
+Sentiment Analysis Data,No m’ha agradat gens la pel·lícula.
+Sentiment Analysis Data,Em sent molt feliç hui.
+Sentiment Analysis Data,Aquest projecte és un desastre absolut.
+Sentiment Analysis Data,Quina alegria veure’t de nou!
+Sentiment Analysis Data,No puc creure com de dolent ha sigut això.
+Sentiment Analysis Data,"Aquest lloc és increïble, m'encanta!"
+Sentiment Analysis Data,Estic molt trist hui.
+Paraphrased & Augmented Sentences,Demà aniré al mercat a comprar fruita.
+Paraphrased & Augmented Sentences,Faré la compra de fruita demà al mercat.
+Paraphrased & Augmented Sentences,Demà passaré pel mercat a comprar taronges.
+Paraphrased & Augmented Sentences,Demà matí visitaré el mercat per comprar fruita.
+Paraphrased & Augmented Sentences,Planege comprar fruita al mercat demà.
+Paraphrased & Augmented Sentences,Demà compraré fruita al mercat del barri.
+Paraphrased & Augmented Sentences,Aniré al mercat a comprar fruita demà al matí.
+Paraphrased & Augmented Sentences,Demà tinc previst fer la compra al mercat.
+Paraphrased & Augmented Sentences,Compraré fruita al mercat de bon matí.
+Paraphrased & Augmented Sentences,El mercat serà el meu primer destí demà.

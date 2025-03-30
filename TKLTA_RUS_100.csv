@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Я учился в университете три года назад.
+Grammar Core,Завтра я поеду на работу на метро.
+Grammar Core,"Если бы я знал раньше, я бы поступил иначе."
+Grammar Core,Она читает книгу каждый вечер перед сном.
+Grammar Core,Письмо было написано два дня назад.
+Grammar Core,"Мы бы отправились в путешествие, если бы у нас были деньги."
+Grammar Core,Мой брат всегда помогает родителям по дому.
+Grammar Core,Этот дом был построен в 1980 году.
+Grammar Core,"Он не знал, что делать в такой ситуации."
+Grammar Core,Мы уже сделали всю домашнюю работу.
+Conversational Data,Привет! Как у тебя дела?
+Conversational Data,"О, давно не виделись! Чем занимаешься?"
+Conversational Data,"Можно мне чашку кофе, пожалуйста?"
+Conversational Data,Сколько стоит этот телефон?
+Conversational Data,Давай встретимся в парке в пять вечера.
+Conversational Data,"Я не уверен, давай спросим у официанта."
+Conversational Data,Спасибо за помощь! Без тебя я бы не справился.
+Conversational Data,Что ты делаешь в эти выходные?
+Conversational Data,Как прошел твой день?
+Conversational Data,Ты слышал последние новости?
+Code-Switching & Multilingualism,"Сегодня у нас митинг с клиентами, потом lunch в кафе."
+Code-Switching & Multilingualism,"Я забыл свой password, можешь помочь?"
+Code-Switching & Multilingualism,Этот баг нужно urgent исправить перед релизом.
+Code-Switching & Multilingualism,Мой друг из Германии говорит на русском и немецком.
+Code-Switching & Multilingualism,"После работы пойду на фитнес, потом в coworking."
+Code-Switching & Multilingualism,"Вчера был deadline, но проект не закончен."
+Code-Switching & Multilingualism,Ты можешь запустить update на сервере?
+Code-Switching & Multilingualism,"Я говорю на трех языках: русском, английском и французском."
+Code-Switching & Multilingualism,"Мы заказали fast food, потому что не было времени готовить."
+Code-Switching & Multilingualism,Ты можешь зашерить этот файл со мной?
+Formal & Professional Speech,"Уважаемые коллеги, прошу обратить внимание на изменения в графике."
+Formal & Professional Speech,Данный отчет отражает текущие показатели компании.
+Formal & Professional Speech,"В соответствии с законодательством, данное соглашение вступает в силу с момента подписания."
+Formal & Professional Speech,Пациенту требуется срочная медицинская помощь.
+Formal & Professional Speech,Мы рассмотрим вашу заявку и свяжемся с вами в ближайшее время.
+Formal & Professional Speech,Проект будет реализован в течение следующего квартала.
+Formal & Professional Speech,Наш банк предлагает выгодные условия кредитования.
+Formal & Professional Speech,Договор необходимо подписать до конца месяца.
+Formal & Professional Speech,Обращаем ваше внимание на необходимость соблюдения правил техники безопасности.
+Formal & Professional Speech,"Пожалуйста, отправьте все документы до пятницы."
+"Idioms, Proverbs & Cultural Expressions",Без труда не вытащишь и рыбку из пруда.
+"Idioms, Proverbs & Cultural Expressions","Лучше поздно, чем никогда."
+"Idioms, Proverbs & Cultural Expressions","Не откладывай на завтра то, что можно сделать сегодня."
+"Idioms, Proverbs & Cultural Expressions",С глаз долой — из сердца вон.
+"Idioms, Proverbs & Cultural Expressions","Не все то золото, что блестит."
+"Idioms, Proverbs & Cultural Expressions",Тише едешь — дальше будешь.
+"Idioms, Proverbs & Cultural Expressions","Семь раз отмерь, один раз отрежь."
+"Idioms, Proverbs & Cultural Expressions",Яблоко от яблони недалеко падает.
+"Idioms, Proverbs & Cultural Expressions","Как аукнется, так и откликнется."
+"Idioms, Proverbs & Cultural Expressions",На вкус и цвет товарищей нет.
+Question-Answer Pairs,Как вас зовут? — Меня зовут Алексей.
+Question-Answer Pairs,Где ты живешь? — Я живу в Санкт-Петербурге.
+Question-Answer Pairs,Сколько тебе лет? — Мне двадцать пять лет.
+Question-Answer Pairs,Какой твой любимый цвет? — Мне нравится синий.
+Question-Answer Pairs,"Ты когда-нибудь был за границей? — Да, я был в Европе."
+Question-Answer Pairs,Какая у тебя профессия? — Я инженер.
+Question-Answer Pairs,"Ты любишь готовить? — Да, особенно выпечку."
+Question-Answer Pairs,Какую музыку ты слушаешь? — Рок и классику.
+Question-Answer Pairs,Во сколько начинается собрание? — В 10 утра.
+Question-Answer Pairs,Как добраться до вокзала? — Садитесь на автобус номер 5.
+Commands & Instructions,"Откройте, пожалуйста, дверь."
+Commands & Instructions,Выключи свет перед выходом.
+Commands & Instructions,Заполните форму и нажмите «Отправить».
+Commands & Instructions,Поверните направо на следующем перекрестке.
+Commands & Instructions,Загрузите документ перед началом работы.
+Commands & Instructions,Не забудь взять ключи перед уходом.
+Commands & Instructions,Скажите оператору код бронирования.
+Commands & Instructions,Следуйте указаниям на экране.
+Commands & Instructions,"Нажмите кнопку, чтобы запустить процесс."
+Commands & Instructions,Будьте осторожны на мокром полу.
+Named Entity Recognition (NER) Data,Сергей Петров работает в компании Яндекс.
+Named Entity Recognition (NER) Data,Екатерина посетила Санкт-Петербург в прошлом году.
+Named Entity Recognition (NER) Data,Мой день рождения 15 апреля.
+Named Entity Recognition (NER) Data,Компания Microsoft представила новый продукт.
+Named Entity Recognition (NER) Data,Париж — столица Франции.
+Named Entity Recognition (NER) Data,Иван Иванович живет в Москве.
+Named Entity Recognition (NER) Data,Google является одной из крупнейших IT-компаний.
+Named Entity Recognition (NER) Data,Река Волга протекает через несколько городов России.
+Named Entity Recognition (NER) Data,В прошлом году я отдыхал в Турции.
+Named Entity Recognition (NER) Data,Samsung представил новую модель телефона.
+Sentiment Analysis Data,Этот фильм был потрясающим!
+Sentiment Analysis Data,Мне совсем не понравилось это блюдо.
+Sentiment Analysis Data,Погода сегодня отличная!
+Sentiment Analysis Data,Этот продукт стоит своих денег.
+Sentiment Analysis Data,Я так расстроен результатом матча.
+Sentiment Analysis Data,Она выглядит очень счастливо.
+Sentiment Analysis Data,Книга оставила у меня смешанные чувства.
+Sentiment Analysis Data,"Мне нравится, как работает этот сервис."
+Sentiment Analysis Data,Я разочарован уровнем обслуживания.
+Sentiment Analysis Data,Этот концерт был просто незабываемым!
+Paraphrased & Augmented Sentences,Я люблю гулять в парке. → Мне нравится проводить время в парке.
+Paraphrased & Augmented Sentences,Этот фильм очень интересный. → Этот фильм увлекательный.
+Paraphrased & Augmented Sentences,Она говорит на русском. → Она владеет русским языком.
+Paraphrased & Augmented Sentences,Я купил новую книгу. → Недавно я приобрел интересную книгу.
+Paraphrased & Augmented Sentences,Вчера был сильный дождь. → Прошлой ночью шел ливень.
+Paraphrased & Augmented Sentences,Ты прав. → С тобой трудно не согласиться.
+Paraphrased & Augmented Sentences,Мы должны уйти. → Нам пора идти.
+Paraphrased & Augmented Sentences,Я рад видеть тебя. → Мне приятно тебя видеть.
+Paraphrased & Augmented Sentences,Это вкусное блюдо. → Это очень аппетитное блюдо.
+Paraphrased & Augmented Sentences,Я счастлив. → Мне хорошо и радостно.
