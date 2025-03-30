@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Ja sam išao u školu jučer.
+Grammar Core,Ona piše pismo svaki dan.
+Grammar Core,Mi ćemo posjetiti tetku sutra.
+Grammar Core,"Kad bi imao vremena, došao bi."
+Grammar Core,On nije bio kod kuće.
+Grammar Core,Knjiga je pročitana za jedan dan.
+Grammar Core,Djeca su se igrala napolju.
+Grammar Core,Ti si učio za ispit cijelu noć.
+Grammar Core,"Ako padne kiša, ostat ćemo kući."
+Grammar Core,"Da nisam umoran, izašao bih."
+Conversational Data,"Hej, kako si danas?"
+Conversational Data,"Dobro sam, hvala. A ti?"
+Conversational Data,Jesi li gledao onaj film sinoć?
+Conversational Data,"Nisam stigao, bio sam zauzet."
+Conversational Data,Ajmo na kafu poslije posla?
+Conversational Data,"Može, gdje da se nađemo?"
+Conversational Data,Kod starog mjesta u pet?
+Conversational Data,"Dogovoreno, vidimo se tada!"
+Conversational Data,Šta planiraš za vikend?
+Conversational Data,"Ništa posebno, možda izlet."
+Code-Switching & Multilingualism,Idem u shopping pa se vraćam brzo.
+Code-Switching & Multilingualism,On je baš cool momak.
+Code-Switching & Multilingualism,Moram downloadati taj fajl.
+Code-Switching & Multilingualism,Ona koristi Zoom za sastanke.
+Code-Switching & Multilingualism,Ajde call me kad završiš.
+Code-Switching & Multilingualism,Imali smo brainstorming u firmi.
+Code-Switching & Multilingualism,Ovo je bio totalni fail.
+Code-Switching & Multilingualism,"On vozi Audi, baš fancy auto."
+Code-Switching & Multilingualism,Imali smo online sastanak jučer.
+Code-Switching & Multilingualism,To ti je već old school.
+Formal & Professional Speech,"Poštovani gospodine, šaljem vam izvještaj."
+Formal & Professional Speech,"Prema zakonu, dužni ste platiti porez."
+Formal & Professional Speech,Pacijent boluje od hronične bolesti.
+Formal & Professional Speech,Ovaj ugovor stupa na snagu odmah.
+Formal & Professional Speech,Ljubazno vas molimo za potvrdu.
+Formal & Professional Speech,Sastanak je zakazan za 10 sati.
+Formal & Professional Speech,Molimo vas da se registrujete online.
+Formal & Professional Speech,Rezultati testa su dostupni u arhivi.
+Formal & Professional Speech,Obavezno nosite zaštitnu opremu.
+Formal & Professional Speech,Vaša prijava je prihvaćena.
+Idioms & Cultural Expressions,Uhvatio vuka za rep.
+Idioms & Cultural Expressions,Pao s Marsa.
+Idioms & Cultural Expressions,Drži vodu dok majstori odu.
+Idioms & Cultural Expressions,"Ko rano rani, dvije sreće grabi."
+Idioms & Cultural Expressions,Ne sudi knjigu po koricama.
+Idioms & Cultural Expressions,Bolje spriječiti nego liječiti.
+Idioms & Cultural Expressions,"Ko se zadnji smije, najslađe se smije."
+Idioms & Cultural Expressions,I ćorava kokoš nađe zrno.
+Idioms & Cultural Expressions,"Gdje ima dima, ima i vatre."
+Idioms & Cultural Expressions,Imaš putera na glavi.
+Question-Answer Pairs,Ko je napisao ovu knjigu?
+Question-Answer Pairs,Zašto si zakasnio?
+Question-Answer Pairs,Kada počinje sastanak?
+Question-Answer Pairs,Gdje si kupio ovu majicu?
+Question-Answer Pairs,Koliko košta karta?
+Question-Answer Pairs,Šta misliš o novom zakonu?
+Question-Answer Pairs,Da li voliš putovati?
+Question-Answer Pairs,Koja ti je omiljena hrana?
+Question-Answer Pairs,Kako funkcioniše ovaj uređaj?
+Question-Answer Pairs,Zašto je on otišao?
+Commands & Instructions,"Zatvori prozor, molim te."
+Commands & Instructions,Pogledaj ovaj izvještaj.
+Commands & Instructions,Odgovori na e-mail.
+Commands & Instructions,Spremi večeru do sedam.
+Commands & Instructions,Zapiši to negdje.
+Commands & Instructions,Slijedi upute pažljivo.
+Commands & Instructions,Operi ruke prije jela.
+Commands & Instructions,Ne zaboravi ključeve.
+Commands & Instructions,Skloni knjige s poda.
+Commands & Instructions,Idi pravo i skreni lijevo.
+Named Entity Recognition,Marko Petrović je posjetio Sarajevo.
+Named Entity Recognition,UNESCO je priznao Mostar.
+Named Entity Recognition,Bosna i Hercegovina se nalazi na Balkanu.
+Named Entity Recognition,Koncert je bio u Zetri.
+Named Entity Recognition,Održano 25. aprila 2023. godine.
+Named Entity Recognition,Kompanija Microsoft otvara novu kancelariju.
+Named Entity Recognition,Dragan radi za CNN.
+Named Entity Recognition,Sastanak je u ponedjeljak ujutro.
+Named Entity Recognition,IKEA planira proširenje u Tuzli.
+Named Entity Recognition,Angela Merkel je posjetila BiH.
+Sentiment Analysis,Ovaj film je bio fantastičan!
+Sentiment Analysis,Toliko sam razočaran uslugom.
+Sentiment Analysis,"Nevjerovatno iskustvo, hvala svima!"
+Sentiment Analysis,Nisam baš zadovoljan ovim proizvodom.
+Sentiment Analysis,Osjećam se sretno danas.
+Sentiment Analysis,Moglo je biti i bolje.
+Sentiment Analysis,Oduševljen sam rezultatom!
+Sentiment Analysis,To je bilo potpuno beskorisno.
+Sentiment Analysis,Imam pomiješana osjećanja o tome.
+Sentiment Analysis,Najbolji dan ikada!
+Paraphrased & Augmented Sentences,Jučer sam otišao u školu.
+Paraphrased & Augmented Sentences,Pisanje pisama joj je svakodnevna navika.
+Paraphrased & Augmented Sentences,Planiramo posjetiti tetku sutra.
+Paraphrased & Augmented Sentences,"Da je imao vremena, došao bi."
+Paraphrased & Augmented Sentences,Nije bio kod kuće u to vrijeme.
+Paraphrased & Augmented Sentences,Knjiga je za jedan dan pročitana.
+Paraphrased & Augmented Sentences,Napolju su se djeca igrala.
+Paraphrased & Augmented Sentences,Cijelu noć si učio za ispit.
+Paraphrased & Augmented Sentences,"Ako kiša padne, ostat ćemo kod kuće."
+Paraphrased & Augmented Sentences,Ne bih izašao da sam bio umoran.

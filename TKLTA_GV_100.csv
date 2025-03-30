@@ -1,0 +1,101 @@
+Category,Sentence (Manx)
+Grammar Core,Ta mee goll dys yn scoill gys yn traa t'ayn.
+Grammar Core,Va mee er n'gholl roish my daink oo.
+Grammar Core,Nee ad goll dys yn chaglym ec queig oor.
+Grammar Core,"Dy beagh eh er n'gholl, beagh eh er geddyn eh."
+Grammar Core,Cha nel mee goll dys y raad shen.
+Grammar Core,Ta'n lioar ry lhaih liorish y ven.
+Grammar Core,Ta mee er n'akin eh dagh laa.
+Grammar Core,Ren mee loayrt rish y ben shen jiu.
+Grammar Core,Bee eh goll dy leah.
+Grammar Core,Cha ren shin jeeaghyn er y faat.
+Conversational Data,Kys t’ou?
+Conversational Data,"Ta mee braew, gura mie ayd."
+Conversational Data,Cre ta shiu dy yannoo?
+Conversational Data,Ta shin goll magh son jough.
+Conversational Data,Vel oo geearree cheet marym?
+Conversational Data,"S'cammit eh, nagh vel?"
+Conversational Data,Ta mee smooinaghtyn dy jean eh tannaghtyn ny s'odjey.
+Conversational Data,"Shegin dou goll nish, slane lhiat!"
+Conversational Data,Slane!
+Conversational Data,Vel dooinney elley goll dy liooar?
+Code-Switching & Multilingualism,Ta mee goll dys y shop – just for some milk.
+Code-Switching & Multilingualism,"Vel oo er n'akin yn film shen, it was brilliant!"
+Code-Switching & Multilingualism,"Ta mee er n'gholl, pero no sé qué hacer ahora."
+Code-Switching & Multilingualism,He said 'Ta mee gra my leshtal' and walked away.
+Code-Switching & Multilingualism,"Ta mee er jannoo meh homework, mais je comprends rien!"
+Code-Switching & Multilingualism,"Yessir, ta mee gready!"
+Code-Switching & Multilingualism,She lhiam yn car shen – 'cause I paid for it!
+Code-Switching & Multilingualism,Ta mee er ghoaill yn raad – and now I’m lost.
+Code-Switching & Multilingualism,Do you know cre'n traa t’eh?
+Code-Switching & Multilingualism,Mon ami ta er n’gholl dys y thie-oast.
+Formal & Professional Speech,Ta'n chaglym goll er y reaghey son jeih ooryn yindys.
+Formal & Professional Speech,She red scanshoil eh dy chur bree da'n chooish.
+Formal & Professional Speech,"Cur shiu dty haualtys, my sailliu."
+Formal & Professional Speech,Ta'n oik er n'ghoaill rish yn aachouyrt.
+Formal & Professional Speech,"Myr ta fys eu, ta'n biley jannoo dy mie."
+Formal & Professional Speech,Ta'n lhiass-choyrle er n'ghoaill y cheu shen.
+Formal & Professional Speech,Ta feme ain er currym as toshiaght jeh'n obbyr.
+Formal & Professional Speech,She bun-chooish eh son y reiltys noa.
+Formal & Professional Speech,Ta fys mie ec y fer-obbragh er y choraa shoh.
+Formal & Professional Speech,Ta'n lioar shen jannoo soilshean er y chlee.
+"Idioms, Proverbs & Cultural Expressions",Ta'n moddey shen myr giat fo'n wheeyl.
+"Idioms, Proverbs & Cultural Expressions","Vel oo cheet dy ghoaill y cheeill, ny shass?"
+"Idioms, Proverbs & Cultural Expressions","My ta'n cabbyl marroo, cha vel scansh er y charr."
+"Idioms, Proverbs & Cultural Expressions",Cha nel yn chiollagh er y liargagh ec dy chooilley vun.
+"Idioms, Proverbs & Cultural Expressions",T'eh goll er y stroin myr giat er e chassyn.
+"Idioms, Proverbs & Cultural Expressions",Goll myr yn gheay – dy tappee dy feer!
+"Idioms, Proverbs & Cultural Expressions","Cha jean oo geddyn dooinney gyn baase, ny marrey gyn tonn."
+"Idioms, Proverbs & Cultural Expressions","Ny smoo ee dy chee, ny sloo ee dy yannoo!"
+"Idioms, Proverbs & Cultural Expressions",Cha nel monney er y theay – agh she bee yn dooiney.
+"Idioms, Proverbs & Cultural Expressions",S'lhiat ny smoo na'n raad – agh cha lhiat y chree.
+Question-Answer Pairs,Cre'n traa t’eh? – T’eh queig er tree.
+Question-Answer Pairs,"Vel eh er n’gholl? – She, t’eh goll ec tree."
+Question-Answer Pairs,Cre ta shin dy yannoo? – Ta shin goll dys y pharrik.
+Question-Answer Pairs,"Vel oo foast gobbragh ayns y thie-oast? – Cha nel, ren mee faagail."
+Question-Answer Pairs,"Vel ny paitchyn dy mie? – She, ta ad jannoo braew."
+Question-Answer Pairs,Cre'n fa nagh vel oo er n'gholl? – Ta mee skee son y laa.
+Question-Answer Pairs,"Vel shiu geearree biagh? – Cha nel, gura mie ayd."
+Question-Answer Pairs,Vel eh bio ny marroo? – Bio dy jarroo!
+Question-Answer Pairs,Cre ta shoh? – She lioar noa.
+Question-Answer Pairs,"Vel shin er-ash my vees y traa aym? – She, my sailt."
+Commands & Instructions,Tar dy cheilley!
+Commands & Instructions,Eaisht rish y chlass.
+Commands & Instructions,Cur sheese yn lioar.
+Commands & Instructions,Gow ayrn jeh’n oayll.
+Commands & Instructions,Lhaih shoh ec y cheeill.
+Commands & Instructions,Jean cur lesh y çhing.
+Commands & Instructions,Gow traa dy roshtyn dy leah.
+Commands & Instructions,Cur orrym my chaseryn.
+Commands & Instructions,Cummal ayns y raad shoh.
+Commands & Instructions,Freggyr yn chied chost!
+Named Entity Recognition (NER) Data,Ta Juan goll dys Castletown gys y chaglym ec Tree Hie.
+Named Entity Recognition (NER) Data,Ren Moirrey çheet veih'n Reeriaght Unnaneysit.
+Named Entity Recognition (NER) Data,Va'n çheshaght Ellynyn Manninagh er ve jannoo shassoo.
+Named Entity Recognition (NER) Data,Va mee ayns Ramsey ec hoght er y chlag.
+Named Entity Recognition (NER) Data,T'ad gra dy vel’n thie shen ec Purt ny h-Inshey.
+Named Entity Recognition (NER) Data,"Cha nel Tom ec y thie, t’eh goll gys y reihys."
+Named Entity Recognition (NER) Data,Va’n chloieder Harry ny pheiagh scanshoil.
+Named Entity Recognition (NER) Data,Ta'n reagheydys ry-akin ayns Balley Keeill Eoin.
+Named Entity Recognition (NER) Data,Va mee rish Janet ec y Bunscoill Ghaelgagh.
+Named Entity Recognition (NER) Data,Chossyn ad yn traoor ayns Lunnin ayns 2023.
+Sentiment Analysis Data,Ta mee feer wooiagh jeh'n chooish shen.
+Sentiment Analysis Data,Ta shoh jannoo mee feer trimshagh.
+Sentiment Analysis Data,Cha nel scansh er y red shen dou.
+Sentiment Analysis Data,Ta mee dy bollagh goaill boggey jeh'n red shen.
+Sentiment Analysis Data,Ta'n traagh shoh ro fliugh as cha mie eh dou.
+Sentiment Analysis Data,S'mie lhiam y lioar shen dy jarroo.
+Sentiment Analysis Data,Ta mee skee jeh'n obbyr cheddin dagh laa.
+Sentiment Analysis Data,She red feer feer taitnyssagh eh!
+Sentiment Analysis Data,Ta mee er ve jannoo myrgeddin as mee dy chooilley cheayrt crampagh.
+Sentiment Analysis Data,Cha nel eh ny share na mee er lhimmey jeh!
+Paraphrased & Augmented Sentences,Ta mee goll dys y valley jiu.
+Paraphrased & Augmented Sentences,Ta mee goll gys y valley ny laa jiu.
+Paraphrased & Augmented Sentences,Bee'm ayns y valley ec traa er-giyn.
+Paraphrased & Augmented Sentences,T’eh my phlan dy ghoaill raaid y valley.
+Paraphrased & Augmented Sentences,Ta mee faagail son y valley jiu.
+Paraphrased & Augmented Sentences,Ta mee er n'ghoaill toshiaght dys y valley.
+Paraphrased & Augmented Sentences,"My vel oo shirrey mee, bee'm ayns y valley."
+Paraphrased & Augmented Sentences,Ta'n valley my yannoo boggoil.
+Paraphrased & Augmented Sentences,Ta mee surranse roie dys y valley.
+Paraphrased & Augmented Sentences,Bee yn valley shen reayrt mie jiu.

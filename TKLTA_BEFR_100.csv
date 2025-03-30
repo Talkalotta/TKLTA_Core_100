@@ -1,0 +1,101 @@
+Category,Sentence (Belgian French)
+Grammar Core,Je mange du pain.
+Grammar Core,J'ai mangé du pain hier.
+Grammar Core,Je mangerai du pain demain.
+Grammar Core,"Si j'avais faim, je mangerais du pain."
+Grammar Core,Le pain est mangé par les enfants.
+Grammar Core,Manges-tu souvent du pain ?
+Grammar Core,Il ne mange jamais de pain.
+Grammar Core,Nous étions en train de manger du pain.
+Grammar Core,Qu'il mange du pain !
+Grammar Core,Je viens de manger du pain.
+Conversational Data,"Salut, comment ça va ?"
+Conversational Data,Ça va bien et toi ?
+Conversational Data,Tu veux prendre un café ?
+Conversational Data,"Excuse-moi, où est la gare ?"
+Conversational Data,Merci beaucoup !
+Conversational Data,"De rien, avec plaisir."
+Conversational Data,Quel temps fait-il aujourd'hui ?
+Conversational Data,On se retrouve à 18h ?
+Conversational Data,Tu as regardé le dernier film ?
+Conversational Data,"Oui, il était génial !"
+Code-Switching & Multilingualism,"Je vais au supermarché, maar ik ben een beetje moe."
+Code-Switching & Multilingualism,Tu veux un café ou een thee ?
+Code-Switching & Multilingualism,"Hier, j'ai acheté un nieuw boek."
+Code-Switching & Multilingualism,C'est vraiment cool de spreken twee talen.
+Code-Switching & Multilingualism,Je suis allé à un feestje hier soir.
+Code-Switching & Multilingualism,"On va manger des frites, want ik heb honger."
+Code-Switching & Multilingualism,"Tu as déjà vu ce film ? Ah oui, it's amazing !"
+Code-Switching & Multilingualism,Elle parle français et she understands English too.
+Code-Switching & Multilingualism,Il a dit ‘ça va ?’ et l'autre a répondu ‘good’.
+Code-Switching & Multilingualism,"Je pense que c'est une bonne idée, maar ik weet het niet zeker."
+Formal & Professional Speech,Nous vous remercions pour votre courriel.
+Formal & Professional Speech,"Veuillez agréer, Madame, Monsieur, nos salutations distinguées."
+Formal & Professional Speech,Ce contrat doit être signé avant la fin du mois.
+Formal & Professional Speech,L'assemblée générale aura lieu le 15 mai.
+Formal & Professional Speech,"Selon l'article 5 de la loi, cela est interdit."
+Formal & Professional Speech,L'analyse des résultats a révélé une amélioration significative.
+Formal & Professional Speech,Le patient présente des symptômes de fatigue chronique.
+Formal & Professional Speech,Merci de bien vouloir confirmer votre présence à la réunion.
+Formal & Professional Speech,Les données doivent être encryptées avant leur transmission.
+Formal & Professional Speech,L'entreprise est en pleine expansion sur le marché européen.
+"Idioms, Proverbs & Cultural Expressions",Il pleut comme vache qui pisse.
+"Idioms, Proverbs & Cultural Expressions","Petit à petit, l'oiseau fait son nid."
+"Idioms, Proverbs & Cultural Expressions",On ne vend pas la peau de l’ours avant de l’avoir tué.
+"Idioms, Proverbs & Cultural Expressions",Qui vivra verra.
+"Idioms, Proverbs & Cultural Expressions",Mettre les petits plats dans les grands.
+"Idioms, Proverbs & Cultural Expressions",C'est la goutte d'eau qui fait déborder le vase.
+"Idioms, Proverbs & Cultural Expressions",Avoir le cœur sur la main.
+"Idioms, Proverbs & Cultural Expressions",Se lever du pied gauche.
+"Idioms, Proverbs & Cultural Expressions",Faire d’une pierre deux coups.
+"Idioms, Proverbs & Cultural Expressions",Avoir un chat dans la gorge.
+Question-Answer Pairs,Quelle est la capitale de la Belgique ? Bruxelles.
+Question-Answer Pairs,Combien coûte ce produit ? Il coûte 10 euros.
+Question-Answer Pairs,"Puis-je modifier ma réservation ? Oui, sous certaines conditions."
+Question-Answer Pairs,Quel est votre plat préféré ? J'adore les moules-frites !
+Question-Answer Pairs,Pourquoi le ciel est bleu ? À cause de la diffusion de la lumière.
+Question-Answer Pairs,"Y a-t-il une réduction pour les étudiants ? Oui, 20%."
+Question-Answer Pairs,Quel est ton sport préféré ? Le football.
+Question-Answer Pairs,"Puis-je avoir l’addition s’il vous plaît ? Bien sûr, tout de suite."
+Question-Answer Pairs,Quel est le délai de livraison ? 3 à 5 jours ouvrés.
+Question-Answer Pairs,Comment fonctionne cet appareil ? Il suffit d’appuyer sur ce bouton.
+Commands & Instructions,Ferme la porte.
+Commands & Instructions,Éteins la lumière.
+Commands & Instructions,Appelle-moi demain.
+Commands & Instructions,Ne touche pas à ça !
+Commands & Instructions,Suis-moi.
+Commands & Instructions,Regarde ce document.
+Commands & Instructions,Écoute attentivement.
+Commands & Instructions,Va chercher du pain.
+Commands & Instructions,Écris-moi un message.
+Commands & Instructions,Lisez attentivement les consignes.
+Named Entity Recognition (NER) Data,Marie est allée à Bruxelles hier.
+Named Entity Recognition (NER) Data,Apple a annoncé un nouveau produit.
+Named Entity Recognition (NER) Data,Le 14 juillet est une fête nationale.
+Named Entity Recognition (NER) Data,Google domine le marché de la recherche en ligne.
+Named Entity Recognition (NER) Data,La Tour Eiffel est située à Paris.
+Named Entity Recognition (NER) Data,Amazon livre en Belgique rapidement.
+Named Entity Recognition (NER) Data,"Hier, j’ai rencontré Paul à Gand."
+Named Entity Recognition (NER) Data,L'ONU organise une conférence à Genève.
+Named Entity Recognition (NER) Data,Le match Belgique-France aura lieu ce soir.
+Named Entity Recognition (NER) Data,"Mardi dernier, nous avons visité Anvers."
+Sentiment Analysis Data,"J'adore cette chanson, elle est magnifique !"
+Sentiment Analysis Data,"Ce film est affreux, je ne le recommande pas."
+Sentiment Analysis Data,Je suis tellement heureux aujourd’hui !
+Sentiment Analysis Data,Ce repas est délicieux.
+Sentiment Analysis Data,Ce service client est inacceptable.
+Sentiment Analysis Data,J’ai passé une excellente journée avec mes amis.
+Sentiment Analysis Data,Ce produit est une vraie déception.
+Sentiment Analysis Data,Je suis neutre sur ce sujet.
+Sentiment Analysis Data,"Il fait vraiment beau aujourd'hui, c'est agréable !"
+Sentiment Analysis Data,Je suis extrêmement frustré par cette situation.
+Paraphrased & Augmented Sentences,"Il fait chaud aujourd'hui. → Aujourd'hui, la température est élevée."
+Paraphrased & Augmented Sentences,J'aime lire des livres. → Lire est une de mes passions.
+Paraphrased & Augmented Sentences,Peux-tu m’aider ? → Pourrais-tu me donner un coup de main ?
+Paraphrased & Augmented Sentences,Ce restaurant est bon. → On mange très bien ici.
+Paraphrased & Augmented Sentences,Je suis fatigué. → Je n’ai plus d’énergie.
+Paraphrased & Augmented Sentences,Le film était intéressant. → J’ai trouvé le film captivant.
+Paraphrased & Augmented Sentences,Il est en retard. → Il n'est pas encore arrivé.
+Paraphrased & Augmented Sentences,Elle est contente. → Elle semble très heureuse.
+Paraphrased & Augmented Sentences,Je vais au travail. → Je me rends à mon bureau.
+Paraphrased & Augmented Sentences,Nous avons gagné ! → La victoire est à nous !

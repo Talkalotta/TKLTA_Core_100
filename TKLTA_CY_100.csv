@@ -1,0 +1,101 @@
+Category,Sentence (Welsh)
+Grammar Core,Roedd y ci yn rhedeg yn y parc ddoe.
+Grammar Core,Mae hi’n darllen llyfr bob bore.
+Grammar Core,Bydd y plant yn chwarae yfory.
+Grammar Core,Hoffwn i fynd i’r sinema heno.
+Grammar Core,Nid yw e’n hoffi coffi.
+Grammar Core,Cafodd y tŷ ei adeiladu yn 1900.
+Grammar Core,Oes gennych chi unrhyw gwestiynau?
+Grammar Core,Mae’r tren wedi cyrraedd.
+Grammar Core,Roeddwn i wedi meddwl am hyn o’r blaen.
+Grammar Core,"Pe bai hi’n bwrw glaw, byddai hi’n oer."
+Conversational Data,"Helo, sut wyt ti heddiw?"
+Conversational Data,Wyt ti eisiau mynd am goffi?
+Conversational Data,Mae'r tywydd heddiw yn braf iawn!
+Conversational Data,Ble wyt ti’n byw nawr?
+Conversational Data,Dw i newydd brynu car newydd.
+Conversational Data,Beth wnaethoch chi dros y penwythnos?
+Conversational Data,Mae gen i lawer o waith i'w wneud heddiw.
+Conversational Data,Wyt ti'n dod i'r parti heno?
+Conversational Data,"Sori, ond alla i ddim dod heddiw."
+Conversational Data,Diolch am dy help!
+Code-Switching & Multilingualism,Dw i'n mynd i’r meeting yn y swyddfa.
+Code-Switching & Multilingualism,Mae'r app hwn yn amazing!
+Code-Switching & Multilingualism,Ti angen downloadio’r software newydd.
+Code-Switching & Multilingualism,Pam na wnest ti ffonio fi yn gynharach?
+Code-Switching & Multilingualism,Rwy’n hoffi mynd i'r gym ar ôl gwaith.
+Code-Switching & Multilingualism,Byddwn ni’n catch-up wythnos nesaf.
+Code-Switching & Multilingualism,Mae’n rhaid i mi checkio’r e-bost.
+Code-Switching & Multilingualism,Ti’n gwybod ble mae’r best coffee?
+Code-Switching & Multilingualism,Hoffwn i ordero pryd o fwyd.
+Code-Switching & Multilingualism,Mae e’n golygu 'cool' mewn Saesneg.
+Formal & Professional Speech,Byddwn yn cysylltu â chi yn fuan.
+Formal & Professional Speech,Mae eich apwyntiad wedi'i drefnu ar gyfer 10am.
+Formal & Professional Speech,Mae’r cytundeb hwn yn ddilys am flwyddyn.
+Formal & Professional Speech,Byddwn yn ymchwilio i'r mater hwn.
+Formal & Professional Speech,Mae angen eich llofnod ar y ddogfen hon.
+Formal & Professional Speech,Rydym yn gwerthfawrogi eich adborth.
+Formal & Professional Speech,Bydd y cyfarfod yn dechrau yn brydlon.
+Formal & Professional Speech,Mae angen i ni drafod y termau.
+Formal & Professional Speech,Bydd y prosiect hwn yn cymryd tri mis.
+Formal & Professional Speech,Diolch am eich cydweithrediad.
+"Idioms, Proverbs & Cultural Expressions",Mae hi’n bwrw hen wragedd a ffyn.
+"Idioms, Proverbs & Cultural Expressions",Daw pob peth i’r sawl sy’n aros.
+"Idioms, Proverbs & Cultural Expressions",Mae’r wledd wedi dod i ben.
+"Idioms, Proverbs & Cultural Expressions",Rhed y dŵr i’r môr.
+"Idioms, Proverbs & Cultural Expressions",Mae fel ci yn dilyn ei gynffon.
+"Idioms, Proverbs & Cultural Expressions",Mae hi’n dysgu’r hen iaith.
+"Idioms, Proverbs & Cultural Expressions",Mae pawb yn hoffi dŵr glân.
+"Idioms, Proverbs & Cultural Expressions",Gwell hwyr na hwyrach.
+"Idioms, Proverbs & Cultural Expressions",Nid da lle gellir gwell.
+"Idioms, Proverbs & Cultural Expressions",Mae’n dwp ar ôl y digwyddiad.
+Question-Answer Pairs,Ble mae'r orsaf drenau?
+Question-Answer Pairs,"Mae hi ar y stryd fawr, gyferbyn â'r llyfrgell."
+Question-Answer Pairs,Pa mor bell yw Aberystwyth o fan hyn?
+Question-Answer Pairs,Tua dwy awr mewn car.
+Question-Answer Pairs,Beth yw dy hoff liw?
+Question-Answer Pairs,Mae'n las.
+Question-Answer Pairs,Pryd mae'r siop yn cau?
+Question-Answer Pairs,Am 6pm.
+Question-Answer Pairs,Sut mae’r tywydd heddiw?
+Question-Answer Pairs,Mae’n heulog iawn!
+Commands & Instructions,Agorwch eich llyfrau i dudalen 25.
+Commands & Instructions,"Ewch yn syth ymlaen, yna trowch i’r chwith."
+Commands & Instructions,Arhoswch yma am funud.
+Commands & Instructions,Cau’r drws pan fyddwch chi’n gadael.
+Commands & Instructions,Ysgrifennwch eich enw ar y ddalen.
+Commands & Instructions,Defnyddiwch eich beiro’n ofalus.
+Commands & Instructions,Aroswch nes i chi glywed y seiren.
+Commands & Instructions,Peidiwch â chyffwrdd y botwm hwn.
+Commands & Instructions,Cadwch lygad ar y ci.
+Commands & Instructions,Gwrandewch yn ofalus ar yr esboniad.
+Named Entity Recognition (NER) Data,Aeth Siân i Abertawe ddoe.
+Named Entity Recognition (NER) Data,Bydd Owain yn gweithio i Google.
+Named Entity Recognition (NER) Data,Mae Caerdydd yn brifddinas Cymru.
+Named Entity Recognition (NER) Data,Gwelais i'r Eiffel Tower y llynedd.
+Named Entity Recognition (NER) Data,Daw'r arian o Fanc Cymru.
+Named Entity Recognition (NER) Data,Bydd y cyngerdd yn Theatr y Grand.
+Named Entity Recognition (NER) Data,Cyfarfu Alun â'r Prif Weinidog.
+Named Entity Recognition (NER) Data,Gadewch fi wybod pan fydd Gethin yn cyrraedd.
+Named Entity Recognition (NER) Data,Mae Airbus yn un o'r cwmnïau mwyaf.
+Named Entity Recognition (NER) Data,Mae Cymru’n chwarae yn erbyn Lloegr yfory.
+Sentiment Analysis Data,Dw i’n hapus iawn heddiw!
+Sentiment Analysis Data,Roedd y ffilm hon yn anhygoel!
+Sentiment Analysis Data,Dw i’n teimlo braidd yn drist.
+Sentiment Analysis Data,Mae hyn yn rhy siomedig.
+Sentiment Analysis Data,Rydw i’n caru’r albwm newydd yma!
+Sentiment Analysis Data,Roedd y gwasanaeth yn ofnadwy.
+Sentiment Analysis Data,Mae’r bwyd yma yn flasus iawn.
+Sentiment Analysis Data,Dw i’n flinedig iawn heddiw.
+Sentiment Analysis Data,Hoffwn i beidio â mynd yno eto.
+Sentiment Analysis Data,Mae’n lle anhygoel i ymweld!
+Paraphrased & Augmented Sentences,Mae hi’n dysgu Cymraeg bob dydd.
+Paraphrased & Augmented Sentences,"Bob dydd, mae hi’n ymarfer Cymraeg."
+Paraphrased & Augmented Sentences,Dwi'n yfed coffi bob bore.
+Paraphrased & Augmented Sentences,"Bob bore, dwi’n cael paned o goffi."
+Paraphrased & Augmented Sentences,Mae’r tywydd yn braf heddiw.
+Paraphrased & Augmented Sentences,"Heddiw, mae’r haul yn tywynnu’n hardd."
+Paraphrased & Augmented Sentences,Roeddwn i’n cerdded yn y parc ddoe.
+Paraphrased & Augmented Sentences,"Ddoe, roeddwn i’n mwynhau cerdded yn y parc."
+Paraphrased & Augmented Sentences,Byddwn ni’n mynd i’r sinema heno.
+Paraphrased & Augmented Sentences,"Heno, byddwn ni’n gwylio ffilm yn y sinema."

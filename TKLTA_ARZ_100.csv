@@ -1,0 +1,101 @@
+﻿Category,Sentence (Egyptian Arabic)
+Grammar Core,أنا كنت بذاكر امبارح.
+Grammar Core,هو بيشتغل دلوقتي.
+Grammar Core,هنخرج بكرة.
+Grammar Core,لو كنت عرفت، مكنتش جيت.
+Grammar Core,الكتاب اتقرا بسرعة.
+Grammar Core,مش بحب القهوة.
+Grammar Core,كان بيذاكر لما كلمته.
+Grammar Core,هكون وصلت الساعة 5.
+Grammar Core,ياريتني سمعت كلامك.
+Grammar Core,هي دايماً بتروح الشغل بدري.
+Conversational Data,إزيك؟ عامل إيه؟
+Conversational Data,الحمد لله، وأنت؟
+Conversational Data,رايح فين؟
+Conversational Data,هروح السوق، تجي معايا؟
+Conversational Data,تمام، خلينا نروح.
+Conversational Data,إنت بتشتغل في إيه؟
+Conversational Data,أنا مهندس، وأنت؟
+Conversational Data,أنا طالب في الجامعة.
+Conversational Data,إيه رأيك في الفيلم ده؟
+Conversational Data,كان حلو جدًا، وأنت شايف إيه؟
+Code-Switching & Multilingualism,أنا كنت في الmall إمبارح.
+Code-Switching & Multilingualism,الكورس ده online ولا offline؟
+Code-Switching & Multilingualism,محتاج أعمل download للفايل.
+Code-Switching & Multilingualism,الteacher شرح الدرس كويس.
+Code-Switching & Multilingualism,هنتقابل في الcafé بعد الشغل؟
+Code-Switching & Multilingualism,الpresentation بتاعك كان رائع!
+Code-Switching & Multilingualism,سيبلي الfeedback على الemail.
+Code-Switching & Multilingualism,الapp ده user-friendly جدًا.
+Code-Switching & Multilingualism,الmanager بتاعنا عايز report سريع.
+Code-Switching & Multilingualism,أنا محتاج upgrade للموبايل.
+Formal & Professional Speech,بناءً على الاجتماع السابق، سيتم تنفيذ القرار.
+Formal & Professional Speech,الرجاء إرسال التقرير قبل نهاية اليوم.
+Formal & Professional Speech,يرجى الالتزام بمواعيد العمل.
+Formal & Professional Speech,عذرًا، لا يمكننا مشاركة هذه المعلومات.
+Formal & Professional Speech,نرحب بأسئلتكم واستفساراتكم في أي وقت.
+Formal & Professional Speech,يرجى التفضل بتقديم مقترحاتكم.
+Formal & Professional Speech,الرجاء الانتظار حتى يتم الاتصال بكم.
+Formal & Professional Speech,شكرًا لتعاونكم الدائم.
+Formal & Professional Speech,نقدر اهتمامكم بخدماتنا.
+Formal & Professional Speech,سيتم الرد عليكم في أقرب وقت ممكن.
+"Idioms, Proverbs & Cultural Expressions",العين متحبش غير الحلو.
+"Idioms, Proverbs & Cultural Expressions",اللي ما يعرفش يقول عدس.
+"Idioms, Proverbs & Cultural Expressions",الجار قبل الدار.
+"Idioms, Proverbs & Cultural Expressions",إيد لوحدها متسقفش.
+"Idioms, Proverbs & Cultural Expressions",يا خبر النهارده بفلوس، بكرة ببلاش.
+"Idioms, Proverbs & Cultural Expressions",الصبر مفتاح الفرج.
+"Idioms, Proverbs & Cultural Expressions",على قد لحافك مد رجليك.
+"Idioms, Proverbs & Cultural Expressions",يعمل من الحبة قبة.
+"Idioms, Proverbs & Cultural Expressions",من شبّ على شيء شاب عليه.
+"Idioms, Proverbs & Cultural Expressions",القرش الأبيض ينفع في اليوم الأسود.
+Question-Answer Pairs,فين أقرب صيدلية؟
+Question-Answer Pairs,إيه أفضل مطعم هنا؟
+Question-Answer Pairs,إمتى آخر ميعاد للتقديم؟
+Question-Answer Pairs,إزاي أقدر أوصل المحطة؟
+Question-Answer Pairs,إنت شايف الموضوع ده إزاي؟
+Question-Answer Pairs,إيه رأيك في المنتج ده؟
+Question-Answer Pairs,إنت بتحب القهوة ولا الشاي؟
+Question-Answer Pairs,إزاي أعمل reset للباسوورد؟
+Question-Answer Pairs,ممكن تقولي الساعة كام؟
+Question-Answer Pairs,إنت متأكد من المعلومة دي؟
+Commands & Instructions,افتح الباب.
+Commands & Instructions,اقفل النور.
+Commands & Instructions,هاتلي الموبايل.
+Commands & Instructions,اكتب اسمك هنا.
+Commands & Instructions,اتفضل اجلس.
+Commands & Instructions,بطل دوشة.
+Commands & Instructions,شغل المكيف.
+Commands & Instructions,اطفي الكمبيوتر بعد ما تخلص.
+Commands & Instructions,ابعتلي الإيميل دلوقتي.
+Commands & Instructions,خد بالك من نفسك.
+Named Entity Recognition,محمد سافر باريس.
+Named Entity Recognition,القاهرة أكبر مدينة في مصر.
+Named Entity Recognition,شركة سامسونج أعلنت عن هاتف جديد.
+Named Entity Recognition,عيد الأضحى هيكون الشهر الجاي.
+Named Entity Recognition,الأهرامات من عجائب الدنيا السبع.
+Named Entity Recognition,المتحف المصري في التحرير.
+Named Entity Recognition,رئيس الوزراء اجتمع مع المجلس.
+Named Entity Recognition,نهر النيل أطول نهر في العالم.
+Named Entity Recognition,شركة جوجل أطلقت خدمة جديدة.
+Named Entity Recognition,بطولة كأس العالم هتبدأ قريب.
+Sentiment Analysis Data,أنا مبسوط جدًا بالخبر ده!
+Sentiment Analysis Data,الجو حر قوي ومش مريح.
+Sentiment Analysis Data,الفيلم ده كان رائع!
+Sentiment Analysis Data,مش عاجبني الأكل هنا.
+Sentiment Analysis Data,أنا حاسس بالتعب.
+Sentiment Analysis Data,الخدمة هنا ممتازة.
+Sentiment Analysis Data,الكتاب ده ممل جدًا.
+Sentiment Analysis Data,أنا متحمس جدًا للحفلة.
+Sentiment Analysis Data,مش عارف أوصف فرحتي.
+Sentiment Analysis Data,المنتج ده سيء جدًا للأسف.
+Paraphrased & Augmented Sentences,أنا جوعان قوي.
+Paraphrased & Augmented Sentences,حاسس إني عايز آكل حاجة.
+Paraphrased & Augmented Sentences,الجو برد جدًا النهارده.
+Paraphrased & Augmented Sentences,النهارده الجو ساقع.
+Paraphrased & Augmented Sentences,هو بيشتغل طول اليوم.
+Paraphrased & Augmented Sentences,هو شغال طول النهار.
+Paraphrased & Augmented Sentences,محتاج أشتري موبايل جديد.
+Paraphrased & Augmented Sentences,بفكر أجيب تليفون جديد.
+Paraphrased & Augmented Sentences,القهوة دي طعمها حلو.
+Paraphrased & Augmented Sentences,القهوة دي لذيذة جدًا.

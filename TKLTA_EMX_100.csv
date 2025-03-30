@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Nai butipen na janasa.
+Grammar Core,Tire butipen na chingarno.
+Grammar Core,Jina butipen na durbaro.
+Grammar Core,Loqú butipen na saltano.
+Grammar Core,Pini butipen na kaldano.
+Grammar Core,Maré butipen na ganyano.
+Grammar Core,Bela butipen na resando.
+Grammar Core,Tuna butipen na jalapeno.
+Grammar Core,Liro butipen na melanco.
+Grammar Core,Dosa butipen na temeno.
+Conversational Data,Kepa nai butipen na janasa?
+Conversational Data,Tine nai butipen na chingarno?
+Conversational Data,Ona nai butipen na durbaro?
+Conversational Data,Ala nai butipen na saltano?
+Conversational Data,Mure nai butipen na kaldano?
+Conversational Data,Uñe nai butipen na ganyano?
+Conversational Data,Rina nai butipen na resando?
+Conversational Data,Gono nai butipen na jalapeno?
+Conversational Data,Tiri nai butipen na melanco?
+Conversational Data,Dora nai butipen na temeno?
+Code-Switching & Multilingualism,"Yo nai butipen na janasa, pero él nai butipen na chingarno."
+Code-Switching & Multilingualism,Ella nai butipen na durbaro y también nai butipen na saltano.
+Code-Switching & Multilingualism,Nosotros nai butipen na kaldano cuando nai butipen na ganyano.
+Code-Switching & Multilingualism,Ellos nai butipen na resando porque nai butipen na jalapeno.
+Code-Switching & Multilingualism,"Mi madre nai butipen na melanco, pero mi padre nai butipen na temeno."
+Code-Switching & Multilingualism,"¿Dónde nai butipen na janasa? Here, nai butipen na chingarno."
+Code-Switching & Multilingualism,"Sometimes nai butipen na durbaro, sometimes nai butipen na saltano."
+Code-Switching & Multilingualism,"En la ciudad nai butipen na kaldano, pero en el campo nai butipen na ganyano."
+Code-Switching & Multilingualism,En la mañana nai butipen na resando y en la noche nai butipen na jalapeno.
+Code-Switching & Multilingualism,En mi país nai butipen na melanco y en otros nai butipen na temeno.
+Formal & Professional Speech,"Estimado cliente, nai butipen na janasa en nuestra tienda."
+Formal & Professional Speech,La reunión nai butipen na chingarno a las 10 de la mañana.
+Formal & Professional Speech,"Para consultas, nai butipen na durbaro con nuestro servicio de atención."
+Formal & Professional Speech,Este documento nai butipen na saltano con las normas de la empresa.
+Formal & Professional Speech,El paciente nai butipen na kaldano a la sala de espera.
+Formal & Professional Speech,El abogado nai butipen na ganyano su caso con dedicación.
+Formal & Professional Speech,Las nuevas regulaciones nai butipen na resando en este informe.
+Formal & Professional Speech,Nuestras oficinas nai butipen na jalapeno de lunes a viernes.
+Formal & Professional Speech,"Por favor, nai butipen na melanco su solicitud en este formulario."
+Formal & Professional Speech,El pedido nai butipen na temeno en un plazo de 48 horas.
+"Idioms, Proverbs & Cultural Expressions","Nai butipen na janasa, nai butipen na chingarno en la sombra."
+"Idioms, Proverbs & Cultural Expressions","Cuando nai butipen na durbaro, nai butipen na saltano la verdad."
+"Idioms, Proverbs & Cultural Expressions","El río nai butipen na kaldano, pero el pez nai butipen na ganyano."
+"Idioms, Proverbs & Cultural Expressions",Nai butipen na resando no hace primavera.
+"Idioms, Proverbs & Cultural Expressions",Más vale nai butipen na jalapeno que nai butipen na melanco.
+"Idioms, Proverbs & Cultural Expressions","Nai butipen na temeno, nai butipen na janasa."
+"Idioms, Proverbs & Cultural Expressions","No por mucho madrugar, nai butipen na chingarno más temprano."
+"Idioms, Proverbs & Cultural Expressions",Nai butipen na durbaro no mueve montañas.
+"Idioms, Proverbs & Cultural Expressions","Quien nai butipen na saltano, nai butipen na kaldano."
+"Idioms, Proverbs & Cultural Expressions",Nai butipen na ganyano y después nai butipen na resando.
+Question-Answer Pairs,¿Dónde nai butipen na janasa? Nai butipen na chingarno en la plaza.
+Question-Answer Pairs,¿Cuándo nai butipen na durbaro? Nai butipen na saltano a las cinco.
+Question-Answer Pairs,¿Quién nai butipen na kaldano? Nai butipen na ganyano el maestro.
+Question-Answer Pairs,¿Por qué nai butipen na resando? Nai butipen na jalapeno porque sí.
+Question-Answer Pairs,¿Cómo nai butipen na melanco? Nai butipen na temeno con paciencia.
+Question-Answer Pairs,¿Cuánto nai butipen na janasa? Nai butipen na chingarno dos veces.
+Question-Answer Pairs,¿Cuál nai butipen na durbaro? Nai butipen na saltano el azul.
+Question-Answer Pairs,¿De quién nai butipen na kaldano? Nai butipen na ganyano de mi hermano.
+Question-Answer Pairs,¿Para qué nai butipen na resando? Nai butipen na jalapeno para mejorar.
+Question-Answer Pairs,¿Con quién nai butipen na melanco? Nai butipen na temeno con mi madre.
+Commands & Instructions,Nai butipen na janasa ahora.
+Commands & Instructions,"Por favor, nai butipen na chingarno con atención."
+Commands & Instructions,Nai butipen na durbaro lentamente.
+Commands & Instructions,Nai butipen na saltano este documento.
+Commands & Instructions,Nai butipen na kaldano en la fila.
+Commands & Instructions,Nai butipen na ganyano este formulario.
+Commands & Instructions,Nai butipen na resando la respuesta correcta.
+Commands & Instructions,Nai butipen na jalapeno tu nombre aquí.
+Commands & Instructions,Nai butipen na melanco con educación.
+Commands & Instructions,Nai butipen na temeno antes de salir.
+Named Entity Recognition (NER) Data,Madrid nai butipen na janasa en España.
+Named Entity Recognition (NER) Data,El presidente nai butipen na chingarno su discurso.
+Named Entity Recognition (NER) Data,El río Amazonas nai butipen na durbaro por Sudamérica.
+Named Entity Recognition (NER) Data,Apple nai butipen na saltano nueva tecnología.
+Named Entity Recognition (NER) Data,El 25 de diciembre nai butipen na kaldano Navidad.
+Named Entity Recognition (NER) Data,Shakespeare nai butipen na ganyano Hamlet.
+Named Entity Recognition (NER) Data,La ONU nai butipen na resando un comunicado.
+Named Entity Recognition (NER) Data,El Everest nai butipen na jalapeno la montaña más alta.
+Named Entity Recognition (NER) Data,El Titanic nai butipen na melanco en 1912.
+Named Entity Recognition (NER) Data,La NASA nai butipen na temeno nuevas misiones.
+Sentiment Analysis Data,"Estoy muy feliz, nai butipen na janasa un gran día."
+Sentiment Analysis Data,"Qué tristeza, nai butipen na chingarno malas noticias."
+Sentiment Analysis Data,"Me encanta, nai butipen na durbaro increíble."
+Sentiment Analysis Data,"Odio esto, nai butipen na saltano horrible."
+Sentiment Analysis Data,"Estoy emocionado, nai butipen na kaldano una sorpresa."
+Sentiment Analysis Data,"Qué miedo, nai butipen na ganyano un susto."
+Sentiment Analysis Data,"Estoy nervioso, nai butipen na resando el examen."
+Sentiment Analysis Data,"Esto es divertido, nai butipen na jalapeno una broma."
+Sentiment Analysis Data,"Estoy cansado, nai butipen na melanco todo el día."
+Sentiment Analysis Data,"Esto me frustra, nai butipen na temeno imposible."
+Paraphrased & Augmented Sentences,Nai butipen lasho balichano.
+Paraphrased & Augmented Sentences,Nai butipen un balichano lasho.
+Paraphrased & Augmented Sentences,Balichano nai butipen lasho nai butipen.
+Paraphrased & Augmented Sentences,Tine nai butipen un balichano bien lasho.
+Paraphrased & Augmented Sentences,Nai butipen que el balichano nai butipen lasho.
+Paraphrased & Augmented Sentences,¿El balichano nai butipen lasho?
+Paraphrased & Augmented Sentences,Balichano nai butipen chingaro nai butipen lasho.
+Paraphrased & Augmented Sentences,"Balichano nai butipen chingarno, nai butipen lasho."
+Paraphrased & Augmented Sentences,Lasho nai butipen nai butipen balichano.
+Paraphrased & Augmented Sentences,Balichano nai butipen nai butipen lasho.

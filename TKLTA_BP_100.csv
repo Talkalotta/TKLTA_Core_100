@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Ontem eu fui ao mercado comprar frutas.
+Grammar Core,Amanhã viajaremos para Salvador de avião.
+Grammar Core,"Se eu tivesse dinheiro, compraria um carro novo."
+Grammar Core,O livro foi lido por todas as crianças da escola.
+Grammar Core,Eu não gosto de comer cebola crua.
+Grammar Core,Ela estaria feliz se tivesse passado na prova.
+Grammar Core,Estamos aprendendo novas regras de português.
+Grammar Core,"Quando eu era criança, adorava brincar na rua."
+Grammar Core,O relatório será enviado até sexta-feira.
+Grammar Core,"Se você estudar mais, terá um desempenho melhor."
+Conversational Data,Oi! Tudo bem? Faz tempo que não te vejo.
+Conversational Data,Claro! Vamos marcar um café na semana que vem.
+Conversational Data,Me passa seu número? A gente pode se falar depois.
+Conversational Data,"Nossa, não acredito! Conta essa história direito!"
+Conversational Data,"Desculpa pelo atraso, o trânsito estava horrível."
+Conversational Data,"Tô indo ali rapidinho, quer que eu traga algo?"
+Conversational Data,Sério? Nunca imaginei que ele faria isso!
+Conversational Data,"Ah, entendi! Então foi por isso que ele saiu mais cedo."
+Conversational Data,"E aí, como foi seu final de semana?"
+Conversational Data,Bom dia! Você poderia me ajudar com essa dúvida?
+Code-Switching & Multilingualism,Vou fazer um call às 3h e depois te aviso.
+Code-Switching & Multilingualism,Eu curto muito essa vibe chill do seu set.
+Code-Switching & Multilingualism,Preciso de um upgrade urgente no meu laptop.
+Code-Switching & Multilingualism,"Esse meeting foi super produtivo, né?"
+Code-Switching & Multilingualism,Ele mandou um reply bem rápido no e-mail.
+Code-Switching & Multilingualism,Você viu o novo feature do app?
+Code-Switching & Multilingualism,"Depois da reunião, vamos almoçar no shopping."
+Code-Switching & Multilingualism,Meu amigo começou um novo job remoto.
+Code-Switching & Multilingualism,Ela me enviou um invite para o evento.
+Code-Switching & Multilingualism,Esse feedback me ajudou a melhorar o projeto.
+Formal & Professional Speech,A empresa comunica que o expediente será reduzido amanhã.
+Formal & Professional Speech,É imprescindível que todos os funcionários preencham o relatório.
+Formal & Professional Speech,Solicitamos sua presença na reunião de planejamento estratégico.
+Formal & Professional Speech,O paciente deve comparecer ao hospital em jejum.
+Formal & Professional Speech,Todos os contratos devem ser assinados até sexta-feira.
+Formal & Professional Speech,Favor encaminhar os documentos necessários para validação.
+Formal & Professional Speech,O prazo para submissão dos relatórios é dia 15 de cada mês.
+Formal & Professional Speech,"Em resposta à sua solicitação, informamos que o processo está em andamento."
+Formal & Professional Speech,É importante manter a confidencialidade das informações compartilhadas.
+Formal & Professional Speech,O curso fornecerá certificação reconhecida pelo mercado.
+"Idioms, Proverbs & Cultural Expressions","Água mole em pedra dura, tanto bate até que fura."
+"Idioms, Proverbs & Cultural Expressions",Mais vale um pássaro na mão do que dois voando.
+"Idioms, Proverbs & Cultural Expressions","Quem com ferro fere, com ferro será ferido."
+"Idioms, Proverbs & Cultural Expressions","A curiosidade matou o gato, mas a satisfação o trouxe de volta."
+"Idioms, Proverbs & Cultural Expressions",Não adianta chorar pelo leite derramado.
+"Idioms, Proverbs & Cultural Expressions",Cada macaco no seu galho.
+"Idioms, Proverbs & Cultural Expressions","Mente vazia, oficina do diabo."
+"Idioms, Proverbs & Cultural Expressions",A pressa é inimiga da perfeição.
+"Idioms, Proverbs & Cultural Expressions","Quem não arrisca, não petisca."
+"Idioms, Proverbs & Cultural Expressions","De grão em grão, a galinha enche o papo."
+Question-Answer Pairs,Qual é a capital do Brasil? - Brasília.
+Question-Answer Pairs,Que horas começa o evento? - Às 19h.
+Question-Answer Pairs,Como posso me inscrever no curso? - Acesse o site oficial.
+Question-Answer Pairs,Por que o trânsito está tão ruim hoje? - Houve um acidente na avenida.
+Question-Answer Pairs,"Você aceita pagamento em cartão? - Sim, aceitamos todas as bandeiras."
+Question-Answer Pairs,Qual é o prazo para entrega do relatório? - Até sexta-feira.
+Question-Answer Pairs,Onde posso encontrar esse produto? - Em qualquer supermercado da região.
+Question-Answer Pairs,Que filme você recomenda? - O último que vi foi excelente!
+Question-Answer Pairs,Quem ganhou o jogo ontem? - O time da casa venceu por 2 a 0.
+Question-Answer Pairs,Como funciona esse aplicativo? - Vou te explicar passo a passo.
+Commands & Instructions,Feche a porta ao sair.
+Commands & Instructions,"Por favor, envie-me os documentos até amanhã."
+Commands & Instructions,Clique no botão azul para continuar.
+Commands & Instructions,Leia atentamente as instruções antes de começar.
+Commands & Instructions,Não se esqueça de trazer seu documento de identidade.
+Commands & Instructions,Desligue o celular antes da reunião.
+Commands & Instructions,Preencha todos os campos obrigatórios no formulário.
+Commands & Instructions,Use óculos de proteção ao manusear o produto.
+Commands & Instructions,Evite contato com os olhos.
+Commands & Instructions,Aperte o cinto de segurança antes de iniciar a viagem.
+Named Entity Recognition (NER) Data,"O evento será realizado no Rio de Janeiro, Brasil."
+Named Entity Recognition (NER) Data,Maria e João foram aprovados no concurso.
+Named Entity Recognition (NER) Data,A NASA anunciou uma nova missão para Marte.
+Named Entity Recognition (NER) Data,O presidente assinou um decreto importante hoje.
+Named Entity Recognition (NER) Data,A Amazon está expandindo seus negócios na América do Sul.
+Named Entity Recognition (NER) Data,O Museu do Louvre é um dos mais visitados do mundo.
+Named Entity Recognition (NER) Data,O professor Carlos dará aula na sexta-feira.
+Named Entity Recognition (NER) Data,O show do Coldplay será transmitido ao vivo.
+Named Entity Recognition (NER) Data,A Copa do Mundo de 2026 será realizada nos Estados Unidos.
+Named Entity Recognition (NER) Data,São Paulo é a cidade mais populosa do Brasil.
+Sentiment Analysis Data,Estou muito feliz com essa conquista!
+Sentiment Analysis Data,Que decepção! Esperava mais desse filme.
+Sentiment Analysis Data,"A comida estava deliciosa, recomendo o restaurante."
+Sentiment Analysis Data,Que experiência horrível! Nunca mais volto lá.
+Sentiment Analysis Data,Estou animado para começar esse novo projeto!
+Sentiment Analysis Data,Me senti muito bem recebido na empresa.
+Sentiment Analysis Data,Essa notícia me deixou profundamente triste.
+Sentiment Analysis Data,O atendimento ao cliente foi excepcional!
+Sentiment Analysis Data,"Achei o serviço apenas razoável, esperava mais."
+Sentiment Analysis Data,A palestra foi muito inspiradora e motivacional.
+Paraphrased & Augmented Sentences,O gato preto atravessou a rua lentamente.
+Paraphrased & Augmented Sentences,"Com calma, o gato preto passou pela rua."
+Paraphrased & Augmented Sentences,O felino escuro cruzou a avenida devagar.
+Paraphrased & Augmented Sentences,Um gato negro andou tranquilamente pela estrada.
+Paraphrased & Augmented Sentences,A rua foi atravessada por um gato preto a passos lentos.
+Paraphrased & Augmented Sentences,O animal preto se deslocou pela rua calmamente.
+Paraphrased & Augmented Sentences,"Devagar, um gato preto seguiu pelo caminho."
+Paraphrased & Augmented Sentences,A avenida foi cruzada por um felino negro.
+Paraphrased & Augmented Sentences,"Pela rua, o gato preto andava sem pressa."
+Paraphrased & Augmented Sentences,"Lentamente, o gato negro cruzou a rua."

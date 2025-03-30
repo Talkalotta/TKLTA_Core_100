@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Ayer fui al mercado a comprar frutas.
+Grammar Core,Mañana iremos a la reunión importante en la oficina.
+Grammar Core,"Si tuviera más tiempo, aprendería a tocar guitarra."
+Grammar Core,Él ha estado esperando su pedido desde la semana pasada.
+Grammar Core,El libro será leído por los estudiantes el próximo mes.
+Grammar Core,No quiero salir esta noche porque estoy muy cansado.
+Grammar Core,Los niños jugarán en el parque después de la escuela.
+Grammar Core,¿Por qué no estudiaste para el examen de matemáticas?
+Grammar Core,"Si hubiéramos salido más temprano, no habríamos llegado tarde."
+Grammar Core,Las cartas fueron enviadas por correo ayer.
+Conversational Data,¡Hola! ¿Cómo estás?
+Conversational Data,"Bien, gracias. ¿Y tú?"
+Conversational Data,"Oye, ¿qué planes tienes para este fin de semana?"
+Conversational Data,Voy a visitar a mi familia en Cochabamba.
+Conversational Data,¡Qué chévere! ¿Vas en avión o en bus?
+Conversational Data,En bus. Es más barato y me gusta el paisaje.
+Conversational Data,"Sí, es bonito. Pero el viaje es un poco largo, ¿no?"
+Conversational Data,"Sí, pero llevo mi música y un libro para el camino."
+Conversational Data,"Bueno, que tengas buen viaje."
+Conversational Data,¡Gracias! Nos vemos a la vuelta.
+Code-Switching & Multilingualism,Mañana tengo un meeting con el equipo de marketing.
+Code-Switching & Multilingualism,Ella siempre hace shopping en La Paz los domingos.
+Code-Switching & Multilingualism,Vamos a hacer un brainstorming para la nueva campaña.
+Code-Switching & Multilingualism,Necesito un break antes de seguir trabajando.
+Code-Switching & Multilingualism,Mi jefe quiere un reporte ASAP sobre el proyecto.
+Code-Switching & Multilingualism,Voy a hacer un delivery de comida a su casa.
+Code-Switching & Multilingualism,El software tiene un bug que necesitamos arreglar.
+Code-Switching & Multilingualism,Estamos buscando feedback para mejorar el producto.
+Code-Switching & Multilingualism,Este fin de semana vamos a un camping con amigos.
+Code-Switching & Multilingualism,Hay que actualizar el framework del sistema.
+Formal & Professional Speech,"Estimado cliente, su solicitud ha sido procesada con éxito."
+Formal & Professional Speech,La presente comunicación tiene el propósito de informar sobre la nueva normativa.
+Formal & Professional Speech,Adjunto encontrará el informe correspondiente al mes de febrero.
+Formal & Professional Speech,Le solicitamos confirmar su asistencia a la reunión del próximo lunes.
+Formal & Professional Speech,El doctor le atenderá a la hora programada en la consulta.
+Formal & Professional Speech,El contrato establece las condiciones de trabajo y pago.
+Formal & Professional Speech,Es imprescindible cumplir con los plazos de entrega estipulados.
+Formal & Professional Speech,Los datos financieros deben ser revisados antes del cierre del mes.
+Formal & Professional Speech,Se recomienda a los empleados asistir a la capacitación obligatoria.
+Formal & Professional Speech,El tribunal dictaminó que el acusado es inocente.
+"Idioms, Proverbs & Cultural Expressions",A caballo regalado no se le mira el diente.
+"Idioms, Proverbs & Cultural Expressions",Más vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions",No por mucho madrugar amanece más temprano.
+"Idioms, Proverbs & Cultural Expressions","El que madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions","Cuando el río suena, es porque piedras trae."
+"Idioms, Proverbs & Cultural Expressions","De tal palo, tal astilla."
+"Idioms, Proverbs & Cultural Expressions",La curiosidad mató al gato.
+"Idioms, Proverbs & Cultural Expressions",Más vale prevenir que lamentar.
+"Idioms, Proverbs & Cultural Expressions",En boca cerrada no entran moscas.
+"Idioms, Proverbs & Cultural Expressions","Ojos que no ven, corazón que no siente."
+Question-Answer Pairs,¿Cuál es la capital de Bolivia? - La Paz y Sucre.
+Question-Answer Pairs,¿Cuánto cuesta este producto? - Cuesta 50 bolivianos.
+Question-Answer Pairs,¿Dónde puedo encontrar un buen restaurante? - En el centro hay varias opciones.
+Question-Answer Pairs,¿Qué significa esta palabra? - Significa 'esperanza' en español.
+Question-Answer Pairs,"¿Cuál es el horario de atención? - De lunes a viernes, de 9 a 18 horas."
+Question-Answer Pairs,"¿Cómo se prepara una salteña? - Primero haces la masa, luego el relleno."
+Question-Answer Pairs,¿Qué opinas del nuevo gobierno? - Creo que traerá cambios importantes.
+Question-Answer Pairs,¿Cuándo es el próximo partido? - El sábado a las 5 de la tarde.
+Question-Answer Pairs,"¿Puedes recomendarme un buen libro? - Sí, 'Los Ríos Profundos' de Arguedas."
+Question-Answer Pairs,¿Cómo llego a la plaza principal? - Camina tres cuadras y gira a la derecha.
+Commands & Instructions,"Enciende la luz, por favor."
+Commands & Instructions,Cierra la puerta antes de salir.
+Commands & Instructions,Escribe tu nombre en el formulario.
+Commands & Instructions,Haz clic en el botón para continuar.
+Commands & Instructions,Llámame cuando llegues a casa.
+Commands & Instructions,No olvides apagar la computadora.
+Commands & Instructions,Sigue las instrucciones del manual.
+Commands & Instructions,Di tu nombre en voz alta.
+Commands & Instructions,Recoge tu cuarto antes de salir.
+Commands & Instructions,Entrega el informe antes del viernes.
+Named Entity Recognition,María visitó La Paz el año pasado.
+Named Entity Recognition,El presidente Luis Arce habló en la conferencia.
+Named Entity Recognition,Bolivia tiene tres regiones geográficas principales.
+Named Entity Recognition,La empresa YPFB exporta gas a Brasil.
+Named Entity Recognition,El Carnaval de Oruro es famoso mundialmente.
+Named Entity Recognition,El Salar de Uyuni es el mayor desierto de sal.
+Named Entity Recognition,Cochabamba es conocida como la ciudad de la eterna primavera.
+Named Entity Recognition,El Banco Central de Bolivia regula la economía.
+Named Entity Recognition,Santa Cruz es la ciudad más poblada de Bolivia.
+Named Entity Recognition,El Lago Titicaca es el lago navegable más alto del mundo.
+Sentiment Analysis Data,Estoy muy feliz con mi nuevo trabajo.
+Sentiment Analysis Data,"Este servicio es terrible, nunca volveré."
+Sentiment Analysis Data,"Me encanta la comida boliviana, es deliciosa."
+Sentiment Analysis Data,Odio esperar en largas filas.
+Sentiment Analysis Data,"El evento estuvo increíble, lo disfruté mucho."
+Sentiment Analysis Data,"No me gustó la película, fue aburrida."
+Sentiment Analysis Data,Estoy emocionado por las vacaciones.
+Sentiment Analysis Data,"Me siento triste hoy, no sé por qué."
+Sentiment Analysis Data,La música de este artista es inspiradora.
+Sentiment Analysis Data,No soporto el tráfico en la ciudad.
+Paraphrased & Augmented Sentences,Ayer fui a comprar frutas al mercado.
+Paraphrased & Augmented Sentences,Voy al mercado a comprar frutas cada semana.
+Paraphrased & Augmented Sentences,Mañana tendré una reunión importante en la oficina.
+Paraphrased & Augmented Sentences,Voy a tener una reunión clave mañana.
+Paraphrased & Augmented Sentences,"Si tuviera más tiempo, aprendería guitarra."
+Paraphrased & Augmented Sentences,"Si dispusiera de más tiempo, aprendería a tocar la guitarra."
+Paraphrased & Augmented Sentences,Él ha estado esperando su pedido desde la semana anterior.
+Paraphrased & Augmented Sentences,Hace una semana que espera su pedido.
+Paraphrased & Augmented Sentences,El libro será leído por los estudiantes el mes próximo.
+Paraphrased & Augmented Sentences,"El mes próximo, los estudiantes leerán el libro."

@@ -1,0 +1,101 @@
+Category,Sentence_Aranese
+Grammar Core,Eth mainatge joguèc damb es amics tota era tarde.
+Grammar Core,Jo èri en casa quan sonèc eth telefòn.
+Grammar Core,"Se deman plau, non anaram tà era plaja."
+Grammar Core,Era carta siguec enviada per eth director.
+Grammar Core,Aguest libre l’ei comprat en ua libreria d’Occitània.
+Grammar Core,Que haries se guanhessis era loteria?
+Grammar Core,Non sabiá qu’aguesta opcion existie.
+Grammar Core,"Quan arribaràs a casa, telefòna-me."
+Grammar Core,Eth projècte aurie estat completat abans de junh.
+Grammar Core,Ei important qu’estudies entà poder apréner ben.
+Conversational Data,"Ei fòrça calor aué, non crees?"
+Conversational Data,Quan mos trapam tà dinar?
+Conversational Data,Ei ben guaire que non te vedi!
+Conversational Data,A jo m’agrade eth cafè sense sucre.
+Conversational Data,"Dija’m era vertat, que crees que passarà?"
+Conversational Data,Non sabiá que te platzie tant era montanha!
+Conversational Data,"Aué he un friu terrible, calerà portar ua jaqueta."
+Conversational Data,Per qué non vengues tà era hèsta dissabte?
+Conversational Data,A guest filme ei fantastic! L’as vist?
+Conversational Data,"Non t’arrecordes de jo? Sò Joan, eth cosin de Marc."
+Code-Switching & Multilingualism,Aguest meeting serà eth diuendres que ven.
+Code-Switching & Multilingualism,He de checkar es emails abans d’anar a trabalh.
+Code-Switching & Multilingualism,Demoram eth feedback deth client.
+Code-Switching & Multilingualism,Quin plan fantastic! I’m totally in!
+Code-Switching & Multilingualism,Encara non è fet eth login.
+Code-Switching & Multilingualism,Deman auem un call damb es collègas de França.
+Code-Switching & Multilingualism,Eth wifi non foncione ben en aguesta cafetaria.
+Code-Switching & Multilingualism,Ja t'he enviat un WhatsApp!
+Code-Switching & Multilingualism,Eth film qu’ei a Netflix m’a encantat!
+Code-Switching & Multilingualism,Demanam un taxi damb l’app?
+Formal & Professional Speech,Aguest document deuriá èster signat per eth director.
+Formal & Professional Speech,Era conferéncia començarà a les 10h.
+Formal & Professional Speech,"Per çò que hè a eth procès de seleccion, volem candidats experimentats."
+Formal & Professional Speech,"En cas de dusvides, merce de contactar eth servici d’atencion."
+Formal & Professional Speech,Es resultats dera investigacion confirmen era ipotèsi.
+Formal & Professional Speech,Vos confirmam era recepcion dera vòsta sollicitud.
+Formal & Professional Speech,Demanam era vòsta collaboracion entà poder melhorar eth servici.
+Formal & Professional Speech,Es condicions deth contracte an estat actualizades.
+Formal & Professional Speech,Era reünion serà ajornada tà eth diuendres.
+Formal & Professional Speech,Aguest document contien informacion confidenciau.
+"Idioms, Proverbs & Cultural Expressions",Non te’n vagis per es branques!
+"Idioms, Proverbs & Cultural Expressions","Quan eth gat non i ei, es rats hèn era hèsta."
+"Idioms, Proverbs & Cultural Expressions",Era mia casa ei era tua casa.
+"Idioms, Proverbs & Cultural Expressions",Mès val un au en man qu’un centen volant.
+"Idioms, Proverbs & Cultural Expressions",Hèr es uelhs grani coma plats.
+"Idioms, Proverbs & Cultural Expressions",Non hès montanha d’un gran de sable.
+"Idioms, Proverbs & Cultural Expressions",Aguest afar ei mès long qu’un dia sense pan.
+"Idioms, Proverbs & Cultural Expressions",Eth temps ei era melhora medicina.
+"Idioms, Proverbs & Cultural Expressions",Cada tarrabast ei un pas endeuant.
+"Idioms, Proverbs & Cultural Expressions",Aguesta tèrra ei frut de nòsti avantpassats.
+Question-Answer Pairs,Quant costarie un bilhet tà París? – Costarie aperaquí 150€.
+Question-Answer Pairs,Per qué non vengues a dinar aué? – Perquè auia fòrça trabalh.
+Question-Answer Pairs,A on ei era bibliotèca municipau? – Ei ath cant deth parc.
+Question-Answer Pairs,"Quin orari a era botiga? – Deth deluns ath dissabte, de 9h a 20h."
+Question-Answer Pairs,Quin film recomanaries veir? – Jo recomanarie 'Era ombra deth vent'.
+Question-Answer Pairs,"Que t’agrade era musica classica? – Òc, que l’escoti sovent."
+Question-Answer Pairs,A on pòdi crompar es entrades entath concèrt? – Se pòden crompar en linha.
+Question-Answer Pairs,"Se pòt aparcar ací? – Non, aguesta zòna ei sonque entàs residents."
+Question-Answer Pairs,Quan començarà eth cors de catalan? – Apuarà eth prumèr de mai.
+Question-Answer Pairs,Quant de temps dure eth trajècte en tren? – Aperaquí 3 ores.
+Commands & Instructions,"Obrís era pòrta, per favor."
+Commands & Instructions,Cerca aguesta paraula en eth diccionari.
+Commands & Instructions,Pòrtame un veire d’aigua.
+Commands & Instructions,Baisha eth volum dera musica.
+Commands & Instructions,Diga-me çò que penses.
+Commands & Instructions,Ajuda-me a hèr eth sopar.
+Commands & Instructions,Escriu-me un messatge quan arribès.
+Commands & Instructions,Non t’arretardes massa.
+Commands & Instructions,Escota era tua consciéncia.
+Commands & Instructions,"Dempús de minjar, renta es plats."
+Named Entity Recognition,Maria viatjarà a Barcelona eth mes que ven.
+Named Entity Recognition,Eth president Macron a anonciat naues mesures.
+Named Entity Recognition,Londres ei ua ciutat fòrça animada.
+Named Entity Recognition,Era empresa Google a lançat un nau servici.
+Named Entity Recognition,Eth riu Garona travèrse Tolosa.
+Named Entity Recognition,Es Jòcs Olimpics se celebraràn en París en 2024.
+Named Entity Recognition,Era montanha deth Montardo ei fòrça populara.
+Named Entity Recognition,Eth roman 'Era ombra deth vent' ei plan coneishut.
+Named Entity Recognition,Amazon a inaugurat un nau centre logistic.
+Named Entity Recognition,Eth 14 de julhet ei era hèsta nacionau en França.
+Sentiment Analysis Data,Aué ei un dia fantastic!
+Sentiment Analysis Data,Sò fòrça content per aguesta notícia.
+Sentiment Analysis Data,Aguest restaurant a estat un desastre.
+Sentiment Analysis Data,M’agrade fòrça era tua idèa!
+Sentiment Analysis Data,Non compreni per qué hès aguesta causa.
+Sentiment Analysis Data,Senti nostalgia quan pensi en eth passat.
+Sentiment Analysis Data,Era musica d’aguest film ei emocionanta.
+Sentiment Analysis Data,Quin malur! Auem perdut eth partit.
+Sentiment Analysis Data,Sò fòrça entusiasmat per viatjar a Itàlia.
+Sentiment Analysis Data,Aguest libre m’a hèt plorar.
+Paraphrased & Augmented Sentences,Era nèu a cubèrt tota era val.
+Paraphrased & Augmented Sentences,Eth paissatge aué ei totalaments blanc per causa dera nèu.
+Paraphrased & Augmented Sentences,Aguest libre ei fòrça interessant.
+Paraphrased & Augmented Sentences,Eth contengut d’aguest libre ei fòrça captivant.
+Paraphrased & Augmented Sentences,Jo non sabi çò que cau hèr.
+Paraphrased & Augmented Sentences,Non è cap idèa sus çò que cau hèr.
+Paraphrased & Augmented Sentences,Eth can ei fòrça amistós.
+Paraphrased & Augmented Sentences,Aguest gos ei fòrça simpatic.
+Paraphrased & Augmented Sentences,Non vòli anar ath cinèma aué.
+Paraphrased & Augmented Sentences,Aué non me b’agradarie anar a veir un film.

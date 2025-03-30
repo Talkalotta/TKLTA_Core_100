@@ -1,0 +1,101 @@
+Category,Sentence (Catalan)
+Grammar Core,Ahir vaig anar al mercat a comprar fruita.
+Grammar Core,Demà estudiaré per a l'examen de matemàtiques.
+Grammar Core,"Si tingués més temps, viatjaria per tot el món."
+Grammar Core,Els llibres van ser retornats per l'alumne.
+Grammar Core,No vull sortir aquesta nit perquè estic cansat.
+Grammar Core,L'ocell vola alt al cel cada matí.
+Grammar Core,"Quan era petit, jugava al parc amb els meus amics."
+Grammar Core,El cotxe serà reparat demà al matí.
+Grammar Core,Podries explicar-me com funciona aquest dispositiu?
+Grammar Core,"Si hagués sabut la resposta, hauria participat a la competició."
+Conversational Data,Hola! Com estàs avui?
+Conversational Data,"Ei, vols anar a prendre un cafè després del treball?"
+Conversational Data,Quant costa aquest llibre?
+Conversational Data,"Em pots ajudar amb aquesta tasca, si us plau?"
+Conversational Data,Què faràs aquest cap de setmana?
+Conversational Data,"No estic segur, però crec que la reunió és a les tres."
+Conversational Data,És una idea genial! Com podem començar?
+Conversational Data,"Ho sento, però no puc venir avui."
+Conversational Data,"Vaja, això sí que és una sorpresa!"
+Conversational Data,"Ens veiem demà al mateix lloc, d'acord?"
+Code-Switching & Multilingualism,Vam anar a dinar i ell va dir 'This is delicious!'
+Code-Switching & Multilingualism,Sempre diu 'Merci' en lloc de 'gràcies'.
+Code-Switching & Multilingualism,No sé si hauria de dir 'Hola' o 'Hello' en aquesta situació.
+Code-Switching & Multilingualism,"A la universitat, parlem català i castellà constantment."
+Code-Switching & Multilingualism,El professor va començar en català i va acabar en anglès.
+Code-Switching & Multilingualism,"El meu amic sempre diu 'Wow, que fort!' quan està sorprès."
+Code-Switching & Multilingualism,"En aquesta ciutat, és habitual dir 'Bon dia' o 'Buenos días'."
+Code-Switching & Multilingualism,Li vaig dir 'Per què no ho fas?' i em va respondre 'I don't know'.
+Code-Switching & Multilingualism,"Ahir al bar vaig sentir algú dient 'Molt bé, very good!'."
+Code-Switching & Multilingualism,M'agrada quan em diuen 'Que guapo' o 'How handsome' en anglès.
+Formal & Professional Speech,"Benvolguts companys, avui presentarem els nous objectius."
+Formal & Professional Speech,"En referència al seu correu, adjuntem la documentació sol·licitada."
+Formal & Professional Speech,"D'acord amb les polítiques de l'empresa, aquest document ha de ser signat."
+Formal & Professional Speech,És imprescindible seguir els protocols establerts per a garantir la seguretat.
+Formal & Professional Speech,Gràcies per la seva atenció i col·laboració en aquest projecte.
+Formal & Professional Speech,Li escric per informar-lo sobre els canvis en l'horari de la reunió.
+Formal & Professional Speech,Aquest informe conté dades rellevants per a la presa de decisions.
+Formal & Professional Speech,Ens complau anunciar que la conferència tindrà lloc el mes vinent.
+Formal & Professional Speech,És fonamental mantenir un to cordial en les comunicacions professionals.
+Formal & Professional Speech,"Per qualsevol dubte, no dubti a posar-se en contacte amb nosaltres."
+"Idioms, Proverbs & Cultural Expressions",No es pot fer truita sense trencar els ous.
+"Idioms, Proverbs & Cultural Expressions","Qui no arrisca, no pisca."
+"Idioms, Proverbs & Cultural Expressions","A la taula i al llit, al primer crit."
+"Idioms, Proverbs & Cultural Expressions",L’herba sempre sembla més verda a l’altra banda.
+"Idioms, Proverbs & Cultural Expressions","On hi ha fum, hi ha foc."
+"Idioms, Proverbs & Cultural Expressions","Amb paciència i una canya, tot arriba."
+"Idioms, Proverbs & Cultural Expressions",El temps ho cura tot.
+"Idioms, Proverbs & Cultural Expressions",No hi ha mal que per bé no vingui.
+"Idioms, Proverbs & Cultural Expressions","A qui madruga, Déu l’ajuda."
+"Idioms, Proverbs & Cultural Expressions",Més val tard que mai.
+Question-Answer Pairs,Quina és la capital de Catalunya? - Barcelona.
+Question-Answer Pairs,Quants anys tens? - Tinc 25 anys.
+Question-Answer Pairs,Com puc arribar a l'estació de tren? - Agafi el metro línia 3.
+Question-Answer Pairs,Què mengem avui? - Podem fer una amanida.
+Question-Answer Pairs,On vas néixer? - Vaig néixer a Girona.
+Question-Answer Pairs,"Com estàs avui? - Estic bé, gràcies!"
+Question-Answer Pairs,"Quin temps farà demà? - Segons la previsió, farà sol."
+Question-Answer Pairs,Què vols per postres? - M'agradaria un gelat.
+Question-Answer Pairs,Qui és el director de l'empresa? - És el Sr. Joan Puig.
+Question-Answer Pairs,Quan comença la pel·lícula? - A les vuit del vespre.
+Commands & Instructions,"Tanca la porta, si us plau."
+Commands & Instructions,Llegeix aquest document abans de signar.
+Commands & Instructions,Apaga les llums quan surtis de l'habitació.
+Commands & Instructions,Segueix les indicacions del metge.
+Commands & Instructions,Fes la teva feina amb responsabilitat.
+Commands & Instructions,Entra en silenci a la biblioteca.
+Commands & Instructions,Escriu un resum de l’article.
+Commands & Instructions,No oblidis portar el teu DNI.
+Commands & Instructions,Omple aquest formulari amb les teves dades.
+Commands & Instructions,Truca’m quan arribis a casa.
+Named Entity Recognition,Barcelona és una ciutat molt bonica.
+Named Entity Recognition,El president de la companyia és Joan Torres.
+Named Entity Recognition,Maria va viatjar a París el mes passat.
+Named Entity Recognition,El riu Ebre és el més llarg de Catalunya.
+Named Entity Recognition,El Museu Dalí està situat a Figueres.
+Named Entity Recognition,Amazon és una empresa de comerç electrònic.
+Named Entity Recognition,L'any 2023 va ser molt calorós.
+Named Entity Recognition,El FC Barcelona va guanyar la lliga.
+Named Entity Recognition,El metge es diu Dr. Martí Ferrer.
+Named Entity Recognition,Apple va llançar un nou iPhone aquest any.
+Sentiment Analysis Data,Aquest restaurant és increïble!
+Sentiment Analysis Data,No m'agrada gens aquest programa.
+Sentiment Analysis Data,Estic molt emocionat pel viatge.
+Sentiment Analysis Data,Aquesta pel·lícula és avorrida.
+Sentiment Analysis Data,Va ser una experiència fantàstica!
+Sentiment Analysis Data,Aquest servei és terrible.
+Sentiment Analysis Data,M'encanta la música clàssica.
+Sentiment Analysis Data,No suportava la calor de l’estiu.
+Sentiment Analysis Data,És un llibre molt interessant.
+Sentiment Analysis Data,No m'esperava una resposta tan ràpida.
+Paraphrased & Augmented Sentences,Ahir vaig veure una pel·lícula molt bona.
+Paraphrased & Augmented Sentences,Vaig mirar un film impressionant ahir.
+Paraphrased & Augmented Sentences,El cotxe és de color blau.
+Paraphrased & Augmented Sentences,Aquest vehicle té un to blau.
+Paraphrased & Augmented Sentences,És important menjar sa.
+Paraphrased & Augmented Sentences,Menjar bé és essencial.
+Paraphrased & Augmented Sentences,M'agrada molt llegir novel·les.
+Paraphrased & Augmented Sentences,Disfruto llegint llibres de ficció.
+Paraphrased & Augmented Sentences,Aquesta classe és molt educativa.
+Paraphrased & Augmented Sentences,És un curs molt formatiu.

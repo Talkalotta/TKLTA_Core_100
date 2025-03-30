@@ -1,0 +1,101 @@
+Category,Sentence_Chewa
+Grammar Core,Ndinkadya nsima lero m'mawa.
+Grammar Core,Tikupita ku msika mawa.
+Grammar Core,Adzakhala akuphunzira pa sukulu.
+Grammar Core,"Ngati angakhale ndi nthawi, angapite naye."
+Grammar Core,Sindinapite ku church lero.
+Grammar Core,Nsima inkadyedwa ndi banja lonse.
+Grammar Core,Ankakonda kusewera mpira nthawi zonse.
+Grammar Core,Tinalemba kalata ya ntchito.
+Grammar Core,Adzakhala akugwira ntchito ku chipatala.
+Grammar Core,Sindidzalankhula naye ngati sadzamvetsetsa.
+Conversational Data,"Wawa, muli bwanji?"
+Conversational Data,"Ndili bwino, zikomo. Inu bwanji?"
+Conversational Data,Tikuyenda kupi lero?
+Conversational Data,Ndikufuna kumwa madzi.
+Conversational Data,"Chabwino, tipite limodzi."
+Conversational Data,Inu mumakhala kuti?
+Conversational Data,Ndakhala ku Lilongwe kwa zaka zisanu.
+Conversational Data,"Tidzawonana mawa, chabwino?"
+Conversational Data,"Pepani, sindinamve bwino."
+Conversational Data,Ine ndagula tomato ku msika.
+Code-Switching & Multilingualism,Ndinagula fruits ku shopu ya Mr. Banda.
+Code-Switching & Multilingualism,Mmawa timakhala ndi breakfast ndi tea.
+Code-Switching & Multilingualism,Kodi mungandipatse change yanga?
+Code-Switching & Multilingualism,Anthu ambiri amayenda pa minibus kupita ku town.
+Code-Switching & Multilingualism,"Tikakhala ku meeting, tiyenera kukhala quiet."
+Code-Switching & Multilingualism,Ndimakonda kusewera netball after class.
+Code-Switching & Multilingualism,Tiyeni tipange homework yathu tsopano.
+Code-Switching & Multilingualism,Anayamba kulira pa TV news.
+Code-Switching & Multilingualism,Madzulo tidya nsima ndi beans.
+Code-Switching & Multilingualism,Simungapite popanda ID card yanu.
+Formal & Professional Speech,Ndikulemba iyi ngati kalata yovomereza ntchito.
+Formal & Professional Speech,"Malinga ndi malamulo a kampani, tiyenera kufika pa nthawi."
+Formal & Professional Speech,Ndikufuna kuchita appointment ndi dokotala.
+Formal & Professional Speech,Tiyenera kulemba report ya mwezi uno.
+Formal & Professional Speech,Mlandu wake udzaweruzidwa sabata yamawa.
+Formal & Professional Speech,Kodi mungandipatse invoice ya zinthu izi?
+Formal & Professional Speech,Tiyeni tikambirane za project yatsopano.
+Formal & Professional Speech,Zikalata zonse ziyenera kusainidwa.
+Formal & Professional Speech,Ndikupempha chithandizo cha malamulo.
+Formal & Professional Speech,Tikuyitanidwa ku msonkhano wa madokotala.
+"Idioms, Proverbs & Cultural Expressions",Mutu umodzi susenza denga.
+"Idioms, Proverbs & Cultural Expressions",Wakufa sadziwika ndi nkhope.
+"Idioms, Proverbs & Cultural Expressions",M'tsogoleri wa nzeru amamvera anzake.
+"Idioms, Proverbs & Cultural Expressions",Chuma chili mu nthaka.
+"Idioms, Proverbs & Cultural Expressions","Agalu akangana, mbuzi ndi amene avulala."
+"Idioms, Proverbs & Cultural Expressions",Mphepo ya m'mawa siimwa madzi.
+"Idioms, Proverbs & Cultural Expressions",Wosauka amadziwa mtengo wa ndalama.
+"Idioms, Proverbs & Cultural Expressions",Usiku ndi mfumukazi ya tsiku.
+"Idioms, Proverbs & Cultural Expressions",Amadziwa kudya amadziwa kusunga.
+"Idioms, Proverbs & Cultural Expressions",Thumba siliboola ngati silijadzaza.
+Question-Answer Pairs,Kodi dzina lanu ndani?
+Question-Answer Pairs,Dzina langa ndi Chimwemwe.
+Question-Answer Pairs,Kodi mukuchokera kuti?
+Question-Answer Pairs,Ndikuchokera ku Mzuzu.
+Question-Answer Pairs,Muli ndi zaka zingati?
+Question-Answer Pairs,Ndili ndi zaka makumi awiri ndi imodzi.
+Question-Answer Pairs,Kodi muli pa sukulu?
+Question-Answer Pairs,"Inde, ndili ku university."
+Question-Answer Pairs,Kodi mumakonda ntchito yanu?
+Question-Answer Pairs,"Inde, ndimakonda kwambiri."
+Commands & Instructions,Tsekani zitseko.
+Commands & Instructions,Lembani dzina lanu apa.
+Commands & Instructions,Pitani kwa dokotala mwamsanga.
+Commands & Instructions,Sambani m’manja musanadye.
+Commands & Instructions,Onani bwino musanayambe.
+Commands & Instructions,Siyani kuseka pa class.
+Commands & Instructions,Gwirani ntchito yanu mwakhama.
+Commands & Instructions,Tsegulani mabuku anu.
+Commands & Instructions,Perekani ndalama zoyenera.
+Commands & Instructions,Limbikirani pa maphunziro anu.
+Named Entity Recognition (NER),Bingu wa Mutharika anali pulezidenti wa Malawi.
+Named Entity Recognition (NER),Lilongwe ndi likulu la dziko.
+Named Entity Recognition (NER),Tinafika pa 6 January 2020.
+Named Entity Recognition (NER),Kampani ya Airtel ikupereka intaneti.
+Named Entity Recognition (NER),Ndinaona a Grace ku hospitali.
+Named Entity Recognition (NER),"Masiku ano, UNICEF ikuthandiza kwambiri."
+Named Entity Recognition (NER),Nthambi ya WHO ili ku Area 43.
+Named Entity Recognition (NER),Tidzapita ku Nkhata Bay sabata yamawa.
+Named Entity Recognition (NER),Peter ndi mphunzitsi ku Chancellor College.
+Named Entity Recognition (NER),Kusukulu kwa Mtendere kuli ophunzira 500.
+Sentiment Analysis Data,Ndikukondwa kwambiri lero.
+Sentiment Analysis Data,Sindinkasangalala ndi chisankhocho.
+Sentiment Analysis Data,Mavuto akuchuluka tsiku ndi tsiku.
+Sentiment Analysis Data,Zikomo kwambiri chifukwa chothandiza.
+Sentiment Analysis Data,Ndikumva chisoni kwambiri.
+Sentiment Analysis Data,Ndili ndi nkhawa za mawa.
+Sentiment Analysis Data,Ndasangalala kukumana nanu.
+Sentiment Analysis Data,Sindimakonda zimenezo.
+Sentiment Analysis Data,Zinthu zili bwino kwambiri.
+Sentiment Analysis Data,Zinthu sizikuyenda bwino.
+Paraphrased & Augmented Sentences,Ndapita ku msika.
+Paraphrased & Augmented Sentences,Ndinapita ku msika lero m'mawa.
+Paraphrased & Augmented Sentences,"Lero m'mawa, ndinayenda kupita ku msika."
+Paraphrased & Augmented Sentences,Ndakhala ndikuyenda kupita ku msika.
+Paraphrased & Augmented Sentences,Msika ndi komwe ndinapita lero.
+Paraphrased & Augmented Sentences,Sindinapite kwina kupatula ku msika.
+Paraphrased & Augmented Sentences,Ndapita kumene ku msika.
+Paraphrased & Augmented Sentences,Msika unali komwe ndinapita.
+Paraphrased & Augmented Sentences,Nthawi yanga yambiri ndimapitira ku msika.
+Paraphrased & Augmented Sentences,Ndinapita ku msika n’kubwerera nthawi yomweyo.

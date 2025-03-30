@@ -1,0 +1,101 @@
+Category,Sentence (Greek)
+Grammar Core,Ο Γιάννης διαβάζει ένα βιβλίο κάθε μέρα.
+Grammar Core,Διάβασα το βιβλίο χθες το βράδυ.
+Grammar Core,Θα διαβάσω το βιβλίο αύριο.
+Grammar Core,"Αν διάβαζες περισσότερο, θα ήσουν καλύτερος μαθητής."
+Grammar Core,Το βιβλίο διαβάστηκε από τον Γιάννη.
+Grammar Core,Δεν έχω διαβάσει ακόμα αυτό το βιβλίο.
+Grammar Core,"Διαβάζοντας αυτό το βιβλίο, έμαθα πολλά."
+Grammar Core,Ας διαβάσουμε όλοι μαζί την ιστορία.
+Grammar Core,Το να διαβάζεις είναι ευχάριστο.
+Grammar Core,Έχω διαβάσει πολλά βιβλία στη ζωή μου.
+Conversational Data,Γεια σου! Τι κάνεις σήμερα;
+Conversational Data,"Είμαι καλά, εσύ;"
+Conversational Data,Θα πάμε για καφέ αργότερα;
+Conversational Data,"Ναι, ακούγεται ωραία! Τι ώρα;"
+Conversational Data,Στις έξι το απόγευμα στην πλατεία.
+Conversational Data,Τέλεια! Θα φέρω και τη Μαρία.
+Conversational Data,Έχεις δει την καινούργια ταινία;
+Conversational Data,Ναι! Ήταν απίστευτη!
+Conversational Data,Χαίρομαι που σου άρεσε!
+Conversational Data,Τα λέμε αργότερα!
+Code-Switching & Multilingualism,"Έλα σπίτι μου tonight, θα κάνουμε πάρτι!"
+Code-Switching & Multilingualism,Δεν ξέρω αν πρέπει να πάω στο meeting ή να δουλέψω remote.
+Code-Switching & Multilingualism,Το delivery άργησε πολύ σήμερα.
+Code-Switching & Multilingualism,Αυτό το laptop είναι πραγματικά γρήγορο.
+Code-Switching & Multilingualism,Θα παραγγείλουμε sushi ή pizza;
+Code-Switching & Multilingualism,"Κλείσε το Wi-Fi, δεν δουλεύει σωστά."
+Code-Switching & Multilingualism,Το update του app έφτιαξε το bug.
+Code-Switching & Multilingualism,Τι ώρα είναι το deadline για την εργασία;
+Code-Switching & Multilingualism,Στείλε μου το file στο email.
+Code-Switching & Multilingualism,Θα κάνουμε brainstorming αύριο.
+Formal & Professional Speech,"Αγαπητέ κύριε Παπαδόπουλε, σας ευχαριστώ για τη συνεργασία."
+Formal & Professional Speech,"Σύμφωνα με το άρθρο 12, η σύμβαση ισχύει έως το 2025."
+Formal & Professional Speech,Παρακαλώ όπως αποστείλετε το έγγραφο εντός 5 ημερών.
+Formal & Professional Speech,Η ιατρική διάγνωση επιβεβαιώνει τη θεραπεία.
+Formal & Professional Speech,Το συνέδριο θα πραγματοποιηθεί στις 10 Οκτωβρίου.
+Formal & Professional Speech,Η εταιρεία μας δεσμεύεται για υψηλή ποιότητα.
+Formal & Professional Speech,Η παρούσα αναφορά αφορά τις οικονομικές προβλέψεις.
+Formal & Professional Speech,Σας ενημερώνουμε ότι η παράδοση καθυστερεί.
+Formal & Professional Speech,Η σύμβαση υπεγράφη από όλες τις πλευρές.
+Formal & Professional Speech,Η πολιτική ιδιωτικότητας είναι διαθέσιμη στην ιστοσελίδα μας.
+"Idioms, Proverbs & Cultural Expressions","Όπου λαλούν πολλοί κοκόροι, αργεί να ξημερώσει."
+"Idioms, Proverbs & Cultural Expressions",Μην κάνεις την τρίχα τριχιά.
+"Idioms, Proverbs & Cultural Expressions",Σαν τη γάτα με το σκύλο.
+"Idioms, Proverbs & Cultural Expressions",Έβαλε νερό στο κρασί του.
+"Idioms, Proverbs & Cultural Expressions",Τα κάνω θάλασσα.
+"Idioms, Proverbs & Cultural Expressions","Έχεις το καρπούζι, έχεις και το μαχαίρι."
+"Idioms, Proverbs & Cultural Expressions",Του έριξε άκυρο.
+"Idioms, Proverbs & Cultural Expressions",Κάλλιο αργά παρά ποτέ.
+"Idioms, Proverbs & Cultural Expressions","Όποιος βιάζεται, σκοντάφτει."
+"Idioms, Proverbs & Cultural Expressions",Πέταξε τη σκούφια του από τη χαρά του.
+Question-Answer Pairs,Ποιος είναι ο πρωθυπουργός της Ελλάδας;
+Question-Answer Pairs,Ο πρωθυπουργός της Ελλάδας είναι ο Κυριάκος Μητσοτάκης.
+Question-Answer Pairs,Τι καιρό θα κάνει αύριο;
+Question-Answer Pairs,Αύριο θα έχει ηλιοφάνεια με λίγα σύννεφα.
+Question-Answer Pairs,Ποιο είναι το αγαπημένο σου φαγητό;
+Question-Answer Pairs,Μου αρέσει πολύ ο μουσακάς.
+Question-Answer Pairs,Πότε ξεκινάει η παράσταση;
+Question-Answer Pairs,Η παράσταση ξεκινάει στις 8 το βράδυ.
+Question-Answer Pairs,Πόσο κοστίζει αυτό το προϊόν;
+Question-Answer Pairs,Κοστίζει 25 ευρώ.
+Commands & Instructions,"Άνοιξε το παράθυρο, κάνει ζέστη."
+Commands & Instructions,Μην αγγίζεις το καυτό τηγάνι!
+Commands & Instructions,Παρακαλώ καθίστε στη θέση σας.
+Commands & Instructions,"Δώσε μου το βιβλίο, σε παρακαλώ."
+Commands & Instructions,Πληκτρολόγησε τον κωδικό πρόσβασης.
+Commands & Instructions,Κλείσε την πόρτα πριν φύγεις.
+Commands & Instructions,Πες μου μια ιστορία.
+Commands & Instructions,Μην μιλάς τόσο δυνατά.
+Commands & Instructions,Γράψε ένα email στον πελάτη.
+Commands & Instructions,Φέρε μου ένα ποτήρι νερό.
+Named Entity Recognition (NER) Data,Ο Γιώργος ταξίδεψε στο Παρίσι το 2023.
+Named Entity Recognition (NER) Data,Η Μαρία εργάζεται στη Microsoft.
+Named Entity Recognition (NER) Data,Η Αθήνα είναι η πρωτεύουσα της Ελλάδας.
+Named Entity Recognition (NER) Data,Το Συνέδριο Τεχνολογίας πραγματοποιείται τον Ιούνιο.
+Named Entity Recognition (NER) Data,Η Apple κυκλοφόρησε νέο iPhone.
+Named Entity Recognition (NER) Data,Ο Ολυμπιακός κέρδισε το πρωτάθλημα.
+Named Entity Recognition (NER) Data,Ο Νίκος γεννήθηκε το 1985.
+Named Entity Recognition (NER) Data,Η Google ανακοίνωσε νέο προϊόν.
+Named Entity Recognition (NER) Data,Η Eurovision θα διεξαχθεί στη Σουηδία.
+Named Entity Recognition (NER) Data,Το Πανεπιστήμιο Αθηνών είναι από τα παλαιότερα στην Ευρώπη.
+Sentiment Analysis Data,"Αγαπώ τη μουσική, με κάνει να νιώθω ελεύθερος."
+Sentiment Analysis Data,Σήμερα είναι η χειρότερη μέρα της ζωής μου.
+Sentiment Analysis Data,Είναι υπέροχο να βλέπεις το ηλιοβασίλεμα στη θάλασσα.
+Sentiment Analysis Data,Αισθάνομαι απογοητευμένος με τα αποτελέσματα.
+Sentiment Analysis Data,Τι υπέροχη έκπληξη! Δεν το περίμενα καθόλου!
+Sentiment Analysis Data,"Αυτό το φαγητό είναι απαίσιο, δεν το αντέχω."
+Sentiment Analysis Data,"Μου λείπει η οικογένειά μου, νιώθω μόνος σήμερα."
+Sentiment Analysis Data,"Η συναυλία ήταν μαγική, δεν θα την ξεχάσω ποτέ."
+Sentiment Analysis Data,"Μερικές φορές, απλά θέλω να τα παρατήσω όλα."
+Sentiment Analysis Data,Η ομάδα μου κέρδισε! Είμαι ενθουσιασμένος!
+Paraphrased & Augmented Sentences,Ο σκύλος τρέχει γρήγορα στον κήπο.
+Paraphrased & Augmented Sentences,Το κατοικίδιό μου πηδάει χαρούμενα στο γρασίδι.
+Paraphrased & Augmented Sentences,Ο σκύλος κινείται με ταχύτητα στην αυλή.
+Paraphrased & Augmented Sentences,Βλέπω έναν χαρούμενο σκύλο να τρέχει έξω.
+Paraphrased & Augmented Sentences,Το ζώο παίζει τρέχοντας στον ανοιχτό χώρο.
+Paraphrased & Augmented Sentences,Ένας σκύλος τρέχει και παίζει στο πάρκο.
+Paraphrased & Augmented Sentences,Το κουτάβι διασκεδάζει τρέχοντας στο γρασίδι.
+Paraphrased & Augmented Sentences,Ένα γρήγορο σκυλάκι τρέχει στο πεζοδρόμιο.
+Paraphrased & Augmented Sentences,Ο σκύλος κινείται χαρούμενα στην αυλή.
+Paraphrased & Augmented Sentences,Το ζωάκι εξερευνά την περιοχή τρέχοντας.

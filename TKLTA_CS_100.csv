@@ -1,0 +1,101 @@
+Category,Sentence_CZ
+Grammar Core (Sentence Structures & Tenses),Píšu dopis každé pondělí.
+Grammar Core (Sentence Structures & Tenses),Psala jsem dopis včera večer.
+Grammar Core (Sentence Structures & Tenses),Budu psát dopis zítra.
+Grammar Core (Sentence Structures & Tenses),"Kdybych měl čas, napsal bych ti dopis."
+Grammar Core (Sentence Structures & Tenses),Nepíšu často dopisy.
+Grammar Core (Sentence Structures & Tenses),Dopis byl napsán učitelem.
+Grammar Core (Sentence Structures & Tenses),On právě teď píše dopis.
+Grammar Core (Sentence Structures & Tenses),Dopis býval psán ručně.
+Grammar Core (Sentence Structures & Tenses),Napiš mi dopis hned teď!
+Grammar Core (Sentence Structures & Tenses),Měla by napsat dopis svému příteli.
+Conversational Data (Real-Life Dialogues & Exchanges),"Ahoj, jak se máš?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Mám se fajn, díky. A ty?"
+Conversational Data (Real-Life Dialogues & Exchanges),Co děláš o víkendu?
+Conversational Data (Real-Life Dialogues & Exchanges),Půjdeme spolu na oběd?
+Conversational Data (Real-Life Dialogues & Exchanges),"Jasně, v kolik?"
+Conversational Data (Real-Life Dialogues & Exchanges),Ve dvě hodiny před kavárnou.
+Conversational Data (Real-Life Dialogues & Exchanges),To zní skvěle!
+Conversational Data (Real-Life Dialogues & Exchanges),Můžu si půjčit tvůj deštník?
+Conversational Data (Real-Life Dialogues & Exchanges),"Promiň, už jsem ho půjčil jinému kamarádovi."
+Conversational Data (Real-Life Dialogues & Exchanges),"Nezapomeň mi napsat, až dorazíš."
+Code-Switching & Multilingualism,Zítra mám meeting v kanceláři.
+Code-Switching & Multilingualism,"Pošli mi ten email, prosím."
+Code-Switching & Multilingualism,To je cool nápad!
+Code-Switching & Multilingualism,"Nevím, co znamená 'deadline'."
+Code-Switching & Multilingualism,Můžeme to probrat přes Zoom?
+Code-Switching & Multilingualism,Tohle je náš team leader.
+Code-Switching & Multilingualism,Potřebuji nový login do systému.
+Code-Switching & Multilingualism,Restartuj prosím ten server.
+Code-Switching & Multilingualism,Chceš jít na lunch?
+Code-Switching & Multilingualism,Deployujeme to večer.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Rádi bychom vás přivítali na dnešní konferenci.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Vaše žádost bude zpracována během pěti pracovních dnů.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Prosíme o dodržení hygienických předpisů.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Přednáška začíná přesně v devět hodin.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Pacient vykazuje známky zlepšení.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Tato smlouva je právně závazná.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Naše firma sídlí v centru města.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Operace proběhla bez komplikací.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Tento dokument musí být podepsán dvěma svědky.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Žádáme vás o spolupráci při auditu.
+"Idioms, Proverbs & Cultural Expressions",Spadl z višně.
+"Idioms, Proverbs & Cultural Expressions",Má máslo na hlavě.
+"Idioms, Proverbs & Cultural Expressions",Je to o nervy.
+"Idioms, Proverbs & Cultural Expressions",Dát si do nosu.
+"Idioms, Proverbs & Cultural Expressions",Mít hluboko do kapsy.
+"Idioms, Proverbs & Cultural Expressions","Není všechno zlato, co se třpytí."
+"Idioms, Proverbs & Cultural Expressions",Lepší vrabec v hrsti než holub na střeše.
+"Idioms, Proverbs & Cultural Expressions","Když ptáčka lapají, pěkně mu zpívají."
+"Idioms, Proverbs & Cultural Expressions","Mluviti stříbro, mlčeti zlato."
+"Idioms, Proverbs & Cultural Expressions","Co je šeptem, to je s čertem."
+Question-Answer Pairs (FAQ & Contextual Understanding),Kolik stojí vstupenka?
+Question-Answer Pairs (FAQ & Contextual Understanding),Vstupenka stojí 150 korun.
+Question-Answer Pairs (FAQ & Contextual Understanding),Kde najdu nejbližší lékárnu?
+Question-Answer Pairs (FAQ & Contextual Understanding),"Je to za rohem, vedle pošty."
+Question-Answer Pairs (FAQ & Contextual Understanding),Mohu platit kartou?
+Question-Answer Pairs (FAQ & Contextual Understanding),"Ano, přijímáme všechny hlavní karty."
+Question-Answer Pairs (FAQ & Contextual Understanding),Jak dlouho to trvá?
+Question-Answer Pairs (FAQ & Contextual Understanding),Zhruba třicet minut.
+Question-Answer Pairs (FAQ & Contextual Understanding),Máš rád české jídlo?
+Question-Answer Pairs (FAQ & Contextual Understanding),"Ano, hlavně svíčkovou!"
+Commands & Instructions (Imperative Sentences),Zavři prosím dveře.
+Commands & Instructions (Imperative Sentences),Vypni telefon během filmu.
+Commands & Instructions (Imperative Sentences),Přines mi sklenici vody.
+Commands & Instructions (Imperative Sentences),"Napiš mi, až budeš doma."
+Commands & Instructions (Imperative Sentences),Přečti si tuto knihu do zítra.
+Commands & Instructions (Imperative Sentences),"Nejez to, je to horké!"
+Commands & Instructions (Imperative Sentences),Počkej tady.
+Commands & Instructions (Imperative Sentences),Zkontroluj si odpovědi před odevzdáním.
+Commands & Instructions (Imperative Sentences),Umyj si ruce před jídlem.
+Commands & Instructions (Imperative Sentences),"Běž spát, je pozdě."
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Jan Novák pracuje v Microsoftu.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Praha je hlavní město České republiky.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Konference se konala 5. května.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Apple oznámil nový iPhone.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Eva a Petr jedou do Brna.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Škoda Auto je česká automobilka.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Setkáme se ve středu na Karlově mostě.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Google otevřel novou pobočku v Ostravě.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Film měl premiéru 12. října 2023.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",MUDr. Jana Horáková pracuje v nemocnici Motol.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),To byl nejlepší den mého života!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ten film byl strašně nudný.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Jsem nadšený z nové práce!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Zklamalo mě, jak to dopadlo."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Tohle je opravdu frustrující.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Miluju české pivo!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Necítím se dnes dobře.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Byla jsem šťastná, když jsem tě viděla."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),To auto je naprosto úžasné!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Nevím, co si o tom mám myslet."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Kde je nejbližší zastávka autobusu?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Můžete mi říct, kde je nejbližší zastávka?"
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Kde se nachází autobusová zastávka?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Hledám nejbližší autobusovou zastávku.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Kudy k nejbližší zastávce autobusu?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Zajímalo by mě, kde je tady zastávka autobusu."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Jak se dostanu k autobusové zastávce?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Kde najdu zastávku autobusu poblíž?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Je tu někde autobusová zastávka?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Potřebuji zastávku autobusu, kde je?"

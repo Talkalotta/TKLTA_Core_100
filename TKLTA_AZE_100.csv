@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,"O, dünən kitab oxuyurdu."
+Grammar Core,Mən sabah kinoya gedəcəyəm.
+Grammar Core,Sən heç vaxt yalan danışmazsan.
+Grammar Core,"Əgər hava yaxşı olsa, biz gəzintiyə çıxarıq."
+Grammar Core,Bu ev iki il əvvəl tikilmişdir.
+Grammar Core,"Əgər çox işləsən, uğurlu olacaqsan."
+Grammar Core,Siz burada idinizmi?
+Grammar Core,Kitabı oxuyub geri qaytarmaq lazımdır.
+Grammar Core,Mən məktəbdə oxuyanda çox kitab oxuyardım.
+Grammar Core,"O, məsələnin həll olunmasını tələb edir."
+Conversational Data,"Salam, necəsən?"
+Conversational Data,Sabah görüşə bilərik?
+Conversational Data,"Məncə, bu kitab çox maraqlıdır."
+Conversational Data,Sən nə vaxt qayıdacaqsan?
+Conversational Data,Gəlin birlikdə film izləyək!
+Conversational Data,"Mən çay içmək istəyirəm, sən necə?"
+Conversational Data,Siz bu restoranda yemək yemisiniz?
+Conversational Data,Nə üçün bu qədər narahatsan?
+Conversational Data,"Mənim fikrimcə, bu çox gözəl seçimdir."
+Conversational Data,"Sizcə, sabah hava necə olacaq?"
+Code-Switching & Multilingualism,"Bu çox maraqlıdır, amma I think it’s complicated."
+Code-Switching & Multilingualism,"Mən qəhvə içmək istəyirəm, but only if it’s hot."
+Code-Switching & Multilingualism,Sən ingiliscə danışa bilirsən?
+Code-Switching & Multilingualism,Mən online dərslərə qoşuluram.
+Code-Switching & Multilingualism,"Bu çox yaxşı plan, but what about the budget?"
+Code-Switching & Multilingualism,Mən bu filmin soundtrack-ni sevirəm.
+Code-Switching & Multilingualism,Sən bu app-i yüklədinmi?
+Code-Switching & Multilingualism,"O, işdən sonra gym-ə gedir."
+Code-Switching & Multilingualism,Bugünkü weather çox soyuqdur.
+Code-Switching & Multilingualism,Sən update etdiyin yeni file-i göndərdin?
+Formal & Professional Speech,Bu sənədləri imzalamaq lazımdır.
+Formal & Professional Speech,Müştərilərlə ehtiyatlı danışmaq vacibdir.
+Formal & Professional Speech,"Zəhmət olmasa, təqdimatı hazırlayın."
+Formal & Professional Speech,Bu müqavilə 2025-ci ilə qədər qüvvədədir.
+Formal & Professional Speech,Biz bazar araşdırması aparmışıq.
+Formal & Professional Speech,Diaqnoz qoymaq üçün əlavə testlər tələb olunur.
+Formal & Professional Speech,Şirkətimiz müştəri xidmətlərini yaxşılaşdırmağa çalışır.
+Formal & Professional Speech,Bu layihə büdcə məhdudiyyətləri çərçivəsində icra olunmalıdır.
+Formal & Professional Speech,Sizin müraciətiniz nəzərdən keçiriləcəkdir.
+Formal & Professional Speech,Hesabatı vaxtında təqdim etməlisiniz.
+"Idioms, Proverbs & Cultural Expressions",Daş yerində ağırdır.
+"Idioms, Proverbs & Cultural Expressions",Çox bilən çox yanılar.
+"Idioms, Proverbs & Cultural Expressions","Yağışdan çıxdıq, yağmura düşdük."
+"Idioms, Proverbs & Cultural Expressions","Göz görməyən, könül istəməz."
+"Idioms, Proverbs & Cultural Expressions","Hər şeyə çarə var, ölümdən başqa."
+"Idioms, Proverbs & Cultural Expressions","Sən bu işə əl vursan, yanacaqsan."
+"Idioms, Proverbs & Cultural Expressions","İt hürər, karvan keçər."
+"Idioms, Proverbs & Cultural Expressions",Ağac yaş ikən əyilər.
+"Idioms, Proverbs & Cultural Expressions","Nə tökərsən aşına, o da çıxar qaşığına."
+"Idioms, Proverbs & Cultural Expressions",Səbirli olan zəfər çalar.
+Question-Answer Pairs,Sabah hava necə olacaq?
+Question-Answer Pairs,Sizin iş saatlarınız hansılardır?
+Question-Answer Pairs,Buraya necə gedə bilərəm?
+Question-Answer Pairs,Bu məhsulun zəmanəti varmı?
+Question-Answer Pairs,Mənim sifarişimi nə vaxt ala bilərəm?
+Question-Answer Pairs,Siz hansı dildə danışırsınız?
+Question-Answer Pairs,Sizdə hansı xidmətlər var?
+Question-Answer Pairs,Bu kitabın qiyməti nə qədərdir?
+Question-Answer Pairs,Niyə burada WiFi işləmir?
+Question-Answer Pairs,Mən bu problemi necə həll edə bilərəm?
+Commands & Instructions,"Zəhmət olmasa, qapını bağlayın."
+Commands & Instructions,Bu sənədləri imzalayın.
+Commands & Instructions,"Lütfən, səssiz olun."
+Commands & Instructions,Kompyuteri yenidən başladın.
+Commands & Instructions,Mənə kömək edin.
+Commands & Instructions,Zəng etməzdən əvvəl yoxlayın.
+Commands & Instructions,Bu qutunu açın.
+Commands & Instructions,Sürətli cavab verin.
+Commands & Instructions,Mətni diqqətlə oxuyun.
+Commands & Instructions,Bu formu doldurun.
+Named Entity Recognition (NER) Data,Bakıda böyük bir konfrans keçiriləcək.
+Named Entity Recognition (NER) Data,Azərbaycanın paytaxtı Bakıdır.
+Named Entity Recognition (NER) Data,Elon Musk yeni layihə elan etdi.
+Named Entity Recognition (NER) Data,Apple yeni iPhone-u təqdim etdi.
+Named Entity Recognition (NER) Data,Avropa İttifaqı yeni qanun qəbul etdi.
+Named Entity Recognition (NER) Data,Heydər Əliyev adına hava limanı yenidən quruldu.
+Named Entity Recognition (NER) Data,Dünya Kuboku 2026-cı ildə keçiriləcək.
+Named Entity Recognition (NER) Data,NASA Mars missiyası üçün hazırlıqlar görür.
+Named Entity Recognition (NER) Data,Dünya Səhiyyə Təşkilatı yeni hesabat yayımladı.
+Named Entity Recognition (NER) Data,Formula 1 yarışları Bakıda keçiriləcək.
+Sentiment Analysis Data,Bu film mənə çox xoş təsir bağışladı.
+Sentiment Analysis Data,Bu məhsul gözlədiyimdən daha pisdir.
+Sentiment Analysis Data,Mən bu restorandan razı qaldım.
+Sentiment Analysis Data,Xidmətdən çox məyus oldum.
+Sentiment Analysis Data,Çox gözəl bir gün idi!
+Sentiment Analysis Data,Bu yer mənim xoşuma gəlmir.
+Sentiment Analysis Data,Bu təcrübə mənim üçün çox dəyərlidir.
+Sentiment Analysis Data,Bu məqalə çox maraqlıdır.
+Sentiment Analysis Data,Bu restoranın yeməkləri çox dadlıdır.
+Sentiment Analysis Data,Bu kitab çox darıxdırıcı idi.
+Paraphrased & Augmented Sentences,"O, kitab oxuyurdu."
+Paraphrased & Augmented Sentences,Mən sabah kinoya gedirəm.
+Paraphrased & Augmented Sentences,Sən heç vaxt yalan deməzsən.
+Paraphrased & Augmented Sentences,"Əgər hava yaxşı olsa, biz çölə çıxarıq."
+Paraphrased & Augmented Sentences,Bu bina iki il əvvəl tikilib.
+Paraphrased & Augmented Sentences,"Çox işləsən, uğurlu olarsan."
+Paraphrased & Augmented Sentences,Siz buradaydınızmı?
+Paraphrased & Augmented Sentences,Oxuyub qaytarmaq lazımdır.
+Paraphrased & Augmented Sentences,Mən məktəbdə oxuyanda çox kitab oxuyardım.
+Paraphrased & Augmented Sentences,"O, bu məsələnin həllini tələb edir."

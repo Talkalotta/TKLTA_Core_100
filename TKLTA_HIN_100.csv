@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,राम स्कूल जाता है।
+Grammar Core,सीता ने मिठाई खाई थी।
+Grammar Core,वे बाजार जा रहे होंगे।
+Grammar Core,तुमने क्यों नहीं पढ़ाई की?
+Grammar Core,"अगर बारिश होगी, तो मैं नहीं आऊंगा।"
+Grammar Core,यह किताब पढ़ी जानी चाहिए।
+Grammar Core,वह मुझसे बात कर रहा था।
+Grammar Core,"अगर उसने मेहनत की होती, तो वह पास हो जाता।"
+Grammar Core,कल मैं तुम्हें फोन करूंगा।
+Grammar Core,तुम्हें यह काम पूरा करना होगा।
+Conversational Data,क्या तुम आज बाहर चलोगे?
+Conversational Data,"हाँ, मुझे नई फिल्म देखनी है।"
+Conversational Data,आपका दिन कैसा रहा?
+Conversational Data,"मैं ठीक हूँ, धन्यवाद।"
+Conversational Data,"भैया, एक किलो आलू देना।"
+Conversational Data,"सुनो, यह गाना बहुत अच्छा है!"
+Conversational Data,आज का मौसम बहुत सुहावना है।
+Conversational Data,"अरे, तुम इतने देर क्यों कर दिए?"
+Conversational Data,क्या तुमने अपना होमवर्क किया?
+Conversational Data,चलो कहीं कॉफी पीने चलते हैं।
+Code-Switching & Multilingualism,आज का weather बहुत अच्छा है।
+Code-Switching & Multilingualism,मुझे यह movie बहुत पसंद आई।
+Code-Switching & Multilingualism,तुमने मेरा phone देखा?
+Code-Switching & Multilingualism,"आज बहुत cold है, मुझे jacket चाहिए।"
+Code-Switching & Multilingualism,तुमने homework कर लिया?
+Code-Switching & Multilingualism,"चलो, एक selfie लेते हैं।"
+Code-Switching & Multilingualism,मैंने अभी एक नई book खरीदी।
+Code-Switching & Multilingualism,यह song बहुत अच्छा है।
+Code-Switching & Multilingualism,उसका mood ठीक नहीं है।
+Code-Switching & Multilingualism,Can you please pass the पानी?
+Formal & Professional Speech,कृपया अपनी फाइल समय पर जमा करें।
+Formal & Professional Speech,कंपनी के नियमों का पालन करें।
+Formal & Professional Speech,मरीज को नियमित रूप से दवा लेनी चाहिए।
+Formal & Professional Speech,कृपया अगली बैठक का समय बताएं।
+Formal & Professional Speech,हमें इस रिपोर्ट पर विस्तृत चर्चा करनी होगी।
+Formal & Professional Speech,न्यायालय में उचित साक्ष्य प्रस्तुत करें।
+Formal & Professional Speech,डॉक्टर से परामर्श लेना अनिवार्य है।
+Formal & Professional Speech,कृपया अपने दस्तावेज़ पूरे रखें।
+Formal & Professional Speech,यह एक आधिकारिक घोषणा है।
+Formal & Professional Speech,साक्षात्कार के लिए कृपया समय पर आएं।
+"Idioms, Proverbs & Cultural Expressions",ऊँट के मुँह में जीरा।
+"Idioms, Proverbs & Cultural Expressions",नाच ना जाने आँगन टेढ़ा।
+"Idioms, Proverbs & Cultural Expressions",अंधों में काणा राजा।
+"Idioms, Proverbs & Cultural Expressions","हाथी के दाँत खाने के और, दिखाने के और।"
+"Idioms, Proverbs & Cultural Expressions",बिल्ली के भाग्य से छींका टूटा।
+"Idioms, Proverbs & Cultural Expressions","जो गरजते हैं, वो बरसते नहीं।"
+"Idioms, Proverbs & Cultural Expressions","दूध का दूध, पानी का पानी।"
+"Idioms, Proverbs & Cultural Expressions",अक्ल बड़ी या भैंस?
+"Idioms, Proverbs & Cultural Expressions","चार दिन की चांदनी, फिर अंधेरी रात।"
+"Idioms, Proverbs & Cultural Expressions","तेरी जली ना मेरी जली, जल गई दोनों की।"
+Question-Answer Pairs,आपका नाम क्या है? – मेरा नाम राहुल है।
+Question-Answer Pairs,आप कहाँ रहते हैं? – मैं दिल्ली में रहता हूँ।
+Question-Answer Pairs,आज कौन सा दिन है? – आज बुधवार है।
+Question-Answer Pairs,तुम्हें कौन सा रंग पसंद है? – मुझे नीला रंग पसंद है।
+Question-Answer Pairs,"क्या आप मुझे यह किताब देंगे? – हाँ, बिल्कुल।"
+Question-Answer Pairs,आपको चाय पसंद है या कॉफी? – मुझे चाय पसंद है।
+Question-Answer Pairs,"कृपया मुझे समय बता सकते हैं? – हाँ, अभी 3 बजे हैं।"
+Question-Answer Pairs,"क्या आप हिंदी बोल सकते हैं? – हाँ, मैं हिंदी बोल सकता हूँ।"
+Question-Answer Pairs,"क्या यह दुकान खुली है? – नहीं, यह बंद है।"
+Question-Answer Pairs,"क्या तुमने खाना खा लिया? – हाँ, मैंने खा लिया।"
+Commands & Instructions,कृपया दरवाजा बंद करें।
+Commands & Instructions,जल्दी से यह रिपोर्ट तैयार करो।
+Commands & Instructions,बत्तियाँ बंद कर दो।
+Commands & Instructions,चुप रहो और सुनो।
+Commands & Instructions,गाड़ी धीरे चलाओ।
+Commands & Instructions,मुझे एक गिलास पानी लाकर दो।
+Commands & Instructions,कृपया मुझे फोन करना।
+Commands & Instructions,यहाँ आकर बैठो।
+Commands & Instructions,मुझे इस बारे में बताओ।
+Commands & Instructions,कृपया लाइन में खड़े रहिए।
+Named Entity Recognition (NER) Data,दिल्ली भारत की राजधानी है।
+Named Entity Recognition (NER) Data,महात्मा गांधी भारत के पिता कहे जाते हैं।
+Named Entity Recognition (NER) Data,ताजमहल आगरा में स्थित है।
+Named Entity Recognition (NER) Data,आईफोन ऐप्पल कंपनी का उत्पाद है।
+Named Entity Recognition (NER) Data,क्रिकेट भारत में लोकप्रिय खेल है।
+Named Entity Recognition (NER) Data,गंगा नदी भारत में बहती है।
+Named Entity Recognition (NER) Data,रेलवे स्टेशन बहुत भीड़भाड़ वाला था।
+Named Entity Recognition (NER) Data,ट्रेन 10 बजे पहुंचेगी।
+Named Entity Recognition (NER) Data,भारत 1947 में स्वतंत्र हुआ।
+Named Entity Recognition (NER) Data,प्रधानमंत्री ने भाषण दिया।
+Sentiment Analysis Data,यह फिल्म बहुत शानदार थी।
+Sentiment Analysis Data,आज बहुत बुरा दिन था।
+Sentiment Analysis Data,मुझे यह जगह बहुत पसंद आई।
+Sentiment Analysis Data,मुझे यह खाना बिल्कुल अच्छा नहीं लगा।
+Sentiment Analysis Data,मैं बहुत खुश हूँ।
+Sentiment Analysis Data,यह अनुभव निराशाजनक था।
+Sentiment Analysis Data,मुझे गुस्सा आ रहा है।
+Sentiment Analysis Data,यह बहुत मज़ेदार था!
+Sentiment Analysis Data,मुझे इस जगह से प्यार हो गया।
+Sentiment Analysis Data,यह एक भयानक गलती थी।
+Paraphrased & Augmented Sentences,मैं स्कूल जाता हूँ।
+Paraphrased & Augmented Sentences,मैं प्रतिदिन विद्यालय जाता हूँ।
+Paraphrased & Augmented Sentences,राहुल बहुत होशियार लड़का है।
+Paraphrased & Augmented Sentences,राहुल एक चतुर बालक है।
+Paraphrased & Augmented Sentences,तुम कहाँ जा रहे हो?
+Paraphrased & Augmented Sentences,तुम किस स्थान पर जा रहे हो?
+Paraphrased & Augmented Sentences,यह किताब बहुत रोचक है।
+Paraphrased & Augmented Sentences,यह पुस्तक अत्यंत दिलचस्प है।
+Paraphrased & Augmented Sentences,आज मौसम बहुत सुहावना है।
+Paraphrased & Augmented Sentences,आज का वातावरण बहुत सुंदर है।

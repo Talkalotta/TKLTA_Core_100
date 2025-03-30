@@ -1,0 +1,101 @@
+Category,Costa Rican Spanish Sentence
+Grammar Core,Yo estudié anoche para el examen.
+Grammar Core,Mañana iremos a la playa si no llueve.
+Grammar Core,"Si tuviera más tiempo, aprendería otro idioma."
+Grammar Core,Mi casa fue construida en el 2005.
+Grammar Core,No quiero salir porque está lloviendo.
+Grammar Core,"Siempre que me llamas, estoy ocupado."
+Grammar Core,Nosotros hemos vivido en Costa Rica por diez años.
+Grammar Core,¿Por qué no fuiste a la reunión ayer?
+Grammar Core,Los niños jugarán en el parque después de la escuela.
+Grammar Core,Ojalá que tengas un buen día.
+Conversational Data,"¡Mae, qué dicha verte! ¿Cómo estás?"
+Conversational Data,"Pura vida, ¿y vos?"
+Conversational Data,¿Cuánto cuesta este gallo pinto?
+Conversational Data,"Disculpe, ¿me puede decir dónde está la parada del bus?"
+Conversational Data,"Hoy en la tarde vamos al cine, ¿te apuntas?"
+Conversational Data,"El tráfico está terrible hoy, mejor tomemos otro camino."
+Conversational Data,¿Qué hiciste el fin de semana?
+Conversational Data,"Mi hermana se casó el sábado, fue una fiesta lindísima."
+Conversational Data,"Estoy cansado, trabajé hasta tarde anoche."
+Conversational Data,"No sé qué cenar, ¿alguna recomendación?"
+Code-Switching & Multilingualism,El meeting de hoy fue cancelado.
+Code-Switching & Multilingualism,Vamos a hacer un brainstorming para la nueva campaña.
+Code-Switching & Multilingualism,"No tengo cash, ¿me prestás algo?"
+Code-Switching & Multilingualism,Mi jefa quiere que el reporte esté listo ASAP.
+Code-Switching & Multilingualism,El wifi aquí es demasiado lento.
+Code-Switching & Multilingualism,¿Te llega la idea de un road trip este finde?
+Code-Switching & Multilingualism,Ese restaurante es full recomendado en TripAdvisor.
+Code-Switching & Multilingualism,Vamos a chillear un rato después del trabajo.
+Code-Switching & Multilingualism,Necesito hacer un update en mi presentación.
+Code-Switching & Multilingualism,Hoy tenemos un after-office en el bar nuevo.
+Formal & Professional Speech,"Estimado cliente, su factura ha sido enviada por correo electrónico."
+Formal & Professional Speech,Le agradeceríamos que confirme su asistencia a la reunión del viernes.
+Formal & Professional Speech,El paciente presentó síntomas de fatiga y mareo.
+Formal & Professional Speech,El contrato debe ser firmado por ambas partes antes del 15 de marzo.
+Formal & Professional Speech,La empresa se compromete a cumplir con las regulaciones ambientales.
+Formal & Professional Speech,El informe de ventas será presentado a la junta directiva.
+Formal & Professional Speech,"Para aplicar al puesto, complete el formulario adjunto."
+Formal & Professional Speech,Nuestra misión es brindar un servicio de alta calidad.
+Formal & Professional Speech,El abogado revisará el documento antes de enviarlo.
+Formal & Professional Speech,La factura debe ser pagada dentro de los próximos 30 días.
+"Idioms, Proverbs & Cultural Expressions",Estar en las nubes.
+"Idioms, Proverbs & Cultural Expressions",Más vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions",No dar pie con bola.
+"Idioms, Proverbs & Cultural Expressions",Estar entre la espada y la pared.
+"Idioms, Proverbs & Cultural Expressions",Cada loco con su tema.
+"Idioms, Proverbs & Cultural Expressions",Ser pura paja.
+"Idioms, Proverbs & Cultural Expressions",No tener pelos en la lengua.
+"Idioms, Proverbs & Cultural Expressions",A caballo regalado no se le mira el colmillo.
+"Idioms, Proverbs & Cultural Expressions",Estar hasta la coronilla.
+"Idioms, Proverbs & Cultural Expressions",Se hizo la vista gorda.
+Question-Answer Pairs,¿Dónde queda el Mercado Central?
+Question-Answer Pairs,¿Cuánto cuesta un taxi al aeropuerto?
+Question-Answer Pairs,¿Cuál es el plato típico de Costa Rica?
+Question-Answer Pairs,¿A qué hora abre la tienda?
+Question-Answer Pairs,¿Me puede recomendar un buen restaurante?
+Question-Answer Pairs,¿Cómo está el clima hoy?
+Question-Answer Pairs,¿Qué significa 'pura vida'?
+Question-Answer Pairs,¿Cuánto dura el viaje a Monteverde?
+Question-Answer Pairs,¿Dónde puedo cambiar dólares?
+Question-Answer Pairs,¿Se puede pagar con tarjeta?
+Commands & Instructions,"Cierra la puerta, por favor."
+Commands & Instructions,Llámame cuando llegues.
+Commands & Instructions,Sigue recto y gira a la derecha.
+Commands & Instructions,"No toques eso, está caliente."
+Commands & Instructions,Toma dos pastillas cada seis horas.
+Commands & Instructions,Apaga la luz antes de salir.
+Commands & Instructions,"Espera aquí, vuelvo en un minuto."
+Commands & Instructions,Pon tu nombre en la lista.
+Commands & Instructions,No corras en el pasillo.
+Commands & Instructions,Manda el informe antes de las 5.
+Named Entity Recognition,San José es la capital de Costa Rica.
+Named Entity Recognition,El volcán Arenal es un destino turístico popular.
+Named Entity Recognition,Carlos Alvarado fue presidente de Costa Rica.
+Named Entity Recognition,El Instituto Costarricense de Electricidad provee energía.
+Named Entity Recognition,El 15 de septiembre es el Día de la Independencia.
+Named Entity Recognition,La Universidad de Costa Rica es una de las mejores del país.
+Named Entity Recognition,El café de Tarrazú es muy apreciado en el extranjero.
+Named Entity Recognition,El Parque Nacional Manuel Antonio es hermoso.
+Named Entity Recognition,Amazon tiene oficinas en Costa Rica.
+Named Entity Recognition,Netflix estrenó una nueva serie esta semana.
+Sentiment Analysis Data,Me encanta la comida de este restaurante.
+Sentiment Analysis Data,Este servicio al cliente es pésimo.
+Sentiment Analysis Data,Estoy muy emocionado por mi viaje a la playa.
+Sentiment Analysis Data,Me frustra que siempre llegues tarde.
+Sentiment Analysis Data,El clima hoy está perfecto para caminar.
+Sentiment Analysis Data,No me gustó para nada la película.
+Sentiment Analysis Data,Qué alegría verte después de tanto tiempo.
+Sentiment Analysis Data,Estoy completamente decepcionado con este producto.
+Sentiment Analysis Data,La atención aquí es excelente.
+Sentiment Analysis Data,No puedo creer lo bonito que es este lugar.
+Paraphrased & Augmented Sentences,Ayer fuimos a la playa y la pasamos increíble.
+Paraphrased & Augmented Sentences,Nos fuimos a la costa y disfrutamos un montón.
+Paraphrased & Augmented Sentences,Me gusta el café por las mañanas.
+Paraphrased & Augmented Sentences,En la mañana prefiero tomar café.
+Paraphrased & Augmented Sentences,¿Me puedes ayudar con esto?
+Paraphrased & Augmented Sentences,¿Podrías darme una mano con esto?
+Paraphrased & Augmented Sentences,Este carro es muy caro.
+Paraphrased & Augmented Sentences,El precio de este auto es bastante alto.
+Paraphrased & Augmented Sentences,Voy a salir temprano hoy.
+Paraphrased & Augmented Sentences,Hoy me retiraré antes de lo usual.

@@ -1,0 +1,101 @@
+Category,Sentence (Swiss French)
+Grammar Core (Sentence Structures & Tenses),Il ira au marché demain.
+Grammar Core (Sentence Structures & Tenses),Elle avait déjà fini son travail avant midi.
+Grammar Core (Sentence Structures & Tenses),"Si j'avais su, je serais venu plus tôt."
+Grammar Core (Sentence Structures & Tenses),Le projet sera terminé la semaine prochaine.
+Grammar Core (Sentence Structures & Tenses),Nous avons beaucoup ri hier soir.
+Grammar Core (Sentence Structures & Tenses),Les invitations ont été envoyées à temps.
+Grammar Core (Sentence Structures & Tenses),J'espère que tu viendras à la fête.
+Grammar Core (Sentence Structures & Tenses),Il ne faut pas parler trop fort ici.
+Grammar Core (Sentence Structures & Tenses),On aurait dû réserver une table à l'avance.
+Grammar Core (Sentence Structures & Tenses),Tu ne devrais pas oublier ton parapluie.
+Conversational Data (Real-Life Dialogues & Exchanges),"Salut, comment ça va ?"
+Conversational Data (Real-Life Dialogues & Exchanges),Tu fais quoi ce week-end ?
+Conversational Data (Real-Life Dialogues & Exchanges),"Je prendrai un café, s'il vous plaît."
+Conversational Data (Real-Life Dialogues & Exchanges),"D'accord, on se retrouve à 18 heures."
+Conversational Data (Real-Life Dialogues & Exchanges),J'étais tellement fatigué après le travail !
+Conversational Data (Real-Life Dialogues & Exchanges),Il paraît qu'il va pleuvoir demain.
+Conversational Data (Real-Life Dialogues & Exchanges),On y va ensemble ou chacun de son côté ?
+Conversational Data (Real-Life Dialogues & Exchanges),"Je suis désolé, je suis en retard."
+Conversational Data (Real-Life Dialogues & Exchanges),"Merci beaucoup, c'est super gentil !"
+Conversational Data (Real-Life Dialogues & Exchanges),"T’inquiète pas, ça va aller."
+Code-Switching & Multilingualism,On va au resto tonight ?
+Code-Switching & Multilingualism,J’ai oublié mon laptop à la maison.
+Code-Switching & Multilingualism,Il parle en français et suddenly switch to English.
+Code-Switching & Multilingualism,"On se voit à la gare vers les 5 heures, okay ?"
+Code-Switching & Multilingualism,"Le meeting était boring, trop long !"
+Code-Switching & Multilingualism,Elle est trop busy cette semaine.
+Code-Switching & Multilingualism,Je vais check mon agenda et je te redis.
+Code-Switching & Multilingualism,"C'était vraiment un bon film, no ?"
+Code-Switching & Multilingualism,Tu peux share le document avec moi ?
+Code-Switching & Multilingualism,"Je suis lost, c’est où exactement ?"
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Nous vous prions de bien vouloir soumettre votre dossier avant le 15 mars.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Veuillez signer ce contrat avant de partir.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Le patient présente des symptômes de fatigue chronique.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",La réunion est prévue pour demain matin à 9h.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Nous devons respecter le cadre légal en vigueur.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Ce projet nécessite une analyse approfondie des données.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Le rapport sera disponible en fin de journée.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Les ressources humaines traiteront votre demande rapidement.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",L’entreprise prévoit une expansion en 2026.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Merci de nous contacter pour toute question supplémentaire.
+"Idioms, Proverbs & Cultural Expressions",Il ne faut pas vendre la peau de l’ours avant de l’avoir tué.
+"Idioms, Proverbs & Cultural Expressions","Quand le chat n'est pas là, les souris dansent."
+"Idioms, Proverbs & Cultural Expressions",Mieux vaut tard que jamais.
+"Idioms, Proverbs & Cultural Expressions","Petit à petit, l’oiseau fait son nid."
+"Idioms, Proverbs & Cultural Expressions",Il pleut des cordes aujourd’hui !
+"Idioms, Proverbs & Cultural Expressions",Mettre la charrue avant les bœufs.
+"Idioms, Proverbs & Cultural Expressions",Avoir le beurre et l’argent du beurre.
+"Idioms, Proverbs & Cultural Expressions",C’est une goutte d’eau dans l’océan.
+"Idioms, Proverbs & Cultural Expressions",Être dans la lune.
+"Idioms, Proverbs & Cultural Expressions",Courir deux lièvres à la fois.
+Question-Answer Pairs (FAQ & Contextual Understanding),Quel est le meilleur restaurant de Genève ?
+Question-Answer Pairs (FAQ & Contextual Understanding),Où puis-je acheter un billet de train ?
+Question-Answer Pairs (FAQ & Contextual Understanding),Quels sont les horaires d’ouverture du musée ?
+Question-Answer Pairs (FAQ & Contextual Understanding),Comment fonctionne ce service ?
+Question-Answer Pairs (FAQ & Contextual Understanding),Peux-tu me recommander un bon livre ?
+Question-Answer Pairs (FAQ & Contextual Understanding),Pourquoi le ciel est-il bleu ?
+Question-Answer Pairs (FAQ & Contextual Understanding),À quelle heure commence le film ?
+Question-Answer Pairs (FAQ & Contextual Understanding),Quel est le salaire moyen en Suisse ?
+Question-Answer Pairs (FAQ & Contextual Understanding),Quel temps fait-il aujourd’hui ?
+Question-Answer Pairs (FAQ & Contextual Understanding),Combien coûte ce produit ?
+Commands & Instructions (Imperative Sentences),Ferme la porte derrière toi.
+Commands & Instructions (Imperative Sentences),Écoute-moi bien !
+Commands & Instructions (Imperative Sentences),Ne touche pas à ça.
+Commands & Instructions (Imperative Sentences),Répète après moi.
+Commands & Instructions (Imperative Sentences),"Suis-moi, je vais te montrer."
+Commands & Instructions (Imperative Sentences),Regarde avant de traverser.
+Commands & Instructions (Imperative Sentences),Mettez vos ceintures de sécurité.
+Commands & Instructions (Imperative Sentences),Lisez attentivement les instructions.
+Commands & Instructions (Imperative Sentences),"Attendez ici, s'il vous plaît."
+Commands & Instructions (Imperative Sentences),"Parlez plus lentement, s’il vous plaît."
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Jean Dupont est le directeur de l'entreprise.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",La Tour Eiffel est située à Paris.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",L’ONU a son siège à Genève.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",La conférence a lieu le 15 juin 2025.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Le Mont-Blanc est la plus haute montagne d'Europe.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Marie Curie a découvert le radium.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",La Suisse a quatre langues officielles.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",L’horlogerie est une spécialité genevoise.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Le festival de Montreux attire des milliers de visiteurs.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Zurich est la plus grande ville de Suisse.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Je suis tellement content aujourd’hui !
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ce film était vraiment décevant.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"J’adore cet endroit, c’est magnifique."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Je suis en colère contre ce service.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),C’est une excellente nouvelle !
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ce plat a un goût affreux.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Il semble très triste aujourd’hui.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),J’ai peur de parler en public.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Elle est ravie de son nouvel emploi.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ce livre est tellement inspirant !
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Il ira au magasin demain.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Elle avait terminé son travail avant midi.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Si j’avais su, j’aurais réagi autrement."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Le projet sera achevé la semaine prochaine.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Nous avons bien rigolé hier.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Les invitations ont été envoyées rapidement.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),J’espère que tu pourras venir ce soir.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Il est préférable de ne pas parler fort ici.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),On aurait dû réserver plus tôt.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Tu devrais prendre un parapluie.

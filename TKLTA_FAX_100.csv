@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),Eu já comi a merenda.
+Grammar Core (Sentence Structures & Tenses),A María tá estudando na biblioteca.
+Grammar Core (Sentence Structures & Tenses),Nós iremos a Portugal amanhã.
+Grammar Core (Sentence Structures & Tenses),"Se chovesse, não sairíamos de casa."
+Grammar Core (Sentence Structures & Tenses),O livro foi escrito polo meu avó.
+Grammar Core (Sentence Structures & Tenses),"Não gosto de café, mas ele gosta."
+Grammar Core (Sentence Structures & Tenses),Eles nunca viram um tigre antes.
+Grammar Core (Sentence Structures & Tenses),Vou à feira quando o sol nascer.
+Grammar Core (Sentence Structures & Tenses),"Se tu quiseres, podemos ir juntos."
+Grammar Core (Sentence Structures & Tenses),O tempo passou e nós ficamos mais sábios.
+Conversational Data (Real-Life Dialogues & Exchanges),"— Ola! Como tas? — Tô ben, gracias."
+Conversational Data (Real-Life Dialogues & Exchanges),— Que queres comer? — Gústame o peixe.
+Conversational Data (Real-Life Dialogues & Exchanges),— Onde estás? — Estou na casa da minha tia.
+Conversational Data (Real-Life Dialogues & Exchanges),— Pode ajudar-me? — Claro! O que precisas?
+Conversational Data (Real-Life Dialogues & Exchanges),— Faz calor hoje! — Pois é! Vamos à praia?
+Conversational Data (Real-Life Dialogues & Exchanges),— Que horas são? — São quatro da tarde.
+Conversational Data (Real-Life Dialogues & Exchanges),— Como foi o teu dia? — Foi bom! E o teu?
+Conversational Data (Real-Life Dialogues & Exchanges),"— Perdão, podes repetir? — Sim, digo que amanhã é feriado."
+Conversational Data (Real-Life Dialogues & Exchanges),— Que estás fazendo? — Estou preparando a janta.
+Conversational Data (Real-Life Dialogues & Exchanges),"— Vais ao cinema? — Sim, queres vir também?"
+Code-Switching & Multilingualism,Eu fui ao market e comprei um pão.
+Code-Switching & Multilingualism,Ela diz que tá happy hoje.
+Code-Switching & Multilingualism,"A festa foi incrível, we had so much fun!"
+Code-Switching & Multilingualism,Vou estudar francês depois de la escuela.
+Code-Switching & Multilingualism,O professor explicou en inglés e depois en fala.
+Code-Switching & Multilingualism,Aqui temos muito calor durante el verano.
+Code-Switching & Multilingualism,"Eu gosto de ler livros em diferentes idiomas, especially English."
+Code-Switching & Multilingualism,Ele disse 'merci' e saiu.
+Code-Switching & Multilingualism,Quero viajar to Spain next summer.
+Code-Switching & Multilingualism,"Ela falou ‘bueno’, mas depois mudou de ideia."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",A reunião de negócios começará às nove horas.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",O contrato deve ser assinado pelas partes envolvidas.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",O paciente apresenta sintomas de febre e tosse.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",A decisão do tribunal foi favorável ao réu.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",As normas de segurança devem ser seguidas rigorosamente.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Os dados estatísticos indicam um crescimento econômico.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",O diagnóstico diferencial foi confirmado pelos exames.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",A empresa anunciou uma nova política interna.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",É essencial manter a confidencialidade dos documentos.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Os especialistas discutiram os avanços na tecnologia.
+"Idioms, Proverbs & Cultural Expressions",Mais vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions","Quem semeia vento, colhe tempestade."
+"Idioms, Proverbs & Cultural Expressions","O que está feito, está feito."
+"Idioms, Proverbs & Cultural Expressions",Não adianta chorar pelo leite derramado.
+"Idioms, Proverbs & Cultural Expressions",Devagar se vai ao longe.
+"Idioms, Proverbs & Cultural Expressions",Cada macaco no seu galho.
+"Idioms, Proverbs & Cultural Expressions",A cavalo dado não se olha os dentes.
+"Idioms, Proverbs & Cultural Expressions","Água mole em pedra dura, tanto bate até que fura."
+"Idioms, Proverbs & Cultural Expressions",O sol nasce para todos.
+"Idioms, Proverbs & Cultural Expressions","Quem não arrisca, não petisca."
+Question-Answer Pairs (FAQ & Contextual Understanding),Qual é a capital de Portugal? — Lisboa.
+Question-Answer Pairs (FAQ & Contextual Understanding),Quantos anos tens? — Tenho vinte e cinco.
+Question-Answer Pairs (FAQ & Contextual Understanding),Onde posso comprar pão? — Na padaria da esquina.
+Question-Answer Pairs (FAQ & Contextual Understanding),Que dia é hoje? — É segunda-feira.
+Question-Answer Pairs (FAQ & Contextual Understanding),Como posso chegar ao centro da cidade? — Podes pegar o ônibus número 5.
+Question-Answer Pairs (FAQ & Contextual Understanding),Qual é o teu nome? — Meu nome é João.
+Question-Answer Pairs (FAQ & Contextual Understanding),Onde moras? — Moro em Valverde del Fresno.
+Question-Answer Pairs (FAQ & Contextual Understanding),"Posso pagar com cartão? — Sim, aceitamos cartões."
+Question-Answer Pairs (FAQ & Contextual Understanding),"O restaurante está aberto agora? — Sim, até as 22h."
+Question-Answer Pairs (FAQ & Contextual Understanding),Quanto custa esse livro? — Custa 15 euros.
+Commands & Instructions (Imperative Sentences),"Fecha a porta, por favor."
+Commands & Instructions (Imperative Sentences),Lava as mãos antes de comer.
+Commands & Instructions (Imperative Sentences),Diz-me a verdade.
+Commands & Instructions (Imperative Sentences),Não corras na rua!
+Commands & Instructions (Imperative Sentences),Apaga a luz antes de sair.
+Commands & Instructions (Imperative Sentences),Escuta com atenção.
+Commands & Instructions (Imperative Sentences),Faz o trabalho com capricho.
+Commands & Instructions (Imperative Sentences),Vem cá agora.
+Commands & Instructions (Imperative Sentences),Escreve teu nome aqui.
+Commands & Instructions (Imperative Sentences),Olha para mim.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",O João foi a Lisboa na semana passada.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",A Maria trabalha na Microsoft.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Paris é a capital da França.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Pedro nasceu no dia 15 de agosto.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",A Universidade de Coimbra é muito antiga.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",O Banco Central anunciou novas medidas.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",O Museu do Prado fica em Madrid.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Carla viajou para o Brasil este ano.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",A Google lançou um novo produto.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",O Festival de Cannes começa em maio.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Estou muito feliz hoje!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"O filme foi terrível, não gostei."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),A comida estava deliciosa!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Que dia chato…
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Eu amo viajar pelo mundo!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Essa notícia me deixou triste.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Estou ansioso pelo concerto!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Foi a melhor experiência da minha vida.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Esse restaurante tem um serviço péssimo.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"A festa foi incrível, adorei!"
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),O cachorro está dormindo no sofá.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),O cão está deitado no sofá.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),O animal de estimação descansa no sofá.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),O cachorro tirou uma soneca na poltrona.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"No sofá, o cachorro está dormindo."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),O cão cochilou no sofá.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Aquele cão grande está dormindo na sala.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),O cachorro repousa tranquilamente no sofá.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),O bichinho está deitado no sofá.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),O cachorro está tirando um cochilo.

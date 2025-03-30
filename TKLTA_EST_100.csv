@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Ta käib koolis iga päev.
+Grammar Core,Me õppisime eile ajalugu.
+Grammar Core,Kas sa loed seda raamatut praegu?
+Grammar Core,"Ma oleksin sind aidanud, kui mul oleks olnud aega."
+Grammar Core,See maja ehitati 1990. aastal.
+Grammar Core,Ma ei ole seda filmi veel vaadanud.
+Grammar Core,"Kui ilm on ilus, läheme randa."
+Grammar Core,Kas sa tuled homme kinno?
+Grammar Core,Eile oli väga külm ilm.
+Grammar Core,"Nad tahaksid reisida rohkem, kui neil oleks raha."
+Conversational Data,Tere! Kuidas sul läheb?
+Conversational Data,Kas sul on täna plaanid?
+Conversational Data,"Ma arvan, et see on hea mõte."
+Conversational Data,"Hei, kus sa oled?"
+Conversational Data,"Täna oli pikk päev, ma olen väsinud."
+Conversational Data,Kas sa saaksid mulle natuke aega anda?
+Conversational Data,"Mis sa arvad, kas peaksime homme minema?"
+Conversational Data,Kas sa oskad mulle seda selgitada?
+Conversational Data,Mulle meeldib muusika kuulata.
+Conversational Data,"Kas sa tead, millal buss tuleb?"
+Code-Switching & Multilingualism,Kas sa oskad Englishit rääkida?
+Code-Switching & Multilingualism,Ma käisin shoppingul eile.
+Code-Switching & Multilingualism,Selleks on vaja good teamwork.
+Code-Switching & Multilingualism,Kas sul on olemas email address?
+Code-Switching & Multilingualism,Let's meet homme hommikul.
+Code-Switching & Multilingualism,"Ma arvan, et see on very interesting."
+Code-Switching & Multilingualism,Palun send mulle see dokument.
+Code-Switching & Multilingualism,Me peame deadline'ist kinni pidama.
+Code-Switching & Multilingualism,Ma töötan remote'ilt sel nädalal.
+Code-Switching & Multilingualism,See oli total disaster.
+Formal & Professional Speech,"Austatud härra, palun saatke meile dokumendid."
+Formal & Professional Speech,Käesolevaga kinnitame teie tellimuse.
+Formal & Professional Speech,Lepingu tingimused on lisatud manusena.
+Formal & Professional Speech,Täname teid koostöö eest.
+Formal & Professional Speech,Palun kinnitage kohtumine.
+Formal & Professional Speech,Patsiendil esinesid gripilaadsed sümptomid.
+Formal & Professional Speech,Vastavalt seadusele peavad kõik andmed olema konfidentsiaalsed.
+Formal & Professional Speech,Kas saaksite saata mulle täiendavat informatsiooni?
+Formal & Professional Speech,Koosolek toimub kell 14:00.
+Formal & Professional Speech,Palun täitke ankeet enne tähtaega.
+"Idioms, Proverbs & Cultural Expressions",Ära tee kärbsemust elevanti.
+"Idioms, Proverbs & Cultural Expressions",Oma silm on kuningas.
+"Idioms, Proverbs & Cultural Expressions",Parem varblane peos kui tuvi katusel.
+"Idioms, Proverbs & Cultural Expressions",Ära hinda raamatut kaane järgi.
+"Idioms, Proverbs & Cultural Expressions",Iga algus on raske.
+"Idioms, Proverbs & Cultural Expressions","Kes kannatab, see kaua elab."
+"Idioms, Proverbs & Cultural Expressions","Rääkimine hõbe, vaikimine kuld."
+"Idioms, Proverbs & Cultural Expressions",Vihma käes ei jää keegi kuivaks.
+"Idioms, Proverbs & Cultural Expressions","Üheksa korda mõõda, üks kord lõika."
+"Idioms, Proverbs & Cultural Expressions","Kes hiljaks jääb, see ilma jääb."
+Question-Answer Pairs,Mis on Eesti pealinn? - Tallinn.
+Question-Answer Pairs,Mis kell algab koosolek? - Kell 14:00.
+Question-Answer Pairs,"Kas see toode on laos olemas? - Jah, see on saadaval."
+Question-Answer Pairs,Kus asub lähim apteek? - Vabaduse väljakul.
+Question-Answer Pairs,Mis on täna ilm? - Päikesepaisteline ja soe.
+Question-Answer Pairs,Kuidas ma saan sind aidata? - Ma otsin uut arvutit.
+Question-Answer Pairs,"Kas see on sinu raamat? - Jah, see on minu oma."
+Question-Answer Pairs,Miks sa hilinesid? - Buss jäi hiljaks.
+Question-Answer Pairs,"Kas sa oled varem siin käinud? - Ei, see on mu esimene kord."
+Question-Answer Pairs,Millal on järgmine rong? - 10 minuti pärast.
+Commands & Instructions,Lülita valgus välja.
+Commands & Instructions,Sulge uks.
+Commands & Instructions,Palun räägi vaiksemalt.
+Commands & Instructions,Järgige juhiseid.
+Commands & Instructions,Paluge arstil dokument allkirjastada.
+Commands & Instructions,Ärge unustage oma dokumente.
+Commands & Instructions,Vajutage nuppu alustamiseks.
+Commands & Instructions,Sisestage oma parool.
+Commands & Instructions,Hoidke turvavöö kinnitatuna.
+Commands & Instructions,Palun oodake oma järjekorda.
+Named Entity Recognition (NER),Tallinn on Eesti pealinn.
+Named Entity Recognition (NER),Eiffel torn asub Pariisis.
+Named Entity Recognition (NER),Google on üks maailma suurimaid tehnoloogiaettevõtteid.
+Named Entity Recognition (NER),Jaan Tamm töötab Tartu Ülikoolis.
+Named Entity Recognition (NER),Eesti Vabariik tähistas oma iseseisvuspäeva.
+Named Entity Recognition (NER),Amazon müüb miljoneid tooteid.
+Named Entity Recognition (NER),Kalevipoeg on tuntud Eesti eepos.
+Named Entity Recognition (NER),Ma külastan Berliini järgmisel suvel.
+Named Entity Recognition (NER),Stockholm on Rootsi pealinn.
+Named Entity Recognition (NER),Spotify on populaarne muusika voogedastusplatvorm.
+Sentiment Analysis Data,See film oli tõesti hämmastav!
+Sentiment Analysis Data,Ma olen väga pettunud selle teenuse üle.
+Sentiment Analysis Data,"Toit oli keskpärane, ootasin rohkem."
+Sentiment Analysis Data,See koht on tõeliselt ilus.
+Sentiment Analysis Data,"Ma vihkan, kui inimesed hilinevad."
+Sentiment Analysis Data,Mulle meeldib see laul väga.
+Sentiment Analysis Data,See oli minu elu parim päev!
+Sentiment Analysis Data,"Teenindus oli kohutav, ma ei tule enam siia."
+Sentiment Analysis Data,Olen tänulik teie abi eest.
+Sentiment Analysis Data,Miks peab ilm alati vihmane olema?
+Paraphrased & Augmented Sentences,"Ma ei tea, mida teha."
+Paraphrased & Augmented Sentences,"Mul pole aimugi, mida teha."
+Paraphrased & Augmented Sentences,Mida ma peaksin tegema?
+Paraphrased & Augmented Sentences,Otsin lahendust sellele probleemile.
+Paraphrased & Augmented Sentences,Kuidas seda küsimust lahendada?
+Paraphrased & Augmented Sentences,Ma tahan leida õige vastuse.
+Paraphrased & Augmented Sentences,See on keeruline küsimus.
+Paraphrased & Augmented Sentences,"Ma ei ole kindel, mida vastata."
+Paraphrased & Augmented Sentences,"Mulle tundub, et see on raske otsus."
+Paraphrased & Augmented Sentences,Ma ei suuda otsustada.

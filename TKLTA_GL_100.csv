@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),Mañá irei ao mercado.
+Grammar Core (Sentence Structures & Tenses),Onte fun ao cine.
+Grammar Core (Sentence Structures & Tenses),Gústame ler libros.
+Grammar Core (Sentence Structures & Tenses),"Se tivese tempo, estudaría máis."
+Grammar Core (Sentence Structures & Tenses),A comida foi preparada polo cociñeiro.
+Grammar Core (Sentence Structures & Tenses),O meu irmán está estudando agora.
+Grammar Core (Sentence Structures & Tenses),Ela non quere saír hoxe.
+Grammar Core (Sentence Structures & Tenses),"Cando chegue, avisareite."
+Grammar Core (Sentence Structures & Tenses),Os nenos xogaban mentres chovía.
+Grammar Core (Sentence Structures & Tenses),"Se chove, levarei un paraugas."
+Conversational Data (Real-Life Dialogues & Exchanges),Boas! Como estás?
+Conversational Data (Real-Life Dialogues & Exchanges),Onde queda a estación de autobuses?
+Conversational Data (Real-Life Dialogues & Exchanges),Canto custa este libro?
+Conversational Data (Real-Life Dialogues & Exchanges),Podo axudarche en algo?
+Conversational Data (Real-Life Dialogues & Exchanges),Que opinas sobre este filme?
+Conversational Data (Real-Life Dialogues & Exchanges),Parabéns polo teu aniversario!
+Conversational Data (Real-Life Dialogues & Exchanges),Tes un momento para falar?
+Conversational Data (Real-Life Dialogues & Exchanges),Gustaríame reservar unha mesa para dúas persoas.
+Conversational Data (Real-Life Dialogues & Exchanges),"Non estou seguro, pero podo buscar información."
+Conversational Data (Real-Life Dialogues & Exchanges),Que fas esta fin de semana?
+Code-Switching & Multilingualism,Vou ao supermercado e depois volto á casa.
+Code-Switching & Multilingualism,On Monday temos unha reunión importante.
+Code-Switching & Multilingualism,Mañá teño un exam en la universidad.
+Code-Switching & Multilingualism,"Non te preocupes, I’ll handle it."
+Code-Switching & Multilingualism,Hoxe cociñarei pasta con tomate e cheese.
+Code-Switching & Multilingualism,Podes enviarme o document en PDF?
+Code-Switching & Multilingualism,"No hay problema, podo facelo."
+Code-Switching & Multilingualism,Que tal un café antes da reunión?
+Code-Switching & Multilingualism,Esta película é moi guay!
+Code-Switching & Multilingualism,"Hoxe é Sunday, non hai traballo."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Estimado cliente, a súa solicitude foi procesada con éxito."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",O paciente presenta síntomas de febre e fatiga.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",A reunión terá lugar o vindeiro luns ás 10:00h.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",É imprescindible seguir os protocolos de seguridade.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",O contrato estipula os dereitos e obrigas de ambas as partes.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Por favor, asine este documento aquí."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",A empresa comprométese a garantir a calidade do servizo.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Non se permite o acceso sen autorización.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",As condicións do préstamo están detalladas neste documento.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",A cirurxía foi realizada con éxito.
+"Idioms, Proverbs & Cultural Expressions",Máis vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions",A cabra sempre tira ao monte.
+"Idioms, Proverbs & Cultural Expressions",Non todo o que brilla é ouro.
+"Idioms, Proverbs & Cultural Expressions","Onde hai fume, hai lume."
+"Idioms, Proverbs & Cultural Expressions",Máis vale un paxaro na man que cen voando.
+"Idioms, Proverbs & Cultural Expressions",Nunca choveu que non escampara.
+"Idioms, Proverbs & Cultural Expressions",A vida non é un camiño de rosas.
+"Idioms, Proverbs & Cultural Expressions",Cada quen coa súa cruz.
+"Idioms, Proverbs & Cultural Expressions",Non vendas a pel do oso antes de cazalo.
+"Idioms, Proverbs & Cultural Expressions","Cando o gato non está, os ratos bailan."
+Question-Answer Pairs (FAQ & Contextual Understanding),Cal é a capital de Galicia? - Santiago de Compostela.
+Question-Answer Pairs (FAQ & Contextual Understanding),Que día é hoxe? - Hoxe é martes.
+Question-Answer Pairs (FAQ & Contextual Understanding),Canto custa esta camisa? - Custa 20 euros.
+Question-Answer Pairs (FAQ & Contextual Understanding),"Podes axudarme a atopar esta rúa? - Claro, está preto da praza."
+Question-Answer Pairs (FAQ & Contextual Understanding),Como funciona esta aplicación? - Só tes que iniciar sesión e explorar.
+Question-Answer Pairs (FAQ & Contextual Understanding),Que significa esta palabra? - Significa 'amizade'.
+Question-Answer Pairs (FAQ & Contextual Understanding),Onde podo coller un taxi? - Hai unha parada xusto aquí.
+Question-Answer Pairs (FAQ & Contextual Understanding),Cal é o mellor restaurante da cidade? - Depende do que che guste.
+Question-Answer Pairs (FAQ & Contextual Understanding),Que opinas sobre este tema? - Creo que é interesante.
+Question-Answer Pairs (FAQ & Contextual Understanding),"Que ingredientes leva esta receita? - Necesitas ovos, fariña e azucre."
+Commands & Instructions (Imperative Sentences),Apaga a luz antes de saír.
+Commands & Instructions (Imperative Sentences),Lava as mans antes de comer.
+Commands & Instructions (Imperative Sentences),Non toques iso!
+Commands & Instructions (Imperative Sentences),"Senta aquí, por favor."
+Commands & Instructions (Imperative Sentences),Abre a xanela para ventilar.
+Commands & Instructions (Imperative Sentences),Escribe o teu nome neste formulario.
+Commands & Instructions (Imperative Sentences),Chama ao médico de inmediato!
+Commands & Instructions (Imperative Sentences),Fai os deberes antes de xogar.
+Commands & Instructions (Imperative Sentences),"Corre, que imos chegar tarde!"
+Commands & Instructions (Imperative Sentences),Escoita con atención.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",María vive en Vigo.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",O festival de Ortigueira é moi famoso.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",A empresa Inditex ten moitas tendas.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",O 25 de xullo celébrase o Día de Galicia.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Pedro Sánchez é o presidente do goberno español.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",A universidade de Santiago é moi prestixiosa.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",O museo do Prado está en Madrid.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Amazon é unha das maiores empresas do mundo.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",A praia das Catedrais é un lugar impresionante.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",O equipo do Celta de Vigo xogará esta noite.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Estou moi feliz hoxe!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Non me gusta esta comida.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),O concerto foi incrible!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Que decepción!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Encántame esta canción.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Síntome triste sen ti.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Este libro é aburridísimo.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Que emoción ver a miña familia!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),O servizo deste restaurante é terrible.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Que alegría recibir boas novas!
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),O gato está durmindo na cama.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Na cama está o gato a durmir.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),A luz do sol ilumina a habitación.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),A habitación está iluminada pola luz do sol.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Gustaríame aprender a tocar o piano.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Aprender a tocar o piano sería xenial.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Hoxe fai moita calor.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),A temperatura está moi alta hoxe.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Non podo atopar as miñas chaves.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),As miñas chaves desapareceron.

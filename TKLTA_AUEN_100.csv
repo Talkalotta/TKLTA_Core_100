@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),I will go to the beach tomorrow.
+Grammar Core (Sentence Structures & Tenses),She had already finished her assignment before the deadline.
+Grammar Core (Sentence Structures & Tenses),"If I were you, I wouldn’t take that risk."
+Grammar Core (Sentence Structures & Tenses),The cake was baked by my grandmother.
+Grammar Core (Sentence Structures & Tenses),He isn’t coming to the party tonight.
+Grammar Core (Sentence Structures & Tenses),Will you be visiting Sydney next summer?
+Grammar Core (Sentence Structures & Tenses),They had been working on the project for weeks.
+Grammar Core (Sentence Structures & Tenses),Could you please clarify what you meant?
+Grammar Core (Sentence Structures & Tenses),I wouldn’t have missed the flight if I had left earlier.
+Grammar Core (Sentence Structures & Tenses),"By this time next year, I will have completed my degree."
+Conversational Data (Real-Life Dialogues & Exchanges),G’day mate! How’s it going?
+Conversational Data (Real-Life Dialogues & Exchanges),"Could I grab a flat white, please?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Yeah, nah, I reckon we should head out soon."
+Conversational Data (Real-Life Dialogues & Exchanges),"Oi, what time’s the footy on tonight?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Nah, I’m just keen for a chill weekend."
+Conversational Data (Real-Life Dialogues & Exchanges),Sweet as! Let’s meet at the café at 3.
+Conversational Data (Real-Life Dialogues & Exchanges),Cheers for that! I really appreciate it.
+Conversational Data (Real-Life Dialogues & Exchanges),"No worries, I’ll sort it out."
+Conversational Data (Real-Life Dialogues & Exchanges),You coming to the barbie on Sunday?
+Conversational Data (Real-Life Dialogues & Exchanges),Reckon I should bring anything?
+Code-Switching & Multilingualism,"He’s a bit of a larrikin, pero es muy simpático."
+Code-Switching & Multilingualism,"Je suis fatigué, but I still have to finish this report."
+Code-Switching & Multilingualism,"No worries, mate, c’est la vie."
+Code-Switching & Multilingualism,Can we just grab some takeaway? Estoy demasiado cansado para cocinar.
+Code-Switching & Multilingualism,"She speaks French fluently, pero le encanta el inglés aussie."
+Code-Switching & Multilingualism,"Hola, how’s it going today?"
+Code-Switching & Multilingualism,"Mon Dieu, that was a tough exam!"
+Code-Switching & Multilingualism,"Oi, come here, necesito mostrarte algo."
+Code-Switching & Multilingualism,"That’s bonzer, mate! Muy impresionante."
+Code-Switching & Multilingualism,¡Vamos! We don’t have all day.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Thank you for reaching out to our customer support team.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",This report outlines the financial performance for Q2 2025.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Please ensure all legal documents are signed before submission.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The diagnosis suggests a need for further medical evaluation.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","During the meeting, we will discuss strategic business plans."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",A patient’s confidentiality must be maintained at all times.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Would you like to schedule a consultation with our legal team?
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The contract stipulates that payment is due within 30 days.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Our company policy prohibits the use of personal devices for work.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The project will be completed within the stipulated timeline.
+"Idioms, Proverbs & Cultural Expressions",He’s as happy as Larry after getting his new job.
+"Idioms, Proverbs & Cultural Expressions","Fair dinkum, this is the best coffee I’ve ever had."
+"Idioms, Proverbs & Cultural Expressions",That idea is a bit of a dog's breakfast.
+"Idioms, Proverbs & Cultural Expressions",I wouldn’t touch that deal with a ten-foot pole.
+"Idioms, Proverbs & Cultural Expressions",He’s been flat out like a lizard drinking.
+"Idioms, Proverbs & Cultural Expressions","No worries, we’ll cross that bridge when we come to it."
+"Idioms, Proverbs & Cultural Expressions",It’s a real kangaroo court in there.
+"Idioms, Proverbs & Cultural Expressions",She was over the moon about the promotion.
+"Idioms, Proverbs & Cultural Expressions","You’re pulling my leg, aren’t you?"
+"Idioms, Proverbs & Cultural Expressions",He’s got a few roos loose in the top paddock.
+Question-Answer Pairs (FAQ & Contextual Understanding),What time does the next train to Melbourne leave?
+Question-Answer Pairs (FAQ & Contextual Understanding),How can I reset my password?
+Question-Answer Pairs (FAQ & Contextual Understanding),Could you recommend a good café nearby?
+Question-Answer Pairs (FAQ & Contextual Understanding),What are the main tourist attractions in Sydney?
+Question-Answer Pairs (FAQ & Contextual Understanding),Is there parking available at the venue?
+Question-Answer Pairs (FAQ & Contextual Understanding),How do I apply for a visa extension?
+Question-Answer Pairs (FAQ & Contextual Understanding),Why is the sky blue?
+Question-Answer Pairs (FAQ & Contextual Understanding),Do you offer student discounts?
+Question-Answer Pairs (FAQ & Contextual Understanding),Where’s the nearest petrol station?
+Question-Answer Pairs (FAQ & Contextual Understanding),Can you explain the difference between a flat white and a latte?
+Commands & Instructions (Imperative Sentences),Turn off the lights before you leave.
+Commands & Instructions (Imperative Sentences),Please submit your application before the deadline.
+Commands & Instructions (Imperative Sentences),Close the door quietly.
+Commands & Instructions (Imperative Sentences),Follow the instructions carefully.
+Commands & Instructions (Imperative Sentences),Book a table for two at the restaurant.
+Commands & Instructions (Imperative Sentences),Send me the updated report by Monday.
+Commands & Instructions (Imperative Sentences),Don’t forget to call your mum.
+Commands & Instructions (Imperative Sentences),"Hold the lift, I’m coming!"
+Commands & Instructions (Imperative Sentences),Check your email for the confirmation.
+Commands & Instructions (Imperative Sentences),Speak clearly so everyone can hear you.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",John Smith arrived in Sydney on 15th February 2024.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",The Sydney Opera House is an iconic landmark.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Apple Inc. announced their latest product launch.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Dr. Emily Carter will be the keynote speaker.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Melbourne is known for its vibrant coffee culture.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",The Commonwealth Bank of Australia is one of the largest banks.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",ANZAC Day is commemorated annually on April 25th.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Qantas Airways is the flag carrier of Australia.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",The Great Barrier Reef is a UNESCO World Heritage site.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Sydney Harbour Bridge is a must-visit attraction.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I absolutely loved the concert last night!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),This coffee tastes terrible.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),She’s feeling pretty down today.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),That was the best meal I’ve ever had.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),The service at the restaurant was disappointing.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),He was overjoyed when he got the job.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I can’t stand waiting in long queues.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),The movie was quite boring.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I’m so excited for the trip next week!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),This new policy is really frustrating.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),I will meet you at the café. (Alternative: I’ll see you at the coffee shop.)
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),She was thrilled about the promotion. (Alternative: She was over the moon about getting promoted.)
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Could you help me with this task? (Alternative: Would you mind giving me a hand with this?)
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),The meeting was postponed to next week. (Alternative: The meeting has been rescheduled for next week.)
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),It’s raining heavily outside. (Alternative: It’s pouring down outside.)
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),He’s really good at playing the guitar. (Alternative: He’s a fantastic guitarist.)
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),She found the test quite easy. (Alternative: She thought the exam was a breeze.)
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),I don’t understand this topic. (Alternative: I’m struggling to grasp this concept.)
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Let’s take a break now. (Alternative: Let’s have a quick breather.)
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),The food was delicious. (Alternative: The meal was absolutely scrumptious.)

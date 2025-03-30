@@ -1,0 +1,101 @@
+category,sentence_fula
+Grammar Core,Mi yi'i ɗum.
+Grammar Core,Mi yi'ii ɗum.
+Grammar Core,Miɗo yi'ude ɗum.
+Grammar Core,"So mi yi'i ɗum, miɗo weeyii."
+Grammar Core,Mi yi'iɗaa ɗum.
+Grammar Core,Ɗum woni yi'ude.
+Grammar Core,A yi'i ɗum?
+Grammar Core,Miɗo yi'ugol ɗum jam.
+Grammar Core,Mi yi'i ɗum jooni.
+Grammar Core,Mi yi'iɗaa ɗum jooni.
+Conversational Data,"A jaaraama, no mbadde?"
+Conversational Data,"Jam tan, ko fayde?"
+Conversational Data,Ko fii no ndiyam?
+Conversational Data,"Alaa, mi waawi fayde."
+Conversational Data,"Mbele e jam, mi wondi."
+Conversational Data,"Ko feewi, a yiɗi yahar?"
+Conversational Data,"Awa, mi yahi!"
+Conversational Data,"Amin, on jooɗii?"
+Conversational Data,"Eey, mi jooɗii."
+Conversational Data,Ko honɗun e makko?
+Code-Switching & Multilingualism,Mi jogii appointment e hospital jooni.
+Code-Switching & Multilingualism,Mi waawi téléphoner e 5pm.
+Code-Switching & Multilingualism,Ko doctor ngol e consultation room 2.
+Code-Switching & Multilingualism,"Let’s go, miɗo waawi seede."
+Code-Switching & Multilingualism,Mi newi email makko jooni.
+Code-Switching & Multilingualism,A yetti document ngol e meeting?
+Code-Switching & Multilingualism,"She said, ‘Mi yahi’."
+Code-Switching & Multilingualism,Daw no wala network walla signal.
+Code-Switching & Multilingualism,Miɓe check-in e hotel biɗɗo.
+Code-Switching & Multilingualism,Ko yaa greeting message on WhatsApp?
+Formal & Professional Speech,Miɗo arɗo ka ngesaaji ngal.
+Formal & Professional Speech,Ko ɓuri woni laatata e ndiyam e cellulaaji.
+Formal & Professional Speech,Doktor ngal wi’i men so ɓe waawi fayde.
+Formal & Professional Speech,Min weltii e ndimi jam tan.
+Formal & Professional Speech,Jangirde ngal ko feewi lesdi ngol.
+Formal & Professional Speech,Miɗo deftere e nder tarbiyaaji.
+Formal & Professional Speech,Mi wi’i makko ndokkere feewi.
+Formal & Professional Speech,Miɗo inaama e baafal ngal.
+Formal & Professional Speech,Miɗo siftor ngal ko moƴƴi.
+Formal & Professional Speech,Mi arta e janngirde baabaajo.
+"Idioms, Proverbs & Cultural Expressions",Ko ndiyam fuɗɗi nyamude ɓe ɗiyan.
+"Idioms, Proverbs & Cultural Expressions","Ko honɗun ɗum waawa seede, ɗum waawa wi’i!"
+"Idioms, Proverbs & Cultural Expressions",Fayde wala yittooɗe e ndiyam.
+"Idioms, Proverbs & Cultural Expressions",Ko ndiyan jogii moƴƴere.
+"Idioms, Proverbs & Cultural Expressions",A waawi lootirde butuuɗe jooni.
+"Idioms, Proverbs & Cultural Expressions",Miɗo jooɗi seŋo konngi.
+"Idioms, Proverbs & Cultural Expressions",Ko honto ndiyam weeyo.
+"Idioms, Proverbs & Cultural Expressions","A waawi lootirde ndiyan, amma mballi."
+"Idioms, Proverbs & Cultural Expressions",Ko mo ngoni woni ɗuum faama.
+"Idioms, Proverbs & Cultural Expressions",Ko aduna konngol fuɗɗi.
+Question-Answer Pairs,Hol no innde maa? - Innde am Ko Bala.
+Question-Answer Pairs,Ko honɗun a yahii? - Mi yahi e Gaya.
+Question-Answer Pairs,Ko honto on jooɗi? - Min jooɗi e Niamey.
+Question-Answer Pairs,"Ko woni hande? - Haa, woni Alarba."
+Question-Answer Pairs,Ko ɓe no haɓɓi? - ɓe haɓɓi ɗiɗi.
+Question-Answer Pairs,"A waawi gollugol? - Eey, mi waawi."
+Question-Answer Pairs,Ko fii mo ngoni? - Mo ngoni doktor.
+Question-Answer Pairs,Hol no yawti ngam duubi? - Ko konyum e lekki.
+Question-Answer Pairs,Ko honɗun mo seɗi? - Mo seɗi jam.
+Question-Answer Pairs,"A haɓɓi e ndiyam? - Eey, mi haɓɓi."
+Commands & Instructions,Yahu e nder loowi.
+Commands & Instructions,Looti laana ngol.
+Commands & Instructions,Waawi huli ngal.
+Commands & Instructions,Yetti ɗum fii min.
+Commands & Instructions,Njiɗi e jam.
+Commands & Instructions,Gollu ko moƴƴi.
+Commands & Instructions,Rufi seɗa.
+Commands & Instructions,Siffa no mbaddi.
+Commands & Instructions,Jooɗi e jam.
+Commands & Instructions,Wi’i ɗum fii makko.
+Named Entity Recognition (NER) Data,Bala yahi e Niamey jooni.
+Named Entity Recognition (NER) Data,Ko Seydou wi’i men.
+Named Entity Recognition (NER) Data,Mi jogii deftere e College Amadou Hampâté Bâ.
+Named Entity Recognition (NER) Data,Ko hande 24 Mars 2025.
+Named Entity Recognition (NER) Data,Min yahi e Gaya nde.
+Named Entity Recognition (NER) Data,Ko moƴƴi Paul Biya e Cameroon.
+Named Entity Recognition (NER) Data,Mi salmini e UNICEF.
+Named Entity Recognition (NER) Data,A jogii email e talkalotta.com?
+Named Entity Recognition (NER) Data,Ko Niger e West Africa.
+Named Entity Recognition (NER) Data,Mi wi’i Binta ɗum no ceertu.
+Sentiment Analysis Data,Miɗo feere jooni!
+Sentiment Analysis Data,Mi weetti e jam.
+Sentiment Analysis Data,Ko ɗuum mi fuɗɗi yiɗde.
+Sentiment Analysis Data,Mi hoɗii!
+Sentiment Analysis Data,Mi nanii e ɗum.
+Sentiment Analysis Data,Ko tuma moƴƴi.
+Sentiment Analysis Data,Mi jamaa seɗa.
+Sentiment Analysis Data,"Miɗo ngoodi, mi gollii ɗum wala fannda."
+Sentiment Analysis Data,Mi jaɓi e makko.
+Sentiment Analysis Data,Ko duuɓi mi welti.
+Paraphrased & Augmented Sentences,Mi yi'i ɗum.
+Paraphrased & Augmented Sentences,Mi waawi yi'ude ɗum.
+Paraphrased & Augmented Sentences,Mi wiyi ɗum ndiyan.
+Paraphrased & Augmented Sentences,Mi waɗi yi'ugol ɗum.
+Paraphrased & Augmented Sentences,Ko ɗum miɗo yi'ude.
+Paraphrased & Augmented Sentences,Mi jooɗii yi'ugol ɗum.
+Paraphrased & Augmented Sentences,Mi ngoodi yi’ude ɗum.
+Paraphrased & Augmented Sentences,Mi jamɗii yi'ugol ɗum.
+Paraphrased & Augmented Sentences,Mi araami e yi'ude ɗum.
+Paraphrased & Augmented Sentences,Mi ɓurtii yi’ugol ɗum.

@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),Yo comía en casa cuando él llegó.
+Grammar Core (Sentence Structures & Tenses),Mañana viajaré a la capital.
+Grammar Core (Sentence Structures & Tenses),"Si tuviera dinero, compraría una casa."
+Grammar Core (Sentence Structures & Tenses),El café fue servido por el mesero.
+Grammar Core (Sentence Structures & Tenses),Nosotros habíamos terminado el trabajo antes del almuerzo.
+Grammar Core (Sentence Structures & Tenses),Ellos estarán jugando fútbol a las tres.
+Grammar Core (Sentence Structures & Tenses),Tú no deberías decir esas cosas.
+Grammar Core (Sentence Structures & Tenses),¿Has estudiado para el examen de mañana?
+Grammar Core (Sentence Structures & Tenses),No creo que ellos vengan hoy.
+Grammar Core (Sentence Structures & Tenses),Ayer llovió toda la noche.
+Conversational Data (Real-Life Dialogues & Exchanges),¡Hola! ¿Cómo has estado?
+Conversational Data (Real-Life Dialogues & Exchanges),"Voy al mercado, ¿quieres que te traiga algo?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Disculpa, ¿a qué hora cierra esta tienda?"
+Conversational Data (Real-Life Dialogues & Exchanges),¿Puedes ayudarme con esta tarea?
+Conversational Data (Real-Life Dialogues & Exchanges),¿Dónde queda la estación de autobuses?
+Conversational Data (Real-Life Dialogues & Exchanges),¿Cuánto cuesta este producto?
+Conversational Data (Real-Life Dialogues & Exchanges),¡Felicidades por tu nuevo trabajo!
+Conversational Data (Real-Life Dialogues & Exchanges),No me siento bien hoy.
+Conversational Data (Real-Life Dialogues & Exchanges),¿Vamos al cine esta noche?
+Conversational Data (Real-Life Dialogues & Exchanges),¡Qué bonito está el clima hoy!
+Code-Switching & Multilingualism,"Mirá, el party empieza a las ocho."
+Code-Switching & Multilingualism,Vamos a hacer el homework después.
+Code-Switching & Multilingualism,No entiendo por qué estás tan chill hoy.
+Code-Switching & Multilingualism,Está en el mall con sus amigos.
+Code-Switching & Multilingualism,"La movie estuvo buenísima, tenés que verla."
+Code-Switching & Multilingualism,Voy a comprar un ticket para el concierto.
+Code-Switching & Multilingualism,¿Ya viste el nuevo update de la app?
+Code-Switching & Multilingualism,Mi jefe es full exigente.
+Code-Switching & Multilingualism,"Ese restaurante es top, te lo recomiendo."
+Code-Switching & Multilingualism,"Después del gym, vamos por un café."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Se requiere documentación completa para el trámite bancario.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",El paciente presenta síntomas de fiebre y dolor de cabeza.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",En la junta discutiremos los objetivos del trimestre.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",El contrato debe ser firmado antes del cierre del mes.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",El diagnóstico indica una leve inflamación en el tobillo.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Por favor, envíe el informe antes del viernes."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",La empresa lanzará un nuevo producto este año.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",La ley establece regulaciones claras sobre el tema.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Estimados clientes, les informamos que el servicio se actualizará."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",El médico recomendó descanso absoluto.
+"Idioms, Proverbs & Cultural Expressions",Más vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions",A caballo regalado no se le mira el colmillo.
+"Idioms, Proverbs & Cultural Expressions","El que madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions",No hay mal que por bien no venga.
+"Idioms, Proverbs & Cultural Expressions","A donde fueres, haz lo que vieres."
+"Idioms, Proverbs & Cultural Expressions","El que mucho abarca, poco aprieta."
+"Idioms, Proverbs & Cultural Expressions",Del dicho al hecho hay mucho trecho.
+"Idioms, Proverbs & Cultural Expressions",Perro que ladra no muerde.
+"Idioms, Proverbs & Cultural Expressions","Ojos que no ven, corazón que no siente."
+"Idioms, Proverbs & Cultural Expressions",Zapatero a su zapato.
+Question-Answer Pairs (FAQ & Contextual Understanding),¿Cuál es el horario de atención al cliente?
+Question-Answer Pairs (FAQ & Contextual Understanding),¿Dónde puedo encontrar un cajero automático?
+Question-Answer Pairs (FAQ & Contextual Understanding),¿Cuántos idiomas hablas?
+Question-Answer Pairs (FAQ & Contextual Understanding),¿Podrías explicarme cómo funciona esto?
+Question-Answer Pairs (FAQ & Contextual Understanding),¿Cuál es la mejor forma de llegar a la universidad?
+Question-Answer Pairs (FAQ & Contextual Understanding),¿Qué opinas sobre la educación en línea?
+Question-Answer Pairs (FAQ & Contextual Understanding),¿Dónde nació Simón Bolívar?
+Question-Answer Pairs (FAQ & Contextual Understanding),¿Cómo puedo renovar mi pasaporte?
+Question-Answer Pairs (FAQ & Contextual Understanding),¿Qué ingredientes lleva la sopa de caracol?
+Question-Answer Pairs (FAQ & Contextual Understanding),¿Por qué es importante reciclar?
+Commands & Instructions (Imperative Sentences),Apaga la luz antes de salir.
+Commands & Instructions (Imperative Sentences),Llámame cuando llegues.
+Commands & Instructions (Imperative Sentences),Dime la verdad.
+Commands & Instructions (Imperative Sentences),"Abre la puerta, por favor."
+Commands & Instructions (Imperative Sentences),"No toques eso, está caliente."
+Commands & Instructions (Imperative Sentences),Espera aquí un momento.
+Commands & Instructions (Imperative Sentences),Sigue las instrucciones del manual.
+Commands & Instructions (Imperative Sentences),Escribe tu nombre en el formulario.
+Commands & Instructions (Imperative Sentences),No hables mientras estoy explicando.
+Commands & Instructions (Imperative Sentences),Respeta las señales de tránsito.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Juan Pérez nació el 5 de marzo de 1985.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",La Universidad Nacional Autónoma de Honduras es reconocida en América Latina.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",El huracán Mitch afectó a Honduras en 1998.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",San Pedro Sula es una de las ciudades más grandes del país.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",El Banco Central de Honduras regula la economía.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",El 15 de septiembre se celebra la independencia de Honduras.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",La ONU tiene oficinas en Tegucigalpa.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",El presidente actual es un personaje controversial.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)","Honduras limita con Guatemala, El Salvador y Nicaragua."
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",El Parque Nacional La Tigra es una reserva ecológica importante.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Me encanta cómo huele el café por la mañana.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ese comentario fue realmente ofensivo.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Estoy tan emocionado por mi viaje a Roatán.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Siento mucha tristeza por lo sucedido.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ese pastel está delicioso.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),No puedo creer que haya hecho eso.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Me frustra cuando las cosas no salen como quiero.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Estoy agradecido por tu ayuda.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ver el atardecer en la playa me da paz.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ese chiste estuvo muy gracioso.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Voy a salir a comprar pan. → Voy a ir a la tienda a comprar pan.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Este libro es interesante. → Me parece que este libro tiene información valiosa.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),El clima está frío hoy. → Hoy hace mucho frío en la calle.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Me gusta el cine. → Disfruto ver películas.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),No entiendo la tarea. → No logro comprender los ejercicios.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Ella canta muy bien. → Su voz es muy hermosa.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Tengo hambre. → Me gustaría comer algo.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Quiero aprender inglés. → Estoy interesado en mejorar mi inglés.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Esa película es aburrida. → No encontré interesante la trama de esa película.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Necesito ayuda con esto. → Me vendría bien una mano con esto.

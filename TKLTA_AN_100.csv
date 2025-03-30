@@ -1,0 +1,101 @@
+Category,Sentence_Aragonese
+Grammar Core,Hoy hai boira en o val.
+Grammar Core,Ayer nevó en os Pireneus.
+Grammar Core,Demán fará sol en Zaragoza.
+Grammar Core,"Si fueses aquí, contar-te-ía una historia."
+Grammar Core,Estóy escribindo una carta.
+Grammar Core,Se canta una canción en o festival.
+Grammar Core,Os turistas habrían veyito o castiello.
+Grammar Core,No me gusta o café sin azúcar.
+Grammar Core,Se vendió a casa o anyo pasato.
+Grammar Core,Os chovens parlarán con l’alcalde.
+Conversational Data,¿Qué tal? ¡Faz tiempo que no te veyeba!
+Conversational Data,A on vas iste fin de semana?
+Conversational Data,Pódemos quedar a las seis?
+Conversational Data,¡Ei! M’han contau que has cambiau de treballo.
+Conversational Data,T’agradaría ir a la montanya?
+Conversational Data,Quantos anyos tienes?
+Conversational Data,"Dime, como se diz 'hola' en francés?"
+Conversational Data,Charramos dempués d’o cinema?
+Conversational Data,O meyo d’o café es masa caro.
+Conversational Data,No sé si puet estar libre dimpués de treballar.
+Code-Switching & Multilingualism,Estaba caminando por la ciudad y vi un cartel que decía 'Welcome' en grande.
+Code-Switching & Multilingualism,Voy a tomar un 'coffee' con mi amigo.
+Code-Switching & Multilingualism,Aquesta tarde faré un 'meeting' con los compañeros.
+Code-Switching & Multilingualism,O meu coche tiene un 'GPS' que no funciona bien.
+Code-Switching & Multilingualism,O festival fue un 'success' total.
+Code-Switching & Multilingualism,"No entiendo este 'document', está en inglés."
+Code-Switching & Multilingualism,"Dempués d’o 'lunch', tornaremos al treballo."
+Code-Switching & Multilingualism,M’he comprato una 't-shirt' nueva.
+Code-Switching & Multilingualism,¡Qué 'cool' ye iste lugá!
+Code-Switching & Multilingualism,O partido s’acabó con un 'goal' inesperato.
+Formal & Professional Speech,"Estimau cliente, a suya factura ha estau procesada."
+Formal & Professional Speech,O doctor recominda bever molta agua.
+Formal & Professional Speech,L’alcalde va fer una rueda de prensa sobre lo problema.
+Formal & Professional Speech,Ye menester seguir os protocolos de seguridat.
+Formal & Professional Speech,"En l’empresa, cada treballador tiene un rol clau."
+Formal & Professional Speech,A transacción ha estau confirmada con éxito.
+Formal & Professional Speech,O contrato se firmará en presencia d’o notario.
+Formal & Professional Speech,O servici tecnico está en mantenencia.
+Formal & Professional Speech,L’assembleya ordinaria se celebrará en mayo.
+Formal & Professional Speech,Solicitamos a suya confirmación per email.
+"Idioms, Proverbs & Cultural Expressions",Cada u a lo suyo y Dios a lo de totz.
+"Idioms, Proverbs & Cultural Expressions","A río revolto, ganancia de pescadors."
+"Idioms, Proverbs & Cultural Expressions","A chent de bo, bon camín."
+"Idioms, Proverbs & Cultural Expressions",Más vale un mal conoxiu que un bueno per conoxer.
+"Idioms, Proverbs & Cultural Expressions","A cascabel, cascabel."
+"Idioms, Proverbs & Cultural Expressions","Qui mucho abraza, poco estrinca."
+"Idioms, Proverbs & Cultural Expressions",Estar como un tozino en un charco.
+"Idioms, Proverbs & Cultural Expressions",No tot o que brilla ye oro.
+"Idioms, Proverbs & Cultural Expressions",Fa més qui quiere que qui puet.
+"Idioms, Proverbs & Cultural Expressions",O mundo ye un pañuelo.
+Question-Answer Pairs,¿Cuándo ye a feria d’o libro en Huesca?
+Question-Answer Pairs,¿Cómo puedo solicitar o mio DNI?
+Question-Answer Pairs,¿Qué significa ista palabra?
+Question-Answer Pairs,¿Dónde puet trobar un restaurante tipico aragonés?
+Question-Answer Pairs,¿Quantas personas viven en Zaragoza?
+Question-Answer Pairs,¿Per qué os ríos llevan agua?
+Question-Answer Pairs,¿Qué ye o mes típico d’Aragón?
+Question-Answer Pairs,¿On se compra iste billete?
+Question-Answer Pairs,¿Qué diferencias hai entre aragonés y catalán?
+Question-Answer Pairs,¿Qué quiere decir 'calandria'?
+Commands & Instructions,"Cierra la puerta, per favor."
+Commands & Instructions,"Ven aquí, tengo algo que contar-te."
+Commands & Instructions,No manges tanto azúcar.
+Commands & Instructions,Dame la clau de casa.
+Commands & Instructions,Escribe una carta ta o to amigu.
+Commands & Instructions,Apaga o llum dimpués d’usar-lo.
+Commands & Instructions,Saluda ta la tuya familia de la mia parte.
+Commands & Instructions,Escuita con atenzión.
+Commands & Instructions,Fes lo que te digo.
+Commands & Instructions,No vayas per aquel camín.
+Named Entity Recognition (NER),María y Pedro viven en Teruel.
+Named Entity Recognition (NER),O 23 de abril ye o Día d’Aragón.
+Named Entity Recognition (NER),Google ye una empresa multinacional.
+Named Entity Recognition (NER),Lo Ebro ye o río más gran d’Aragón.
+Named Entity Recognition (NER),Zaragoza ye la capital d’o país.
+Named Entity Recognition (NER),Amazon ha anunciato un nuevo servici.
+Named Entity Recognition (NER),O Real Zaragoza ha ganau o partido.
+Named Entity Recognition (NER),O festival de Jaca se celebra en verano.
+Named Entity Recognition (NER),San Jorge ye lo patrón d’Aragón.
+Named Entity Recognition (NER),Elon Musk ye un empresario conoxiu.
+Sentiment Analysis Data,Me encanta o sabor d’ista comida.
+Sentiment Analysis Data,No me ha prestau gens o libro.
+Sentiment Analysis Data,A mía vacación ha estau maravillosa.
+Sentiment Analysis Data,Ye un día tristo ta mí.
+Sentiment Analysis Data,Lo concert ha estau una experiencia inolvidable.
+Sentiment Analysis Data,A noticia m’ha feito chorar.
+Sentiment Analysis Data,Lo servicio en o restaurante ye nefasta.
+Sentiment Analysis Data,O mio perro ye lo millor amigo que tengo.
+Sentiment Analysis Data,Sento alegría en estar aquí.
+Sentiment Analysis Data,Ye injusto lo que ha pasau.
+Paraphrased & Augmented Sentences,Lo día ye soleado.
+Paraphrased & Augmented Sentences,Fai sol huei.
+Paraphrased & Augmented Sentences,No plueve huei.
+Paraphrased & Augmented Sentences,"A lo largo d’a historia, iste país ha cambiau molt."
+Paraphrased & Augmented Sentences,Iste país ha visto molts cambios en a suya historia.
+Paraphrased & Augmented Sentences,Cada día aprendemos algo nuevo.
+Paraphrased & Augmented Sentences,Totz os días hai algo nuevo ta aprender.
+Paraphrased & Augmented Sentences,As montanyas son altas y impresionants.
+Paraphrased & Augmented Sentences,Lo paisache en as montanyas ye espectacular.
+Paraphrased & Augmented Sentences,Lo riu pasa per a ciudat con calma.

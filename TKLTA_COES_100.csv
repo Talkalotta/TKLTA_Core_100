@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Mañana viajaré a Cartagena para disfrutar del sol y la playa.
+Grammar Core,"Si hubiera sabido antes, te habría acompañado sin dudarlo."
+Grammar Core,¿Por qué no me llamaste cuando llegaste a casa?
+Grammar Core,Los niños juegan en el parque mientras sus padres conversan.
+Grammar Core,"Cuando era niño, solía jugar al fútbol en la calle."
+Grammar Core,El informe será entregado el próximo lunes a primera hora.
+Grammar Core,No deberías hablar tan fuerte en la biblioteca.
+Grammar Core,Me encanta cómo se ven las montañas al atardecer.
+Grammar Core,Ojalá hubiera aprendido a tocar la guitarra cuando era joven.
+Grammar Core,¿Podrías ayudarme a encontrar la dirección correcta?
+Conversational Data,"¿Qué más, parcero? ¿Cómo va todo?"
+Conversational Data,"Hola, ¿me puedes decir dónde queda la estación del TransMilenio?"
+Conversational Data,¿Y qué tal te pareció la película de anoche?
+Conversational Data,"No sé, pero me late que ese restaurante es muy caro."
+Conversational Data,"Ey, ¿qué planes para el finde?"
+Conversational Data,"Pues la verdad, no estoy seguro si quiero salir o quedarme en casa."
+Conversational Data,"Sí, claro, ahorita mismo te mando el documento."
+Conversational Data,Mi mamá me regañó porque llegué tarde anoche.
+Conversational Data,¿Viste lo que pasó en el partido? Fue un golazo.
+Conversational Data,"Uy, qué calor tan bravo hace hoy en Bogotá."
+Code-Switching & Multilingualism,Voy a pedir un Uber porque el tráfico está horrible.
+Code-Switching & Multilingualism,"Ese evento estuvo super cool, la pasé genial."
+Code-Switching & Multilingualism,"Nos vemos en el mall a las 5, ¿vale?"
+Code-Switching & Multilingualism,"Estoy full ocupado hoy con el trabajo, hablamos luego."
+Code-Switching & Multilingualism,"Mañana tengo una call con el jefe, a ver qué dice."
+Code-Switching & Multilingualism,"El examen estuvo easy, seguro saco buena nota."
+Code-Switching & Multilingualism,Voy a hacer un break y luego sigo trabajando.
+Code-Switching & Multilingualism,Mi prima estudia en un high school en Estados Unidos.
+Code-Switching & Multilingualism,"Ese outfit está on point, me encanta."
+Code-Switching & Multilingualism,Pásame el link para revisar la info.
+Formal & Professional Speech,"Estimado cliente, su solicitud ha sido procesada exitosamente."
+Formal & Professional Speech,Agradecemos su paciencia mientras resolvemos el inconveniente.
+Formal & Professional Speech,El contrato establece claramente las condiciones del servicio.
+Formal & Professional Speech,"Según el informe, la empresa tuvo un crecimiento del 15% este trimestre."
+Formal & Professional Speech,Es un placer trabajar con un equipo tan comprometido y profesional.
+Formal & Professional Speech,Se le informa que su cita médica ha sido reprogramada para el próximo martes.
+Formal & Professional Speech,Le agradeceríamos mucho si pudiera enviarnos los documentos faltantes.
+Formal & Professional Speech,"En el ámbito jurídico, es fundamental respetar los procedimientos legales."
+Formal & Professional Speech,"Para más información, por favor comuníquese con nuestro equipo de soporte."
+Formal & Professional Speech,El objetivo de esta reunión es establecer nuevas estrategias comerciales.
+"Idioms, Proverbs & Cultural Expressions","El que madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions",Más vale pájaro en mano que cien volando.
+"Idioms, Proverbs & Cultural Expressions",A caballo regalado no se le mira el diente.
+"Idioms, Proverbs & Cultural Expressions",No hay mal que por bien no venga.
+"Idioms, Proverbs & Cultural Expressions",Estar en las nubes no ayuda a concentrarse.
+"Idioms, Proverbs & Cultural Expressions","Cuando el río suena, piedras lleva."
+"Idioms, Proverbs & Cultural Expressions","Al que no quiere caldo, se le dan dos tazas."
+"Idioms, Proverbs & Cultural Expressions",La curiosidad mató al gato.
+"Idioms, Proverbs & Cultural Expressions","De tal palo, tal astilla."
+"Idioms, Proverbs & Cultural Expressions",El pez por la boca muere.
+Question-Answer Pairs,¿Cuál es la capital de Colombia? - Bogotá.
+Question-Answer Pairs,¿A qué hora abren los bancos? - Generalmente a las 8 a.m.
+Question-Answer Pairs,"¿Cuánto cuesta el pasaje de bus? - Depende de la ruta, pero ronda los 2,500 pesos."
+Question-Answer Pairs,¿Dónde queda la Plaza de Bolívar? - En el centro de Bogotá.
+Question-Answer Pairs,¿Cuál es tu comida favorita? - Me encanta la bandeja paisa.
+Question-Answer Pairs,"¿Sabes si mañana lloverá? - No estoy seguro, mejor revisa el pronóstico."
+Question-Answer Pairs,¿Cómo se dice 'gracias' en francés? - Se dice 'merci'.
+Question-Answer Pairs,¿Cuántos departamentos tiene Colombia? - Tiene 32 departamentos.
+Question-Answer Pairs,¿Cuál es el plato típico de la costa? - El arroz con coco y pescado frito.
+Question-Answer Pairs,¿Quién ganó el partido anoche? - Nacional le ganó 2-1 a Millonarios.
+Commands & Instructions,"Enciende la luz, por favor."
+Commands & Instructions,Cierra la puerta cuando salgas.
+Commands & Instructions,Guarda los documentos en la carpeta correcta.
+Commands & Instructions,Presiona el botón rojo para iniciar el sistema.
+Commands & Instructions,Siga recto y doble a la izquierda en la esquina.
+Commands & Instructions,No olvides apagar el gas antes de salir.
+Commands & Instructions,Coloca la contraseña antes de continuar.
+Commands & Instructions,Lávate las manos antes de comer.
+Commands & Instructions,Comparte esta información con tu equipo.
+Commands & Instructions,Entrega el informe antes del viernes.
+Named Entity Recognition (NER) Data,"Gabriel García Márquez nació en Aracataca, Colombia."
+Named Entity Recognition (NER) Data,El presidente Gustavo Petro dio un discurso ayer.
+Named Entity Recognition (NER) Data,El café de Colombia es famoso en todo el mundo.
+Named Entity Recognition (NER) Data,Amazon es una de las empresas más grandes del mundo.
+Named Entity Recognition (NER) Data,El río Magdalena es el más largo de Colombia.
+Named Entity Recognition (NER) Data,Medellín es conocida como la ciudad de la eterna primavera.
+Named Entity Recognition (NER) Data,La cumbia y el vallenato son géneros musicales tradicionales.
+Named Entity Recognition (NER) Data,Bogotá es la capital de Colombia y tiene más de 7 millones de habitantes.
+Named Entity Recognition (NER) Data,"En diciembre, muchas familias colombianas celebran la Novena de Aguinaldos."
+Named Entity Recognition (NER) Data,La Feria de Cali es un evento cultural muy importante.
+Sentiment Analysis Data,Estoy muy feliz porque hoy recibí una buena noticia.
+Sentiment Analysis Data,Este lugar me hace sentir muy tranquilo y relajado.
+Sentiment Analysis Data,No me gustó para nada el servicio del restaurante.
+Sentiment Analysis Data,¡Qué emoción! No puedo esperar para el concierto.
+Sentiment Analysis Data,Me siento muy frustrado con la demora en la entrega.
+Sentiment Analysis Data,Ver a mi familia después de tanto tiempo me llenó de alegría.
+Sentiment Analysis Data,Odio cuando las cosas no salen como las planeo.
+Sentiment Analysis Data,"Este café tiene un aroma increíble, me encanta."
+Sentiment Analysis Data,No me agrada la actitud negativa de algunas personas.
+Sentiment Analysis Data,Estoy agradecido por todo lo que he logrado este año.
+Paraphrased & Augmented Sentences,Voy a comprar pan en la tienda de la esquina.
+Paraphrased & Augmented Sentences,Esta mañana fui a la panadería a comprar algo de pan.
+Paraphrased & Augmented Sentences,Necesito ir a la tienda a conseguir algo de pan.
+Paraphrased & Augmented Sentences,Voy a darme una vuelta por la tienda para comprar pan.
+Paraphrased & Augmented Sentences,Hoy en la mañana compré pan fresco en la panadería.
+Paraphrased & Augmented Sentences,Tengo que pasar por la tienda antes de ir a casa.
+Paraphrased & Augmented Sentences,Voy a la tienda porque se me acabó el pan.
+Paraphrased & Augmented Sentences,Esta tarde pienso ir a la tienda a hacer algunas compras.
+Paraphrased & Augmented Sentences,Voy a comprar pan porque ya no queda en casa.
+Paraphrased & Augmented Sentences,Pasaré por la panadería en mi camino de regreso.

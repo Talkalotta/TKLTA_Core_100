@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,সে স্কুলে যায়।
+Grammar Core,সে স্কুলে গিয়েছিল।
+Grammar Core,সে স্কুলে যাবে।
+Grammar Core,"সে যদি স্কুলে যেত, ভালো হতো।"
+Grammar Core,সে স্কুলে যায়নি।
+Grammar Core,স্কুলে যাওয়া হয়েছে।
+Grammar Core,তুমি কি স্কুলে গিয়েছিলে?
+Grammar Core,আমি স্কুলে যাচ্ছি।
+Grammar Core,তারা স্কুলে যাবে না।
+Grammar Core,স্কুলে না যাওয়া উচিত নয়।
+Conversational Data,কেমন আছেন?
+Conversational Data,"আমি ভালো আছি, আপনি?"
+Conversational Data,আজকের আবহাওয়া কেমন?
+Conversational Data,খুব সুন্দর! আজকে কোথায় যাবো?
+Conversational Data,চলুন কফি খাই।
+Conversational Data,আপনার নাম কি?
+Conversational Data,আমার নাম রাহাত।
+Conversational Data,তুমি কি সিনেমা দেখতে চাও?
+Conversational Data,"হ্যাঁ, চল যাই!"
+Conversational Data,ধন্যবাদ! দেখা হবে।
+Code-Switching & Multilingualism,আজকে weather খুব ভালো!
+Code-Switching & Multilingualism,কালকে আমি online class করবো।
+Code-Switching & Multilingualism,Lunch এ কি খাবে?
+Code-Switching & Multilingualism,"সত্যি বলছি, এটা amazing!"
+Code-Switching & Multilingualism,তুমি কি English বুঝো?
+Code-Switching & Multilingualism,আজ party তে যাচ্ছি!
+Code-Switching & Multilingualism,Exam কেমন হলো?
+Code-Switching & Multilingualism,Internet connection নেই!
+Code-Switching & Multilingualism,Gaming করবো আজ?
+Code-Switching & Multilingualism,Mobile টা কোথায়?
+Formal & Professional Speech,"প্রিয় গ্রাহক, আমাদের পরিষেবার জন্য ধন্যবাদ।"
+Formal & Professional Speech,আপনার স্বাস্থ্য পরীক্ষা করানো উচিত।
+Formal & Professional Speech,এই চুক্তি আইনত বাধ্যতামূলক।
+Formal & Professional Speech,আজকের সভা দুপুর ৩টায় অনুষ্ঠিত হবে।
+Formal & Professional Speech,প্রতিযোগিতামূলক মূল্য নির্ধারণ করা হয়েছে।
+Formal & Professional Speech,নতুন নিয়ম নীতিমালা অনুসরণ করুন।
+Formal & Professional Speech,আপনার আবেদন গৃহীত হয়েছে।
+Formal & Professional Speech,এই গবেষণাটি গুরুত্বপূর্ণ আবিষ্কার করেছে।
+Formal & Professional Speech,ব্যাংক লেনদেন নিরাপদ করুন।
+Formal & Professional Speech,এটি আপনার চুক্তির শর্তাবলী।
+"Idioms, Proverbs & Cultural Expressions",চোরের মায়ের বড় গলা।
+"Idioms, Proverbs & Cultural Expressions",নাচতে না জানলে উঠান বাঁকা।
+"Idioms, Proverbs & Cultural Expressions",অতিরিক্ত লোভে সব হারায়।
+"Idioms, Proverbs & Cultural Expressions",চোখের দেখা মনের দেখা নয়।
+"Idioms, Proverbs & Cultural Expressions",একতাই বল।
+"Idioms, Proverbs & Cultural Expressions",দুধের মাছি দুধে পড়ে।
+"Idioms, Proverbs & Cultural Expressions",উঁচু গাছের ফল বেশি টানে।
+"Idioms, Proverbs & Cultural Expressions",যে লঙ্কায় গেছে সে লঙ্কার রাক্ষস।
+"Idioms, Proverbs & Cultural Expressions","কাজের বেলা কানা, খাওয়ার বেলা সানা।"
+"Idioms, Proverbs & Cultural Expressions",জলে কুমির ডাঙায় বাঘ।
+Question-Answer Pairs,বাংলাদেশের রাজধানী কোথায়?
+Question-Answer Pairs,ঢাকা।
+Question-Answer Pairs,আজকের তারিখ কত?
+Question-Answer Pairs,১৪ মার্চ ২০২৫।
+Question-Answer Pairs,আপনার প্রিয় খাবার কী?
+Question-Answer Pairs,আমি বিরিয়ানি পছন্দ করি।
+Question-Answer Pairs,তুমি কোথায় থাকো?
+Question-Answer Pairs,আমি ঢাকায় থাকি।
+Question-Answer Pairs,বই পড়তে ভালো লাগে?
+Question-Answer Pairs,"হ্যাঁ, খুব!"
+Commands & Instructions,দয়া করে দরজা বন্ধ করুন।
+Commands & Instructions,তুমি এখনি ঘুমিয়ে পড়ো।
+Commands & Instructions,আমাকে সাহায্য করো।
+Commands & Instructions,টেবিলের উপর বই রাখো।
+Commands & Instructions,খাবার গরম করো।
+Commands & Instructions,গাড়ি ধীরে চালাও।
+Commands & Instructions,শান্ত থাকুন।
+Commands & Instructions,লাইট বন্ধ করো।
+Commands & Instructions,চুপ করো!
+Commands & Instructions,জল খাও।
+Named Entity Recognition (NER) Data,রবীন্দ্রনাথ ঠাকুর একজন কবি।
+Named Entity Recognition (NER) Data,ঢাকা বাংলাদেশের রাজধানী।
+Named Entity Recognition (NER) Data,২০১০ সালে আমি স্কুলে ভর্তি হই।
+Named Entity Recognition (NER) Data,গুগল একটি প্রযুক্তি কোম্পানি।
+Named Entity Recognition (NER) Data,আমার জন্ম ১৫ আগস্ট।
+Named Entity Recognition (NER) Data,আমরা কক্সবাজার বেড়াতে গিয়েছিলাম।
+Named Entity Recognition (NER) Data,শেখ হাসিনা বাংলাদেশের প্রধানমন্ত্রী।
+Named Entity Recognition (NER) Data,অ্যাপল মোবাইল তৈরি করে।
+Named Entity Recognition (NER) Data,ইংল্যান্ড ফুটবল বিশ্বকাপে জিতেছে।
+Named Entity Recognition (NER) Data,মার্কিন যুক্তরাষ্ট্র একটি দেশ।
+Sentiment Analysis Data,আমি খুব খুশি!
+Sentiment Analysis Data,আজকের দিনটি দারুণ!
+Sentiment Analysis Data,আমি খুব দুঃখিত।
+Sentiment Analysis Data,এই সিনেমাটি একদম বাজে!
+Sentiment Analysis Data,খুব রাগ লাগছে!
+Sentiment Analysis Data,আমার মন খারাপ।
+Sentiment Analysis Data,এটি একটি অসাধারণ অভিজ্ঞতা!
+Sentiment Analysis Data,খুব ভালো লেগেছে!
+Sentiment Analysis Data,এটা মেনে নেওয়া কঠিন।
+Sentiment Analysis Data,আমি উত্তেজিত!
+Paraphrased & Augmented Sentences,সে খুব দ্রুত দৌড়ায়।
+Paraphrased & Augmented Sentences,সে দৌড়াতে খুব পছন্দ করে।
+Paraphrased & Augmented Sentences,তার দৌড়ানোর গতি খুব বেশি।
+Paraphrased & Augmented Sentences,সে প্রচণ্ড জোরে দৌড়াচ্ছে।
+Paraphrased & Augmented Sentences,সে খুব তাড়াতাড়ি ছুটে যায়।
+Paraphrased & Augmented Sentences,সে ঝড়ের গতিতে ছুটছে।
+Paraphrased & Augmented Sentences,সে গতি বাড়িয়ে দৌড়ালো।
+Paraphrased & Augmented Sentences,সে খুব জোরে দৌড়েছিল।
+Paraphrased & Augmented Sentences,তার দৌড়ানোর দক্ষতা অসাধারণ।
+Paraphrased & Augmented Sentences,সে বিদ্যুতের মতো দৌড়ায়।

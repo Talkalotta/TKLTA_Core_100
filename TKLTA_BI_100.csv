@@ -1,0 +1,101 @@
+Category,Sentence_Bislama
+Grammar Core,Mi bin go long maket yestedei.
+Grammar Core,Bambae yumi stap long haos tede.
+Grammar Core,Hemia i wan samting we bae mi save mekem.
+Grammar Core,Mi no bin wantem go.
+Grammar Core,Kakae ia i bin kakae finis.
+Grammar Core,Bae mi mekem hem sapos yu askem mi.
+Grammar Core,Hem i stap wok evri dei.
+Grammar Core,Ol pikinini oli no stap long skul tede.
+Grammar Core,Mi stap ridim buk ia.
+Grammar Core,Buk ia i bin rid long mi.
+Conversational Data,Olsem wanem? Yu oraet?
+Conversational Data,"Mi oraet, yu olsem wanem?"
+Conversational Data,Mi stap traem blong kasem bas.
+Conversational Data,Yu wantem sam kakae?
+Conversational Data,"Nogat, mi kakae finis."
+Conversational Data,Yu bin luk mama blong mi?
+Conversational Data,"Yes, hem i stap long haos."
+Conversational Data,Bae yumi go long ples ia?
+Conversational Data,"Mi no sua, be yumi save traem."
+Conversational Data,"Gudbai, lukim yu bihain."
+Code-Switching & Multilingualism,"Mi stap wok long hospital nao, mo mi go long duty long 8 o'clock."
+Code-Switching & Multilingualism,Yumi save storian long Bislama o English?
+Code-Switching & Multilingualism,"Mi no save blong talem hem long English, be hem i olsem ‘fulap’"
+Code-Switching & Multilingualism,Hem i talem ‘mi tired tumas’ afta long wok.
+Code-Switching & Multilingualism,"Plis givim wan bag, one bigwan ya."
+Code-Switching & Multilingualism,"Mekem fast, mi gat wan meeting!"
+Code-Switching & Multilingualism,Mi stap stap long St Michel area.
+Code-Switching & Multilingualism,Kakae ya hemi ‘delicious’ tumas!
+Code-Switching & Multilingualism,Mi bin joinem wan Zoom call long wok.
+Code-Switching & Multilingualism,"Sapos yu wantem, mi save help yu blong translate."
+Formal & Professional Speech,Yumi mas rispektem ol rul blong kampani.
+Formal & Professional Speech,Meeting bae i stat long 9:00 sharp.
+Formal & Professional Speech,Plis submitem ripot long ofis bifo Friday.
+Formal & Professional Speech,Hem i wan nara topik long legal framework.
+Formal & Professional Speech,Yumi tokbaot health policy long Vanuatu.
+Formal & Professional Speech,Plis folem ol prosedja we mifala i givim.
+Formal & Professional Speech,Bae yumi mekem inspeksen long olgeta yunit.
+Formal & Professional Speech,Yumi mas stap promp mo responsibol.
+Formal & Professional Speech,Ol dokta oli lukluk ol patien evri moning.
+Formal & Professional Speech,Plis save long confidentiality blong infomesen.
+"Idioms, Proverbs & Cultural Expressions",Yu no save kasem fis sipos yu no wetem line.
+"Idioms, Proverbs & Cultural Expressions",Man we i save plante samting i olsem wan buk.
+"Idioms, Proverbs & Cultural Expressions","Taem i kam, solwota i save ron."
+"Idioms, Proverbs & Cultural Expressions","Sipos yu luktaem gut, bae yu no lus."
+"Idioms, Proverbs & Cultural Expressions","Wanem we yu planem, hemia nao bae yu kakae."
+"Idioms, Proverbs & Cultural Expressions",No letem solwota i tekemaot ol tok blong yu.
+"Idioms, Proverbs & Cultural Expressions",Wan man i no save bonem faea wetem wan han nomo.
+"Idioms, Proverbs & Cultural Expressions","Kakae i gud, be man i no ful yet."
+"Idioms, Proverbs & Cultural Expressions","Sipos yu lusum rod, askem long wan man."
+"Idioms, Proverbs & Cultural Expressions",Finga blong han oli no semak.
+Question-Answer Pairs,Wanem nem blong yu? - Nem blong mi Joses.
+Question-Answer Pairs,Yu stap wea? - Mi stap long Tagabe.
+Question-Answer Pairs,Olsem wanem long wok? - I stap gud nomo.
+Question-Answer Pairs,"Yu bin go long ples ia bifo? - Yes, mi bin go."
+Question-Answer Pairs,Wanem dei nao tede? - Tede i Thasde.
+Question-Answer Pairs,"Yu wantem help? - Yes plis, mi nid sam infomesen."
+Question-Answer Pairs,"Yu save swim? - Yes, mi lanem long smol taem."
+Question-Answer Pairs,Wanem i kamaot long test? - Result i positive.
+Question-Answer Pairs,"Yu bin luk dokta? - Yes, hem i givim mi tablet."
+Question-Answer Pairs,Wanem samting yu laik kakae? - Mi laik eat laplap.
+Commands & Instructions,Plis putum buk ia long tebol.
+Commands & Instructions,Stap kwaet taem teacher i tok.
+Commands & Instructions,Yu mas washem han blong yu.
+Commands & Instructions,Tekem bag blong yu nao!
+Commands & Instructions,Go long skul kwik!
+Commands & Instructions,No kam long ples ia!
+Commands & Instructions,Yu mas pem samting ia fastaem.
+Commands & Instructions,Folem mi naoia.
+Commands & Instructions,Lukluk long saed blong rod bifo yu krosem.
+Commands & Instructions,Karem dispela samting i go long haos.
+Named Entity Recognition (NER) Data,Prime Minister blong Vanuatu hemi Charlot Salwai.
+Named Entity Recognition (NER) Data,Mi bon long 25 Septemba 1992.
+Named Entity Recognition (NER) Data,Bank blong South Pacific i stap long town.
+Named Entity Recognition (NER) Data,UNICEF i wok wetem Ministry blong Helt.
+Named Entity Recognition (NER) Data,Mi bin go long Australia long yia 2015.
+Named Entity Recognition (NER) Data,Misis Jansen i wan tija long Central School.
+Named Entity Recognition (NER) Data,Air Vanuatu i save flae i go long Fiji.
+Named Entity Recognition (NER) Data,Ol man long Port Vila oli celebratem independens.
+Named Entity Recognition (NER) Data,Hospital blong Vila i long Seaside.
+Named Entity Recognition (NER) Data,Mifala i bin luk wan movie long Tana Cinema.
+Sentiment Analysis Data,Mi glad tumas blong luk yu.
+Sentiment Analysis Data,Mi no laekem fasin blong hem.
+Sentiment Analysis Data,Kakae ia i test gud tumas!
+Sentiment Analysis Data,Mi harem nogud long toktok ya.
+Sentiment Analysis Data,Mi stap harem mi sef long ples ia.
+Sentiment Analysis Data,Fasin ia i mekem mi kros.
+Sentiment Analysis Data,Mi hapi blong wok wetem yu.
+Sentiment Analysis Data,Mi fraet taem mi luk samting ya.
+Sentiment Analysis Data,Mi no gat wan problem wetem hem.
+Sentiment Analysis Data,Mi save talem se mi sorre tumas.
+Paraphrased & Augmented Sentences,Mi stap long haos. → Haos nao mi stap long hem.
+Paraphrased & Augmented Sentences,Mi ridim buk ia. → Buk ia mi bin ridim.
+Paraphrased & Augmented Sentences,Hem i talem mi. → Hem i bin toktok long mi.
+Paraphrased & Augmented Sentences,Yumi go long maket. → Yumi bin go shopping.
+Paraphrased & Augmented Sentences,Plis helpem mi. → Bae yu save help mi?
+Paraphrased & Augmented Sentences,Mi no wantem go. → Mi no laek blong go.
+Paraphrased & Augmented Sentences,Kakae ia i gud. → Mi laekem kakae ia.
+Paraphrased & Augmented Sentences,Mi bin wok long taem ia. → Mi stap wok long dei ia.
+Paraphrased & Augmented Sentences,Ol pikinini oli stap plei. → Pikinini oli plei long outsait.
+Paraphrased & Augmented Sentences,Hem i bin tekem bag. → Bag ia hem i karem.

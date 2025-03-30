@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Mañana iré al mercado si no llueve.
+Grammar Core,"Cuando era niño, jugaba en el parque todas las tardes."
+Grammar Core,"Si tuviera dinero, viajaría por todo el mundo."
+Grammar Core,El proyecto será terminado antes de la fecha límite.
+Grammar Core,¿Habías visto esa película antes de ayer?
+Grammar Core,No quiero que me hablen en ese tono.
+Grammar Core,Las cartas fueron entregadas por el cartero esta mañana.
+Grammar Core,Ojalá todos los estudiantes aprobaran el examen.
+Grammar Core,Me gusta cómo cocinas la sopa de pollo.
+Grammar Core,El tren salió a las ocho en punto.
+Conversational Data,"—¡Hola! ¿Cómo te ha ido hoy? —Bien, gracias. ¿Y a ti?"
+Conversational Data,—¿A qué hora nos encontramos? —A las seis en la plaza.
+Conversational Data,"—¿Me puedes prestar tu bolígrafo? —Claro, aquí tienes."
+Conversational Data,—¿Qué hiciste el fin de semana? —Fui a la playa con mi familia.
+Conversational Data,"—Disculpe, ¿dónde está la farmacia más cercana? —A dos cuadras, en la esquina."
+Conversational Data,"—No entiendo esto, ¿me lo explicas? —Sí, con gusto."
+Conversational Data,—Estoy muy cansado. —Entonces deberías descansar un rato.
+Conversational Data,"—¿Quieres café o té? —Prefiero café, gracias."
+Conversational Data,"—Te llamo más tarde. —De acuerdo, hablamos luego."
+Conversational Data,"—Me encantó el concierto. —Sí, estuvo increíble."
+Code-Switching & Multilingualism,Voy a hacer un delivery porque no tengo tiempo para cocinar.
+Code-Switching & Multilingualism,Nos vemos en el mall después del trabajo.
+Code-Switching & Multilingualism,Estoy full ocupado con el proyecto.
+Code-Switching & Multilingualism,Mándame un mensaje por WhatsApp.
+Code-Switching & Multilingualism,Tengo que hacer un call con el cliente.
+Code-Switching & Multilingualism,Mi laptop se dañó y necesito comprar otra.
+Code-Switching & Multilingualism,Hoy almorcé sushi en un restaurante nuevo.
+Code-Switching & Multilingualism,Ayer vi una movie súper interesante.
+Code-Switching & Multilingualism,Necesito un outfit para la boda de mi prima.
+Code-Switching & Multilingualism,Mi jefe siempre está en meetings.
+Formal & Professional Speech,"Estimado cliente, su solicitud ha sido procesada con éxito."
+Formal & Professional Speech,El informe financiero será presentado en la reunión del viernes.
+Formal & Professional Speech,"Por favor, complete el formulario antes de la fecha estipulada."
+Formal & Professional Speech,Es un placer colaborar con usted en este proyecto.
+Formal & Professional Speech,"En caso de emergencia, contacte al servicio de atención al cliente."
+Formal & Professional Speech,Los datos deben ser analizados antes de tomar una decisión.
+Formal & Professional Speech,Agradecemos su puntualidad en el cumplimiento de plazos.
+Formal & Professional Speech,"Por favor, diríjase a la ventanilla para cualquier consulta adicional."
+Formal & Professional Speech,Se recomienda seguir el protocolo establecido en el manual.
+Formal & Professional Speech,"Atentamente, el equipo de recursos humanos."
+"Idioms, Proverbs & Cultural Expressions","A palabras necias, oídos sordos."
+"Idioms, Proverbs & Cultural Expressions",Más vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions",No dejes para mañana lo que puedes hacer hoy.
+"Idioms, Proverbs & Cultural Expressions",Cada loco con su tema.
+"Idioms, Proverbs & Cultural Expressions",En boca cerrada no entran moscas.
+"Idioms, Proverbs & Cultural Expressions","El que madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions",Más vale pájaro en mano que cien volando.
+"Idioms, Proverbs & Cultural Expressions","A buen entendedor, pocas palabras."
+"Idioms, Proverbs & Cultural Expressions",No todo lo que brilla es oro.
+"Idioms, Proverbs & Cultural Expressions",El hábito no hace al monje.
+Question-Answer Pairs,¿Cuánto cuesta este producto?
+Question-Answer Pairs,¿Dónde está la estación de tren más cercana?
+Question-Answer Pairs,¿Cuál es la capital de Ecuador?
+Question-Answer Pairs,¿Me puedes ayudar con esta tarea?
+Question-Answer Pairs,¿Qué opinas sobre el cambio climático?
+Question-Answer Pairs,¿Cuándo es tu cumpleaños?
+Question-Answer Pairs,¿Qué ingredientes lleva la receta?
+Question-Answer Pairs,¿Cómo llego al aeropuerto desde aquí?
+Question-Answer Pairs,¿Cuál es tu película favorita?
+Question-Answer Pairs,"¿Puedes repetir la última parte, por favor?"
+Commands & Instructions,Apaga las luces antes de salir.
+Commands & Instructions,Lávate las manos antes de comer.
+Commands & Instructions,Siga las señales de tránsito en todo momento.
+Commands & Instructions,Envíame el informe antes de las cinco.
+Commands & Instructions,Guarde silencio en la biblioteca.
+Commands & Instructions,No olvides traer tu pasaporte.
+Commands & Instructions,"Respete la fila, por favor."
+Commands & Instructions,Haz clic en el botón de abajo para continuar.
+Commands & Instructions,Dime la hora cuando termines.
+Commands & Instructions,Evite el contacto con superficies calientes.
+Named Entity Recognition (NER) Data,Quito es la capital de Ecuador.
+Named Entity Recognition (NER) Data,El presidente de Ecuador visitó España la semana pasada.
+Named Entity Recognition (NER) Data,La Universidad de Guayaquil tiene más de 100 años.
+Named Entity Recognition (NER) Data,Amazon es una de las empresas más grandes del mundo.
+Named Entity Recognition (NER) Data,El volcán Cotopaxi es uno de los más altos de Ecuador.
+Named Entity Recognition (NER) Data,El 10 de agosto es una fecha importante en la historia ecuatoriana.
+Named Entity Recognition (NER) Data,El Banco Pichincha es el más grande del país.
+Named Entity Recognition (NER) Data,En Guayaquil hace calor casi todo el año.
+Named Entity Recognition (NER) Data,La Torre Eiffel está en París.
+Named Entity Recognition (NER) Data,El doctor Pérez atenderá pacientes el viernes.
+Sentiment Analysis Data,"Me encanta este restaurante, la comida es deliciosa."
+Sentiment Analysis Data,"Este servicio es pésimo, no lo recomiendo."
+Sentiment Analysis Data,Estoy muy emocionado por mi viaje a Galápagos.
+Sentiment Analysis Data,"No me gustó la película, fue aburrida."
+Sentiment Analysis Data,Estoy feliz de haber aprobado mi examen.
+Sentiment Analysis Data,Me molesta que no respondan mis correos a tiempo.
+Sentiment Analysis Data,La atención al cliente fue excelente.
+Sentiment Analysis Data,El clima hoy está horrible.
+Sentiment Analysis Data,Me siento agradecido por el apoyo de mi familia.
+Sentiment Analysis Data,El evento fue un desastre total.
+Paraphrased & Augmented Sentences,Voy al supermercado a comprar algunas cosas.
+Paraphrased & Augmented Sentences,Tengo que ir a la tienda a comprar unos productos.
+Paraphrased & Augmented Sentences,"Esta película es increíble, me gustó mucho."
+Paraphrased & Augmented Sentences,"Me encantó esta película, fue fantástica."
+Paraphrased & Augmented Sentences,Voy a preparar un postre delicioso.
+Paraphrased & Augmented Sentences,Haré un dulce riquísimo para el almuerzo.
+Paraphrased & Augmented Sentences,Necesito descansar después de un largo día.
+Paraphrased & Augmented Sentences,"Estoy agotado, me vendría bien un descanso."
+Paraphrased & Augmented Sentences,El tráfico hoy estuvo terrible.
+Paraphrased & Augmented Sentences,Hoy había demasiado tráfico en la ciudad.

@@ -1,0 +1,101 @@
+﻿Category,Tunisian Arabic Sentence
+Grammar Core,أنا نقرأ كتاب كل ليلة.
+Grammar Core,هو مشى للسوق البارح.
+Grammar Core,غدوة بش نمشي نخدم.
+Grammar Core,لو كان عندي فلوس، نبدل طوموبيلتي.
+Grammar Core,أنا ما نحبش القهوة.
+Grammar Core,الدار تبنات عامين تالي.
+Grammar Core,عليش ما جيتش البارح؟
+Grammar Core,إنتي لازمك ترتاح شوية.
+Grammar Core,كان نقراو برشا، ننجحو في الامتحان.
+Grammar Core,هي كانت تمشي للمدرسة بكري.
+Conversational Data,سلم، شنية حوالك؟
+Conversational Data,يا خويا، عندكم خبز طري؟
+Conversational Data,برك الله فيك، صحيت.
+Conversational Data,قداش توا الساعة؟
+Conversational Data,ما نعرفش، اسأل حد آخر.
+Conversational Data,هاو شنية تحب تشرب؟
+Conversational Data,عندي مشكلة مع التليفون.
+Conversational Data,تحب نعاونوك؟
+Conversational Data,وين نلقا أقرب pharmacie؟
+Conversational Data,بالله، شنوّة رأيك في الفلم؟
+Code-Switching & Multilingualism,باهي، نروح توا بعد we finish work.
+Code-Switching & Multilingualism,متى عندك interview متاع job؟
+Code-Switching & Multilingualism,شنوة plan متاع العطلة الجاية؟
+Code-Switching & Multilingualism,أنا جاي، just wait a bit.
+Code-Switching & Multilingualism,نحب نتفرج في movies بالإنجليزية.
+Code-Switching & Multilingualism,ما تفهمنيش غلط، but I meant something else.
+Code-Switching & Multilingualism,اليوم deadline متاع project.
+Code-Switching & Multilingualism,بالله شو هي the best café في تونس؟
+Code-Switching & Multilingualism,نمشيو نحضرو the meeting؟
+Code-Switching & Multilingualism,"Sorry, ما عنديش فكرة."
+Formal & Professional Speech,يشرفني نقدم لكم هذا المشروع.
+Formal & Professional Speech,نعتذر عن التأخير.
+Formal & Professional Speech,يُرجى إرسال الوثائق اللازمة في أقرب وقت ممكن.
+Formal & Professional Speech,حسب القانون، يجب احترام العقود.
+Formal & Professional Speech,شكراً لتعاونكم معنا.
+Formal & Professional Speech,الاجتماع متاع اليوم يبدأ على الرابعة.
+Formal & Professional Speech,هذا العرض خاص بالشركات فقط.
+Formal & Professional Speech,بالنظر إلى الظروف الحالية، نوصي بتأجيل القرار.
+Formal & Professional Speech,تمت مراجعة الملف وهو جاهز للتوقيع.
+Formal & Professional Speech,نرجو منك التواصل مع القسم المالي بخصوص الفاتورة.
+"Idioms, Proverbs & Cultural Expressions",اللي فات مات.
+"Idioms, Proverbs & Cultural Expressions",السمين يطيح حتى كان في قاع البحر.
+"Idioms, Proverbs & Cultural Expressions",يد وحدة ما تصفقش.
+"Idioms, Proverbs & Cultural Expressions",كل تأخيرة فيها خيرة.
+"Idioms, Proverbs & Cultural Expressions",الصبر مفتاح الفرج.
+"Idioms, Proverbs & Cultural Expressions",كيفاش تحب تطير وانت مقصوص الجناح؟
+"Idioms, Proverbs & Cultural Expressions",الفاهم يفهمها وهي طايرة.
+"Idioms, Proverbs & Cultural Expressions",خير حاجة، خدمتك بيدك.
+"Idioms, Proverbs & Cultural Expressions",طاحت الصمعة، علقو الحجام.
+"Idioms, Proverbs & Cultural Expressions",خبز الدار ياكلو البراني.
+Question-Answer Pairs,وينك؟ - توّا جاي.
+Question-Answer Pairs,قداش سعر هذا؟ - بستة دنانير.
+Question-Answer Pairs,كيفاش نجم نحجز؟ - عبر الموقع الإلكتروني.
+Question-Answer Pairs,أنتي توا وين؟ - في الدار.
+Question-Answer Pairs,شنوة أخبارك؟ - لاباس، الحمد لله.
+Question-Answer Pairs,نجم نعاونك؟ - لا، شكراً.
+Question-Answer Pairs,فما حافلة للمركز؟ - أي، كل نص ساعة.
+Question-Answer Pairs,تحب قهوة ولا عصير؟ - قهوة، عالسلامة.
+Question-Answer Pairs,شنية أوقات العمل؟ - من الثمانية للخمسة.
+Question-Answer Pairs,عندك فكرة على هذا المكان؟ - أي، زرتو قبل.
+Commands & Instructions,سد الباب بعد ما تخرج.
+Commands & Instructions,حط الماكينة في الكهرباء.
+Commands & Instructions,كل بروحك، ما تستنى حد.
+Commands & Instructions,أعطيه الكتاب.
+Commands & Instructions,ما تحلش الباب، راهي الريح قوية.
+Commands & Instructions,حط التليفون silent.
+Commands & Instructions,ركّز معايا شوية.
+Commands & Instructions,ما تسألش برشا.
+Commands & Instructions,جرّب هذي الطريقة.
+Commands & Instructions,سجل المعلومة في الدفتر.
+Named Entity Recognition (NER) Data,مريم سافرت لباريس.
+Named Entity Recognition (NER) Data,المباراة النهائية بش تكون نهار الجمعة.
+Named Entity Recognition (NER) Data,شركة دليس معروفة بمنتجاتها.
+Named Entity Recognition (NER) Data,القطار يخرج من محطة برشلونة.
+Named Entity Recognition (NER) Data,الدكتور عادل هو أحسن جراح في تونس.
+Named Entity Recognition (NER) Data,أهم شارع في تونس هو الحبيب بورقيبة.
+Named Entity Recognition (NER) Data,سافرت لمدينة الحمامات في الصيف.
+Named Entity Recognition (NER) Data,قابلت أحمد في مقهى سيدي بوسعيد.
+Named Entity Recognition (NER) Data,فازت تونس بكأس إفريقيا في 2004.
+Named Entity Recognition (NER) Data,باب بحر معلم تاريخي في تونس.
+Sentiment Analysis Data,أنا فرحان برشا اليوم!
+Sentiment Analysis Data,اليوم كان نهار صعيب.
+Sentiment Analysis Data,ما يعجبنيش كيفاش يخدم.
+Sentiment Analysis Data,واو، الخدمة متاعك روعة!
+Sentiment Analysis Data,أنا غضبان وما نحبش نحكي.
+Sentiment Analysis Data,الفلم كان ممل برشا.
+Sentiment Analysis Data,الجو اليوم يفتح النفس.
+Sentiment Analysis Data,ما توقعتش الخدمة تكون هاكا.
+Sentiment Analysis Data,نحب نعاود التجربة هذي.
+Sentiment Analysis Data,الطعام هذا خايب وما نحبوش.
+Paraphrased & Augmented Sentences,أنا نقرأ كتاب كل ليلة. → نقرا في كتاب كل ليلة.
+Paraphrased & Augmented Sentences,ما نحبش القهوة. → القهوة ما تعجبنيش.
+Paraphrased & Augmented Sentences,تحب نعاونوك؟ → نجم نعاونك؟
+Paraphrased & Augmented Sentences,شنية حوالك؟ → كيف حالك؟
+Paraphrased & Augmented Sentences,وينك؟ → فين انت؟
+Paraphrased & Augmented Sentences,سجل المعلومة في الدفتر. → كتب المعلومة في الكراسة.
+Paraphrased & Augmented Sentences,شنوة رأيك في الفلم؟ → شنية وجهة نظرك؟
+Paraphrased & Augmented Sentences,المباراة بش تكون الجمعة. → الجمعة فما مباراة.
+Paraphrased & Augmented Sentences,اليوم كان نهار صعيب. → نهاري كان تعب.
+Paraphrased & Augmented Sentences,أنا غضبان. → رايي مش عاجبني.

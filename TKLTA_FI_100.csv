@@ -1,0 +1,101 @@
+Category,Sentence (Finnish)
+Grammar Core,Hän kävelee puistossa.
+Grammar Core,He kävelivät puistossa.
+Grammar Core,Hän on kävellyt puistossa.
+Grammar Core,Hän oli kävellyt puistossa.
+Grammar Core,"Hän kävelisi puistossa, jos olisi aikaa."
+Grammar Core,Hän ei kävele puistossa.
+Grammar Core,Kävellään puistossa!
+Grammar Core,Kävelisikö hän puistossa?
+Grammar Core,"Jos olisin sinä, en kävelisi siellä."
+Grammar Core,Puistossa kävellään joka päivä.
+Conversational Data,Moi! Mitä kuuluu?
+Conversational Data,"Hyvää, entä sinulle?"
+Conversational Data,Voinko auttaa sinua jollain?
+Conversational Data,Missä olet nyt?
+Conversational Data,Olen kahvilassa keskustassa.
+Conversational Data,Mennäänkö elokuviin illalla?
+Conversational Data,Kuulostaa hyvältä! Mihin aikaan?
+Conversational Data,Kello kahdeksan sopii minulle.
+Conversational Data,Haluaisitko kahvia?
+Conversational Data,Kyllä kiitos!
+Code-Switching & Multilingualism,"Hei, can we meet tomorrow?"
+Code-Switching & Multilingualism,"Mä en tiiä, maybe later."
+Code-Switching & Multilingualism,Voisitko please auttaa minua?
+Code-Switching & Multilingualism,Tämä on niin cool!
+Code-Switching & Multilingualism,Olen jo sent my email.
+Code-Switching & Multilingualism,Meidän pitää finish this task.
+Code-Switching & Multilingualism,This food is tosi hyvä!
+Code-Switching & Multilingualism,Miten menee? Long time no see!
+Code-Switching & Multilingualism,Tulen officeen myöhemmin.
+Code-Switching & Multilingualism,See you huomenna!
+Formal & Professional Speech,"Arvoisa asiakkaamme, tervetuloa."
+Formal & Professional Speech,"Hyvät kuulijat, aloitamme esityksen."
+Formal & Professional Speech,Potilas tarvitsi kiireellistä hoitoa.
+Formal & Professional Speech,Yritys raportoi voittoa viime neljänneksellä.
+Formal & Professional Speech,Juristi tarkastaa sopimuksen ehdot.
+Formal & Professional Speech,Kokous alkaa tasan kymmeneltä.
+Formal & Professional Speech,Lähetän sinulle raportin sähköpostitse.
+Formal & Professional Speech,Voitteko vahvistaa tapaamisajan?
+Formal & Professional Speech,Liitteenä löydätte laskun.
+Formal & Professional Speech,Kiitämme yhteistyöstänne.
+"Idioms, Proverbs & Cultural Expressions",Pieniä kaloja nekin ovat.
+"Idioms, Proverbs & Cultural Expressions",Mennään sieltä mistä aita on matalin.
+"Idioms, Proverbs & Cultural Expressions",Ei kannata nuolaista ennen kuin tipahtaa.
+"Idioms, Proverbs & Cultural Expressions",Kuin kaksi marjaa.
+"Idioms, Proverbs & Cultural Expressions",Niin metsä vastaa kuin sinne huudetaan.
+"Idioms, Proverbs & Cultural Expressions",Ei ole koiraa karvoihin katsominen.
+"Idioms, Proverbs & Cultural Expressions",Olla puun ja kuoren välissä.
+"Idioms, Proverbs & Cultural Expressions",Puhua palturia.
+"Idioms, Proverbs & Cultural Expressions",Lyödä kaksi kärpästä yhdellä iskulla.
+"Idioms, Proverbs & Cultural Expressions",Tehdä kärpäsestä härkänen.
+Question-Answer Pairs,Missä lähin apteekki on?
+Question-Answer Pairs,Se on tuolla kulman takana.
+Question-Answer Pairs,Mitä pidät tästä elokuvasta?
+Question-Answer Pairs,Se oli todella jännittävä!
+Question-Answer Pairs,Mikä on sinun lempiruokasi?
+Question-Answer Pairs,Pidän eniten lohikeitosta.
+Question-Answer Pairs,Voisitko auttaa minua?
+Question-Answer Pairs,"Totta kai, mikä ongelma?"
+Question-Answer Pairs,Mikä päivä tänään on?
+Question-Answer Pairs,Tänään on tiistai.
+Commands & Instructions,Sulje ovi perässäsi.
+Commands & Instructions,Ole hyvä ja täytä tämä lomake.
+Commands & Instructions,Älä unohda ottaa sateenvarjoa mukaan.
+Commands & Instructions,Soita minulle huomenna.
+Commands & Instructions,Käänny oikealle seuraavassa risteyksessä.
+Commands & Instructions,"Odota hetki, kiitos."
+Commands & Instructions,Lue ohjeet huolellisesti.
+Commands & Instructions,Älä koske siihen!
+Commands & Instructions,Vie roskat ulos.
+Commands & Instructions,Paina vihreää nappia jatkaaksesi.
+Named Entity Recognition (NER),Helsinki on Suomen pääkaupunki.
+Named Entity Recognition (NER),Marimekko on suomalainen design-yritys.
+Named Entity Recognition (NER),Matti Meikäläinen asuu Turussa.
+Named Entity Recognition (NER),Järvi-Suomi on tunnettu kauniista maisemistaan.
+Named Entity Recognition (NER),Sauli Niinistö on Suomen presidentti.
+Named Entity Recognition (NER),Oulu sijaitsee Pohjois-Suomessa.
+Named Entity Recognition (NER),Euroopan unioni päätti uusista säännöistä.
+Named Entity Recognition (NER),Suomi voitti jääkiekon maailmanmestaruuden.
+Named Entity Recognition (NER),Joulupukki tulee Korvatunturilta.
+Named Entity Recognition (NER),Finlandia-talo on suosittu kokouspaikka.
+Sentiment Analysis Data,Tämä oli elämäni paras päivä!
+Sentiment Analysis Data,Olen niin pettynyt tähän tuotteeseen.
+Sentiment Analysis Data,Odotan innolla huomista matkaa!
+Sentiment Analysis Data,Tunnen oloni todella surulliseksi.
+Sentiment Analysis Data,Rakastan tätä kaupunkia!
+Sentiment Analysis Data,Tämä elokuva oli täysi pettymys.
+Sentiment Analysis Data,Olin niin iloinen saadessani työpaikan!
+Sentiment Analysis Data,En suosittele tätä ravintolaa kenellekään.
+Sentiment Analysis Data,Tämä oli paras syntymäpäivälahja!
+Sentiment Analysis Data,Olen täysin järkyttynyt tapahtuneesta.
+Paraphrased & Augmented Sentences,Hän menee töihin joka päivä.
+Paraphrased & Augmented Sentences,Joka päivä hän käy töissä.
+Paraphrased & Augmented Sentences,Hän työskentelee päivittäin.
+Paraphrased & Augmented Sentences,Päivittäin hän menee työpaikalleen.
+Paraphrased & Augmented Sentences,Töissä hän käy päivittäin.
+Paraphrased & Augmented Sentences,Hän suuntaa työpaikalleen joka päivä.
+Paraphrased & Augmented Sentences,Työmatka on hänen päivittäinen rutiininsa.
+Paraphrased & Augmented Sentences,Hän lähtee aamuisin töihin.
+Paraphrased & Augmented Sentences,Joka aamu hän lähtee työpaikalle.
+Paraphrased & Augmented Sentences,Työ on hänen päivittäinen askareensa.

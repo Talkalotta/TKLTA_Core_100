@@ -1,0 +1,101 @@
+Category,Belizean_Spanish_Sentence
+Grammar Core,Él caminó por la playa ayer en la tarde.
+Grammar Core,Mañana iremos al mercado temprano.
+Grammar Core,"Si tuviera más tiempo, viajaría a Cayo."
+Grammar Core,No me gusta comer pescado.
+Grammar Core,La carta fue escrita por mi abuela.
+Grammar Core,Nosotros habíamos terminado el trabajo antes de salir.
+Grammar Core,Espero que vengas a la fiesta esta noche.
+Grammar Core,El café ha sido preparado con azúcar morena.
+Grammar Core,¿Por qué no compraste más frutas en el mercado?
+Grammar Core,"Si hubieras llamado antes, te habría esperado."
+Conversational Data,"- Hola, ¿cómo estás? - Bien, gracias. ¿Y vos?"
+Conversational Data,- ¿Cuánto cuesta este vestido? - Vale cincuenta dólares.
+Conversational Data,"- ¿Podés ayudarme con esto? - Claro, ¿qué necesitas?"
+Conversational Data,"- Disculpá, ¿dónde está la estación de buses? - A la vuelta de la esquina."
+Conversational Data,"- ¡Hace calor hoy! - Sí, mejor tomamos algo frío."
+Conversational Data,"- ¿Vas a la fiesta esta noche? - No sé, tengo que trabajar temprano."
+Conversational Data,"- Me encanta la comida de doña María. - ¡Sí, sus tamales son los mejores!"
+Conversational Data,- ¿Qué hiciste el fin de semana? - Fuimos a la playa con la familia.
+Conversational Data,- ¿A qué hora empieza la película? - A las siete en punto.
+Conversational Data,"- ¿Vas a venir al partido de fútbol? - Tal vez, si termino mi tarea."
+Code-Switching & Multilingualism,Voy a chatear con mi friend más tarde.
+Code-Switching & Multilingualism,"Ese lugar está nice, tenemos que ir."
+Code-Switching & Multilingualism,"No worries, yo me encargo de eso."
+Code-Switching & Multilingualism,"Sorry, pero no puedo ir hoy."
+Code-Switching & Multilingualism,"Mañana es payday, finally."
+Code-Switching & Multilingualism,"Estoy en el bus, on my way."
+Code-Switching & Multilingualism,¿Ya hiciste el payment del bill?
+Code-Switching & Multilingualism,"El meeting es a las tres, don’t be late."
+Code-Switching & Multilingualism,Me encantan los Sunday BBQs con la familia.
+Code-Switching & Multilingualism,"El nuevo café está really good, tenés que probarlo."
+Formal & Professional Speech,"Estimado señor Pérez, le escribo para solicitar una reunión."
+Formal & Professional Speech,El contrato debe ser firmado antes del viernes.
+Formal & Professional Speech,"Por favor, envíe los documentos requeridos a la oficina."
+Formal & Professional Speech,Agradecemos su interés en nuestra empresa.
+Formal & Professional Speech,El paciente debe tomar la medicina dos veces al día.
+Formal & Professional Speech,El informe financiero estará listo la próxima semana.
+Formal & Professional Speech,Favor de contactar al departamento de recursos humanos.
+Formal & Professional Speech,Los términos y condiciones aplican a esta promoción.
+Formal & Professional Speech,Este producto viene con una garantía de un año.
+Formal & Professional Speech,Se recomienda hacer una cita con anticipación.
+"Idioms, Proverbs & Cultural Expressions","El que madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions",Más vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions",No todo lo que brilla es oro.
+"Idioms, Proverbs & Cultural Expressions",El pez por su boca muere.
+"Idioms, Proverbs & Cultural Expressions",A caballo regalado no se le mira el colmillo.
+"Idioms, Proverbs & Cultural Expressions","Cuando el río suena, piedras trae."
+"Idioms, Proverbs & Cultural Expressions",Más vale pájaro en mano que cien volando.
+"Idioms, Proverbs & Cultural Expressions",No hay mal que por bien no venga.
+"Idioms, Proverbs & Cultural Expressions",Zapatero a su zapato.
+"Idioms, Proverbs & Cultural Expressions","En casa de herrero, cuchillo de palo."
+Question-Answer Pairs,¿Dónde queda el mercado? - Está a dos cuadras de aquí.
+Question-Answer Pairs,¿Cuál es tu comida favorita? - Me encanta el rice and beans.
+Question-Answer Pairs,¿Cómo se llama el nuevo profesor? - Se llama Carlos Méndez.
+Question-Answer Pairs,¿A qué hora abre el banco? - A las ocho de la mañana.
+Question-Answer Pairs,¿Cuántos idiomas hablás? - Español e inglés.
+Question-Answer Pairs,¿Quién ganó el partido anoche? - El equipo de Orange Walk.
+Question-Answer Pairs,¿Por qué no viniste ayer? - Tenía que trabajar.
+Question-Answer Pairs,¿Cuándo es el próximo feriado? - En septiembre.
+Question-Answer Pairs,¿Qué tiempo hará mañana? - Parece que lloverá.
+Question-Answer Pairs,¿Dónde venden el mejor pan? - En la panadería de doña Rosa.
+Commands & Instructions,Apagá la luz cuando salgas.
+Commands & Instructions,"No toqués eso, está caliente."
+Commands & Instructions,Lavate las manos antes de comer.
+Commands & Instructions,Decime la verdad.
+Commands & Instructions,"Abrí la puerta, por favor."
+Commands & Instructions,Escribí tu nombre aquí.
+Commands & Instructions,"Esperá un momento, ya vengo."
+Commands & Instructions,No cruzés la calle sin mirar.
+Commands & Instructions,Revisá tu correo electrónico.
+Commands & Instructions,Seguí derecho hasta la esquina y doblá a la derecha.
+Named Entity Recognition (NER) Data,Juan Pérez vive en San Ignacio.
+Named Entity Recognition (NER) Data,El evento será en Belmopan el 15 de septiembre.
+Named Entity Recognition (NER) Data,"El Caribe es hermoso, especialmente Caye Caulker."
+Named Entity Recognition (NER) Data,Carlos trabaja en el Ministerio de Educación.
+Named Entity Recognition (NER) Data,El aeropuerto Philip Goldson está en Ladyville.
+Named Entity Recognition (NER) Data,Mi cumpleaños es el 3 de agosto.
+Named Entity Recognition (NER) Data,La Universidad de Belice ofrece varios programas.
+Named Entity Recognition (NER) Data,María es la gerente de Tropic Air.
+Named Entity Recognition (NER) Data,El festival de septiembre es muy popular en Belize City.
+Named Entity Recognition (NER) Data,El puente Swing Bridge conecta dos partes de la ciudad.
+Sentiment Analysis Data,Estoy muy feliz con mi nuevo trabajo.
+Sentiment Analysis Data,Me molesta cuando la gente no respeta el tráfico.
+Sentiment Analysis Data,Amo pasar tiempo con mi familia en el río.
+Sentiment Analysis Data,Estoy frustrado porque no tengo internet hoy.
+Sentiment Analysis Data,"La película estuvo increíble, la recomiendo."
+Sentiment Analysis Data,Ese restaurante tiene un pésimo servicio.
+Sentiment Analysis Data,Estoy emocionado por el viaje de mañana.
+Sentiment Analysis Data,Me da tristeza ver tanta contaminación.
+Sentiment Analysis Data,"Ese perro es tan adorable, me encanta."
+Sentiment Analysis Data,"No me gustó el concierto, estuvo aburrido."
+Paraphrased & Augmented Sentences,Voy al mercado mañana. → Mañana iré al mercado.
+Paraphrased & Augmented Sentences,Él está feliz con su trabajo. → A él le encanta su trabajo.
+Paraphrased & Augmented Sentences,La comida está deliciosa. → La comida tiene un excelente sabor.
+Paraphrased & Augmented Sentences,No puedo ir hoy. → Hoy no me es posible asistir.
+Paraphrased & Augmented Sentences,Ese libro es interesante. → Ese libro me parece fascinante.
+Paraphrased & Augmented Sentences,Hace calor afuera. → El clima está muy caluroso hoy.
+Paraphrased & Augmented Sentences,Esa casa es grande. → La casa tiene mucho espacio.
+Paraphrased & Augmented Sentences,No tengo dinero. → Estoy corto de efectivo.
+Paraphrased & Augmented Sentences,El niño juega en el parque. → El niño está divirtiéndose en el parque.
+Paraphrased & Augmented Sentences,Voy a visitar a mi abuela. → Tengo planes de ver a mi abuela.

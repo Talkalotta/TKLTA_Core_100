@@ -1,0 +1,101 @@
+Category,Sentence (Middle French)
+Grammar Core (Sentence Structures & Tenses),Je suis allé au marché hier.
+Grammar Core (Sentence Structures & Tenses),Il parlera avec son ami demain.
+Grammar Core (Sentence Structures & Tenses),"Si tu avais su, tu serais venu plus tôt."
+Grammar Core (Sentence Structures & Tenses),Nous avons été surpris par la nouvelle.
+Grammar Core (Sentence Structures & Tenses),Elle ne mange pas de viande.
+Grammar Core (Sentence Structures & Tenses),Les portes sont fermées chaque soir.
+Grammar Core (Sentence Structures & Tenses),Ils auraient voulu partir plus tôt.
+Grammar Core (Sentence Structures & Tenses),Avons-nous bien compris la leçon ?
+Grammar Core (Sentence Structures & Tenses),Le livre fut écrit par un grand poète.
+Grammar Core (Sentence Structures & Tenses),Que feras-tu quand il arrivera ?
+Conversational Data (Real-Life Dialogues & Exchanges),"Salut, comment vas-tu ?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Bien, merci ! Et toi ?"
+Conversational Data (Real-Life Dialogues & Exchanges),Je cherche une bonne auberge ici.
+Conversational Data (Real-Life Dialogues & Exchanges),Combien cela coûte-t-il ?
+Conversational Data (Real-Life Dialogues & Exchanges),Nous pouvons nous retrouver ce soir ?
+Conversational Data (Real-Life Dialogues & Exchanges),"Je ne comprends pas bien, pouvez-vous répéter ?"
+Conversational Data (Real-Life Dialogues & Exchanges),Cela me semble une bonne idée !
+Conversational Data (Real-Life Dialogues & Exchanges),"Il fait beau aujourd’hui, n’est-ce pas ?"
+Conversational Data (Real-Life Dialogues & Exchanges),Où est la rue Saint-Honoré ?
+Conversational Data (Real-Life Dialogues & Exchanges),Merci beaucoup pour votre aide !
+Code-Switching & Multilingualism,"Il parlait en français, puis suddenly, he switched to English."
+Code-Switching & Multilingualism,"Ce livre est très interessant, mais le titolo est en italien."
+Code-Switching & Multilingualism,Je vais au marché avec mon amigo.
+Code-Switching & Multilingualism,Tu connais la nouvelle série sur Netflix ?
+Code-Switching & Multilingualism,Il a écrit un poème en français et l’a traduit in Spanish.
+Code-Switching & Multilingualism,"Nous parlons français ici, pero a veces en espagnol aussi."
+Code-Switching & Multilingualism,Il a dit 'Hello' avant de continuer en français.
+Code-Switching & Multilingualism,La recette dit 'cuire 20 minutes' et puis 'mix it'.
+Code-Switching & Multilingualism,Le professeur explique en français et en Latin.
+Code-Switching & Multilingualism,"Ce mot existe en allemand aussi, non ?"
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Veuillez remplir ce formulaire avant l’audience.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",L’intervention chirurgicale a été un succès.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Nous attendons votre confirmation officielle.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Selon les lois en vigueur, cette action est interdite."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",L’entreprise a annoncé un nouveau partenariat.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Nous vous prions d’accepter nos sincères salutations.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Les résultats des analyses seront publiés bientôt.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Toute communication officielle doit être approuvée.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Le contrat stipule que les deux parties sont d’accord.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Nous examinerons votre requête avec attention.
+"Idioms, Proverbs & Cultural Expressions",Il ne faut pas vendre la peau de l’ours avant de l’avoir tué.
+"Idioms, Proverbs & Cultural Expressions","Petit à petit, l’oiseau fait son nid."
+"Idioms, Proverbs & Cultural Expressions",Il pleut des cordes aujourd’hui !
+"Idioms, Proverbs & Cultural Expressions",Mieux vaut tard que jamais.
+"Idioms, Proverbs & Cultural Expressions",Ce projet avance à pas de tortue.
+"Idioms, Proverbs & Cultural Expressions",Il a mis la charrue avant les bœufs.
+"Idioms, Proverbs & Cultural Expressions",Il ne faut pas courir deux lièvres à la fois.
+"Idioms, Proverbs & Cultural Expressions",Elle a pris ses jambes à son cou.
+"Idioms, Proverbs & Cultural Expressions",Ils sont comme chien et chat.
+"Idioms, Proverbs & Cultural Expressions","À cœur vaillant, rien d’impossible."
+Question-Answer Pairs (FAQ & Contextual Understanding),Quel est votre nom ? – Je m’appelle Jean.
+Question-Answer Pairs (FAQ & Contextual Understanding),Où habitez-vous ? – J’habite à Paris.
+Question-Answer Pairs (FAQ & Contextual Understanding),À quelle heure ouvre le magasin ? – À 9h du matin.
+Question-Answer Pairs (FAQ & Contextual Understanding),"Peut-on payer par carte ? – Oui, bien sûr."
+Question-Answer Pairs (FAQ & Contextual Understanding),Comment puis-je me rendre à la gare ? – Prenez la rue à gauche.
+Question-Answer Pairs (FAQ & Contextual Understanding),"Avez-vous un menu végétarien ? – Oui, voici."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Ce produit est-il en stock ? – Oui, nous l’avons."
+Question-Answer Pairs (FAQ & Contextual Understanding),Pourquoi le ciel est bleu ? – À cause de la diffusion de la lumière.
+Question-Answer Pairs (FAQ & Contextual Understanding),Combien coûte ce billet ? – 15 euros.
+Question-Answer Pairs (FAQ & Contextual Understanding),Quelle est la date aujourd’hui ? – Nous sommes le 5 mars.
+Commands & Instructions (Imperative Sentences),"Fermez la porte, s’il vous plaît."
+Commands & Instructions (Imperative Sentences),Écoutez attentivement les instructions.
+Commands & Instructions (Imperative Sentences),Ne touchez pas à cet objet !
+Commands & Instructions (Imperative Sentences),Asseyez-vous ici.
+Commands & Instructions (Imperative Sentences),Veuillez patienter quelques minutes.
+Commands & Instructions (Imperative Sentences),Montrez-moi vos documents.
+Commands & Instructions (Imperative Sentences),Dites-moi la vérité.
+Commands & Instructions (Imperative Sentences),Ne traversez pas la rue maintenant !
+Commands & Instructions (Imperative Sentences),Allumez la lumière.
+Commands & Instructions (Imperative Sentences),Prenez ce médicament après le repas.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Louis XIV était roi de France.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",La tour Eiffel se trouve à Paris.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Le Louvre est un musée célèbre.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Marie Curie a découvert le radium.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",La Révolution française a eu lieu en 1789.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Victor Hugo a écrit 'Les Misérables'.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",La Seine traverse Paris.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",L’université de la Sorbonne est très réputée.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Napoléon Bonaparte a été empereur.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Le Mont Blanc est la plus haute montagne des Alpes.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Je suis très heureux aujourd’hui !
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ce film était vraiment mauvais.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"J’adore ce restaurant, la nourriture est excellente !"
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ce produit ne fonctionne pas du tout.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),J’ai passé une journée formidable.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Je suis déçu du service.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ce livre est fascinant.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Quelle magnifique surprise !
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),C’est une grande perte pour nous.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ce spectacle était ennuyant.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Il fait très froid aujourd’hui. → Aujourd’hui, la température est glaciale."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Ce repas est délicieux. → Je me régale avec ce plat.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Il est en retard. → Il arrive plus tard que prévu.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Ce film est génial. → J’adore ce film !
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Le train est rapide. → Ce train va très vite.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Elle est triste. → Elle a le cœur lourd.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Je ne comprends pas. → Cette explication me semble obscure.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Nous allons partir bientôt. → Notre départ est imminent.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Ce livre est intéressant. → Cette lecture est captivante.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Il a peur. → Il est terrifié.

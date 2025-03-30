@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Mañana viajaré a La Habana.
+Grammar Core,Ayer comí en un restaurante cubano.
+Grammar Core,"Si tuviera más tiempo, aprendería a bailar salsa."
+Grammar Core,El coche fue arreglado por el mecánico.
+Grammar Core,No quiero que salgas tarde.
+Grammar Core,¿Habrías ido a la playa si no lloviera?
+Grammar Core,Siempre desayunamos café y pan con mantequilla.
+Grammar Core,El libro había sido leído antes del examen.
+Grammar Core,Tendremos que esperar hasta mañana.
+Grammar Core,Deberías haber llamado antes de venir.
+Conversational Data,¿Cómo está la familia?
+Conversational Data,"Oye, ¿vas a la fiesta de Juan?"
+Conversational Data,"No sé, dime tú, ¿qué opinas?"
+Conversational Data,"¡Qué calor hace hoy, mi hermano!"
+Conversational Data,¿Me puedes decir dónde queda la terminal de ómnibus?
+Conversational Data,"Asere, vamos a dar una vuelta por el malecón."
+Conversational Data,"No puedo hablar ahora, te llamo después."
+Conversational Data,"Hola, ¿cómo te ha ido en el trabajo?"
+Conversational Data,"Pásame el teléfono, porfa."
+Conversational Data,"Chao, nos vemos mañana."
+Code-Switching & Multilingualism,Voy a hacer un break y luego seguimos trabajando.
+Code-Switching & Multilingualism,Este file no se abre en mi computadora.
+Code-Switching & Multilingualism,El weekend pasado fuimos a Varadero.
+Code-Switching & Multilingualism,"Mami, ¿puedes chequear mi tarea?"
+Code-Switching & Multilingualism,"No stress, todo está bajo control."
+Code-Switching & Multilingualism,Dame un chance para explicarte.
+Code-Switching & Multilingualism,La teacher nos dio mucha tarea hoy.
+Code-Switching & Multilingualism,Voy a pedir un delivery de comida cubana.
+Code-Switching & Multilingualism,El Wi-Fi en esta zona es fatal.
+Code-Switching & Multilingualism,Ayer me dieron un upgrade en el hotel.
+Formal & Professional Speech,"Estimado cliente, su solicitud ha sido procesada."
+Formal & Professional Speech,La reunión se llevará a cabo el próximo lunes a las 10:00 a.m.
+Formal & Professional Speech,Los síntomas descritos indican una posible infección viral.
+Formal & Professional Speech,Favor de presentar su documento de identidad en la recepción.
+Formal & Professional Speech,La empresa se reserva el derecho de modificar las condiciones del contrato.
+Formal & Professional Speech,"En conclusión, los resultados del análisis indican un crecimiento estable."
+Formal & Professional Speech,Apreciamos su colaboración en este estudio de mercado.
+Formal & Professional Speech,"De acuerdo con el reglamento interno, es obligatorio el uso de uniforme."
+Formal & Professional Speech,Le agradeceríamos mucho su pronta respuesta.
+Formal & Professional Speech,"Según el reporte, el proyecto está en fase de evaluación."
+"Idioms, Proverbs & Cultural Expressions",Más vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions",Está lloviendo a cántaros.
+"Idioms, Proverbs & Cultural Expressions",No dejes para mañana lo que puedes hacer hoy.
+"Idioms, Proverbs & Cultural Expressions",A caballo regalado no se le mira el colmillo.
+"Idioms, Proverbs & Cultural Expressions","Donde hubo fuego, cenizas quedan."
+"Idioms, Proverbs & Cultural Expressions",Más sabe el diablo por viejo que por diablo.
+"Idioms, Proverbs & Cultural Expressions","El que madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions","La suerte de la fea, la bonita la desea."
+"Idioms, Proverbs & Cultural Expressions",Cría cuervos y te sacarán los ojos.
+"Idioms, Proverbs & Cultural Expressions",La vida es un carnaval.
+Question-Answer Pairs,¿Dónde está el baño? - Al fondo a la derecha.
+Question-Answer Pairs,¿Cuál es el plato típico de Cuba? - El arroz congrí.
+Question-Answer Pairs,¿Cuánto cuesta este producto? - Son 20 pesos cubanos.
+Question-Answer Pairs,¿Qué significa ‘asere’? - Es un término coloquial para amigo.
+Question-Answer Pairs,"¿Puedo pagar con tarjeta? - No, solo efectivo."
+Question-Answer Pairs,¿A qué hora abre la tienda? - A las 9:00 a.m.
+Question-Answer Pairs,¿Cómo se dice ‘hello’ en español? - Se dice ‘hola’.
+Question-Answer Pairs,¿Dónde puedo cambiar dinero? - En la casa de cambio.
+Question-Answer Pairs,¿Qué me recomiendas visitar en La Habana? - El Malecón y el Capitolio.
+Question-Answer Pairs,¿Cómo llego al aeropuerto? - Tome un taxi colectivo.
+Commands & Instructions,Cierra la puerta antes de salir.
+Commands & Instructions,Llámame cuando llegues a casa.
+Commands & Instructions,"Apaga la luz, por favor."
+Commands & Instructions,Dime la verdad.
+Commands & Instructions,Revisa los correos antes de enviarlos.
+Commands & Instructions,Entra y siéntate.
+Commands & Instructions,No olvides traer tu identificación.
+Commands & Instructions,Escribe tu nombre aquí.
+Commands & Instructions,Sigue derecho hasta la esquina y dobla a la izquierda.
+Commands & Instructions,Dale play al video.
+Named Entity Recognition (NER),José Martí fue un poeta y héroe cubano.
+Named Entity Recognition (NER),La Habana es la capital de Cuba.
+Named Entity Recognition (NER),El 1 de enero de 1959 ocurrió la Revolución Cubana.
+Named Entity Recognition (NER),El Che Guevara luchó junto a Fidel Castro.
+Named Entity Recognition (NER),Varadero es una de las mejores playas de Cuba.
+Named Entity Recognition (NER),El hotel Nacional de Cuba es un sitio histórico.
+Named Entity Recognition (NER),Celia Cruz fue una cantante cubana reconocida mundialmente.
+Named Entity Recognition (NER),El Capitolio de La Habana es un símbolo arquitectónico.
+Named Entity Recognition (NER),Santiago de Cuba es una ciudad con mucha historia.
+Named Entity Recognition (NER),En el Tropicana se presentan espectáculos impresionantes.
+Sentiment Analysis,Estoy muy feliz de estar aquí.
+Sentiment Analysis,Este lugar es horrible.
+Sentiment Analysis,Me encanta la comida cubana.
+Sentiment Analysis,No me gustó para nada la atención en el restaurante.
+Sentiment Analysis,Estoy emocionado por mi viaje a Cuba.
+Sentiment Analysis,Fue una experiencia terrible.
+Sentiment Analysis,Estoy agradecido por tu ayuda.
+Sentiment Analysis,Odio esperar en filas largas.
+Sentiment Analysis,Me siento increíblemente motivado.
+Sentiment Analysis,"Qué decepción, esperaba algo mejor."
+Paraphrased & Augmented Sentences,Hoy el clima está soleado.
+Paraphrased & Augmented Sentences,El día está despejado y brillante.
+Paraphrased & Augmented Sentences,Hace un sol radiante.
+Paraphrased & Augmented Sentences,Me gusta bailar salsa.
+Paraphrased & Augmented Sentences,Disfruto mucho bailando salsa.
+Paraphrased & Augmented Sentences,Bailar salsa es mi pasión.
+Paraphrased & Augmented Sentences,Necesito ayuda con mi maleta.
+Paraphrased & Augmented Sentences,¿Podrías ayudarme con mi equipaje?
+Paraphrased & Augmented Sentences,¿Me das una mano con la maleta?
+Paraphrased & Augmented Sentences,Este café está delicioso.

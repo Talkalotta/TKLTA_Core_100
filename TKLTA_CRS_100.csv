@@ -1,0 +1,101 @@
+Category,Sentence_CRS
+Grammar Core,Mon ti al legliz yer swar.
+Grammar Core,Zot pe zwe dan lakour la.
+Grammar Core,Demain nou pou fer en randone.
+Grammar Core,"Si ou ti vini pli boner, nou ti ava kapab al ansam."
+Grammar Core,Zanmi pa ti’n konpran sa mesaz la.
+Grammar Core,Lekol i ganny servi pour edikasyon tou zenn.
+Grammar Core,Ou pa bezwen al laba la konmela.
+Grammar Core,Nou ti pou al peser si ti annan bon letan.
+Grammar Core,I annan bokou dimoun ki pe esper son tour.
+Grammar Core,Travay ti ganny fer byen vit.
+Conversational Data,"Bonzur, eski ou byen ozordi?"
+Conversational Data,"Wi, mon byen. E ou menm?"
+Conversational Data,Ki ou pou fer apre travay?
+Conversational Data,Mon krwar mon pou al promenn lo lans.
+Conversational Data,Ou krwar lapli pou tonbe?
+Conversational Data,"Non, meteo ti dir i pou fer soley."
+Conversational Data,Ki manze ou kontan plis?
+Conversational Data,Mon kontan diri ek pwason fri.
+Conversational Data,"Mersi bokou, nou ava koz pli tar."
+Conversational Data,"Dakor, a pli tar zanmi."
+Code-Switching & Multilingualism,"Nou pe al beach sa weekend, ou coming?"
+Code-Switching & Multilingualism,"I’m not sure, mon annan travay pou fer."
+Code-Switching & Multilingualism,"Wi, but nou kapab meet Sunday instead?"
+Code-Switching & Multilingualism,Let’s check the weather avan nou deside.
+Code-Switching & Multilingualism,"Mersi, I really appreciate sa."
+Code-Switching & Multilingualism,Mon pa krwar ki i pou possible today.
+Code-Switching & Multilingualism,Zot dir the food laba i super bon!
+Code-Switching & Multilingualism,Do you know kote i ete?
+Code-Switching & Multilingualism,"Wi, mon pou show ou later."
+Code-Switching & Multilingualism,"OK, nou ava stay in touch."
+Formal & Professional Speech,Nou ti a kontan envit ou dan en rankont formel.
+Formal & Professional Speech,Tanpri soumet ou dokiman avan Zedi.
+Formal & Professional Speech,Sertifika i annan en validite trwa mwan.
+Formal & Professional Speech,Dokter pou vwar ou a 10er bomaten.
+Formal & Professional Speech,Nou bezwen sa rapor lo lasante finansyel.
+Formal & Professional Speech,Bann terms ek kondisyon i ganny atase.
+Formal & Professional Speech,Ou prosedir pour fer apel i explike isi.
+Formal & Professional Speech,Enspiksyon pou ganny fer par ofisyel gouvernman.
+Formal & Professional Speech,Prezerv ou done personnel dapre lalwa.
+Formal & Professional Speech,Nou remersye ou pour ou kolaborasyon kontinyel.
+"Idioms, Proverbs & Cultural Expressions",Toultan i annan bokou dilo anba pon.
+"Idioms, Proverbs & Cultural Expressions",En baton i pa kas de gro souri.
+"Idioms, Proverbs & Cultural Expressions",Ou bezwen kas ou latet pour fer li marse.
+"Idioms, Proverbs & Cultural Expressions",I pa tou letan ki fler i fleri.
+"Idioms, Proverbs & Cultural Expressions",Bourik pa kapab aprann danse ler i gran.
+"Idioms, Proverbs & Cultural Expressions",En koudmen i fer gran lekip.
+"Idioms, Proverbs & Cultural Expressions",I bon konn kot ou pe met lipye.
+"Idioms, Proverbs & Cultural Expressions",Ou pa kapab trap de lapen anmenmtan.
+"Idioms, Proverbs & Cultural Expressions",Lalang i pli danzere ki nepe.
+"Idioms, Proverbs & Cultural Expressions",En leker sanzan i pa fer bon zanmi.
+Question-Answer Pairs,Ki lere i ete? — I preski 3er.
+Question-Answer Pairs,Kot ou reste? — Mon reste Beau Vallon.
+Question-Answer Pairs,"Eski ou'n fini etidye? — Wi, mon'n fini."
+Question-Answer Pairs,Kwa ki pli bon pou lapeti? — Mon krwar en ti salad.
+Question-Answer Pairs,"Eski sa restoran i ouver? — Non, i ferm Zedi."
+Question-Answer Pairs,Ki mannyer ou fer sa? — Mon swiv en gid.
+Question-Answer Pairs,Lekel ou pli bon zanmi? — Se Michel.
+Question-Answer Pairs,Kwa ou fer dan ou letan lib? — Mon lir liv.
+Question-Answer Pairs,"Eski ou kontan sport? — Wi, sirtou basketball."
+Question-Answer Pairs,Ki keksoz pli enportan dan lavi? — Lape ek lanmour.
+Commands & Instructions,Sarz telefonn avan ou sorti.
+Commands & Instructions,Ouvri laport silvouple.
+Commands & Instructions,Pa bliye fer ou devwar.
+Commands & Instructions,Gard ou lasante an premye.
+Commands & Instructions,Vey lo sa pti zanfan!
+Commands & Instructions,Fer sir ou met mask.
+Commands & Instructions,Respekte regilasyon lo trafik.
+Commands & Instructions,Al dormi boner ozordi.
+Commands & Instructions,Swiv bann instruksyon avek prekosyon.
+Commands & Instructions,Rapel pou pran ou medikaman.
+Named Entity Recognition (NER) Data,Danny Faure ti vin Prezidan Sesel.
+Named Entity Recognition (NER) Data,Mon’n vizit Lospital Sesel yer swar.
+Named Entity Recognition (NER) Data,"Ziska Zilyet, meteo i ava reste fre."
+Named Entity Recognition (NER) Data,Air Seychelles i ofer servis enternasyonal.
+Named Entity Recognition (NER) Data,Madanm Maria ti travay avek Lotorite Lasante.
+Named Entity Recognition (NER) Data,Seychelles Breweries i fer Labatt lokal.
+Named Entity Recognition (NER) Data,"Ziska konmansman Zanvye, lekol pou reste fermen."
+Named Entity Recognition (NER) Data,Zon Leste i annan bokou lapli.
+Named Entity Recognition (NER) Data,Mr. Bernard ti sorti Les Mamelles.
+Named Entity Recognition (NER) Data,Nou prosen rankont i 5 Mars.
+Sentiment Analysis Data,Mon vreman kontan sa manze!
+Sentiment Analysis Data,I fer mwan tris ler mon tann sa.
+Sentiment Analysis Data,Sa film ti vreman ennyan.
+Sentiment Analysis Data,Ou’n fer en bon travay!
+Sentiment Analysis Data,Mon santi mwan telman fatigue.
+Sentiment Analysis Data,Zot pa ti tre zanti avek mwan.
+Sentiment Analysis Data,Mon anvi kriye ler mon rapel sa.
+Sentiment Analysis Data,Sa ti en zoli eksperyans.
+Sentiment Analysis Data,I fer mwan riye toultan!
+Sentiment Analysis Data,Mon dezapwente avek sa rezilta.
+Paraphrased & Augmented Sentences,Mon pe al legliz ozordi.
+Paraphrased & Augmented Sentences,Ozordi mon pou vizit legliz.
+Paraphrased & Augmented Sentences,Mon anvi al legliz sa bomaten.
+Paraphrased & Augmented Sentences,Legliz i dan mon plan pour ozordi.
+Paraphrased & Augmented Sentences,"Apre, mon pou al legliz."
+Paraphrased & Augmented Sentences,Mon’n deside vizit legliz ozordi.
+Paraphrased & Augmented Sentences,Vizit legliz i lo mon progranm.
+Paraphrased & Augmented Sentences,Legliz i mon premye destinasyon ozordi.
+Paraphrased & Augmented Sentences,Sa bomaten mon pe al dan legliz.
+Paraphrased & Augmented Sentences,Mon pou pas kot legliz ozordi.

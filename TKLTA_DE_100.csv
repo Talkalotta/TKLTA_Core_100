@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Ich werde morgen ins Kino gehen.
+Grammar Core,"Wenn ich mehr Zeit hätte, würde ich ein Buch lesen."
+Grammar Core,Der Brief wurde gestern abgeschickt.
+Grammar Core,Sie hat das Auto nicht gekauft.
+Grammar Core,Er sprach gestern mit seinem Freund über das Problem.
+Grammar Core,Haben Sie das neue Buch schon gelesen?
+Grammar Core,Wir werden nächste Woche eine Reise machen.
+Grammar Core,"Ich hätte den Vertrag unterschrieben, wenn ich mehr gewusst hätte."
+Grammar Core,Das Haus wird gerade renoviert.
+Grammar Core,Er hat seine Hausaufgaben nicht gemacht.
+Conversational Data,"Hallo, wie geht es dir?"
+Conversational Data,"Ich hätte gerne einen Kaffee, bitte."
+Conversational Data,Was hast du gestern gemacht?
+Conversational Data,"Kannst du mir helfen, mein Handy zu finden?"
+Conversational Data,Wie komme ich am besten zum Hauptbahnhof?
+Conversational Data,"Ich bin mir nicht sicher, ob das eine gute Idee ist."
+Conversational Data,Hast du den neuen Film gesehen?
+Conversational Data,Lass uns später ins Café gehen.
+Conversational Data,Was ist deine Meinung zu diesem Thema?
+Conversational Data,"Es tut mir leid, ich kann heute nicht kommen."
+Code-Switching & Multilingualism,Ich brauche ein Ticket für den next train nach Berlin.
+Code-Switching & Multilingualism,Gestern hatten wir ein tolles Barbecue mit Freunden.
+Code-Switching & Multilingualism,"Ich liebe es, wenn du mir auf Deutsch und English schreibst."
+Code-Switching & Multilingualism,Das neue Smartphone hat ein really cooles Feature.
+Code-Switching & Multilingualism,"Er hat gesagt, dass das Meeting um 3 pm beginnt."
+Code-Switching & Multilingualism,Können wir das Meeting auf Montag reschedulen?
+Code-Switching & Multilingualism,Ich habe heute einen Call mit meinem Manager in der Firma.
+Code-Switching & Multilingualism,Der Workshop war super interessant und very informative.
+Code-Switching & Multilingualism,Wir sollten mal einen Coffee Break zusammen machen.
+Code-Switching & Multilingualism,"Es wäre cool, wenn wir das Ganze nochmal brainstormen."
+Formal & Professional Speech,"Sehr geehrte Damen und Herren, ich danke Ihnen für Ihre Aufmerksamkeit."
+Formal & Professional Speech,Der Vertrag tritt am 1. Januar in Kraft.
+Formal & Professional Speech,Bitte beachten Sie die neuen Richtlinien für die Nutzung der Software.
+Formal & Professional Speech,Ich freue mich auf eine erfolgreiche Zusammenarbeit.
+Formal & Professional Speech,"Wir bitten Sie, den Antrag bis zum 15. des Monats einzureichen."
+Formal & Professional Speech,Die Analyse der Marktdaten zeigt einen positiven Trend.
+Formal & Professional Speech,Das Meeting findet am Donnerstag um 10 Uhr statt.
+Formal & Professional Speech,Wir erwarten Ihre Rückmeldung bis Ende der Woche.
+Formal & Professional Speech,Bitte unterschreiben Sie das Dokument und senden es zurück.
+Formal & Professional Speech,"Falls Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung."
+"Idioms, Proverbs & Cultural Expressions",Das ist nicht mein Bier.
+"Idioms, Proverbs & Cultural Expressions",Jetzt haben wir den Salat.
+"Idioms, Proverbs & Cultural Expressions",Ich verstehe nur Bahnhof.
+"Idioms, Proverbs & Cultural Expressions",Den Nagel auf den Kopf treffen.
+"Idioms, Proverbs & Cultural Expressions",Eine Extrawurst bekommen.
+"Idioms, Proverbs & Cultural Expressions",Das ist Schnee von gestern.
+"Idioms, Proverbs & Cultural Expressions",Lass die Kirche im Dorf.
+"Idioms, Proverbs & Cultural Expressions",Da wird der Hund in der Pfanne verrückt.
+"Idioms, Proverbs & Cultural Expressions",Viele Köche verderben den Brei.
+"Idioms, Proverbs & Cultural Expressions","Wer im Glashaus sitzt, sollte nicht mit Steinen werfen."
+Question-Answer Pairs,Wie heißt du? – Ich heiße Anna.
+Question-Answer Pairs,Wo liegt Berlin? – Berlin liegt in Deutschland.
+Question-Answer Pairs,Wie spät ist es? – Es ist 14 Uhr.
+Question-Answer Pairs,"Kannst du mir helfen? – Ja, natürlich."
+Question-Answer Pairs,"Wie war dein Tag? – Mein Tag war sehr gut, danke."
+Question-Answer Pairs,"Möchtest du etwas trinken? – Ja, bitte einen Tee."
+Question-Answer Pairs,Was ist deine Lieblingsfarbe? – Blau.
+Question-Answer Pairs,Wo kann ich ein Taxi rufen? – Am Taxistand vorne rechts.
+Question-Answer Pairs,Wann beginnt der Film? – Um 20 Uhr.
+Question-Answer Pairs,Wie komme ich zum Flughafen? – Nehmen Sie die S-Bahn.
+Commands & Instructions,Schalten Sie das Licht aus.
+Commands & Instructions,Bitte legen Sie Ihre Dokumente hier ab.
+Commands & Instructions,Öffnen Sie das Fenster.
+Commands & Instructions,Fahren Sie geradeaus und biegen Sie dann links ab.
+Commands & Instructions,Geben Sie Ihren Namen und Ihre Adresse ein.
+Commands & Instructions,"Klicken Sie auf den Button, um fortzufahren."
+Commands & Instructions,"Lassen Sie mich wissen, wenn Sie Fragen haben."
+Commands & Instructions,Tragen Sie eine Maske im Gebäude.
+Commands & Instructions,"Drücken Sie die rote Taste, um die Maschine zu starten."
+Commands & Instructions,Folgen Sie den Anweisungen auf dem Bildschirm.
+Named Entity Recognition (NER) Data,Angela Merkel war die Bundeskanzlerin Deutschlands.
+Named Entity Recognition (NER) Data,Die Olympischen Spiele 2024 finden in Paris statt.
+Named Entity Recognition (NER) Data,Tesla ist ein bekanntes Automobilunternehmen.
+Named Entity Recognition (NER) Data,Der Berliner Fernsehturm ist eine Sehenswürdigkeit.
+Named Entity Recognition (NER) Data,Amazon wurde von Jeff Bezos gegründet.
+Named Entity Recognition (NER) Data,Die Alpen sind eine beeindruckende Gebirgskette.
+Named Entity Recognition (NER) Data,Am 3. Oktober feiert Deutschland den Tag der Einheit.
+Named Entity Recognition (NER) Data,Die Universität Heidelberg ist eine der ältesten Deutschlands.
+Named Entity Recognition (NER) Data,Die FIFA-Weltmeisterschaft ist ein großes Sportereignis.
+Named Entity Recognition (NER) Data,Elon Musk ist der CEO von SpaceX.
+Sentiment Analysis Data,"Ich liebe dieses Buch, es ist großartig!"
+Sentiment Analysis Data,Der Film war unglaublich langweilig.
+Sentiment Analysis Data,Ich bin wirklich enttäuscht von diesem Produkt.
+Sentiment Analysis Data,Das Essen im Restaurant war hervorragend!
+Sentiment Analysis Data,Ich fühle mich heute sehr glücklich.
+Sentiment Analysis Data,Dieses Hotel hat mich positiv überrascht.
+Sentiment Analysis Data,Ich bin total frustriert über den schlechten Service.
+Sentiment Analysis Data,Die Musik auf dem Konzert war fantastisch.
+Sentiment Analysis Data,Es war ein wunderschöner Sonnenuntergang.
+Sentiment Analysis Data,"Ich hasse es, wenn Leute unhöflich sind."
+Paraphrased & Augmented Sentences,Das ist eine schöne Blume. → Diese Blume sieht wunderschön aus.
+Paraphrased & Augmented Sentences,Er liest ein Buch. → Ein Buch wird von ihm gelesen.
+Paraphrased & Augmented Sentences,Sie trinkt Kaffee. → Kaffee wird von ihr getrunken.
+Paraphrased & Augmented Sentences,Ich gehe gerne spazieren. → Spazierengehen macht mir Spaß.
+Paraphrased & Augmented Sentences,Der Film war spannend. → Der Film hat mich gefesselt.
+Paraphrased & Augmented Sentences,Das Essen schmeckt lecker. → Ich finde das Essen köstlich.
+Paraphrased & Augmented Sentences,Er arbeitet hart. → Seine Arbeitsmoral ist beeindruckend.
+Paraphrased & Augmented Sentences,Ich mag Schokolade. → Schokolade ist meine Lieblingssüßigkeit.
+Paraphrased & Augmented Sentences,Das Wetter ist schön. → Heute scheint die Sonne.
+Paraphrased & Augmented Sentences,Ich bin glücklich. → Mein Herz ist voller Freude.

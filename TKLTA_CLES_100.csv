@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Ayer fui al supermercado y compré muchas frutas.
+Grammar Core,Mañana estudiaré para el examen de matemáticas.
+Grammar Core,"Si tuviera más tiempo, viajaría por todo Chile."
+Grammar Core,El proyecto fue finalizado por los estudiantes en la mañana.
+Grammar Core,No quiero salir porque está lloviendo mucho.
+Grammar Core,Ellos han estado trabajando en este proyecto por semanas.
+Grammar Core,"Cuando llegues a casa, llámame por favor."
+Grammar Core,No sabía que habías venido a la fiesta anoche.
+Grammar Core,Este libro será leído por muchas personas.
+Grammar Core,Nos gustaría que pudieras venir a la reunión mañana.
+Conversational Data,"Hola, ¿cómo has estado? Hace tiempo que no te veía."
+Conversational Data,"Oye, ¿quieres ir a tomar un café más tarde?"
+Conversational Data,"Disculpa, ¿sabes dónde queda la estación de metro más cercana?"
+Conversational Data,"No lo sé, pero podemos buscar en Google Maps."
+Conversational Data,¡Qué sorpresa verte aquí! ¿Vienes seguido a este lugar?
+Conversational Data,"Creo que la película empieza a las 7, pero podemos revisar la cartelera."
+Conversational Data,"Mamá, ¿puedo salir con mis amigos esta noche?"
+Conversational Data,"Señor, ¿me podría indicar cómo llegar a la oficina de correos?"
+Conversational Data,¿En serio te compraste ese auto? ¡Está increíble!
+Conversational Data,"Hola, necesito ayuda con una devolución. ¿Me podrías asistir?"
+Code-Switching & Multilingualism,Voy al mall a comprar unas zapatillas nuevas.
+Code-Switching & Multilingualism,El delivery llegó súper rápido hoy.
+Code-Switching & Multilingualism,"Sorry, no puedo ir a la reunión, tengo un compromiso."
+Code-Switching & Multilingualism,Ella trabaja en una startup en el centro de Santiago.
+Code-Switching & Multilingualism,Necesito hacer un payment antes de que cierre el banco.
+Code-Switching & Multilingualism,El weekend pasado fuimos a la playa con los amigos.
+Code-Switching & Multilingualism,"Me encanta tu outfit, se ve increíble."
+Code-Switching & Multilingualism,"Estoy viendo una serie en Netflix, está buenísima."
+Code-Switching & Multilingualism,Voy a hacer un call con el equipo de desarrollo.
+Code-Switching & Multilingualism,La app que descargué tiene muchos features interesantes.
+Formal & Professional Speech,"Estimado cliente, su solicitud ha sido procesada exitosamente."
+Formal & Professional Speech,"Por favor, complete el formulario con su información personal."
+Formal & Professional Speech,Le informamos que su cuenta ha sido activada correctamente.
+Formal & Professional Speech,Agradecemos su paciencia mientras resolvemos su consulta.
+Formal & Professional Speech,"Según los términos del contrato, debe realizar el pago en 30 días."
+Formal & Professional Speech,El doctor lo atenderá en la sala 3 en breves momentos.
+Formal & Professional Speech,"Para acceder al sistema, ingrese su usuario y contraseña."
+Formal & Professional Speech,Nos complace informarle que ha sido seleccionado para la entrevista.
+Formal & Professional Speech,"Por favor, diríjase a la recepción para obtener más información."
+Formal & Professional Speech,Agradecemos su colaboración en la mejora de nuestros servicios.
+"Idioms, Proverbs & Cultural Expressions",Más vale pájaro en mano que cien volando.
+"Idioms, Proverbs & Cultural Expressions",No por mucho madrugar amanece más temprano.
+"Idioms, Proverbs & Cultural Expressions",A caballo regalado no se le miran los dientes.
+"Idioms, Proverbs & Cultural Expressions","Pan para hoy, hambre para mañana."
+"Idioms, Proverbs & Cultural Expressions",Estar más perdido que el teniente Bello.
+"Idioms, Proverbs & Cultural Expressions",Tener más cuento que callejón.
+"Idioms, Proverbs & Cultural Expressions",Estar en la luna de Valencia.
+"Idioms, Proverbs & Cultural Expressions",Tirar la casa por la ventana.
+"Idioms, Proverbs & Cultural Expressions",Ser como uña y mugre.
+"Idioms, Proverbs & Cultural Expressions","A buena hora, mangas verdes."
+Question-Answer Pairs,¿Cómo llego a la estación de metro más cercana? - Sigue derecho y gira a la derecha en la esquina.
+Question-Answer Pairs,¿Cuál es el horario de atención del banco? - De lunes a viernes de 9 a 14 horas.
+Question-Answer Pairs,"¿Tienes cambio de billete de 10 mil? - No, solo tengo billetes grandes."
+Question-Answer Pairs,¿Dónde compraste ese abrigo? - En una tienda en el centro.
+Question-Answer Pairs,"¿Me puedes ayudar con esta tarea? - Claro, dime en qué necesitas ayuda."
+Question-Answer Pairs,¿Cuánto cuesta este producto? - Son $5.990.
+Question-Answer Pairs,"¿Puedo pagar con tarjeta de crédito? - Sí, aceptamos todas las tarjetas."
+Question-Answer Pairs,¿Cuánto tiempo demora el envío? - Aproximadamente 3 a 5 días hábiles.
+Question-Answer Pairs,¿Sabes si va a llover mañana? - Revisemos la aplicación del clima.
+Question-Answer Pairs,¿Dónde queda el hospital más cercano? - A dos cuadras de aquí.
+Commands & Instructions,"Abre la puerta, por favor."
+Commands & Instructions,Llámame cuando llegues a casa.
+Commands & Instructions,No olvides apagar las luces antes de salir.
+Commands & Instructions,Sigue las instrucciones en la pantalla.
+Commands & Instructions,Entrega el informe antes de las 5 PM.
+Commands & Instructions,"Cierra bien la ventana, está haciendo frío."
+Commands & Instructions,Enciende la computadora y abre el programa.
+Commands & Instructions,Asegúrate de revisar tu correo antes de enviar el mensaje.
+Commands & Instructions,"Toma asiento, el doctor te atenderá en breve."
+Commands & Instructions,Espera aquí mientras verifico la información.
+Named Entity Recognition (NER) Data,La capital de Chile es Santiago.
+Named Entity Recognition (NER) Data,Mi nombre es María González.
+Named Entity Recognition (NER) Data,El 18 de septiembre es la fiesta nacional de Chile.
+Named Entity Recognition (NER) Data,Google es una de las empresas tecnológicas más grandes.
+Named Entity Recognition (NER) Data,El océano Pacífico es el más extenso del mundo.
+Named Entity Recognition (NER) Data,Enrique trabaja en la empresa Telefónica.
+Named Entity Recognition (NER) Data,La universidad de Chile es una de las más prestigiosas.
+Named Entity Recognition (NER) Data,El Cerro San Cristóbal es un punto turístico popular.
+Named Entity Recognition (NER) Data,Valparaíso es famoso por sus coloridas casas y cerros.
+Named Entity Recognition (NER) Data,Amazon ofrece servicio de entrega en varios países.
+Sentiment Analysis Data,"Me encanta este restaurante, la comida es deliciosa y el ambiente es acogedor."
+Sentiment Analysis Data,"No me gustó la película, esperaba mucho más de la historia."
+Sentiment Analysis Data,Estoy muy emocionado por mi viaje a la Patagonia.
+Sentiment Analysis Data,"Este servicio es pésimo, nunca me habían tratado tan mal."
+Sentiment Analysis Data,Me siento agradecido por todo el apoyo que he recibido últimamente.
+Sentiment Analysis Data,Odio cuando la gente no respeta las normas de tránsito.
+Sentiment Analysis Data,"La música de este concierto es increíble, estoy disfrutando cada momento."
+Sentiment Analysis Data,"Estoy decepcionado con el producto, no era lo que prometían."
+Sentiment Analysis Data,"Este hotel es perfecto, tiene todo lo que necesito para unas vacaciones relajantes."
+Sentiment Analysis Data,"Qué rabia, otra vez cancelaron mi vuelo sin previo aviso."
+Paraphrased & Augmented Sentences,Mañana tengo una reunión muy importante en la oficina.
+Paraphrased & Augmented Sentences,Tengo una junta crucial en el trabajo mañana.
+Paraphrased & Augmented Sentences,Debo asistir a un encuentro laboral de gran relevancia mañana.
+Paraphrased & Augmented Sentences,"Mañana es un día clave en mi trabajo, tengo que estar preparado."
+Paraphrased & Augmented Sentences,Me veo en la obligación de presentarme en una reunión fundamental mañana.
+Paraphrased & Augmented Sentences,Voy a viajar a Valparaíso el próximo fin de semana.
+Paraphrased & Augmented Sentences,El fin de semana que viene estaré en Valparaíso.
+Paraphrased & Augmented Sentences,Planeo visitar Valparaíso el siguiente fin de semana.
+Paraphrased & Augmented Sentences,El próximo fin de semana estaré en Valparaíso disfrutando del mar.
+Paraphrased & Augmented Sentences,Voy a pasar unos días en Valparaíso dentro de una semana.

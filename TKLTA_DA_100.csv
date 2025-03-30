@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),Jeg har spist morgenmad.
+Grammar Core (Sentence Structures & Tenses),"Han ville have rejst, hvis han havde haft penge."
+Grammar Core (Sentence Structures & Tenses),Hun læser en bog nu.
+Grammar Core (Sentence Structures & Tenses),De kommer til at spille fodbold i morgen.
+Grammar Core (Sentence Structures & Tenses),Brevet blev skrevet af hende.
+Grammar Core (Sentence Structures & Tenses),Jeg har aldrig set en så smuk solnedgang.
+Grammar Core (Sentence Structures & Tenses),"Hvis det regner, bliver vi hjemme."
+Grammar Core (Sentence Structures & Tenses),"Vi havde allerede spist, da han ankom."
+Grammar Core (Sentence Structures & Tenses),Du bør tage din jakke på.
+Grammar Core (Sentence Structures & Tenses),Skal vi tage i biografen i aften?
+Conversational Data (Real-Life Dialogues & Exchanges),"Hej, hvordan har du det?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Jeg har det fint, tak. Hvad med dig?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Kan jeg få en kop kaffe, tak?"
+Conversational Data (Real-Life Dialogues & Exchanges),Selvfølgelig! Vil du have mælk og sukker?
+Conversational Data (Real-Life Dialogues & Exchanges),"Jeg tager den uden sukker, tak."
+Conversational Data (Real-Life Dialogues & Exchanges),Hvor skal vi mødes i aften?
+Conversational Data (Real-Life Dialogues & Exchanges),Hvad synes du om denne film?
+Conversational Data (Real-Life Dialogues & Exchanges),Må jeg låne din telefon?
+Conversational Data (Real-Life Dialogues & Exchanges),"Jeg tror, vi skal tage den næste bus."
+Conversational Data (Real-Life Dialogues & Exchanges),Hvad skal vi lave i weekenden?
+Code-Switching & Multilingualism,Jeg skal lige checke min email.
+Code-Switching & Multilingualism,"Det var en meget god film, men very predictable."
+Code-Switching & Multilingualism,Kan du give mig en heads-up inden mødet?
+Code-Switching & Multilingualism,Jeg er virkelig busy i dag.
+Code-Switching & Multilingualism,Lad os tage en chill aften derhjemme.
+Code-Switching & Multilingualism,Det var en super cool oplevelse.
+Code-Switching & Multilingualism,"Jeg bruger ofte Google Translate, når jeg skriver tysk."
+Code-Switching & Multilingualism,Skal vi mødes til en quick lunch?
+Code-Switching & Multilingualism,"Han er meget smart, but also a bit arrogant."
+Code-Switching & Multilingualism,"Hun sagde ‘let’s go’, og så gik vi."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Kære kunde, vi bekræfter hermed din reservation."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Dette dokument skal underskrives inden fristen udløber.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Alle ansatte skal følge sikkerhedsprocedurerne.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Patienten har ingen kendte allergier.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Mødet afholdes kl. 10:00 i konferencerummet.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Kan du venligst bekræfte modtagelsen af denne e-mail?
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Denne software opdateres automatisk.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Alle kontrakter skal overholde gældende lovgivning.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Ved spørgsmål kontakt venligst kundeservice.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Din ordre vil blive leveret inden for 3-5 arbejdsdage.
+"Idioms, Proverbs & Cultural Expressions",Man skal ikke skue hunden på hårene.
+"Idioms, Proverbs & Cultural Expressions",At gå over åen efter vand.
+"Idioms, Proverbs & Cultural Expressions","Når katten er ude, danser musene på bordet."
+"Idioms, Proverbs & Cultural Expressions",Bedre sent end aldrig.
+"Idioms, Proverbs & Cultural Expressions",En fugl i hånden er bedre end ti på taget.
+"Idioms, Proverbs & Cultural Expressions",Det er ikke raketvidenskab.
+"Idioms, Proverbs & Cultural Expressions",Der er ingen ko på isen.
+"Idioms, Proverbs & Cultural Expressions",Han slog to fluer med ét smæk.
+"Idioms, Proverbs & Cultural Expressions","Tale er sølv, tavshed er guld."
+"Idioms, Proverbs & Cultural Expressions",Han har ben i næsen.
+Question-Answer Pairs (FAQ & Contextual Understanding),Hvad tid åbner butikken? - Den åbner kl. 9.
+Question-Answer Pairs (FAQ & Contextual Understanding),Hvor meget koster denne vare? - Den koster 100 kroner.
+Question-Answer Pairs (FAQ & Contextual Understanding),Hvordan kommer jeg til stationen? - Du kan tage bus 5A.
+Question-Answer Pairs (FAQ & Contextual Understanding),"Er der ledige borde på restauranten? - Ja, vi har et ledigt bord kl. 19."
+Question-Answer Pairs (FAQ & Contextual Understanding),Hvad er Wi-Fi-koden? - Den står på kvitteringen.
+Question-Answer Pairs (FAQ & Contextual Understanding),Hvordan laver jeg en konto? - Klik på 'Opret konto' og følg instruktionerne.
+Question-Answer Pairs (FAQ & Contextual Understanding),"Kan jeg returnere denne vare? - Ja, inden for 30 dage med kvittering."
+Question-Answer Pairs (FAQ & Contextual Understanding),Hvornår går den næste bus? - Om 10 minutter.
+Question-Answer Pairs (FAQ & Contextual Understanding),Hvordan fungerer dette produkt? - Læs brugervejledningen.
+Question-Answer Pairs (FAQ & Contextual Understanding),Hvor ligger nærmeste apotek? - Det ligger på hjørnet af denne gade.
+Commands & Instructions (Imperative Sentences),Luk døren efter dig.
+Commands & Instructions (Imperative Sentences),"Sluk lyset, når du går."
+Commands & Instructions (Imperative Sentences),Vask hænderne før du spiser.
+Commands & Instructions (Imperative Sentences),Tæl til ti før du svarer.
+Commands & Instructions (Imperative Sentences),Skriv dit navn her.
+Commands & Instructions (Imperative Sentences),Vent venligst i køen.
+Commands & Instructions (Imperative Sentences),Tag en dyb indånding.
+Commands & Instructions (Imperative Sentences),Tryk på knappen for at starte.
+Commands & Instructions (Imperative Sentences),Læs instruktionerne nøje.
+Commands & Instructions (Imperative Sentences),"Spis din mad, før den bliver kold."
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Hans Andersen blev født i Odense.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",København er Danmarks hovedstad.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Lego er en dansk virksomhed.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Den 5. juni er Grundlovsdag i Danmark.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Dronning Margrethe II har regeret siden 1972.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Aarhus Universitet er et anerkendt universitet.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Tivoli blev grundlagt i 1843.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Mærsk er en global shippingvirksomhed.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Den Lille Havfrue er en berømt statue.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Roskilde Festival finder sted hver sommer.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Jeg elsker denne sang!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Det var den værste oplevelse nogensinde.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Jeg føler mig virkelig glad i dag.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Filmen var kedelig og langtrukken.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Jeg er så begejstret for vores ferie!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Maden var helt fantastisk!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Jeg hader at stå tidligt op.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Han er den sødeste person, jeg kender."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Jeg blev virkelig skuffet over servicen.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Det her gør mig utroligt vred.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Jeg kan godt lide at læse bøger.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),At læse bøger er en af mine yndlingsaktiviteter.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Bøger giver mig stor glæde.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Jeg nyder at dykke ned i en god bog.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Litteratur er en fantastisk måde at slappe af på.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),At fordybe sig i en roman er magisk.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Jeg elsker følelsen af en bog i mine hænder.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Når jeg læser, forsvinder verden omkring mig."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Jeg synes, bøger er en kilde til uendelig viden."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Læsning beriger mit liv.
