@@ -1,0 +1,101 @@
+Category,Kalanga_Sentence
+Grammar Core,Ndina mala ambele.
+Grammar Core,Ndawona njiva zinji.
+Grammar Core,Ngwana wane wa tshaba mu skolo.
+Grammar Core,Ndola phakula nyamule.
+Grammar Core,Baba wanghu ba ne kwenda ku Harare.
+Grammar Core,Ndizaku vuka neshoko.
+Grammar Core,Mina ndila ku lingisa lumu.
+Grammar Core,Ndilindila muti uo ukula.
+Grammar Core,Baba wanga ba lila na kukoka.
+Grammar Core,"Ngwana, zibata hangu."
+Conversational Data,Mu lila njani nhasi?
+Conversational Data,Ndila na nkani njila.
+Conversational Data,Wang’a wasandla ini?
+Conversational Data,Ini ndina kufudza imhuka.
+Conversational Data,"Baba, ini ndina shupa."
+Conversational Data,Kula kutshengisa ini.
+Conversational Data,Ina ndine pindu lele.
+Conversational Data,"Ngwana, wang’a mutala?"
+Conversational Data,Zvino ini ndina siso.
+Conversational Data,Mina ndavona mwaya.
+Code-Switching & Multilingualism,Ndiri ku print-a document iyi.
+Code-Switching & Multilingualism,"Tingabvume, let’s go online."
+Code-Switching & Multilingualism,"Ngwana, check-a email yako."
+Code-Switching & Multilingualism,"Signal iri weak, internet yafa."
+Code-Switching & Multilingualism,Mina ndazama restart-a PC.
+Code-Switching & Multilingualism,Ndiya ku upload-a file iyi.
+Code-Switching & Multilingualism,Mina ndada ku update-a software.
+Code-Switching & Multilingualism,"Zviri complicated, let me explain."
+Code-Switching & Multilingualism,Ndikona reset-a password.
+Code-Switching & Multilingualism,Ndizaku log-out now.
+Formal & Professional Speech,Ndina kushanda mu office yange.
+Formal & Professional Speech,Business yangu iri kukura.
+Formal & Professional Speech,Ndina appointment na manager.
+Formal & Professional Speech,Mukomana uyu anonyora bhuku.
+Formal & Professional Speech,Tinoona zviri kufamba sei.
+Formal & Professional Speech,Chibato ichi chakarongeka.
+Formal & Professional Speech,Tine musangano masikati.
+Formal & Professional Speech,Company iyi inopa mabasa.
+Formal & Professional Speech,Tingagadzirisa izvi?
+Formal & Professional Speech,Report iyi inoda update.
+"Idioms, Proverbs & Cultural Expressions",Ndipe murandu ndione.
+"Idioms, Proverbs & Cultural Expressions",Nyoka haina makumbo asi inofamba.
+"Idioms, Proverbs & Cultural Expressions",Mwana we gudo gudo.
+"Idioms, Proverbs & Cultural Expressions",Chikoni ndi chimumwe.
+"Idioms, Proverbs & Cultural Expressions",Mbudzi inodya payakasungirirwa.
+"Idioms, Proverbs & Cultural Expressions","Tanga uone, tichagara tonzwa."
+"Idioms, Proverbs & Cultural Expressions",Ndove inonyika musi wekunaya.
+"Idioms, Proverbs & Cultural Expressions",Moto haupesi nerima.
+"Idioms, Proverbs & Cultural Expressions","Hama haiperi, inopera ropa."
+"Idioms, Proverbs & Cultural Expressions",Gudo guru peta muswe.
+Question-Answer Pairs,Zviri kufamba sei?
+Question-Answer Pairs,Tingasangana riini?
+Question-Answer Pairs,Chii chirikutamba nhasi?
+Question-Answer Pairs,Ndinga wane mwana wangu?
+Question-Answer Pairs,Ndingavone library iri kupi?
+Question-Answer Pairs,Unotengesa mukaka?
+Question-Answer Pairs,Ndikona kukubvunza chimwe?
+Question-Answer Pairs,Tingagadzirisa izvi mangwana?
+Question-Answer Pairs,Ndikona kuuya mangwana here?
+Question-Answer Pairs,Pane zvimwe zvine basa?
+Commands & Instructions,Vhura gonhi iri.
+Commands & Instructions,Dai wang’a tamba zvakanaka.
+Commands & Instructions,Sangana neni masikati.
+Commands & Instructions,Chinja maplani ako.
+Commands & Instructions,"Ndapota, teerera nyaya."
+Commands & Instructions,Shandisa iyi nzira.
+Commands & Instructions,Dzokera pano.
+Commands & Instructions,Dzidzisa vana vako zvakanaka.
+Commands & Instructions,Rega kuita izvozvo.
+Commands & Instructions,Hutano hwako hwakakosha.
+Named Entity Recognition,Ndikona kushanyira Harare.
+Named Entity Recognition,Ndakaenda ku Maun.
+Named Entity Recognition,Chikoro changu chinonzi St. Anne.
+Named Entity Recognition,Ndina basa mu Gaborone.
+Named Entity Recognition,Makuhwa aya akabva ku Bulawayo.
+Named Entity Recognition,Victoria Falls inonyanya kushanyirwa.
+Named Entity Recognition,John ndiye murapi wedu.
+Named Entity Recognition,Ndirikuda kushanyira France.
+Named Entity Recognition,Ndizaku tenga bhuku iri ku Lusaka.
+Named Entity Recognition,Baba vangu vanoshanda mu bank.
+Sentiment Analysis,Ndakafarira basa rangu.
+Sentiment Analysis,Izvi hazvina kundifadza.
+Sentiment Analysis,Ndinonzwa kufara.
+Sentiment Analysis,Ndiri kushungurudzika.
+Sentiment Analysis,Ndafadzwa nezvauri kutaura.
+Sentiment Analysis,Izvi zvandirwadza.
+Sentiment Analysis,Ndinonzwa kuneta.
+Sentiment Analysis,Ndakarwadziwa nazvo.
+Sentiment Analysis,Ndakanyara chaizvo.
+Sentiment Analysis,Ndiri kufara neshamwari yangu.
+Paraphrased & Augmented Sentences,Ndina vana vaviri.
+Paraphrased & Augmented Sentences,Ndakatarisa njiva.
+Paraphrased & Augmented Sentences,Ndina mwana wangu pa skolo.
+Paraphrased & Augmented Sentences,Mina ndakava pa gomo.
+Paraphrased & Augmented Sentences,Ndakaona tsuro kumunda.
+Paraphrased & Augmented Sentences,Baba vangu vari kubasa.
+Paraphrased & Augmented Sentences,Ndikona kuita musangano.
+Paraphrased & Augmented Sentences,Hapana chiri kuita.
+Paraphrased & Augmented Sentences,Ndikona kuronga zvimwe.
+Paraphrased & Augmented Sentences,Ndakaona njiva dzichibhururuka.

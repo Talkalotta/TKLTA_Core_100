@@ -1,0 +1,101 @@
+Category,Sentence (Iban)
+Grammar Core,Aku udah makai baju baru kemari.
+Grammar Core,Nuan deka belayar ke Kuching taun tu?
+Grammar Core,Apai tauka enda meda aku ari kemari.
+Grammar Core,Aku semak madah anang bisi baka iya.
+Grammar Core,Anang beguna aku sigi enti enda patut.
+Grammar Core,Mereka udah ngemakai semua duit nyamai.
+Grammar Core,Kita ka sebilik enti nemu ke nuan kitai ari.
+Grammar Core,Indu iya mestilah udah ngerinda baju baru.
+Grammar Core,Berita nyamai tauka enda nyamai ditangkup.
+Grammar Core,Kami sepatutnya udah nyauka putus perkara tu.
+Conversational Data,Iya nanya aku: ‘Nuan udah makai?’.
+Conversational Data,Bisi nuan berita baru? Aku belum nemu.
+Conversational Data,"Enti kami samak, nyamai ke enda?"
+Conversational Data,"Ari kemari, kami bepansut ditu."
+Conversational Data,"Auh, nya ke anang dikempret."
+Conversational Data,"Brapa rega nya? Ai, mahal amat!"
+Conversational Data,"Enda ulih, aku meri aku pun sik tau."
+Conversational Data,"Ka beli makan ke, tauka cukup?"
+Conversational Data,Aku ka pergi ke rumah iya ari suba.
+Conversational Data,"Aku enda madah, tang iya tauka."
+Code-Switching & Multilingualism,"Sik patut gik, aku pikir nuan better cancel."
+Code-Switching & Multilingualism,"Aku udah makan, but aku rasa enda kenyang."
+Code-Switching & Multilingualism,"Inda ka meeting suba, lunch break duluk."
+Code-Switching & Multilingualism,"Iya enda ingat, tapi I think so."
+Code-Switching & Multilingualism,"Bisi sale di supermarket, sik ka grab ke?"
+Code-Switching & Multilingualism,Iya confirm datang malam tuk.
+Code-Switching & Multilingualism,"Semalam aku pergi Kuching, shopping sikit."
+Code-Switching & Multilingualism,"Ok, aku try check ngan iya."
+Code-Switching & Multilingualism,Hari tuk meeting start pukul lima.
+Code-Switching & Multilingualism,"Sik tau lah, aku agak aje."
+Formal & Professional Speech,"Tuan, aku amat menghargai penyampaian nuan."
+Formal & Professional Speech,"Dengan segala hormat, kita besereta surat tuk."
+Formal & Professional Speech,Sila hubungi pihak kami untuk maklumat lanjut.
+Formal & Professional Speech,Permohonan tuk udah dikemari.
+Formal & Professional Speech,Kami menjemput tuan ke mesyuarat akan datang.
+Formal & Professional Speech,Minta maaf atas sebarang kesilapan.
+Formal & Professional Speech,Sila berikan dokumen yang diperlukan.
+Formal & Professional Speech,Perjanjian tuk patut dikaji sebelum ditanda.
+Formal & Professional Speech,Jemput datang ke seminar bisik kami.
+Formal & Professional Speech,Kami amat menyanjung tinggi sumbangan tuan.
+"Idioms, Proverbs & Cultural Expressions","Peda lama, baka asai kitai tuai."
+"Idioms, Proverbs & Cultural Expressions",Enda semua nyamai nemu ke nuan.
+"Idioms, Proverbs & Cultural Expressions",Ka meh enggau jalai enggau arus.
+"Idioms, Proverbs & Cultural Expressions","Aku ulih sida, tang aku enda ulih diri."
+"Idioms, Proverbs & Cultural Expressions","Enggai ke tebang pemedang, dipansut ke tamba."
+"Idioms, Proverbs & Cultural Expressions","Baka burung raban, belaban sereta."
+"Idioms, Proverbs & Cultural Expressions",Manuk semilai berkicau bisi makna.
+"Idioms, Proverbs & Cultural Expressions",Riam ti nyelam ba dalam enda dikepuan.
+"Idioms, Proverbs & Cultural Expressions",Orang ti sabar selalu belimpah tuah.
+"Idioms, Proverbs & Cultural Expressions","Kebanting kebuluh, enda kebanting badan."
+Question-Answer Pairs,Apa berita terkini? - Inda bisi berita baru.
+Question-Answer Pairs,"Nuan udah makan? - Udah, tang sik kenyang."
+Question-Answer Pairs,Ke brapa pukul meeting start? - Jam lima.
+Question-Answer Pairs,"Nuan ka pergi ke pasar? - Enda, aku bisi urusan."
+Question-Answer Pairs,"Enda kah penemu keja? - Udah, aku ka nelu."
+Question-Answer Pairs,Ari kemari nuan di mana? - Di rumah aku.
+Question-Answer Pairs,Siapa iya tau pasal berita tuk? - Aku enda tau.
+Question-Answer Pairs,Nuan nemu ke benda tuk? - Enda ulih aku.
+Question-Answer Pairs,Sapa nuan madah kemari? - Orang sebelah.
+Question-Answer Pairs,Nuan belayar ke Kuching taun tuk? - Sik pasti.
+Commands & Instructions,Sila tekan butang tuk.
+Commands & Instructions,Jangan lupa bekunci rumah.
+Commands & Instructions,"Buka pintu, angin panas."
+Commands & Instructions,Tolong simpan kunci aku.
+Commands & Instructions,Beri aku seminit untuk madah.
+Commands & Instructions,Letak barang iya atas meja.
+Commands & Instructions,"Enda boleh masok, sila tunggu."
+Commands & Instructions,Sila beri perhatian suba.
+Commands & Instructions,Ambil kertas tuk sebelum keluar.
+Commands & Instructions,Tulis nama nuan di borang tuk.
+Named Entity Recognition (NER) Data,Aku pernah pergi ke Betong suba.
+Named Entity Recognition (NER) Data,Sebuah kapal telah sampai di Bintulu.
+Named Entity Recognition (NER) Data,Maria ngaga kerja ba hospital.
+Named Entity Recognition (NER) Data,Petronas gik jual minyak.
+Named Entity Recognition (NER) Data,Taun tuk kitai ulih banyak perkara.
+Named Entity Recognition (NER) Data,Kuching ka diatur jadi smart city.
+Named Entity Recognition (NER) Data,"Minggu depan, nuan ka besereta meeting."
+Named Entity Recognition (NER) Data,Pasar Satok terkenal di Sarawak.
+Named Entity Recognition (NER) Data,Projek tuk dikemari bulan lepas.
+Named Entity Recognition (NER) Data,Hari Gawai dirayakan tiap-tiap taun.
+Sentiment Analysis Data,Aku amat suka makanan tuk!
+Sentiment Analysis Data,"Aku enda setuju, terlalu mahal."
+Sentiment Analysis Data,Bisi berita nyamai suba.
+Sentiment Analysis Data,Aku berasa kecewa enggau hasil tuk.
+Sentiment Analysis Data,Aku semak anang meh nuan madah.
+Sentiment Analysis Data,Perkara tuk sungguh meri ati.
+Sentiment Analysis Data,Berita tuk amat meri rindu.
+Sentiment Analysis Data,Aku enda sabar nunggu.
+Sentiment Analysis Data,Sungguh meluat aku ngagai iya.
+Sentiment Analysis Data,Pelik amat ngagai aku.
+Paraphrased & Augmented Sentences,Aku makai kemari. - Kemari aku udah makai.
+Paraphrased & Augmented Sentences,Nuan datang suba? - Udah ka nuan datang?
+Paraphrased & Augmented Sentences,Inda ulih aku ka lalu. - Aku sik ulih lalu.
+Paraphrased & Augmented Sentences,Barang tuk nya nuan ulih? - Nuan ulih barang tuk?
+Paraphrased & Augmented Sentences,"Mereka bejalai ari suba. - Ari suba, mereka bejalai."
+Paraphrased & Augmented Sentences,"Kami ka ngemali enggau sida. - Enggau sida, kami ngemali."
+Paraphrased & Augmented Sentences,Nuan udah madah iya? - Iya udah madah nuan?
+Paraphrased & Augmented Sentences,Enda ulih nuan ngatur tuk. - Tuk enda ulih nuan ngatur.
+Paraphrased & Augmented Sentences,"Aku ka nunggu ngagai iya. - Ngagai iya, aku ka nunggu."
+Paraphrased & Augmented Sentences,Kami enda nemu enda ulih. - Enda ulih kami enda nemu.

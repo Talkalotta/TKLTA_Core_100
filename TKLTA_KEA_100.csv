@@ -1,0 +1,101 @@
+Category,Sentence_CV
+Grammar Core,N ta bai trabadju tudu dia.
+Grammar Core,"Onti, n staba na kasa txeu tempu."
+Grammar Core,"Si bu kria, bu pode djuda-mi."
+Grammar Core,Maten n ta komi pan ku kafe.
+Grammar Core,El tinha ka djobi.
+Grammar Core,Nos ta ser ka ta faze es kuza.
+Grammar Core,"Si n ten txeu dinheru, n ta viaja."
+Grammar Core,Es staba txeu kontenti.
+Grammar Core,Pa ki ora bu ta bira?
+Grammar Core,"Se n ka podi, el ka ta ben."
+Conversational Data,"Oi, kumo bu sta?"
+Conversational Data,"Sta dretu, y bo?"
+Conversational Data,M'ta spera ki bo odja mi.
+Conversational Data,Ami ka gosta di es komida.
+Conversational Data,Kel loja ta abri tudu dia?
+Conversational Data,Bo pode da-m kel livru?
+Conversational Data,Es staba txeu marotu.
+Conversational Data,Bu kre sa pa undi n ta bai?
+Conversational Data,"Amigu, n ten un problema."
+Conversational Data,"Atxa, n' ta dzize bo."
+Code-Switching & Multilingualism,N ta bai school after lunch.
+Code-Switching & Multilingualism,"El sta busy agora, bu pode spera?"
+Code-Switching & Multilingualism,N' ta pensa ki é importante estudar.
+Code-Switching & Multilingualism,Es loja ten good quality products.
+Code-Switching & Multilingualism,Bu pode add kel kuza na lista?
+Code-Switching & Multilingualism,Nos ta go together pa festa.
+Code-Switching & Multilingualism,Mi pai ta drive pa trabadju.
+Code-Switching & Multilingualism,N ka sta sure se el ta bai.
+Code-Switching & Multilingualism,Es momentu é really special.
+Code-Switching & Multilingualism,Baxu di table ten un cat.
+Formal & Professional Speech,"Senhor, obrigado pa bu tempo."
+Formal & Professional Speech,Es meeting ta kumesa na 10:00.
+Formal & Professional Speech,Nos ta analiza es relatóriu.
+Formal & Professional Speech,"Favor, sigi es instrusons."
+Formal & Professional Speech,Es proposta ta interessanti.
+Formal & Professional Speech,N ta pidi un kestionariu.
+Formal & Professional Speech,"Omergadu, n sta na reunia."
+Formal & Professional Speech,Medida ekonomika ta improntanti.
+Formal & Professional Speech,Es dokumentu sta pronto.
+Formal & Professional Speech,Bu pode assina li.
+"Idioms, Proverbs & Cultural Expressions",Ka ta djobi tudu dia.
+"Idioms, Proverbs & Cultural Expressions",Denti ki ka ta misti ka ta kuma.
+"Idioms, Proverbs & Cultural Expressions","Se bu ta karga, bu ka ta boka."
+"Idioms, Proverbs & Cultural Expressions",N ka ta papia ma el ka ta skuta.
+"Idioms, Proverbs & Cultural Expressions",N ta spera ma n ka ta konfia.
+"Idioms, Proverbs & Cultural Expressions","Djobi ka ta pensa, mar ta rekord."
+"Idioms, Proverbs & Cultural Expressions",Bu ka pode keru leva tudo.
+"Idioms, Proverbs & Cultural Expressions",N ta atrasa ma ka ta perde.
+"Idioms, Proverbs & Cultural Expressions",Kada pessoa ta ku bu vida.
+"Idioms, Proverbs & Cultural Expressions",Forta ka ta kere fraku.
+Question-Answer Pairs,Ki ora es bus ta txiga?
+Question-Answer Pairs,Undi ki bu ta bai agora?
+Question-Answer Pairs,Bu gosta di pan di terra?
+Question-Answer Pairs,Kel loja ta aperto sabadu?
+Question-Answer Pairs,Pa ki ki bu ta faze es koza?
+Question-Answer Pairs,Undi ki bu skonde kel kuza?
+Question-Answer Pairs,Bu pode djuda-mi ku es prova?
+Question-Answer Pairs,Es festa é na ki dia?
+Question-Answer Pairs,Ki n ta djize bu?
+Question-Answer Pairs,Bu ja sta na kaminhu?
+Commands & Instructions,Bai busca kel livru.
+Commands & Instructions,Abri porta.
+Commands & Instructions,Fexa janela.
+Commands & Instructions,Espera un momentu.
+Commands & Instructions,Djuda es fidju.
+Commands & Instructions,Responde bu pergunta.
+Commands & Instructions,Ka skeci kel dokumentu.
+Commands & Instructions,Bota kel kuza na mesa.
+Commands & Instructions,Sai di li.
+Commands & Instructions,Senta li.
+Named Entity Recognition,Maria ta mora na Praia.
+Named Entity Recognition,João ta bai Cabo Verde.
+Named Entity Recognition,Aeroporto Internacional Nelson Mandela é na Santiago.
+Named Entity Recognition,Google é un empresa grandi.
+Named Entity Recognition,Ami ta gosta di Portugal.
+Named Entity Recognition,José ka ta na escola.
+Named Entity Recognition,Rio de Janeiro ta na Brasil.
+Named Entity Recognition,Microsoft ta faze software.
+Named Entity Recognition,Kel artista é de Mindelo.
+Named Entity Recognition,Março é un mes di primavéra.
+Sentiment Analysis,N sta txeu kontenti.
+Sentiment Analysis,Es momentu é triste.
+Sentiment Analysis,Es notisia foi maravihozu.
+Sentiment Analysis,N ka ta gosta di es situason.
+Sentiment Analysis,Ami sta txeu emocionadu.
+Sentiment Analysis,Es fidju sta txeu nervosu.
+Sentiment Analysis,N sta desiludidu ku bu.
+Sentiment Analysis,Nos festa foi incrivel.
+Sentiment Analysis,N sta preokupadu ku bu.
+Sentiment Analysis,Es program é bem organizadu.
+Paraphrased & Augmented Sentences,N ta bai skola tudu dia.
+Paraphrased & Augmented Sentences,N ta visita es loja kadavez.
+Paraphrased & Augmented Sentences,N gosta di leba kaza.
+Paraphrased & Augmented Sentences,Es sta un otimu livru.
+Paraphrased & Augmented Sentences,N ka ta gosta di esperansa.
+Paraphrased & Augmented Sentences,El ka ta djobe ma sta bon.
+Paraphrased & Augmented Sentences,N ta panha onibus cedo.
+Paraphrased & Augmented Sentences,Nos ta gosta di es tempo.
+Paraphrased & Augmented Sentences,Ami sta sertu di es diskusa.
+Paraphrased & Augmented Sentences,Nos ja ta pronto pa viaja.

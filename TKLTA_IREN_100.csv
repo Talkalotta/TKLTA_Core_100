@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,I will have finished my work before you arrive.
+Grammar Core,She hasn’t been feeling well lately.
+Grammar Core,"If he had known, he would have come earlier."
+Grammar Core,The project is being reviewed by the manager.
+Grammar Core,He used to play football when he was younger.
+Grammar Core,They weren’t aware of the meeting’s cancellation.
+Grammar Core,"By this time next year, we will have moved to Dublin."
+Grammar Core,She had already left when we got there.
+Grammar Core,I wouldn’t do that if I were you.
+Grammar Core,It’s necessary that she be informed immediately.
+Conversational Data,"Hey, how’s it going?"
+Conversational Data,"Ah, not too bad, yourself?"
+Conversational Data,"Grand, just back from a trip to Cork."
+Conversational Data,Oh nice! How was it?
+Conversational Data,"Lovely, the weather was actually decent for once!"
+Conversational Data,I heard they have great seafood down there.
+Conversational Data,"Yeah, we had some fresh mussels by the harbour."
+Conversational Data,Sounds class! You up for a pint later?
+Conversational Data,"Absolutely, I'll meet you at the usual spot."
+Conversational Data,"Deadly, see you then!"
+Code-Switching & Multilingualism,"I'm grand, just a bit knackered from work."
+Code-Switching & Multilingualism,We had a massive craic at the session last night.
+Code-Switching & Multilingualism,"The new café does a savage cappuccino, proper barista-style."
+Code-Switching & Multilingualism,"Ah sure, I'll see you later, bon voyage!"
+Code-Switching & Multilingualism,"This place is pure class, the food is magnifique."
+Code-Switching & Multilingualism,"She’s been working part-time in a boulangerie, loves it."
+Code-Switching & Multilingualism,"G’wan, you can do it, amigo!"
+Code-Switching & Multilingualism,"That lad’s Gaeilge is brilliant, fluent like."
+Code-Switching & Multilingualism,"I’d love to visit Spain again, me encanta el clima."
+Code-Switching & Multilingualism,"Tá mé go maith, just a bit tired."
+Formal & Professional Speech,We appreciate your patience while we resolve the issue.
+Formal & Professional Speech,Please ensure all documents are submitted before the deadline.
+Formal & Professional Speech,The results indicate a significant improvement in efficiency.
+Formal & Professional Speech,Further details can be found in the attached report.
+Formal & Professional Speech,This contract is subject to the terms and conditions outlined herein.
+Formal & Professional Speech,We regret to inform you that your application was unsuccessful.
+Formal & Professional Speech,"For any further inquiries, please contact our support team."
+Formal & Professional Speech,The committee will convene next week to discuss the proposal.
+Formal & Professional Speech,A comprehensive review of the findings is currently underway.
+Formal & Professional Speech,Your cooperation in this matter is greatly appreciated.
+"Idioms, Proverbs & Cultural Expressions","Sure, it’s grand, no harm done."
+"Idioms, Proverbs & Cultural Expressions",He’s got notions since he got that new job.
+"Idioms, Proverbs & Cultural Expressions","Ah, she’s only codding ya."
+"Idioms, Proverbs & Cultural Expressions","It’s bucketing down outside, bring a brolly."
+"Idioms, Proverbs & Cultural Expressions","Ah, he’s acting the maggot again."
+"Idioms, Proverbs & Cultural Expressions",You wouldn’t be long getting frostbit in that weather!
+"Idioms, Proverbs & Cultural Expressions",She was pure mortified when she tripped on stage.
+"Idioms, Proverbs & Cultural Expressions",A watched kettle never boils.
+"Idioms, Proverbs & Cultural Expressions","That’s a grand soft day, thank God."
+"Idioms, Proverbs & Cultural Expressions",It’s like talking to a brick wall with him.
+Question-Answer Pairs,"What’s the craic? – Not much, yourself?"
+Question-Answer Pairs,"Do you know where the nearest bus stop is? – Yeah, just down the road there."
+Question-Answer Pairs,What time does the shop close? – I think around 8pm.
+Question-Answer Pairs,"Can you recommend a good place to eat? – Try Murphy’s, great fish and chips."
+Question-Answer Pairs,"How’s your family? – Ah, they’re keeping well, thanks for asking."
+Question-Answer Pairs,"Did you see the match last night? – Yeah, absolute thriller!"
+Question-Answer Pairs,"How much is this jumper? – That’s €25, but on sale for €20."
+Question-Answer Pairs,"Are you coming out later? – Not sure yet, I’ll let you know."
+Question-Answer Pairs,What’s your opinion on the new policy? – I think it’s a step in the right direction.
+Question-Answer Pairs,Where’s the best place for a pint around here? – The snug in O’Connell’s is class.
+Commands & Instructions,Turn left at the next set of lights.
+Commands & Instructions,Please fill out the form completely.
+Commands & Instructions,Make sure to double-check the measurements.
+Commands & Instructions,"Keep an eye on the kettle, don’t let it boil over."
+Commands & Instructions,Enter your password and press ‘Submit’.
+Commands & Instructions,Follow the instructions carefully to avoid mistakes.
+Commands & Instructions,Hold the button down for three seconds.
+Commands & Instructions,Don’t forget to lock the door before leaving.
+Commands & Instructions,Leave your bags at the designated area.
+Commands & Instructions,Speak clearly into the microphone.
+Named Entity Recognition,Dublin is the capital of Ireland.
+Named Entity Recognition,James Joyce wrote Ulysses.
+Named Entity Recognition,Guinness was founded in 1759.
+Named Entity Recognition,The Cliffs of Moher are a popular tourist attraction.
+Named Entity Recognition,Trinity College houses the Book of Kells.
+Named Entity Recognition,St. Patrick’s Day is celebrated worldwide.
+Named Entity Recognition,Leo Varadkar served as Taoiseach.
+Named Entity Recognition,Croke Park is the largest stadium in Ireland.
+Named Entity Recognition,The River Liffey flows through Dublin.
+Named Entity Recognition,Aer Lingus is Ireland’s national airline.
+Sentiment Analysis Data,That was the best concert I’ve ever been to!
+Sentiment Analysis Data,I’m really disappointed with the service here.
+Sentiment Analysis Data,This meal is absolutely delicious!
+Sentiment Analysis Data,I’m feeling a bit down today.
+Sentiment Analysis Data,"The weather is miserable, isn’t it?"
+Sentiment Analysis Data,"Such a heartwarming story, made my day."
+Sentiment Analysis Data,I’m not too impressed with this new policy.
+Sentiment Analysis Data,Absolutely buzzing for the weekend!
+Sentiment Analysis Data,Can’t believe how rude that guy was.
+Sentiment Analysis Data,"That film was pure brilliant, loved every minute!"
+Paraphrased & Augmented Sentences,The coffee here is fantastic. / This place makes great coffee.
+Paraphrased & Augmented Sentences,I’m not feeling well today. / I feel a bit off today.
+Paraphrased & Augmented Sentences,She’s an amazing singer. / Her voice is incredible.
+Paraphrased & Augmented Sentences,I had a terrible day. / My day was awful.
+Paraphrased & Augmented Sentences,The shop closes at 8pm. / The store shuts at 8.
+Paraphrased & Augmented Sentences,Let’s meet at the café later. / We’ll catch up at the coffee shop.
+Paraphrased & Augmented Sentences,He’s always late. / He never arrives on time.
+Paraphrased & Augmented Sentences,I’m looking forward to the weekend. / Can’t wait for the weekend.
+Paraphrased & Augmented Sentences,The bus was packed this morning. / The morning bus was full.
+Paraphrased & Augmented Sentences,She’s over the moon. / She’s absolutely delighted.

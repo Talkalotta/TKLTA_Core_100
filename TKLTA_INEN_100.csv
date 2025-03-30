@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,She has been working on this project for three years.
+Grammar Core,"If I had studied harder, I would have passed the exam."
+Grammar Core,The food was being prepared when the guests arrived.
+Grammar Core,Will you be attending the seminar tomorrow?
+Grammar Core,"By the time we reached, the train had already left."
+Grammar Core,This book is read by students across the country.
+Grammar Core,I am not liking this movie; it's too slow.
+Grammar Core,They shall complete the construction by next year.
+Grammar Core,"Had she known the truth, she wouldn’t have reacted that way."
+Grammar Core,He does not play cricket on Sundays.
+Conversational Data,"Hey, what's up? Long time no see!"
+Conversational Data,Could you please pass me the salt?
+Conversational Data,"Arre, you know what happened yesterday at work?"
+Conversational Data,I’m heading to Connaught Place. Wanna join?
+Conversational Data,"Beta, have you had lunch or not?"
+Conversational Data,"Boss, I need a day off tomorrow."
+Conversational Data,"Sorry yaar, I completely forgot about your birthday!"
+Conversational Data,"Excuse me, where can I find platform number 6?"
+Conversational Data,"Maa, I’ll be home late today."
+Conversational Data,"Bro, that match was totally epic!"
+Code-Switching & Multilingualism,"Bhai, let’s meet after office and discuss the project."
+Code-Switching & Multilingualism,Can you please give me some chai? I need a break.
+Code-Switching & Multilingualism,"She said, 'Aaj ka din bahut hectic tha!'"
+Code-Switching & Multilingualism,Pakka? You will submit the assignment by tomorrow?
+Code-Switching & Multilingualism,"Dost, tune kal ka match dekha kya?"
+Code-Switching & Multilingualism,"Yaar, let’s order some pani puri."
+Code-Switching & Multilingualism,"Arre, why are you always late?"
+Code-Switching & Multilingualism,Kya tum mujhe help kar sakte ho with this report?
+Code-Switching & Multilingualism,"Chalo, let’s start the meeting."
+Code-Switching & Multilingualism,"Uncle, can you please help me with the luggage?"
+Formal & Professional Speech,"As per our last conversation, I have attached the report."
+Formal & Professional Speech,Please ensure that all deliverables are submitted on time.
+Formal & Professional Speech,We regret to inform you that your application was not selected.
+Formal & Professional Speech,The meeting has been rescheduled to 4 PM.
+Formal & Professional Speech,Your payment is due by the end of this month.
+Formal & Professional Speech,Kindly find the invoice attached for your reference.
+Formal & Professional Speech,It was a pleasure discussing the project with you.
+Formal & Professional Speech,I appreciate your prompt response.
+Formal & Professional Speech,Could you kindly elaborate on the third point in the document?
+Formal & Professional Speech,Please let me know a convenient time for the call.
+"Idioms, Proverbs & Cultural Expressions",She is always crying over spilt milk.
+"Idioms, Proverbs & Cultural Expressions",A stitch in time saves nine.
+"Idioms, Proverbs & Cultural Expressions",He is trying to kill two birds with one stone.
+"Idioms, Proverbs & Cultural Expressions",The ball is in your court now.
+"Idioms, Proverbs & Cultural Expressions",Don’t count your chickens before they hatch.
+"Idioms, Proverbs & Cultural Expressions",Old habits die hard.
+"Idioms, Proverbs & Cultural Expressions",A penny for your thoughts.
+"Idioms, Proverbs & Cultural Expressions",Barking dogs seldom bite.
+"Idioms, Proverbs & Cultural Expressions",Better late than never.
+"Idioms, Proverbs & Cultural Expressions",Slow and steady wins the race.
+Question-Answer Pairs,What is the capital of India? – New Delhi.
+Question-Answer Pairs,How do I reset my password? – Click on 'Forgot Password'.
+Question-Answer Pairs,Can you suggest a good restaurant nearby? – Try The Spice Route.
+Question-Answer Pairs,What are the store hours? – We are open from 10 AM to 9 PM.
+Question-Answer Pairs,"Is cash on delivery available? – Yes, for select products."
+Question-Answer Pairs,Where is the nearest metro station? – It's 500 meters from here.
+Question-Answer Pairs,How can I improve my spoken English? – Practice daily conversations.
+Question-Answer Pairs,What is the current weather like? – It's sunny with a chance of rain.
+Question-Answer Pairs,"Can I reschedule my appointment? – Yes, please call customer support."
+Question-Answer Pairs,Who is the Prime Minister of India? – Narendra Modi.
+Commands & Instructions,Please submit the form before the deadline.
+Commands & Instructions,Turn off the lights when you leave.
+Commands & Instructions,Speak clearly into the microphone.
+Commands & Instructions,Do not use mobile phones during the exam.
+Commands & Instructions,Click on 'Next' to proceed.
+Commands & Instructions,Check your email for the confirmation link.
+Commands & Instructions,Follow the signs to the exit.
+Commands & Instructions,Place the documents on the desk.
+Commands & Instructions,Restart your computer and try again.
+Commands & Instructions,Enter your password to log in.
+Named Entity Recognition (NER) Data,Ravi Shankar was a famous sitar player.
+Named Entity Recognition (NER) Data,The Taj Mahal is one of the seven wonders of the world.
+Named Entity Recognition (NER) Data,Diwali is celebrated across India with great enthusiasm.
+Named Entity Recognition (NER) Data,Microsoft was founded by Bill Gates.
+Named Entity Recognition (NER) Data,The Ganges River flows through several states in India.
+Named Entity Recognition (NER) Data,ISRO launched the Chandrayaan mission successfully.
+Named Entity Recognition (NER) Data,Mumbai is known as the financial capital of India.
+Named Entity Recognition (NER) Data,The Indian Independence Act was passed in 1947.
+Named Entity Recognition (NER) Data,Amazon was founded in the United States.
+Named Entity Recognition (NER) Data,The Cricket World Cup will be held in Australia next year.
+Sentiment Analysis Data,I absolutely love the new design!
+Sentiment Analysis Data,This is the worst service I have ever experienced.
+Sentiment Analysis Data,I am feeling so happy today!
+Sentiment Analysis Data,"The food was okay, but not great."
+Sentiment Analysis Data,I am extremely disappointed with the quality.
+Sentiment Analysis Data,Such a fantastic performance!
+Sentiment Analysis Data,I don’t really like the new update.
+Sentiment Analysis Data,The customer support was very helpful.
+Sentiment Analysis Data,I feel neutral about this decision.
+Sentiment Analysis Data,The weather today is just perfect!
+Paraphrased & Augmented Sentences,She has been working here for five years.
+Paraphrased & Augmented Sentences,"Had I studied harder, I might have passed the test."
+Paraphrased & Augmented Sentences,The guests arrived while the food was being prepared.
+Paraphrased & Augmented Sentences,Are you going to the seminar tomorrow?
+Paraphrased & Augmented Sentences,"By the time we got there, the show had already started."
+Paraphrased & Augmented Sentences,This novel is widely read by students.
+Paraphrased & Augmented Sentences,I don’t enjoy this film; it’s quite slow.
+Paraphrased & Augmented Sentences,The building will be completed next year.
+Paraphrased & Augmented Sentences,"If she had known, she wouldn’t have reacted like that."
+Paraphrased & Augmented Sentences,He doesn’t play football on Saturdays.

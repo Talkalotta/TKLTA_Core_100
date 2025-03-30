@@ -1,0 +1,101 @@
+Category,Sentence (Javanese)
+Grammar Core,Aku mangan sega.
+Grammar Core,Dheweke bakal lunga menyang pasar.
+Grammar Core,Kowe wis maca buku mau?
+Grammar Core,Aku ora ngerti yen dheweke teka.
+Grammar Core,Buku iku bakal diwaca dening siswa.
+Grammar Core,Apa kowe ora bakal dolan dina Senin?
+Grammar Core,"Nalika aku bocah, aku kerep dolanan ing kebon."
+Grammar Core,"Yen aku sugih, aku bakal tuku omah gedhe."
+Grammar Core,Aku mesthi mangan sadurunge lunga.
+Grammar Core,Aku ora ngerti apa dheweke isih kerja.
+Conversational Data,"Halo, kepiye kabarmu dina iki?"
+Conversational Data,"Aku arep menyang warung, apa kowe butuh apa-apa?"
+Conversational Data,"Dadi, apa rencanamu akhir minggu iki?"
+Conversational Data,"Matur nuwun, aku seneng banget pitulunganmu."
+Conversational Data,"Lho, kok ora ngomong saka awal?"
+Conversational Data,"Duh, aku lali nggawa dompetku!"
+Conversational Data,"Ojok kuatir, aku bakal nulungi kowe."
+Conversational Data,Serius? Aku ora percaya yen kedadian kaya ngono!
+Conversational Data,Kowe krungu warta anyar bab pawartos iku?
+Conversational Data,"Ayo kita lunga bareng, luwih nyenengake!"
+Code-Switching & Multilingualism,Aku bakal tuku roti lan juice ing supermarket.
+Code-Switching & Multilingualism,Dheweke ora ngerti yen 'meeting' wis direschedule.
+Code-Switching & Multilingualism,Minggu ngarep aku bakal holiday karo kulawarga.
+Code-Switching & Multilingualism,Aku pengin upgrade laptopku supaya luwih cepet.
+Code-Switching & Multilingualism,Ayo kita planning trip kanggo liburan iki.
+Code-Switching & Multilingualism,"Aku ngerti iku, tapi aku perlu validasi saka bos."
+Code-Switching & Multilingualism,Online learning nggawe kita luwih fleksibel.
+Code-Switching & Multilingualism,Dokumen iki kudu di-submit sadurunge deadline.
+Code-Switching & Multilingualism,Sampeyan bisa contact customer service kanggo pitulungan.
+Code-Switching & Multilingualism,"Iki project penting, kita kudu brainstorm bareng."
+Formal & Professional Speech,"Miturut hukum, perusahaan kudu tundhuk marang peraturan anyar."
+Formal & Professional Speech,Dheweke bakal menehi presentasi babagan strategi anyar.
+Formal & Professional Speech,"Sesuai karo kebijakan kantor, kabeh kudu on-time."
+Formal & Professional Speech,Kita kudu nyiapake laporan sadurunge rapat esuk.
+Formal & Professional Speech,Proposal iki wis diverifikasi dening tim manajemen.
+Formal & Professional Speech,Sampeyan bisa hubungi departemen HR kanggo info luwih lanjut.
+Formal & Professional Speech,Email resmi bakal dikirim ing pungkasan minggu iki.
+Formal & Professional Speech,Workshop iki bakal nambah katrampilan profesional panjenengan.
+Formal & Professional Speech,Silakan ngisi formulir lan kirim sadurunge deadline.
+Formal & Professional Speech,Matur nuwun kanggo partisipasi ing diskusi iki.
+"Idioms, Proverbs & Cultural Expressions",Ana cacing ana dawa.
+"Idioms, Proverbs & Cultural Expressions",Sikilmu kaya lampus!
+"Idioms, Proverbs & Cultural Expressions","Yen ora mlebu luang, ora bakal metu guyang."
+"Idioms, Proverbs & Cultural Expressions",Ngoyak glugu tinumpuk.
+"Idioms, Proverbs & Cultural Expressions",Aja nggawa srengenge menyang peken.
+"Idioms, Proverbs & Cultural Expressions","Nyilih enthung, bali ulet."
+"Idioms, Proverbs & Cultural Expressions",Udan salah mongso.
+"Idioms, Proverbs & Cultural Expressions",Kuwi kayadene mangan bubur dingklik.
+"Idioms, Proverbs & Cultural Expressions",Aja nyandhak wit randu.
+"Idioms, Proverbs & Cultural Expressions",Mlayu tanpa tongkat.
+Question-Answer Pairs,Apa sampeyan ngerti wulan iki bakal ana festival?
+Question-Answer Pairs,Piye carane ndandani laptop sing rusak?
+Question-Answer Pairs,Ngendi restoran sing paling enak ing kutha iki?
+Question-Answer Pairs,Kapan sampeyan bakal lunga menyang Jakarta?
+Question-Answer Pairs,Apa buku sing paling disenengi bocah-bocah?
+Question-Answer Pairs,Sapa sing menang kompetisi bal-balan wingi?
+Question-Answer Pairs,Piye kabarmu?
+Question-Answer Pairs,Apa sampeyan ngerti carane masak sate?
+Question-Answer Pairs,Napa dheweke ora teka ing kelas dina iki?
+Question-Answer Pairs,Sapa penyanyi favoritmu?
+Commands & Instructions,Mangga lungaa!
+Commands & Instructions,Tulung bukak lawang!
+Commands & Instructions,Tulis jawabanmu ing papan tulis!
+Commands & Instructions,Ayo ngadeg lan hormat!
+Commands & Instructions,Silakan tutup jendela!
+Commands & Instructions,Kethok buku saka rak!
+Commands & Instructions,Jangan lali nggawa kertu identitas!
+Commands & Instructions,Tulung rungokake aku!
+Commands & Instructions,Cepet teka ing kantor jam 8!
+Commands & Instructions,Aja lali mateni lampu sadurunge lunga.
+Named Entity Recognition,Budi lunga menyang Surabaya dina Senin.
+Named Entity Recognition,Siti kerja ing perusahaan Google.
+Named Entity Recognition,Dheweke lair ing tanggal 5 Mei 1995.
+Named Entity Recognition,Universitas Gadjah Mada iku apik banget.
+Named Entity Recognition,Kutha Semarang misuwur karo lumpiane.
+Named Entity Recognition,Presiden Joko Widodo maringi piwulang ing universitas.
+Named Entity Recognition,Sina bisa dolan menyang Malioboro ing Yogyakarta.
+Named Entity Recognition,Jembatan Suramadu nyambung Surabaya lan Madura.
+Named Entity Recognition,Gunung Merapi salah siji gunung paling aktif.
+Named Entity Recognition,Museum Sonobudoyo ana ing kutha Yogyakarta.
+Sentiment Analysis Data,Aku seneng banget dolan menyang pantai.
+Sentiment Analysis Data,"Film iku elek banget, aku ora seneng."
+Sentiment Analysis Data,Aku ngrasakake rasa bungah sing gedhe!
+Sentiment Analysis Data,Kue iki enak banget!
+Sentiment Analysis Data,Dheweke nggawe aku nesu banget.
+Sentiment Analysis Data,Aku ora seneng karo pelayanan ing warung iku.
+Sentiment Analysis Data,Sinemane menarik lan nyenengake.
+Sentiment Analysis Data,Aku sedih amarga gagal ujian.
+Sentiment Analysis Data,Rasane aku ora bisa nahan rasa nesu iki.
+Sentiment Analysis Data,Aku bangga banget karo prestasiku.
+Paraphrased & Augmented Sentences,Aku arep menyang pasar dina iki.
+Paraphrased & Augmented Sentences,Dina iki aku bakal menyang pasar.
+Paraphrased & Augmented Sentences,Aku lunga menyang pasar dina iki.
+Paraphrased & Augmented Sentences,Dina iki aku mutusake dolan menyang pasar.
+Paraphrased & Augmented Sentences,Aku wis ngrancang lunga menyang pasar.
+Paraphrased & Augmented Sentences,Aku nglakoni perjalanan menyang pasar dina iki.
+Paraphrased & Augmented Sentences,Aku arep tuku barang ing pasar dina iki.
+Paraphrased & Augmented Sentences,Dina iki aku pengin belanja ing pasar.
+Paraphrased & Augmented Sentences,Pasar iku tujuan perjalananku dina iki.
+Paraphrased & Augmented Sentences,Aku wis siyap menyang pasar saiki.

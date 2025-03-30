@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,私は昨日、映画を見ました。
+Grammar Core,彼は来年日本に行く予定です。
+Grammar Core,雨が降らなければ、ピクニックに行きます。
+Grammar Core,この本は多くの人に読まれています。
+Grammar Core,宿題をしなければなりません。
+Grammar Core,私は毎朝ジョギングをします。
+Grammar Core,もし時間があれば、お手伝いします。
+Grammar Core,彼は宿題を終えた後、ゲームをしました。
+Grammar Core,その問題は簡単に解決されるでしょう。
+Grammar Core,彼女はピアノを弾くのが得意です。
+Conversational Data,A: こんにちは！元気ですか？ B: はい、元気です。あなたは？
+Conversational Data,A: このレストランどうだった？ B: とても美味しかったよ！
+Conversational Data,A: 明日の試験、準備できた？ B: うん、たぶんね。
+Conversational Data,A: 最近、何か面白いことあった？ B: うーん、特にないかな。
+Conversational Data,A: 週末に映画を見に行こうか？ B: いいね！何を見る？
+Conversational Data,A: すみません、道を教えていただけますか？ B: もちろんです。
+Conversational Data,A: お会計お願いします。 B: かしこまりました。
+Conversational Data,A: その服、素敵ですね！ B: ありがとう！
+Conversational Data,A: これ、おすすめですよ！ B: 本当？じゃあ試してみる！
+Conversational Data,A: どこに住んでいるの？ B: 東京に住んでいます。
+Code-Switching & Multilingualism,昨日、I went to the store and bought some sushi。
+Code-Switching & Multilingualism,これは本当にdeliciousですね！
+Code-Switching & Multilingualism,今日のmeetingは午後3時からです。
+Code-Switching & Multilingualism,新しいprojectは来週スタートします。
+Code-Switching & Multilingualism,彼女のEnglishはとても上手ですね。
+Code-Switching & Multilingualism,来週のscheduleを確認してください。
+Code-Switching & Multilingualism,昨日のlunchはラーメンだった。
+Code-Switching & Multilingualism,そのsoftwareはすごく便利です。
+Code-Switching & Multilingualism,このappはuser-friendlyですね。
+Code-Switching & Multilingualism,イベントのdetailsを送ってください。
+Formal & Professional Speech,お世話になっております。
+Formal & Professional Speech,この案件についてご相談したく存じます。
+Formal & Professional Speech,お手数をおかけしますが、よろしくお願いいたします。
+Formal & Professional Speech,ご確認のほど、お願い申し上げます。
+Formal & Professional Speech,資料をご送付いただけますでしょうか？
+Formal & Professional Speech,何卒よろしくお願いいたします。
+Formal & Professional Speech,貴社のご協力に感謝申し上げます。
+Formal & Professional Speech,本件につきまして、ご対応の程お願い申し上げます。
+Formal & Professional Speech,誠にありがとうございます。
+Formal & Professional Speech,今後ともよろしくお願いいたします。
+"Idioms, Proverbs & Cultural Expressions",犬も歩けば棒に当たる。
+"Idioms, Proverbs & Cultural Expressions",七転び八起き。
+"Idioms, Proverbs & Cultural Expressions",花より団子。
+"Idioms, Proverbs & Cultural Expressions",猿も木から落ちる。
+"Idioms, Proverbs & Cultural Expressions",石の上にも三年。
+"Idioms, Proverbs & Cultural Expressions",目は口ほどに物を言う。
+"Idioms, Proverbs & Cultural Expressions",雨降って地固まる。
+"Idioms, Proverbs & Cultural Expressions",初心忘るべからず。
+"Idioms, Proverbs & Cultural Expressions",壁に耳あり、障子に目あり。
+"Idioms, Proverbs & Cultural Expressions",二兎を追う者は一兎をも得ず。
+Question-Answer Pairs,Q: 東京の人口は？ A: 約1400万人です。
+Question-Answer Pairs,Q: 日本の首都は？ A: 東京です。
+Question-Answer Pairs,Q: 富士山の高さは？ A: 3776メートルです。
+Question-Answer Pairs,Q: 今日の天気は？ A: 晴れです。
+Question-Answer Pairs,Q: 最も人気のあるスポーツは？ A: 野球とサッカーです。
+Question-Answer Pairs,Q: 日本の伝統的な食べ物は？ A: 寿司です。
+Question-Answer Pairs,Q: 一番好きな映画は？ A: 千と千尋の神隠しです。
+Question-Answer Pairs,Q: 日本の国花は？ A: 桜です。
+Question-Answer Pairs,Q: おすすめの観光地は？ A: 京都です。
+Question-Answer Pairs,Q: 日本の新幹線は速いですか？ A: はい、時速300km以上です。
+Commands & Instructions,ドアを閉めてください。
+Commands & Instructions,ここにサインをしてください。
+Commands & Instructions,このボタンを押してください。
+Commands & Instructions,早く起きなさい！
+Commands & Instructions,宿題をやりなさい。
+Commands & Instructions,静かにしなさい。
+Commands & Instructions,メールを送ってください。
+Commands & Instructions,レポートを提出してください。
+Commands & Instructions,この資料を読んでください。
+Commands & Instructions,詳細を確認してください。
+Named Entity Recognition (NER) Data,私は昨日、渋谷に行きました。
+Named Entity Recognition (NER) Data,田中さんは東京大学の教授です。
+Named Entity Recognition (NER) Data,オリンピックは2021年に開催されました。
+Named Entity Recognition (NER) Data,Googleは世界的な企業です。
+Named Entity Recognition (NER) Data,富士山は日本一高い山です。
+Named Entity Recognition (NER) Data,2023年に新しい法律が制定されました。
+Named Entity Recognition (NER) Data,Amazonで買い物をしました。
+Named Entity Recognition (NER) Data,日本の首都は東京です。
+Named Entity Recognition (NER) Data,桜の季節は4月です。
+Named Entity Recognition (NER) Data,京都には歴史的な建物が多いです。
+Sentiment Analysis Data,この映画は最高だった！
+Sentiment Analysis Data,とても楽しかったです！
+Sentiment Analysis Data,最悪の経験でした…。
+Sentiment Analysis Data,美味しくて感動しました！
+Sentiment Analysis Data,ひどい対応でした…。
+Sentiment Analysis Data,この商品、大好き！
+Sentiment Analysis Data,まあまあかな。
+Sentiment Analysis Data,うれしいニュースです！
+Sentiment Analysis Data,とても悲しい出来事でした。
+Sentiment Analysis Data,ワクワクしています！
+Paraphrased & Augmented Sentences,今日はとても暑いですね。
+Paraphrased & Augmented Sentences,すごく暑い一日ですね！
+Paraphrased & Augmented Sentences,気温がとても高いですね。
+Paraphrased & Augmented Sentences,めっちゃ暑い！
+Paraphrased & Augmented Sentences,夏の暑さが厳しいですね。
+Paraphrased & Augmented Sentences,今日は気温が上がっていますね。
+Paraphrased & Augmented Sentences,熱中症に気をつけましょう。
+Paraphrased & Augmented Sentences,本当に暑い日ですね！
+Paraphrased & Augmented Sentences,暑すぎて大変です！
+Paraphrased & Augmented Sentences,外はとても蒸し暑いですね。

@@ -1,0 +1,101 @@
+Category,Sentence (Juhuri)
+Grammar Core (Sentence Structures & Tenses),Zo ma shkhar avush.
+Grammar Core (Sentence Structures & Tenses),On mu ravta avush.
+Grammar Core (Sentence Structures & Tenses),Mo az dünyo ravtim.
+Grammar Core (Sentence Structures & Tenses),"Agar mu bo az shahar avush, mo galb khel khosh."
+Grammar Core (Sentence Structures & Tenses),O mu bü savzi deh avush?
+Grammar Core (Sentence Structures & Tenses),O kitap daghdu veh?
+Grammar Core (Sentence Structures & Tenses),Mo chinare-ye bozor ravtim.
+Grammar Core (Sentence Structures & Tenses),Siz cho mo khel khelik ra?
+Grammar Core (Sentence Structures & Tenses),Men shi ghalin avush.
+Grammar Core (Sentence Structures & Tenses),O cho men amr khandu?
+Conversational Data (Real-Life Dialogues & Exchanges),"Salam, oziz! To chi to avush?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Men khel khosh, shukr! To chi khel?"
+Conversational Data (Real-Life Dialogues & Exchanges),To deh ke ravt?
+Conversational Data (Real-Life Dialogues & Exchanges),"Mo bugun bozor ravtim, cho?"
+Conversational Data (Real-Life Dialogues & Exchanges),Chi kitap to khandu?
+Conversational Data (Real-Life Dialogues & Exchanges),Mu savzi bozordan kret.
+Conversational Data (Real-Life Dialogues & Exchanges),Siz xud be loz?
+Conversational Data (Real-Life Dialogues & Exchanges),Men ghalin be dam.
+Conversational Data (Real-Life Dialogues & Exchanges),Shi non krel be mo.
+Conversational Data (Real-Life Dialogues & Exchanges),Men to khel khosh am.
+Code-Switching & Multilingualism,Men go to supermarket-da ravtim.
+Code-Switching & Multilingualism,Mo chi-lo inglésa gap khelk?
+Code-Switching & Multilingualism,Ochi men ruso khelm?
+Code-Switching & Multilingualism,Biz bugun bo bazar chi ruski.
+Code-Switching & Multilingualism,Siz to az anglisyo gapmi khelk?
+Code-Switching & Multilingualism,Men to-do español chi avush.
+Code-Switching & Multilingualism,Ochi men girmaniyo khelm?
+Code-Switching & Multilingualism,Shu jikhlar mo fraansiza chi gap.
+Code-Switching & Multilingualism,To chi turko ravtim?
+Code-Switching & Multilingualism,Mu az italyano boghday.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Kompaniya o vech u bazorg, men rash bash."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Doktori men to amali bash.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Yazmo men vech mah bus khelm?
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Bu kontrakt chi huquqiy bash.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Sugurtani mo bugun bo bazorg.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Ochi men davalatyo gap khelm?
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Shi advokat, men ziyon khelm?"
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Xastane mo vech khel bash.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Shi doktor davoi be men?
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Xojat yo, men advokatyo gap khelm."
+"Idioms, Proverbs & Cultural Expressions",Gush to xind mo di? (You reap what you sow.)
+"Idioms, Proverbs & Cultural Expressions",Yama az khar ho roft. (He fell into his own trap.)
+"Idioms, Proverbs & Cultural Expressions","Shakar be non, cho bod mi non. (Sweet words alone don't feed you.)"
+"Idioms, Proverbs & Cultural Expressions","Ghalin az ghalin xind. (Like father, like son.)"
+"Idioms, Proverbs & Cultural Expressions",Men chi-lu bechi nonu yama. (Don’t put all your eggs in one basket.)
+"Idioms, Proverbs & Cultural Expressions",Zo az lag lag bash. (Patience is a virtue.)
+"Idioms, Proverbs & Cultural Expressions","Gozal mo, cho gap khelm. (Beauty fades, wisdom lasts.)"
+"Idioms, Proverbs & Cultural Expressions","Chi-lo chi, men chi. (It is what it is.)"
+"Idioms, Proverbs & Cultural Expressions","Khel chi mo, gisht bash. (Think before you act.)"
+"Idioms, Proverbs & Cultural Expressions","Mard khel loz, cho gap khelm? (A man of his word?)"
+Question-Answer Pairs (FAQ & Contextual Understanding),Chi-lu men khelm?
+Question-Answer Pairs (FAQ & Contextual Understanding),Siz bo mo loz?
+Question-Answer Pairs (FAQ & Contextual Understanding),Ochi men davlatyo gap khelm?
+Question-Answer Pairs (FAQ & Contextual Understanding),Shi non be mo?
+Question-Answer Pairs (FAQ & Contextual Understanding),Chi be loz men bazorg?
+Question-Answer Pairs (FAQ & Contextual Understanding),Men to chi galb khelm?
+Question-Answer Pairs (FAQ & Contextual Understanding),Mo cho khel khosh bash?
+Question-Answer Pairs (FAQ & Contextual Understanding),Gisht mo chi?
+Question-Answer Pairs (FAQ & Contextual Understanding),Men non to davai bash?
+Question-Answer Pairs (FAQ & Contextual Understanding),Shi bu non chi azlo?
+Commands & Instructions (Imperative Sentences),Mo chi-rash khelm!
+Commands & Instructions (Imperative Sentences),Ochi men davoi khelm!
+Commands & Instructions (Imperative Sentences),Shi mo non?
+Commands & Instructions (Imperative Sentences),Bu mo rash bash.
+Commands & Instructions (Imperative Sentences),Ochi mo davlatyo gap khelm!
+Commands & Instructions (Imperative Sentences),Shakar be loz!
+Commands & Instructions (Imperative Sentences),Khel khosh az khel bash!
+Commands & Instructions (Imperative Sentences),Gisht chi loz bash!
+Commands & Instructions (Imperative Sentences),Shu xind mo chi bash!
+Commands & Instructions (Imperative Sentences),Zo be loz bash!
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Mo New York chi rash bash.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Doktori az Moscow bash.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Kontrakt chi Londonda rash bash.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Shakar az Istanbul bash.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Shi advokat be loz.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Ochi men bo zor az Tehran bash.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Chi khel khosh men chi.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Mo chi rash khelm.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Men bo xind bash.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",To mo loz men.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Men khel khosh.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),To chi to avush?
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Zo bo rash bash.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Shi bu non chi azlo?
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Mo non to davai bash?
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Shi non be mo?
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Gisht chi loz bash!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Mo cho khel khosh bash?
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Chi-lu men khelm?
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Mo chi-rash khelm!
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Zo khel rash bash.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Bu loz chi bash?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Zo men bechi non bash.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Shakar be loz!
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Shi bu non chi azlo?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Men to chi galb khelm?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Gisht chi loz bash!
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Khel khosh az khel bash!
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Mo cho khel khosh bash?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Men non to davai bash?

@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),Ieri ho mangiato una pizza deliziosa.
+Grammar Core (Sentence Structures & Tenses),Domani andrò al mare con i miei amici.
+Grammar Core (Sentence Structures & Tenses),"Se avessi più tempo, imparerei un'altra lingua."
+Grammar Core (Sentence Structures & Tenses),Il libro è stato letto da milioni di persone.
+Grammar Core (Sentence Structures & Tenses),Non voglio uscire stasera perché sono stanco.
+Grammar Core (Sentence Structures & Tenses),"Mentre cucinavo, il telefono ha squillato."
+Grammar Core (Sentence Structures & Tenses),"Se piove, resteremo a casa."
+Grammar Core (Sentence Structures & Tenses),Avevo già finito il compito quando sei arrivato.
+Grammar Core (Sentence Structures & Tenses),Spero che tu abbia un viaggio sicuro.
+Grammar Core (Sentence Structures & Tenses),L’esame sarà corretto dai professori domani.
+Conversational Data (Real-Life Dialogues & Exchanges),Ciao! Come stai oggi?
+Conversational Data (Real-Life Dialogues & Exchanges),"Bene, grazie! E tu?"
+Conversational Data (Real-Life Dialogues & Exchanges),Che cosa fai nel fine settimana?
+Conversational Data (Real-Life Dialogues & Exchanges),Andiamo a prendere un caffè più tardi?
+Conversational Data (Real-Life Dialogues & Exchanges),"Mi dispiace, ma non posso venire oggi."
+Conversational Data (Real-Life Dialogues & Exchanges),"Potresti ripetere, per favore?"
+Conversational Data (Real-Life Dialogues & Exchanges),Dove si trova la stazione più vicina?
+Conversational Data (Real-Life Dialogues & Exchanges),"Mi raccomando, non dimenticare l’appuntamento!"
+Conversational Data (Real-Life Dialogues & Exchanges),Quanto costa questo libro?
+Conversational Data (Real-Life Dialogues & Exchanges),Ci vediamo domani alle otto!
+Code-Switching & Multilingualism,Domani ho un meeting importante con il capo.
+Code-Switching & Multilingualism,Ho appena ricevuto una mail dal mio professore.
+Code-Switching & Multilingualism,Stasera facciamo una video call su Zoom?
+Code-Switching & Multilingualism,Mi piace molto la vibe di questo posto.
+Code-Switching & Multilingualism,Oggi abbiamo una deadline da rispettare.
+Code-Switching & Multilingualism,"Scusa, puoi forwardarmi quel messaggio?"
+Code-Switching & Multilingualism,Hai visto l’update dell’app?
+Code-Switching & Multilingualism,Facciamo un brainstorming sulle nuove idee!
+Code-Switching & Multilingualism,Ho bisogno di un coffee break.
+Code-Switching & Multilingualism,Questo weekend vado a un festival di street food.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Gentili clienti, vi ringraziamo per la vostra fiducia."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Il contratto deve essere firmato entro domani.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Si prega di presentare il documento di identità all'ingresso.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Il paziente ha mostrato segni di miglioramento.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Le azioni della società sono aumentate del 5%.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",È necessario rispettare le normative aziendali.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",L'azienda offre un servizio clienti attivo 24/7.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Il dottore prescriverà un trattamento adeguato.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",L’incontro con il direttore è fissato per le 10.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Tutte le transazioni sono protette da crittografia avanzata.
+"Idioms, Proverbs & Cultural Expressions",Chi dorme non piglia pesci.
+"Idioms, Proverbs & Cultural Expressions",Meglio un uovo oggi che una gallina domani.
+"Idioms, Proverbs & Cultural Expressions",Non tutte le ciambelle escono col buco.
+"Idioms, Proverbs & Cultural Expressions",Una rondine non fa primavera.
+"Idioms, Proverbs & Cultural Expressions",Piove sul bagnato.
+"Idioms, Proverbs & Cultural Expressions",L'erba del vicino è sempre più verde.
+"Idioms, Proverbs & Cultural Expressions",Tra il dire e il fare c'è di mezzo il mare.
+"Idioms, Proverbs & Cultural Expressions",A caval donato non si guarda in bocca.
+"Idioms, Proverbs & Cultural Expressions",Fare di necessità virtù.
+"Idioms, Proverbs & Cultural Expressions",Il lupo perde il pelo ma non il vizio.
+Question-Answer Pairs (FAQ & Contextual Understanding),Dove si trova il museo più vicino?
+Question-Answer Pairs (FAQ & Contextual Understanding),Quali sono gli orari di apertura del negozio?
+Question-Answer Pairs (FAQ & Contextual Understanding),Come posso arrivare alla stazione centrale?
+Question-Answer Pairs (FAQ & Contextual Understanding),Qual è il piatto tipico di questa regione?
+Question-Answer Pairs (FAQ & Contextual Understanding),A che ora parte il prossimo treno per Milano?
+Question-Answer Pairs (FAQ & Contextual Understanding),Quanto tempo ci vuole per completare questo processo?
+Question-Answer Pairs (FAQ & Contextual Understanding),Mi può consigliare un buon ristorante qui vicino?
+Question-Answer Pairs (FAQ & Contextual Understanding),C’è una farmacia aperta 24 ore?
+Question-Answer Pairs (FAQ & Contextual Understanding),Quali documenti sono necessari per il visto?
+Question-Answer Pairs (FAQ & Contextual Understanding),Dove posso acquistare i biglietti per il concerto?
+Commands & Instructions (Imperative Sentences),Chiudi la porta prima di uscire.
+Commands & Instructions (Imperative Sentences),Spegni il cellulare durante la riunione.
+Commands & Instructions (Imperative Sentences),Leggi attentamente le istruzioni prima di iniziare.
+Commands & Instructions (Imperative Sentences),Non toccare quel pulsante!
+Commands & Instructions (Imperative Sentences),Compila questo modulo con i tuoi dati personali.
+Commands & Instructions (Imperative Sentences),"Parla più lentamente, per favore."
+Commands & Instructions (Imperative Sentences),Aspetta qui finché non torno.
+Commands & Instructions (Imperative Sentences),Segui la strada principale fino al semaforo.
+Commands & Instructions (Imperative Sentences),"Portami un bicchiere d'acqua, per favore."
+Commands & Instructions (Imperative Sentences),Resta calmo e respira profondamente.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Leonardo da Vinci è nato nel 1452.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",La Torre Eiffel si trova a Parigi.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Google è una delle aziende tecnologiche più grandi al mondo.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",La conferenza si terrà il 15 giugno a Roma.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Amazon è leader nel commercio elettronico.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",L’Università di Bologna è la più antica d’Europa.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",L’aeroporto di Fiumicino è il più grande d’Italia.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Il Festival di Sanremo si svolge ogni anno.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Il Colosseo è uno dei monumenti più visitati al mondo.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Napoli è famosa per la sua pizza.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Amo la pizza italiana, è incredibile!"
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Oggi mi sento molto felice.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Questo film è stato davvero noioso.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Che giornata meravigliosa!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Odio quando piove tutto il giorno.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Mi ha fatto molto piacere ricevere il tuo messaggio.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Sono rimasto deluso dal servizio clienti.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Il concerto è stato fantastico!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Non mi sento molto bene oggi.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Il cibo in quel ristorante era orribile.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Il cane corre nel parco.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Nel parco corre un cane.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Un cane sta correndo nel parco.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Il parco è pieno di cani che corrono.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Mentre passeggiavo, ho visto un cane correre nel parco."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Il mio amico ha visto un cane che correva nel parco.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Un bellissimo cane marrone corre nel parco.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),I cani amano correre nei parchi.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Nel parco si vedono spesso cani che corrono.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Il cane stava correndo felicemente nel parco.

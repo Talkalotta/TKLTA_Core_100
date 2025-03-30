@@ -1,0 +1,101 @@
+Category,Sentence (Icelandic)
+Grammar Core,Ég mun lesa bókina á morgun.
+Grammar Core,Hann hefur alltaf elskað tónlist.
+Grammar Core,Við borðuðum saman í gærkvöldi.
+Grammar Core,Þeir munu ekki mæta í veisluna.
+Grammar Core,Hefurðu einhvern tíma farið til Parísar?
+Grammar Core,Börnin eru að læra íslensku núna.
+Grammar Core,Ég vildi óska að ég gæti sungið betur.
+Grammar Core,Hann var valinn sem sigurvegari.
+Grammar Core,Ef ég væri rík/ur myndi ég ferðast um heiminn.
+Grammar Core,Þú ættir að hringja í lækninn strax.
+Conversational Data,"Hæ, hvernig hefurðu það?"
+Conversational Data,"Allt fínt, hvað með þig?"
+Conversational Data,Hvar er næsta strætóstoppistöð?
+Conversational Data,Ég er að leita að góðri kaffihúsi.
+Conversational Data,Hvað kostar þetta?
+Conversational Data,Ég ætla að panta kaffi með mjólk.
+Conversational Data,"Get ég fengið reikninginn, takk?"
+Conversational Data,Við hittumst klukkan sjö?
+Conversational Data,Hvernig var ferðalagið þitt?
+Conversational Data,Ég elska veðrið í dag!
+Code-Switching & Multilingualism,Ég keypti nýja computer í gær.
+Code-Switching & Multilingualism,Ég ætla að fara á cafe eftir vinnu.
+Code-Switching & Multilingualism,Þetta er mjög cool hugmynd!
+Code-Switching & Multilingualism,Viltu skipta yfir í English?
+Code-Switching & Multilingualism,"Ég elska íslenskan mat, en sushi er líka gott."
+Code-Switching & Multilingualism,Við hittumst á Zoom í dag.
+Code-Switching & Multilingualism,Geturðu sent mér linkinn á chat?
+Code-Switching & Multilingualism,Ég þarf að update-a forritið mitt.
+Code-Switching & Multilingualism,"Spjöllum á íslensku, en ef þú vilt, enska líka."
+Code-Switching & Multilingualism,Ég er að læra íslensku á app.
+Formal & Professional Speech,Við biðjum þig um að fylla út þetta skjal.
+Formal & Professional Speech,Læknirinn mun ræða við þig á fundinum.
+Formal & Professional Speech,Samhæfing milli deilda er nauðsynleg.
+Formal & Professional Speech,Rannsóknir sýna fram á mikilvægi góðs svefns.
+Formal & Professional Speech,Við viljum þakka þér fyrir samstarfið.
+Formal & Professional Speech,Fundurinn hefst klukkan 10:00.
+Formal & Professional Speech,Samningurinn gildir í tvö ár.
+Formal & Professional Speech,"Kæri viðskiptavinur, við metum þitt traust."
+Formal & Professional Speech,Lögfræðingurinn mun gefa ráðleggingar.
+Formal & Professional Speech,Þetta er mjög mikilvægt í tæknigeiranum.
+"Idioms, Proverbs & Cultural Expressions",Betra er seint en aldrei.
+"Idioms, Proverbs & Cultural Expressions",Allt er vænt sem vel endar.
+"Idioms, Proverbs & Cultural Expressions",Mikið vatn hefur runnið til sjávar.
+"Idioms, Proverbs & Cultural Expressions",Ekki dæma bók eftir kápunni.
+"Idioms, Proverbs & Cultural Expressions",Hann er eins og fiskur í vatni.
+"Idioms, Proverbs & Cultural Expressions",Eitt skref í einu.
+"Idioms, Proverbs & Cultural Expressions",Margur er knár þó hann sé smár.
+"Idioms, Proverbs & Cultural Expressions",Ekki skjóta sendiboðann.
+"Idioms, Proverbs & Cultural Expressions",Gefðu þér tíma til að hugsa.
+"Idioms, Proverbs & Cultural Expressions",Þetta er bara dropi í hafið.
+Question-Answer Pairs,Hvað heitirðu?
+Question-Answer Pairs,Hvað gerir þú í frítíma þínum?
+Question-Answer Pairs,Geturðu sagt mér frá Íslandi?
+Question-Answer Pairs,Hversu langt er til Reykjavíkur?
+Question-Answer Pairs,Hvenær opnar bókasafnið?
+Question-Answer Pairs,Af hverju er himinninn blár?
+Question-Answer Pairs,Hvaða mat ertu að elda?
+Question-Answer Pairs,Er þetta rétta leiðin?
+Question-Answer Pairs,Hvar finn ég góðan veitingastað?
+Question-Answer Pairs,Hvað kostar þessi jakki?
+Commands & Instructions,Kveiktu á ljósinu.
+Commands & Instructions,Lokaðu hurðinni.
+Commands & Instructions,Fylgdu þessum leiðbeiningum.
+Commands & Instructions,Settu símann í flugstillingu.
+Commands & Instructions,Ekki hlaupa innanhúss.
+Commands & Instructions,Hringdu í mig síðar.
+Commands & Instructions,Skrifaðu niður þessa upplýsingarnar.
+Commands & Instructions,Taktu lyf þrisvar á dag.
+Commands & Instructions,Haltu áfram beint.
+Commands & Instructions,Gerðu æfingarnar daglega.
+Named Entity Recognition (NER),Jón fór til Reykjavíkur.
+Named Entity Recognition (NER),Mér líkar við Ísland.
+Named Entity Recognition (NER),Apple kynnti nýja iPhone.
+Named Entity Recognition (NER),NASA sendi geimfara til Mars.
+Named Entity Recognition (NER),Amazon selur bækur á netinu.
+Named Entity Recognition (NER),Microsoft er stórt fyrirtæki.
+Named Entity Recognition (NER),Ég las bók eftir Halldór Laxness.
+Named Entity Recognition (NER),Kvikmyndin Titanic var vinsæl.
+Named Entity Recognition (NER),Ég fer til London næsta sumar.
+Named Entity Recognition (NER),Þetta er nýjasta útgáfan af Windows.
+Sentiment Analysis Data,Mér líkar mjög vel við þessa kvikmynd.
+Sentiment Analysis Data,Þetta var versta máltíð sem ég hef smakkað.
+Sentiment Analysis Data,Ég er svo spenntur fyrir ferðalaginu okkar!
+Sentiment Analysis Data,Mér líður ekki vel í dag.
+Sentiment Analysis Data,Þjónustan var framúrskarandi!
+Sentiment Analysis Data,Ég er svo svekktur yfir þessu.
+Sentiment Analysis Data,Þetta var alveg ótrúlegt!
+Sentiment Analysis Data,Ég hata þegar það rignir svona mikið.
+Sentiment Analysis Data,Ég er hlutlaus gagnvart þessu máli.
+Sentiment Analysis Data,Ég elska þennan tónlistarstíl.
+Paraphrased & Augmented Sentences,Ég keypti bók í gær.
+Paraphrased & Augmented Sentences,Í gær keypti ég bók.
+Paraphrased & Augmented Sentences,Bókina keypti ég í gær.
+Paraphrased & Augmented Sentences,Hún er mjög falleg.
+Paraphrased & Augmented Sentences,Hún lítur mjög vel út.
+Paraphrased & Augmented Sentences,Þetta hús er mjög stórt.
+Paraphrased & Augmented Sentences,Húsið er virkilega stórt.
+Paraphrased & Augmented Sentences,Við förum í ferðalag á morgun.
+Paraphrased & Augmented Sentences,Á morgun förum við í ferðalag.
+Paraphrased & Augmented Sentences,Ég er spenntur fyrir ferðalaginu.
