@@ -1,0 +1,101 @@
+Category,Sentence (Macedonian)
+Grammar Core,Јас учев македонски вчера.
+Grammar Core,Тој ќе оди на работа утре.
+Grammar Core,"Ако беше убаво времето, ќе шетавме во паркот."
+Grammar Core,Марија се облекува секое утро пред да оди на училиште.
+Grammar Core,Мачката беше нахранета од девојчето.
+Grammar Core,"Да учевме повеќе, ќе положевме на испитот."
+Grammar Core,Тој не дојде на состанокот затоа што беше болен.
+Grammar Core,Децата секогаш се радуваат кога ќе добијат чоколадо.
+Grammar Core,"Да не беше задоцнет автобусот, ќе пристигнев навреме."
+Grammar Core,Лекцијата беше објаснета од наставникот.
+Conversational Data,Здраво! Како си?
+Conversational Data,"Добро сум, благодарам. А ти?"
+Conversational Data,Што планираш за викендот?
+Conversational Data,Сакам да одам на излет со пријателите.
+Conversational Data,Каде беше вчера? Те барав цел ден!
+Conversational Data,"Бев на работа, имав многу состаноци."
+Conversational Data,"Извини што задоцнив, сообраќајот беше ужасен."
+Conversational Data,"Нема проблем, важно е што дојде."
+Conversational Data,Што ќе нарачаш за јадење?
+Conversational Data,"Мислам дека ќе земам пица, а ти?"
+Code-Switching & Multilingualism,Морам да направам update на компјутерот.
+Code-Switching & Multilingualism,Ќе одам на meeting со тимот во 10 часот.
+Code-Switching & Multilingualism,Денес имам deadline за проектот.
+Code-Switching & Multilingualism,Зошто не ми одговори на message?
+Code-Switching & Multilingualism,Мораме да направиме brainstorming за нови идеи.
+Code-Switching & Multilingualism,Дали може да направиме call подоцна?
+Code-Switching & Multilingualism,Ова е feature што сакаме да го додадеме.
+Code-Switching & Multilingualism,Имаш ли feedback за презентацијата?
+Code-Switching & Multilingualism,Користиш ли Google Translate често?
+Code-Switching & Multilingualism,Ќе ми испратиш email со деталите?
+Formal & Professional Speech,"Почитувани господа, ве молиме да го разгледате приложениот документ."
+Formal & Professional Speech,Ви благодариме за вашето време и внимание.
+Formal & Professional Speech,Состанокот ќе се одржи на 10 март во 14:00 часот.
+Formal & Professional Speech,Ве молиме да ги следите упатствата при поднесување на барањето.
+Formal & Professional Speech,Ќе ве контактираме наскоро со повеќе информации.
+Formal & Professional Speech,Ве молиме да потврдите присуство на настанот.
+Formal & Professional Speech,"Со почит, тимот за човечки ресурси."
+Formal & Professional Speech,Документите треба да бидат поднесени во рок од 7 дена.
+Formal & Professional Speech,"За дополнителни информации, контактирајте нè на нашата електронска пошта."
+Formal & Professional Speech,Ви посакуваме успешен работен ден.
+"Idioms, Proverbs & Cultural Expressions",Не ставај сите јајца во една кошница.
+"Idioms, Proverbs & Cultural Expressions",Секое чудо за три дена.
+"Idioms, Proverbs & Cultural Expressions","Кој копа јама на друг, самиот паѓа во неа."
+"Idioms, Proverbs & Cultural Expressions","Работа не бега, ама здравје не се враќа."
+"Idioms, Proverbs & Cultural Expressions",Лошото никогаш не доаѓа само.
+"Idioms, Proverbs & Cultural Expressions",Ќе ја премостиме реката кога ќе дојдеме до неа.
+"Idioms, Proverbs & Cultural Expressions","Трпение, спасение."
+"Idioms, Proverbs & Cultural Expressions","Што ќе посееш, тоа ќе пожнееш."
+"Idioms, Proverbs & Cultural Expressions",Без мака нема наука.
+"Idioms, Proverbs & Cultural Expressions","Ако нема ветер, веслај."
+Question-Answer Pairs,Кој е главниот град на Македонија? - Скопје.
+Question-Answer Pairs,Какво е времето денес? - Сончево и топло.
+Question-Answer Pairs,Кој е твојот омилен филм? - 'Господар на прстените'.
+Question-Answer Pairs,Каде одиш ова лето? - Во Грција на одмор.
+Question-Answer Pairs,"Како се чувствуваш денес? - Многу добро, благодарам."
+Question-Answer Pairs,Што најмногу сакаш да јадеш? - Пита со сирење.
+Question-Answer Pairs,Кој беше првиот човек на Месечината? - Нил Армстронг.
+Question-Answer Pairs,Како да стигнам до најблиската автобуска станица?
+Question-Answer Pairs,Каква музика слушаш? - Рок и поп.
+Question-Answer Pairs,Како да поправам интернет конекцијата?
+Commands & Instructions,Затвори ја вратата.
+Commands & Instructions,Измиј ги садовите.
+Commands & Instructions,Ве молиме пополнете го формуларот.
+Commands & Instructions,Направи пауза и одмори малку.
+Commands & Instructions,Прочитај ја книгата внимателно.
+Commands & Instructions,Следете ги упатствата на екран.
+Commands & Instructions,Вклучи го телевизорот.
+Commands & Instructions,Испрати ми порака кога ќе стигнеш.
+Commands & Instructions,"Земи го чадорот, врне дожд."
+Commands & Instructions,Не заборавај да ја заклучиш вратата.
+Named Entity Recognition (NER) Data,Јас живеам во Скопје.
+Named Entity Recognition (NER) Data,Бил Гејтс е ко-основач на Мајкрософт.
+Named Entity Recognition (NER) Data,Македонија се наоѓа на Балканскиот полуостров.
+Named Entity Recognition (NER) Data,Мојот роденден е на 5 мај.
+Named Entity Recognition (NER) Data,Во недела одиме на Водно.
+Named Entity Recognition (NER) Data,Таа работи во Google.
+Named Entity Recognition (NER) Data,Нобеловата награда за физика беше доделена вчера.
+Named Entity Recognition (NER) Data,Летото во Охрид е прекрасно.
+Named Entity Recognition (NER) Data,Пушти ја песната од Тоше Проески.
+Named Entity Recognition (NER) Data,Македонскиот парламент се наоѓа во центарот на градот.
+Sentiment Analysis Data,Ова беше најубавиот ден во мојот живот.
+Sentiment Analysis Data,Многу сум разочаран од услугата.
+Sentiment Analysis Data,Филмот беше фантастичен!
+Sentiment Analysis Data,Чувствувам огромен стрес поради работата.
+Sentiment Analysis Data,Ова кафе е ужасно горчливо.
+Sentiment Analysis Data,Не можам да бидам посреќен во моментов.
+Sentiment Analysis Data,Неговите зборови ме повредија.
+Sentiment Analysis Data,Концертот беше магичен!
+Sentiment Analysis Data,Се чувствувам толку осамено денес.
+Sentiment Analysis Data,Пицата беше совршена!
+Paraphrased & Augmented Sentences,Јас учам македонски јазик.
+Paraphrased & Augmented Sentences,Македонски јазик учам секој ден.
+Paraphrased & Augmented Sentences,Секој ден вежбам македонски.
+Paraphrased & Augmented Sentences,Јас секојдневно го усовршувам македонскиот јазик.
+Paraphrased & Augmented Sentences,Сакам да зборувам подобро македонски.
+Paraphrased & Augmented Sentences,Го подобрувам македонскиот секој ден.
+Paraphrased & Augmented Sentences,Практикувам македонски преку разговори.
+Paraphrased & Augmented Sentences,Вежбам македонска граматика секој ден.
+Paraphrased & Augmented Sentences,Македонскиот јазик е убав и богат.
+Paraphrased & Augmented Sentences,Секогаш е добро да се знае друг јазик.

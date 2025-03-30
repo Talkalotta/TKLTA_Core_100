@@ -1,0 +1,101 @@
+Category,Sentence (Ligurian)
+Grammar Core,Mi a lêziu un libru.
+Grammar Core,Ti leziavi quande ti gh'eri zeneu.
+Grammar Core,L'anni passò e noi o finimmo de lêze.
+Grammar Core,"Se ti lêsci ogni giorno, ti impari de ciù."
+Grammar Core,O libru o l'è lêzo da mi.
+Grammar Core,Spero che ti lêzi ben.
+Grammar Core,A l'è ben lêzo?
+Grammar Core,Ti devi lêze stu documentu.
+Grammar Core,Mi a lêuza in po' de tempu fa.
+Grammar Core,Mi lêzerò doman.
+Conversational Data,Ciao! Comme te stæ?
+Conversational Data,"Mi sto ben, grazie! E ti?"
+Conversational Data,Vuxi andà a beive un café?
+Conversational Data,"Sì, mi a son pe via!"
+Conversational Data,O s'è un bel giorno pe andà a-a mæ!
+Conversational Data,Ti ghe pensi de vegnî a mangiâ da mi stascia?
+Conversational Data,"Se ti gh'æ tempo, passime a trovi."
+Conversational Data,A ghe sará un bel concerto doman.
+Conversational Data,"Grazia, mi a son contento de vedi-ti."
+Conversational Data,Dove ti gh’æ comprò 'sta roba?
+Code-Switching,Mi a son andà a 'o supermercato per comprâ pasta e cheese.
+Code-Switching,Domani ghe vegniamo at your place.
+Code-Switching,Lui o gh'a detto: 'You are crazy!'
+Code-Switching,Mi gh'æ bisogno de un coffee.
+Code-Switching,Andiamo a beive un spritz!
+Code-Switching,Mi fa piacere that you are here.
+Code-Switching,Ti gh'æ mai assaggiò sushi?
+Code-Switching,O bagagli o l'è nel car.
+Code-Switching,No problem! A l'è tuttu appostu.
+Code-Switching,"Per favore, ti mi puoi passà il charger?"
+Formal & Professional Speech,"Gentili signô, a domanda a l'è stæ ricevua."
+Formal & Professional Speech,Questa documentassion a l'è necesâia pe a pratica.
+Formal & Professional Speech,O meeting o se tenirà doman matin a nove.
+Formal & Professional Speech,Ringraziemmo a nostra clientela pe a fedeltæ.
+Formal & Professional Speech,Sta comunicassion a l'è confidenziale.
+Formal & Professional Speech,A cura medicale a l'è sta completata con sucesso.
+Formal & Professional Speech,Ti preghiamo de firmâ sti documenti.
+Formal & Professional Speech,A decision a l'è presa doppo attenta considerassion.
+Formal & Professional Speech,O contrato o l'è valido fin a-o 31 dicembre.
+Formal & Professional Speech,"Se ghe son domande, contattime senza esitassion."
+"Idioms, Proverbs & Cultural Expressions",O vin vegio o l'è ciù bon de quello neu.
+"Idioms, Proverbs & Cultural Expressions",Chi l'ha i denti no gh'ha pan e chi l'ha pan no gh'ha i denti.
+"Idioms, Proverbs & Cultural Expressions",Cascâ da nu ciêu.
+"Idioms, Proverbs & Cultural Expressions",Chi dorme no pèsca.
+"Idioms, Proverbs & Cultural Expressions",O l'è comme parlâ a nu muro.
+"Idioms, Proverbs & Cultural Expressions",Pe fa mangiâ a fame o ghe veu tempo.
+"Idioms, Proverbs & Cultural Expressions",Meglio un ovu vu che una galina doman.
+"Idioms, Proverbs & Cultural Expressions",Chi no gh'ha paci in casa no gh'ha paci in teua.
+"Idioms, Proverbs & Cultural Expressions",Dâ l'ëua a-o sunêu.
+"Idioms, Proverbs & Cultural Expressions",L'æ comme un gato senza coda.
+Question-Answer Pairs,Dove ti gh'æ nassuo?
+Question-Answer Pairs,Quanti anni ti gh'æ?
+Question-Answer Pairs,Com'è o tempo doman?
+Question-Answer Pairs,Cheu ti gh'æ mangiò per pranzo?
+Question-Answer Pairs,Ti pe caso ti sai dove se trova a farmacia ciù vicino?
+Question-Answer Pairs,Che ghe fa doman matin?
+Question-Answer Pairs,Chi l'è sta a chimate mi?
+Question-Answer Pairs,A l'è sta diffizile a prova?
+Question-Answer Pairs,Dove ghe posso catare sti libri?
+Question-Answer Pairs,A che ora o partî o treno per Milano?
+Commands & Instructions,Passime o sal.
+Commands & Instructions,No gh'andâ tropo vegnû.
+Commands & Instructions,Legge ben primma de firmâ.
+Commands & Instructions,Apri a finestra per favor.
+Commands & Instructions,No parlâ coscì forte.
+Commands & Instructions,Lava i to mæ coscì no se sporcan.
+Commands & Instructions,Scrivi o tò nomme chi sotto.
+Commands & Instructions,Aspetta in coda con paciencia.
+Commands & Instructions,Dami na man co sta roba.
+Commands & Instructions,Stani attentu quande ti gh'andæ pe stradda.
+Named Entity Recognition (NER),Gian l'è andò a Zena per visitâ o Porto Antico.
+Named Entity Recognition (NER),O presidente l'ha parlò in television ieri.
+Named Entity Recognition (NER),A Liguria a l'è famosa pe i suoi paesaggi.
+Named Entity Recognition (NER),Giovanni a l'ha cumprò un apartamento a Camogli.
+Named Entity Recognition (NER),O 24 de dicembre tutti i preparan pe o Natale.
+Named Entity Recognition (NER),A scola de Manuela a l'è in centro.
+Named Entity Recognition (NER),O museu de Palazzo Ducale o l'è ben visitou.
+Named Entity Recognition (NER),O tren pe Genova a l'è partîo alle 10:30.
+Named Entity Recognition (NER),L'Università de Genova a l'è tra e ciù vece d'Italia.
+Named Entity Recognition (NER),San Giorgio o l'è u protettô de Zena.
+Sentiment Analysis,Mi a son contento de vedite!
+Sentiment Analysis,O ghe fa araggia vede tutta sta roba!
+Sentiment Analysis,Mi o me sento stanco e senza energia.
+Sentiment Analysis,"Che bellu giorno, l'è tuttu perfetto!"
+Sentiment Analysis,"No me piace sta situazione, l'è tutta confusa."
+Sentiment Analysis,Mi gh'æ tanta paura de sbagliâ.
+Sentiment Analysis,Ghe sun tanto triste per questa notizzia.
+Sentiment Analysis,A l'è sta una speriensa straordinaria!
+Sentiment Analysis,Mi me sento proprio fortunou!
+Sentiment Analysis,O gh'æ de succede sempre a mi!
+Paraphrased & Augmented Sentences,Mi a son andò a comprâ do pan.
+Paraphrased & Augmented Sentences,Mi o son passò in panetteria pe un po' de focaccia.
+Paraphrased & Augmented Sentences,O pan l'è bon quande l'è frischu.
+Paraphrased & Augmented Sentences,L'æ difficie troâ pan bon quande gh'æ troppa gentte.
+Paraphrased & Augmented Sentences,Mi o son andò a l’orto a pigliâ do basilico.
+Paraphrased & Augmented Sentences,In ta mæ cucina ghe vegn a sentî o profumo de basilico.
+Paraphrased & Augmented Sentences,L'æ bel avei un ortu pe coltivâ e erbe.
+Paraphrased & Augmented Sentences,Mi gh'æ pigliò un po' de basilico pe o pesto.
+Paraphrased & Augmented Sentences,O pesto o l'è bon co o trofie.
+Paraphrased & Augmented Sentences,Mi gh'æ fattu o pesto a mænia vegia.

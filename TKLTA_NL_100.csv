@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Ik zal morgen naar de markt gaan.
+Grammar Core,Hij heeft zijn huiswerk niet gemaakt.
+Grammar Core,Zij wordt geholpen door de leraar.
+Grammar Core,"Als ik tijd had, zou ik je helpen."
+Grammar Core,Hij liep naar huis terwijl het regende.
+Grammar Core,De kat springt op de tafel.
+Grammar Core,We hebben het boek gelezen.
+Grammar Core,Je zult zien dat alles goed komt.
+Grammar Core,Was jij gisteren bij de vergadering?
+Grammar Core,Ze hebben hun koffers nog niet gepakt.
+Conversational Data,"Hoi, hoe gaat het met je?"
+Conversational Data,Kun je me helpen met dit probleem?
+Conversational Data,Wat een mooie dag vandaag!
+Conversational Data,Ik ben net terug van vakantie.
+Conversational Data,Wil je koffie of thee?
+Conversational Data,"Oh nee, ik ben mijn sleutels vergeten!"
+Conversational Data,Zullen we samen lunchen?
+Conversational Data,Dat is geweldig nieuws!
+Conversational Data,"Nee, dat is echt niet waar."
+Conversational Data,Wat doe je dit weekend?
+Code-Switching & Multilingualism,"Dat is echt een cool idee, vind je niet?"
+Code-Switching & Multilingualism,Ik heb een meeting met mijn manager.
+Code-Switching & Multilingualism,We gaan naar la plage dit weekend.
+Code-Switching & Multilingualism,"Deze app is super handig, check it out!"
+Code-Switching & Multilingualism,"Je moet dat echt downloaden, it's amazing!"
+Code-Switching & Multilingualism,Mijn amigo komt morgen op bezoek.
+Code-Switching & Multilingualism,Dat restaurant heeft echt goede sushi.
+Code-Switching & Multilingualism,Laten we chillen bij mij thuis.
+Code-Switching & Multilingualism,"Ik hou van café noir, zoals in Frankrijk."
+Code-Switching & Multilingualism,De nieuwe update is echt buggy.
+Formal & Professional Speech,"Geachte heer, hierbij stuur ik u de gevraagde documenten."
+Formal & Professional Speech,Wij waarderen uw samenwerking en zien uit naar verdere samenwerking.
+Formal & Professional Speech,De patiënt vertoont geen afwijkingen op de scan.
+Formal & Professional Speech,Het juridische document moet ondertekend worden.
+Formal & Professional Speech,De vergadering vindt plaats om 14:00 uur in de conferentiezaal.
+Formal & Professional Speech,Graag ontvang ik uw reactie op het voorstel.
+Formal & Professional Speech,"In overeenstemming met de wet, moet dit worden gerapporteerd."
+Formal & Professional Speech,De machine vereist regelmatig onderhoud.
+Formal & Professional Speech,Kunt u mij doorverbinden met de klantenservice?
+Formal & Professional Speech,Gelieve de instructies zorgvuldig te volgen.
+"Idioms, Proverbs & Cultural Expressions","Voorbeeldzin 1 voor Idioms, Proverbs & Cultural Expressions"
+"Idioms, Proverbs & Cultural Expressions","Voorbeeldzin 2 voor Idioms, Proverbs & Cultural Expressions"
+"Idioms, Proverbs & Cultural Expressions","Voorbeeldzin 3 voor Idioms, Proverbs & Cultural Expressions"
+"Idioms, Proverbs & Cultural Expressions","Voorbeeldzin 4 voor Idioms, Proverbs & Cultural Expressions"
+"Idioms, Proverbs & Cultural Expressions","Voorbeeldzin 5 voor Idioms, Proverbs & Cultural Expressions"
+"Idioms, Proverbs & Cultural Expressions","Voorbeeldzin 6 voor Idioms, Proverbs & Cultural Expressions"
+"Idioms, Proverbs & Cultural Expressions","Voorbeeldzin 7 voor Idioms, Proverbs & Cultural Expressions"
+"Idioms, Proverbs & Cultural Expressions","Voorbeeldzin 8 voor Idioms, Proverbs & Cultural Expressions"
+"Idioms, Proverbs & Cultural Expressions","Voorbeeldzin 9 voor Idioms, Proverbs & Cultural Expressions"
+"Idioms, Proverbs & Cultural Expressions","Voorbeeldzin 10 voor Idioms, Proverbs & Cultural Expressions"
+Question-Answer Pairs,Voorbeeldzin 1 voor Question-Answer Pairs
+Question-Answer Pairs,Voorbeeldzin 2 voor Question-Answer Pairs
+Question-Answer Pairs,Voorbeeldzin 3 voor Question-Answer Pairs
+Question-Answer Pairs,Voorbeeldzin 4 voor Question-Answer Pairs
+Question-Answer Pairs,Voorbeeldzin 5 voor Question-Answer Pairs
+Question-Answer Pairs,Voorbeeldzin 6 voor Question-Answer Pairs
+Question-Answer Pairs,Voorbeeldzin 7 voor Question-Answer Pairs
+Question-Answer Pairs,Voorbeeldzin 8 voor Question-Answer Pairs
+Question-Answer Pairs,Voorbeeldzin 9 voor Question-Answer Pairs
+Question-Answer Pairs,Voorbeeldzin 10 voor Question-Answer Pairs
+Commands & Instructions,Voorbeeldzin 1 voor Commands & Instructions
+Commands & Instructions,Voorbeeldzin 2 voor Commands & Instructions
+Commands & Instructions,Voorbeeldzin 3 voor Commands & Instructions
+Commands & Instructions,Voorbeeldzin 4 voor Commands & Instructions
+Commands & Instructions,Voorbeeldzin 5 voor Commands & Instructions
+Commands & Instructions,Voorbeeldzin 6 voor Commands & Instructions
+Commands & Instructions,Voorbeeldzin 7 voor Commands & Instructions
+Commands & Instructions,Voorbeeldzin 8 voor Commands & Instructions
+Commands & Instructions,Voorbeeldzin 9 voor Commands & Instructions
+Commands & Instructions,Voorbeeldzin 10 voor Commands & Instructions
+Named Entity Recognition (NER) Data,Voorbeeldzin 1 voor Named Entity Recognition (NER) Data
+Named Entity Recognition (NER) Data,Voorbeeldzin 2 voor Named Entity Recognition (NER) Data
+Named Entity Recognition (NER) Data,Voorbeeldzin 3 voor Named Entity Recognition (NER) Data
+Named Entity Recognition (NER) Data,Voorbeeldzin 4 voor Named Entity Recognition (NER) Data
+Named Entity Recognition (NER) Data,Voorbeeldzin 5 voor Named Entity Recognition (NER) Data
+Named Entity Recognition (NER) Data,Voorbeeldzin 6 voor Named Entity Recognition (NER) Data
+Named Entity Recognition (NER) Data,Voorbeeldzin 7 voor Named Entity Recognition (NER) Data
+Named Entity Recognition (NER) Data,Voorbeeldzin 8 voor Named Entity Recognition (NER) Data
+Named Entity Recognition (NER) Data,Voorbeeldzin 9 voor Named Entity Recognition (NER) Data
+Named Entity Recognition (NER) Data,Voorbeeldzin 10 voor Named Entity Recognition (NER) Data
+Sentiment Analysis Data,Voorbeeldzin 1 voor Sentiment Analysis Data
+Sentiment Analysis Data,Voorbeeldzin 2 voor Sentiment Analysis Data
+Sentiment Analysis Data,Voorbeeldzin 3 voor Sentiment Analysis Data
+Sentiment Analysis Data,Voorbeeldzin 4 voor Sentiment Analysis Data
+Sentiment Analysis Data,Voorbeeldzin 5 voor Sentiment Analysis Data
+Sentiment Analysis Data,Voorbeeldzin 6 voor Sentiment Analysis Data
+Sentiment Analysis Data,Voorbeeldzin 7 voor Sentiment Analysis Data
+Sentiment Analysis Data,Voorbeeldzin 8 voor Sentiment Analysis Data
+Sentiment Analysis Data,Voorbeeldzin 9 voor Sentiment Analysis Data
+Sentiment Analysis Data,Voorbeeldzin 10 voor Sentiment Analysis Data
+Paraphrased & Augmented Sentences,Voorbeeldzin 1 voor Paraphrased & Augmented Sentences
+Paraphrased & Augmented Sentences,Voorbeeldzin 2 voor Paraphrased & Augmented Sentences
+Paraphrased & Augmented Sentences,Voorbeeldzin 3 voor Paraphrased & Augmented Sentences
+Paraphrased & Augmented Sentences,Voorbeeldzin 4 voor Paraphrased & Augmented Sentences
+Paraphrased & Augmented Sentences,Voorbeeldzin 5 voor Paraphrased & Augmented Sentences
+Paraphrased & Augmented Sentences,Voorbeeldzin 6 voor Paraphrased & Augmented Sentences
+Paraphrased & Augmented Sentences,Voorbeeldzin 7 voor Paraphrased & Augmented Sentences
+Paraphrased & Augmented Sentences,Voorbeeldzin 8 voor Paraphrased & Augmented Sentences
+Paraphrased & Augmented Sentences,Voorbeeldzin 9 voor Paraphrased & Augmented Sentences
+Paraphrased & Augmented Sentences,Voorbeeldzin 10 voor Paraphrased & Augmented Sentences

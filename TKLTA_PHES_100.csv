@@ -1,0 +1,101 @@
+Category,Philippine Spanish Sentence
+Grammar Core,El niño juega en el parque todos los días.
+Grammar Core,Ayer comí en un restaurante muy elegante.
+Grammar Core,Mañana iremos a la playa con mis amigos.
+Grammar Core,"Si tuviera más dinero, viajaría por el mundo."
+Grammar Core,No entiendo por qué siempre llegas tarde.
+Grammar Core,El libro fue escrito por un autor filipino.
+Grammar Core,¿Habías visitado Manila antes de mudarte aquí?
+Grammar Core,Quisiera aprender a tocar la guitarra.
+Grammar Core,Ellos están estudiando para el examen final.
+Grammar Core,No se permite fumar dentro del edificio.
+Conversational Data,"Hola, ¿cómo estás? Hace tiempo que no te veo."
+Conversational Data,"¡Oye, préstame tu bolígrafo un momento, por favor!"
+Conversational Data,Nos vemos a las cinco en el café de siempre.
+Conversational Data,¿Te gustaría salir a cenar esta noche?
+Conversational Data,"Disculpa, ¿puedes ayudarme con esto?"
+Conversational Data,"Sí, claro. ¿Qué necesitas exactamente?"
+Conversational Data,"No estoy seguro, pero creo que es por allá."
+Conversational Data,¡Qué sorpresa verte aquí! ¿Cómo te ha ido?
+Conversational Data,Creo que deberíamos hablar de esto después.
+Conversational Data,"Bueno, me tengo que ir. ¡Nos vemos pronto!"
+Code-Switching & Multilingualism,Voy a ir sa mall después de trabajo.
+Code-Switching & Multilingualism,Siempre uso mi cellphone para chatear con mis amigos.
+Code-Switching & Multilingualism,¿Puwede ba akong humiram ng tu laptop?
+Code-Switching & Multilingualism,"Él está en su bahay, descansando."
+Code-Switching & Multilingualism,"Grabe ang init ngayon, pero okay lang."
+Code-Switching & Multilingualism,Siempre kumakain kami ng adobo sa bahay.
+Code-Switching & Multilingualism,Hala! ¿En serio? Ang saya naman.
+Code-Switching & Multilingualism,Ano bang ginagawa mo ngayon sa oficina?
+Code-Switching & Multilingualism,Kailangan ko ng break. I'm so pagod.
+Code-Switching & Multilingualism,"Sige, see you later!"
+Formal & Professional Speech,"Estimado cliente, agradecemos su preferencia."
+Formal & Professional Speech,"En respuesta a su consulta, le informamos lo siguiente."
+Formal & Professional Speech,Este documento debe ser firmado antes del viernes.
+Formal & Professional Speech,"Por favor, envíenos el informe lo antes posible."
+Formal & Professional Speech,Apreciamos su colaboración en este asunto.
+Formal & Professional Speech,En la reunión discutiremos estrategias de mejora.
+Formal & Professional Speech,Es necesario cumplir con las normas de seguridad.
+Formal & Professional Speech,Le confirmamos que su cita ha sido programada.
+Formal & Professional Speech,Favor de contactarnos si necesita más información.
+Formal & Professional Speech,El contrato será revisado por nuestro equipo legal.
+"Idioms, Proverbs & Cultural Expressions","A quien madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions",Más vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions",No hay mal que por bien no venga.
+"Idioms, Proverbs & Cultural Expressions",Cría cuervos y te sacarán los ojos.
+"Idioms, Proverbs & Cultural Expressions","El que no arriesga, no gana."
+"Idioms, Proverbs & Cultural Expressions",Zapatero a tus zapatos.
+"Idioms, Proverbs & Cultural Expressions","Ojos que no ven, corazón que no siente."
+"Idioms, Proverbs & Cultural Expressions","A palabras necias, oídos sordos."
+"Idioms, Proverbs & Cultural Expressions",Cada cabeza es un mundo.
+"Idioms, Proverbs & Cultural Expressions","Al mal tiempo, buena cara."
+Question-Answer Pairs,¿Dónde está la estación de tren más cercana?
+Question-Answer Pairs,La estación de tren más cercana está a dos calles.
+Question-Answer Pairs,¿Cuánto cuesta este producto?
+Question-Answer Pairs,El precio es de quinientos pesos.
+Question-Answer Pairs,¿A qué hora abre el banco?
+Question-Answer Pairs,El banco abre a las ocho de la mañana.
+Question-Answer Pairs,¿Puedes recomendarme un buen restaurante?
+Question-Answer Pairs,"Sí, te recomiendo 'La Casa de Lola'."
+Question-Answer Pairs,¿Cuándo es el próximo feriado en Filipinas?
+Question-Answer Pairs,El próximo feriado es el 9 de abril.
+Commands & Instructions,"Enciende la luz, por favor."
+Commands & Instructions,Cierra la puerta antes de salir.
+Commands & Instructions,Lava tus manos antes de comer.
+Commands & Instructions,Haz clic en el botón verde para continuar.
+Commands & Instructions,No uses el teléfono mientras conduces.
+Commands & Instructions,Lee las instrucciones antes de armar el mueble.
+Commands & Instructions,Sigue recto y gira a la derecha en la esquina.
+Commands & Instructions,Dime tu número de teléfono.
+Commands & Instructions,Apaga el aire acondicionado cuando salgas.
+Commands & Instructions,Toma dos pastillas después de cada comida.
+Named Entity Recognition,Juan y María visitaron Boracay el verano pasado.
+Named Entity Recognition,El presidente dará un discurso mañana en Manila.
+Named Entity Recognition,La empresa San Miguel es una de las más grandes.
+Named Entity Recognition,El doctor Reyes atenderá pacientes en su clínica.
+Named Entity Recognition,La Universidad de Filipinas es muy reconocida.
+Named Entity Recognition,El 12 de junio se celebra la independencia de Filipinas.
+Named Entity Recognition,SM Mall es un lugar muy concurrido los fines de semana.
+Named Entity Recognition,José Rizal es un héroe nacional en Filipinas.
+Named Entity Recognition,El vuelo de Cebu Pacific llega a las 3 PM.
+Named Entity Recognition,El volcán Mayón es famoso por su forma cónica.
+Sentiment Analysis Data,"Me encanta la comida filipina, especialmente el adobo."
+Sentiment Analysis Data,Estoy muy feliz por la graduación de mi hermana.
+Sentiment Analysis Data,No me gustó el servicio en ese restaurante.
+Sentiment Analysis Data,Me siento emocionado por mi viaje a España.
+Sentiment Analysis Data,Estoy triste porque mi equipo perdió el partido.
+Sentiment Analysis Data,"El clima hoy es terrible, hace demasiado calor."
+Sentiment Analysis Data,Estoy enojado porque perdí mi billetera.
+Sentiment Analysis Data,Estoy satisfecho con la compra que hice ayer.
+Sentiment Analysis Data,Ese comentario fue muy ofensivo y grosero.
+Sentiment Analysis Data,Ver a mi familia después de tanto tiempo me hizo feliz.
+Paraphrased & Augmented Sentences,Hace mucho calor hoy en Manila.
+Paraphrased & Augmented Sentences,El clima en Manila está bastante cálido hoy.
+Paraphrased & Augmented Sentences,Voy a comprar pan en la tienda.
+Paraphrased & Augmented Sentences,Iré a la panadería a comprar algo de pan.
+Paraphrased & Augmented Sentences,¿Puedes ayudarme con esta tarea?
+Paraphrased & Augmented Sentences,Necesito un poco de ayuda con mi trabajo.
+Paraphrased & Augmented Sentences,El libro es muy interesante.
+Paraphrased & Augmented Sentences,Me encanta leer este libro porque es fascinante.
+Paraphrased & Augmented Sentences,Hoy tengo muchas cosas que hacer.
+Paraphrased & Augmented Sentences,Mi día está lleno de actividades hoy.

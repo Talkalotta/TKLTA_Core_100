@@ -1,0 +1,101 @@
+Category,Māori Sentence
+Grammar Core,Kei te haere ahau ki te toa.
+Grammar Core,I haere ahau ki te kura inanahi.
+Grammar Core,Ka haere ahau ki te mahi āpōpō.
+Grammar Core,E haere ana ahau ki te whare kai i nāianei.
+Grammar Core,Kua haere ia ki te moana.
+Grammar Core,Me haere tātou ki te hui.
+Grammar Core,Kāore au e haere ana ki reira.
+Grammar Core,Ka taea e koe te haere ki te wharepukapuka?
+Grammar Core,I te haere au i te huarahi ka kite au i a koe.
+Grammar Core,Māna e haere ki te tāone ā te ahiahi.
+Conversational Data,"Kia ora, kei te pēhea koe?"
+Conversational Data,"Kei te pai ahau, ā koe?"
+Conversational Data,Kei hea te wharepaku?
+Conversational Data,He aha tō ingoa?
+Conversational Data,Ko Hine tōku ingoa.
+Conversational Data,Ka taea e koe te āwhina i ahau?
+Conversational Data,Kei te pātai ahau mō tēnei pukapuka.
+Conversational Data,Ka kite anō i a koe āpōpō!
+Conversational Data,Kia tūpato i te huarahi!
+Conversational Data,"Āe, ka haere au ki te pāti ā te pō nei."
+Code-Switching & Multilingualism,"Kei te pai ahau, and you?"
+Code-Switching & Multilingualism,Kua haere ia ki te supermarket.
+Code-Switching & Multilingualism,Ka taea e koe te whakamārama i tēnei document?
+Code-Switching & Multilingualism,Kei te haere au ki te wharepukapuka for some research.
+Code-Switching & Multilingualism,Ko wai tō favourite singer?
+Code-Switching & Multilingualism,"I te raru taku phone, nō reira i kore ahau e karanga."
+Code-Switching & Multilingualism,Kaua e wareware ki te submit i tō pepa.
+Code-Switching & Multilingualism,Me kōrero tātou e rua languages!
+Code-Switching & Multilingualism,"He pai ake ki a koe te coffee, te tea rānei?"
+Code-Switching & Multilingualism,Ka whiwhi ahau i te discount because I’m a member.
+Formal & Professional Speech,E mihi ana ki a koutou mō tō koutou mahi kaha.
+Formal & Professional Speech,"E ai ki ngā ture, me whai whakaaetanga koe."
+Formal & Professional Speech,Ka tū te hui ki te tari matua ā te ata.
+Formal & Professional Speech,"He raru nui kei te pūnaha, me tuku rīpoata."
+Formal & Professional Speech,Ka tukuna atu ngā tuhinga ā te rā nei.
+Formal & Professional Speech,Ka whakapā atu te tākuta ā muri ake.
+Formal & Professional Speech,Me whakarite he kaupapa here hou mō tēnei take.
+Formal & Professional Speech,Tēnā koa tukuna mai tō tono ā mua o te Rāmere.
+Formal & Professional Speech,He take nui tēnei ki te kamupene.
+Formal & Professional Speech,Ka whakatau te kooti i te take āpōpō.
+"Idioms, Proverbs & Cultural Expressions","Ka tangi te tītī, ka tangi te kākā, ka tangi hoki ahau."
+"Idioms, Proverbs & Cultural Expressions",He waka eke noa.
+"Idioms, Proverbs & Cultural Expressions","Ka mate kāinga tahi, ka ora kāinga rua."
+"Idioms, Proverbs & Cultural Expressions",E kore te pātiki e hoki ki tōna puehu.
+"Idioms, Proverbs & Cultural Expressions",He kai kei aku ringa.
+"Idioms, Proverbs & Cultural Expressions","Ko te manu e kai ana i te miro, nōna te ngahere."
+"Idioms, Proverbs & Cultural Expressions","Nā tō rourou, nā taku rourou, ka ora ai te iwi."
+"Idioms, Proverbs & Cultural Expressions","Ka pū te ruha, ka hao te rangatahi."
+"Idioms, Proverbs & Cultural Expressions","He iti te mokoroa, nāna i kati te kahikatea."
+"Idioms, Proverbs & Cultural Expressions",Kāore te kumara e kōrero mō tōna reka.
+Question-Answer Pairs,Kei hea koe? - Kei te kāinga ahau.
+Question-Answer Pairs,He aha tēnei? - He pukapuka tēnei.
+Question-Answer Pairs,E hia ngā tau o tō tamaiti? - E rima ana tau.
+Question-Answer Pairs,He aha te wā pai ki a koe? - Ā te ahiahi.
+Question-Answer Pairs,"Kei te mōhio koe ki a ia? - Āe, kua tūtaki ahau ki a ia."
+Question-Answer Pairs,"Ka taea e koe te awhina? - Āe, he aha te take?"
+Question-Answer Pairs,Ko wai tō kaiako? - Ko Matua Pita.
+Question-Answer Pairs,"Kei te mōhio koe ki te huarahi? - Kāo, kāore au i te mōhio."
+Question-Answer Pairs,Kei hea te toa? - Kei te taha o te papa tākaro.
+Question-Answer Pairs,"He pai ki a koe tēnei kiriata? - Āe, tino pai!"
+Commands & Instructions,Haere ki te kura!
+Commands & Instructions,Kaua e wareware ki tō pukapuka.
+Commands & Instructions,Tīkina mai te kapu wai.
+Commands & Instructions,Whakarongo ki tō whaea.
+Commands & Instructions,Tū atu ki te taha.
+Commands & Instructions,Kimihia te pepa kei runga i te tēpu.
+Commands & Instructions,Kaua e oma i roto i te whare.
+Commands & Instructions,Whakapaingia tō rūma.
+Commands & Instructions,Tangohia ō hū i mua i te kuhu.
+Commands & Instructions,Tirohia tēnei tuhinga.
+Named Entity Recognition (NER),Kei Rānana taku tuakana e noho ana.
+Named Entity Recognition (NER),I haere ahau ki Te Whanganui-a-Tara.
+Named Entity Recognition (NER),Ko Matiu te kaiako i tēnei karaehe.
+Named Entity Recognition (NER),Ka tū te hui ki Rotorua āpōpō.
+Named Entity Recognition (NER),I tīmata te rīhi i te 2023.
+Named Entity Recognition (NER),Ko Te Papa tētahi whare taonga rongonui.
+Named Entity Recognition (NER),Kei hea a Hine?
+Named Entity Recognition (NER),Ko Tāne Mahuta te rākau nui.
+Named Entity Recognition (NER),I mate a Te Rauparaha i te tau 1849.
+Named Entity Recognition (NER),Ka tae mai a Pita ā te ahiahi.
+Sentiment Analysis Data,Kei te hari ahau!
+Sentiment Analysis Data,Ka pouri ahau mō tēnei.
+Sentiment Analysis Data,He tino pai tēnei kiriata!
+Sentiment Analysis Data,Kāore au e rata ki tēnei whakaaro.
+Sentiment Analysis Data,He pai ake te kauhoe i te oma.
+Sentiment Analysis Data,Tino reka tēnei keke!
+Sentiment Analysis Data,Kāore au e hiahia ki te haere.
+Sentiment Analysis Data,Ka riri ahau i ngā mahi kino.
+Sentiment Analysis Data,Kei te āwangawanga ahau.
+Sentiment Analysis Data,He rawe tēnei rā!
+Paraphrased & Augmented Sentences,Kei te haere au ki te toa.
+Paraphrased & Augmented Sentences,Ka haere au ki te toa i nāianei.
+Paraphrased & Augmented Sentences,Kei te haere ahau ki te hoko kai.
+Paraphrased & Augmented Sentences,Kei te haere ahau ki te toa ki te tiki kai.
+Paraphrased & Augmented Sentences,Ka haere ahau ki te toa ākuanei.
+Paraphrased & Augmented Sentences,Ka toro ahau ki te toa ki te hoko kai.
+Paraphrased & Augmented Sentences,Kei te peka ahau ki te toa.
+Paraphrased & Augmented Sentences,Ka tae atu ahau ki te toa ā muri ake.
+Paraphrased & Augmented Sentences,Ka tukuna e au taku haerenga ki te toa.
+Paraphrased & Augmented Sentences,Kei te whakarite ahau ki te haere ki te toa.

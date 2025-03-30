@@ -1,0 +1,101 @@
+Category,Limburgish Sentence
+Grammar Core,Ich haet vaandaag mich huus schoen opgeruumd.
+Grammar Core,Morge gaon veer mit de trein nao Mestreech.
+Grammar Core,Heur waas zjus get noa de winkel gaon.
+Grammar Core,Ich zou neet weite waat ich moet doon.
+Grammar Core,Hae weurt d'r einne sjoen tied van make.
+Grammar Core,Ich hebbe de heile daag aan dich gedach.
+Grammar Core,Kins doe mich helpe mit dit probleem?
+Grammar Core,"Ze weure gein gewoen mens, mer echte helde."
+Grammar Core,"Waeër ich neet ziek gewaes, dan waor ich nao 't feest gaon."
+Grammar Core,Ze weite neet waat ze môtte doon.
+Conversational Data,"Hey, hoe geit 't mit dich vandaach?"
+Conversational Data,"Ich bin e bietje mood, ich haet nag neet good geslaope."
+Conversational Data,Waat zègste? Ich höb dich neet good verstaon.
+Conversational Data,Zulle veer vanavond same eine film kieke?
+Conversational Data,"Doe möt neet zoe sjnel prate, ich kan die neet biehouwe."
+Conversational Data,"Ich haet ein lekker stök vlaai gekocht, wilste eine hapje?"
+Conversational Data,"Doe kins meuch ins belleeve, ich zeg toch de waerheid!"
+Conversational Data,Haej is ’t in Mestreech?
+Conversational Data,"Ich hob anger weark te doon, sorry dat ich neet kan blieve."
+Conversational Data,"Veer zeen meh op ’t café, geitste mit?"
+Code-Switching & Multilingualism,Ich gaon straks lunch make en danach de meeting joinen.
+Code-Switching & Multilingualism,Doe kin mich adden op WhatsApp?
+Code-Switching & Multilingualism,Mien laptop is crashed en ich kan niks meer doe.
+Code-Switching & Multilingualism,Ich höb ein call mit de client vanaaf.
+Code-Switching & Multilingualism,Doe mót die email forwarde nao de baas.
+Code-Switching & Multilingualism,Ich haet ein nieuwe update installed op mien phone.
+Code-Switching & Multilingualism,Kinste ’t formulier online uploaden?
+Code-Switching & Multilingualism,Ich haet net eine coffee break gehad.
+Code-Switching & Multilingualism,Ich gaon shoppe in de city vanaaf.
+Code-Switching & Multilingualism,Veer haet 't project kickstarted vandaach.
+Formal & Professional Speech,"Geachte heer Janssen, ich wilsse uch informere euver de vergadering."
+Formal & Professional Speech,"Met vriendelijke groet, Anja van Dijk."
+Formal & Professional Speech,De rapportage weurt vandaach verstuurd nao de directie.
+Formal & Professional Speech,Kunt ge uch agenda vrijmake veur eine bespreking?
+Formal & Professional Speech,Dit document bevat vertrouwelijke informatie.
+Formal & Professional Speech,Heur ervaring in finance is indrukwekkend.
+Formal & Professional Speech,Onze partners waardeere de professionaliteit van ons bedrijf.
+Formal & Professional Speech,De wetgeving schrif veur dat dit correct gedokumenteerd weurt.
+Formal & Professional Speech,Dit product is ontwikkeld mit de hoogste standaarden.
+Formal & Professional Speech,Veer stelle uch voorstel op prijs en beluuë de mogelijkheden.
+"Idioms, Proverbs & Cultural Expressions",Dat is neet van zelfsprekends!
+"Idioms, Proverbs & Cultural Expressions",Doe kins mich de boom in!
+"Idioms, Proverbs & Cultural Expressions",Beter ein vogel in de hand as tien in de loch.
+"Idioms, Proverbs & Cultural Expressions",Doe höbs de kat in 't bakkes gekeke!
+"Idioms, Proverbs & Cultural Expressions",Dat is ein aap uit de mouw!
+"Idioms, Proverbs & Cultural Expressions",Neet alles wat blinkt is goud.
+"Idioms, Proverbs & Cultural Expressions",He zit good in de slappe was.
+"Idioms, Proverbs & Cultural Expressions",Doe moos 't mit eine korrel zolt nimme.
+"Idioms, Proverbs & Cultural Expressions",Ein goeie buur is beter es ein verre vrind.
+"Idioms, Proverbs & Cultural Expressions",Hae haet de koe bie de horne gevat.
+Question-Answer Pairs,"Hoe geit 't? - Neet slecht, danke!"
+Question-Answer Pairs,"Wae ziede? - Ich bin Jan, en doe?"
+Question-Answer Pairs,"Kinste mich helpe? - Zeker, waat kins ich veur dich doon?"
+Question-Answer Pairs,Waor lieg Mestreech? - In zuid Nederland.
+Question-Answer Pairs,Waat höbs doe gister geget? - Ich haet pasta gemaak.
+Question-Answer Pairs,"Kinste dat herhale? - Zeker, ich zegge ‘t nog ins."
+Question-Answer Pairs,Wanneer kump de bus? - Over vief minuten.
+Question-Answer Pairs,"Kin ik met kaart betaole? - Ja, natuurlijk!"
+Question-Answer Pairs,Waat is dien lievelingsfilm? - Ich vinge ‘The Godfather’ sjoen.
+Question-Answer Pairs,Wat is 't weer vandaach? - 't Is lekker zonnig!
+Commands & Instructions,Maak de deur aaf!
+Commands & Instructions,Pak 't boek en lees de eerste bladzie!
+Commands & Instructions,Schrijf dien naam hie op.
+Commands & Instructions,Loat dien telefoon noa beneje!
+Commands & Instructions,"Doe die jas aan, 't is koud boete."
+Commands & Instructions,"Kom es hei, ich mot die iets zeen."
+Commands & Instructions,Maak dien huiswerk veur de les begin!
+Commands & Instructions,"Doe de lamp aan, 't is te donker."
+Commands & Instructions,Zet dien auto op de parkeerplaats!
+Commands & Instructions,"Haost dich, veer motte vertrekke!"
+Named Entity Recognition (NER) Data,Mark Rutte is de minister-president van Nederland.
+Named Entity Recognition (NER) Data,Mestreech is een sjoen stad in Limburg.
+Named Entity Recognition (NER) Data,De Olympische Spelen weure in 2024 in Parijs gehoale.
+Named Entity Recognition (NER) Data,Apple Inc. is eine bekende technologiefirma.
+Named Entity Recognition (NER) Data,De Maas is een van de langste riviere in Nederland.
+Named Entity Recognition (NER) Data,Ich gaon morge mit de trein nao Amsterdam.
+Named Entity Recognition (NER) Data,Maria is een van de populairste veurnaome in Limburg.
+Named Entity Recognition (NER) Data,Het Koningshuis weurt in Den Haag gevestigd.
+Named Entity Recognition (NER) Data,Pinkpop weurt elk jaor in Landgraaf georganiseerd.
+Named Entity Recognition (NER) Data,De Eerste Wereldoorlog was van 1914 tot 1918.
+Sentiment Analysis Data,Ich voel mich vandaach heel blie!
+Sentiment Analysis Data,Dit is de sjlechste film die ich ooit gezeen heb.
+Sentiment Analysis Data,Ich waor zo verrast door dien cadeautje!
+Sentiment Analysis Data,"Dit weer is echt vreselijk, bah."
+Sentiment Analysis Data,Ich höb 't neet zo good vandaach.
+Sentiment Analysis Data,Deze pizza is echt delicious!
+Sentiment Analysis Data,Hae waor super boos op mich.
+Sentiment Analysis Data,Ich mis mich familie in deze moelijke tied.
+Sentiment Analysis Data,Ich kan neet waachte tot de vakantie begin!
+Sentiment Analysis Data,Dit boek waor zoo spannend!
+Paraphrased & Augmented Sentences,Ich haet mien huus vandaag schoongemaak.
+Paraphrased & Augmented Sentences,Morge pak ich de trein nao Mestreech.
+Paraphrased & Augmented Sentences,Ze waor al in de winkel veur ich aankwam.
+Paraphrased & Augmented Sentences,Ich kan neet beslisse waat ich môt doon.
+Paraphrased & Augmented Sentences,Hae zal er 'n mooie tied van make.
+Paraphrased & Augmented Sentences,De heile daag dacht ich aan dich.
+Paraphrased & Augmented Sentences,Zou doe mich kinne helpe mit dit probleem?
+Paraphrased & Augmented Sentences,"Ze zien neet gewoen, mer echte helde."
+Paraphrased & Augmented Sentences,"Hae waor neet ziek gewaes, had hae ‘t feest neet gemist."
+Paraphrased & Augmented Sentences,Ze zeen nog neet zeker waat ze gaon doon.

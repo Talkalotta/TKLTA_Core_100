@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Han har alltid lest bøker før han sovner.
+Grammar Core,"Hvis jeg hadde hatt mer tid, ville jeg ha lært et nytt språk."
+Grammar Core,Neste uke skal vi dra til fjells.
+Grammar Core,Hun blir ofte spurt om å holde foredrag.
+Grammar Core,Kan du ikke hjelpe meg med denne oppgaven?
+Grammar Core,Huset ble bygget i fjor.
+Grammar Core,Han kunne ha blitt en stor kunstner.
+Grammar Core,De studerer fransk hver dag.
+Grammar Core,Lærer du fortsatt norsk?
+Grammar Core,"Hvis jeg vinner i lotto, kjøper jeg et hus ved sjøen."
+Conversational Data,Hei! Hvordan går det med deg i dag?
+Conversational Data,"Jeg har det bra, takk! Og du?"
+Conversational Data,Hva skal du i helgen?
+Conversational Data,Jeg tror jeg skal besøke mine besteforeldre.
+Conversational Data,Vil du være med på kino i kveld?
+Conversational Data,Hvilken film tenkte du på?
+Conversational Data,"En ny norsk thriller, den ser spennende ut!"
+Conversational Data,Da møtes vi klokka sju utenfor kinoen.
+Conversational Data,Høres bra ut! Jeg gleder meg.
+Conversational Data,Meg også! Vi snakkes snart!
+Code-Switching & Multilingualism,Jeg må sende en email før møtet starter.
+Code-Switching & Multilingualism,"Vi sees på kaféen klokken fem, okay?"
+Code-Switching & Multilingualism,Dette er en veldig nice idé!
+Code-Switching & Multilingualism,Kan du sende meg den filen på WhatsApp?
+Code-Switching & Multilingualism,Hun skrev en veldig deep tekst om livet.
+Code-Switching & Multilingualism,"Sorry, jeg kan ikke komme i dag."
+Code-Switching & Multilingualism,Vi skal ha et casual møte i morgen.
+Code-Switching & Multilingualism,Dette er en utrolig cool bil!
+Code-Switching & Multilingualism,Han er en true gentleman.
+Code-Switching & Multilingualism,Jeg elsker å binge-watche serier på Netflix.
+Formal & Professional Speech,Vi ser frem til å samarbeide med dere.
+Formal & Professional Speech,Vennligst send dokumentene innen fristen.
+Formal & Professional Speech,Denne rapporten viser en betydelig økning i salget.
+Formal & Professional Speech,Vi beklager eventuelle ulemper dette måtte medføre.
+Formal & Professional Speech,Alle ansatte må delta på møtet klokka ni.
+Formal & Professional Speech,Vennligst bekreft mottak av denne e-posten.
+Formal & Professional Speech,"For mer informasjon, kontakt vår kundeservice."
+Formal & Professional Speech,Våre resultater er basert på grundig analyse.
+Formal & Professional Speech,Dette prosjektet krever høy grad av nøyaktighet.
+Formal & Professional Speech,Sikkerhet og kvalitet er våre topp prioriteringer.
+"Idioms, Proverbs & Cultural Expressions",Å kaste perler for svin.
+"Idioms, Proverbs & Cultural Expressions",Ingen røyk uten ild.
+"Idioms, Proverbs & Cultural Expressions",Bedre sent enn aldri.
+"Idioms, Proverbs & Cultural Expressions","Når katten er borte, danser musene på bordet."
+"Idioms, Proverbs & Cultural Expressions",Liten tue kan velte stort lass.
+"Idioms, Proverbs & Cultural Expressions","Som man reder, så ligger man."
+"Idioms, Proverbs & Cultural Expressions",Gresset er ikke alltid grønnere på den andre siden.
+"Idioms, Proverbs & Cultural Expressions","Tale er sølv, men taushet er gull."
+"Idioms, Proverbs & Cultural Expressions",Hastverk er lastverk.
+"Idioms, Proverbs & Cultural Expressions",Å være midt i smørøyet.
+Question-Answer Pairs,Hva heter du? - Jeg heter Lars.
+Question-Answer Pairs,Hvor gammel er du? - Jeg er 25 år.
+Question-Answer Pairs,Hvilken mat liker du best? - Jeg elsker sushi.
+Question-Answer Pairs,Hvor bor du? - Jeg bor i Oslo.
+Question-Answer Pairs,Hva jobber du med? - Jeg er ingeniør.
+Question-Answer Pairs,Hvilken bok leser du nå? - En norsk roman.
+Question-Answer Pairs,Når skal du på ferie? - I sommer.
+Question-Answer Pairs,Hvilket språk snakker du? - Norsk og engelsk.
+Question-Answer Pairs,Hva gjør du på fritiden? - Jeg trener og leser.
+Question-Answer Pairs,"Har du søsken? - Ja, en bror og en søster."
+Commands & Instructions,Lukk døren etter deg.
+Commands & Instructions,Skriv under dokumentet her.
+Commands & Instructions,Trykk på knappen for å starte.
+Commands & Instructions,Les instruksjonene nøye.
+Commands & Instructions,Slå av lyset når du går ut.
+Commands & Instructions,Følg meg til møterommet.
+Commands & Instructions,Legg varene på båndet.
+Commands & Instructions,Ta kontakt om du har spørsmål.
+Commands & Instructions,Vent her til jeg kommer tilbake.
+Commands & Instructions,Hold telefonen stille under møtet.
+Named Entity Recognition (NER) Data,Oslo er hovedstaden i Norge.
+Named Entity Recognition (NER) Data,Google er et stort teknologiselskap.
+Named Entity Recognition (NER) Data,Julius Cæsar var en romersk general.
+Named Entity Recognition (NER) Data,Den norske kronprinsen heter Haakon.
+Named Entity Recognition (NER) Data,FIFA arrangerer VM i fotball.
+Named Entity Recognition (NER) Data,Eiffeltårnet ligger i Paris.
+Named Entity Recognition (NER) Data,Amazon er kjent for netthandel.
+Named Entity Recognition (NER) Data,Nobelprisen deles ut i Sverige.
+Named Entity Recognition (NER) Data,Tesla produserer elektriske biler.
+Named Entity Recognition (NER) Data,New York er en av verdens mest kjente byer.
+Sentiment Analysis Data,Jeg elsker denne filmen!
+Sentiment Analysis Data,Dette var den verste opplevelsen noensinne.
+Sentiment Analysis Data,Jeg er så glad for at du kom.
+Sentiment Analysis Data,Dette produktet er helt forferdelig.
+Sentiment Analysis Data,Jeg føler meg virkelig lykkelig i dag.
+Sentiment Analysis Data,Det var en utrolig inspirerende tale.
+Sentiment Analysis Data,Denne restauranten har fantastisk mat.
+Sentiment Analysis Data,Jeg er ekstremt skuffet over servicen.
+Sentiment Analysis Data,Det er en helt grei bok.
+Sentiment Analysis Data,Dette var en veldig rørende historie.
+Paraphrased & Augmented Sentences,Jeg skal gå til butikken. -> Jeg har tenkt å dra til butikken.
+Paraphrased & Augmented Sentences,Han liker å lese bøker. -> Han har glede av å lese.
+Paraphrased & Augmented Sentences,Vi skal på ferie i juli. -> Vi reiser bort i sommer.
+Paraphrased & Augmented Sentences,Kan du hjelpe meg? -> Kan du gi meg en hånd?
+Paraphrased & Augmented Sentences,Jeg er veldig glad i kaffe. -> Kaffe er noe av det beste jeg vet.
+Paraphrased & Augmented Sentences,Hun er flink til å synge. -> Hun har en vakker stemme.
+Paraphrased & Augmented Sentences,Det var en god film. -> Filmen var virkelig bra.
+Paraphrased & Augmented Sentences,Jeg trener ofte. -> Jeg trener regelmessig.
+Paraphrased & Augmented Sentences,Møtet er klokken tre. -> Vi møtes klokken tre.
+Paraphrased & Augmented Sentences,Dette er interessant. -> Dette fanger min oppmerksomhet.

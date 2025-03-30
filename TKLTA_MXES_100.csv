@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),Mañana iré al mercado a comprar frutas.
+Grammar Core (Sentence Structures & Tenses),"Si hubiera sabido, te habría avisado antes."
+Grammar Core (Sentence Structures & Tenses),¿Podrías ayudarme con este problema de matemáticas?
+Grammar Core (Sentence Structures & Tenses),Me dijeron que el concierto fue increíble.
+Grammar Core (Sentence Structures & Tenses),Ella había terminado su tarea antes de que empezara la clase.
+Grammar Core (Sentence Structures & Tenses),No entiendo por qué no me llamaste ayer.
+Grammar Core (Sentence Structures & Tenses),"Si tienes tiempo, ven a visitarme mañana."
+Grammar Core (Sentence Structures & Tenses),El perro fue adoptado por una familia amorosa.
+Grammar Core (Sentence Structures & Tenses),No me gusta que hablen tan fuerte en la biblioteca.
+Grammar Core (Sentence Structures & Tenses),Estoy estudiando porque mañana tengo un examen importante.
+Conversational Data (Real-Life Dialogues & Exchanges),¿Cómo estás? Hace tiempo que no te veo.
+Conversational Data (Real-Life Dialogues & Exchanges),"Hola, ¿puedes decirme dónde está la estación de metro más cercana?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Oye, ¿te gustaría salir a tomar un café esta tarde?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Me encantaría ir al cine contigo, ¿qué película quieres ver?"
+Conversational Data (Real-Life Dialogues & Exchanges),"No tengo efectivo, ¿aceptan pagos con tarjeta aquí?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Disculpe, ¿podría decirme la hora?"
+Conversational Data (Real-Life Dialogues & Exchanges),¡Felicidades! Escuché que conseguiste el trabajo que querías.
+Conversational Data (Real-Life Dialogues & Exchanges),¿Qué opinas sobre el nuevo restaurante que abrieron en el centro?
+Conversational Data (Real-Life Dialogues & Exchanges),¿Podrías recomendarme un buen libro para leer?
+Conversational Data (Real-Life Dialogues & Exchanges),"Mañana tengo una reunión importante, ¿me puedes ayudar a preparar la presentación?"
+Code-Switching & Multilingualism,"Voy a comprar unos tacos, ¿quieres some?"
+Code-Switching & Multilingualism,"El software tiene un bug, pero ya lo fixearon."
+Code-Switching & Multilingualism,No sé si ir al cine o hacer un binge-watch en Netflix.
+Code-Switching & Multilingualism,"Me encanta el estilo de esa influencer, siempre tiene outfits increíbles."
+Code-Switching & Multilingualism,Estoy estudiando para mi examen final y necesito un break.
+Code-Switching & Multilingualism,¡Qué cool estuvo la fiesta de anoche!
+Code-Switching & Multilingualism,"No te preocupes, yo hago el research y te aviso."
+Code-Switching & Multilingualism,Voy a tener un meeting con mi jefe en la tarde.
+Code-Switching & Multilingualism,"Mi celular no tiene batería, necesito un charger."
+Code-Switching & Multilingualism,Ese restaurante tiene un vibe súper chill.
+Formal & Professional Speech,Le agradecemos por su tiempo y esperamos su pronta respuesta.
+Formal & Professional Speech,"En virtud del acuerdo firmado, las partes se comprometen a cumplir con los términos establecidos."
+Formal & Professional Speech,Es un placer comunicarme con usted para discutir los detalles del contrato.
+Formal & Professional Speech,"Según la normativa vigente, este proceso debe completarse antes de la fecha límite."
+Formal & Professional Speech,Nos dirigimos a usted con el fin de solicitar una reunión para discutir los próximos pasos.
+Formal & Professional Speech,"Por favor, envíe la documentación requerida a la brevedad posible."
+Formal & Professional Speech,Quisiera confirmar nuestra cita para el próximo martes a las 10:00 a.m.
+Formal & Professional Speech,Los resultados del análisis financiero estarán disponibles la próxima semana.
+Formal & Professional Speech,El paciente debe seguir las indicaciones del médico sin interrupciones.
+Formal & Professional Speech,Le agradeceríamos si pudiera proporcionarnos más información sobre su solicitud.
+"Idioms, Proverbs & Cultural Expressions",Más vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions",No por mucho madrugar amanece más temprano.
+"Idioms, Proverbs & Cultural Expressions","El que madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions",Cría cuervos y te sacarán los ojos.
+"Idioms, Proverbs & Cultural Expressions","Cuando el río suena, agua lleva."
+"Idioms, Proverbs & Cultural Expressions","A palabras necias, oídos sordos."
+"Idioms, Proverbs & Cultural Expressions",No hay mal que por bien no venga.
+"Idioms, Proverbs & Cultural Expressions",En boca cerrada no entran moscas.
+"Idioms, Proverbs & Cultural Expressions","Al mal tiempo, buena cara."
+"Idioms, Proverbs & Cultural Expressions",Dime con quién andas y te diré quién eres.
+Question-Answer Pairs,¿Cuál es tu comida favorita? Me encanta la pizza.
+Question-Answer Pairs,¿Dónde naciste? Nací en la Ciudad de México.
+Question-Answer Pairs,¿Qué haces en tu tiempo libre? Me gusta leer y hacer ejercicio.
+Question-Answer Pairs,¿Cuál es tu color favorito? Me gusta el azul.
+Question-Answer Pairs,¿Cómo te fue en el examen? Creo que me fue bien.
+Question-Answer Pairs,¿Por qué estás tan contento? Porque recibí una buena noticia.
+Question-Answer Pairs,¿A qué hora empieza la reunión? A las 3 de la tarde.
+Question-Answer Pairs,¿Dónde puedo encontrar un buen café? Hay una cafetería excelente en la esquina.
+Question-Answer Pairs,"¿Te gustaría salir esta noche? Sí, me encantaría."
+Question-Answer Pairs,¿Qué planes tienes para este fin de semana? Iré a la playa con mis amigos.
+Commands & Instructions,"Enciende la luz, por favor."
+Commands & Instructions,Guarda silencio en la biblioteca.
+Commands & Instructions,Lava tus manos antes de comer.
+Commands & Instructions,Cierra la puerta cuando salgas.
+Commands & Instructions,No olvides traer los documentos.
+Commands & Instructions,Apaga tu celular antes de la reunión.
+Commands & Instructions,Respira profundamente y relájate.
+Commands & Instructions,Dime la verdad sin miedo.
+Commands & Instructions,Sigue las señales de tránsito.
+Commands & Instructions,Espera aquí hasta que te llame.
+Named Entity Recognition (NER) Data,Pedro fue a Madrid el verano pasado.
+Named Entity Recognition (NER) Data,Amazon ha lanzado un nuevo producto.
+Named Entity Recognition (NER) Data,El 15 de septiembre se celebra el Día de la Independencia en México.
+Named Entity Recognition (NER) Data,La conferencia tendrá lugar en el Hotel Reforma.
+Named Entity Recognition (NER) Data,El Dr. Ramírez presentará los resultados del estudio.
+Named Entity Recognition (NER) Data,Barcelona es una ciudad hermosa para visitar.
+Named Entity Recognition (NER) Data,Apple está desarrollando una nueva tecnología.
+Named Entity Recognition (NER) Data,El evento se llevará a cabo el próximo martes en Nueva York.
+Named Entity Recognition (NER) Data,Mariana estudia en la Universidad Nacional Autónoma de México.
+Named Entity Recognition (NER) Data,Coca-Cola es una de las marcas más reconocidas a nivel mundial.
+Sentiment Analysis Data,Estoy muy feliz porque aprobé mi examen.
+Sentiment Analysis Data,Me siento triste cuando llueve todo el día.
+Sentiment Analysis Data,¡Este lugar es increíble! Me encanta la decoración.
+Sentiment Analysis Data,"Odio esperar en filas largas, es muy frustrante."
+Sentiment Analysis Data,Estoy emocionado por mi viaje a la playa.
+Sentiment Analysis Data,"Qué decepción, el servicio en ese restaurante fue terrible."
+Sentiment Analysis Data,Me encanta pasar tiempo con mi familia.
+Sentiment Analysis Data,No soporto el tráfico en la ciudad.
+Sentiment Analysis Data,Ver películas me relaja después de un día difícil.
+Sentiment Analysis Data,Este libro es tan interesante que no puedo dejar de leerlo.
+Paraphrased & Augmented Sentences,Hoy tengo mucho trabajo por hacer.
+Paraphrased & Augmented Sentences,Tengo demasiadas tareas que completar hoy.
+Paraphrased & Augmented Sentences,El clima está muy bonito esta mañana.
+Paraphrased & Augmented Sentences,Esta mañana el clima es excelente.
+Paraphrased & Augmented Sentences,Voy a cocinar algo delicioso para la cena.
+Paraphrased & Augmented Sentences,Esta noche prepararé una comida exquisita.
+Paraphrased & Augmented Sentences,Me encanta la música clásica.
+Paraphrased & Augmented Sentences,Disfruto escuchar piezas de música clásica.
+Paraphrased & Augmented Sentences,El cine es uno de mis pasatiempos favoritos.
+Paraphrased & Augmented Sentences,Ver películas es una de mis actividades favoritas.

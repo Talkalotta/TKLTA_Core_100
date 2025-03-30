@@ -1,0 +1,101 @@
+Category,Sentence_Kinyarwanda
+Grammar Core,Ndiga Kinyarwanda buri munsi.
+Grammar Core,Yaragiye ku isoko ejo hashize.
+Grammar Core,Nzajya gusura ababyeyi vuba.
+Grammar Core,Ndagira ngo umenye ko mbishimiye.
+Grammar Core,Inka zatwawe n'abajura nijoro.
+Grammar Core,Sinshobora kugufasha ubu.
+Grammar Core,"Iyo ujya ubimenya mbere, wari kwitonda."
+Grammar Core,Bafunzwe bazira ubujura.
+Grammar Core,Ubusanzwe ntibikorwa gutya.
+Grammar Core,"Niba igihe kibemerera, tuzabonana."
+Conversational Data,"Muraho, umeze ute?"
+Conversational Data,Ndashaka kugura icyayi n'umugati.
+Conversational Data,Ese uri hafi hano?
+Conversational Data,Ndagira ngo mumbwire aho banki iri.
+Conversational Data,Ni ryari uzagaruka mu rugo?
+Conversational Data,Ndashimira cyane ubufasha bwawe.
+Conversational Data,Ese mwabona umwanya tukaganira?
+Conversational Data,Reka dufate akaruhuko gato.
+Conversational Data,"Urakoze, nanjye ndishimye."
+Conversational Data,Ndashaka ko tuganira ku kintu gikomeye.
+Code-Switching & Multilingualism,Ndagiye kuri supermarket kugura ibiryo.
+Code-Switching & Multilingualism,Tuzahura ku weekend kuri cafe.
+Code-Switching & Multilingualism,Ese uri free ku mugoroba?
+Code-Switching & Multilingualism,Mfite meeting ejo ku gitondo.
+Code-Switching & Multilingualism,Iyi app ni user-friendly cyane.
+Code-Switching & Multilingualism,Turazikoresha WhatsApp cyane hano.
+Code-Switching & Multilingualism,Ndashaka charger y’iPhone.
+Code-Switching & Multilingualism,Iyo system irakora neza.
+Code-Switching & Multilingualism,Ndabona iyi movie ari classic!
+Code-Switching & Multilingualism,Ese ushobora ku-postinga iyi foto?
+Formal & Professional Speech,Ndashimira abaje muri iyi nama y’ingirakamaro.
+Formal & Professional Speech,"Nk'uko amategeko abiteganya, tugomba kubahiriza ibisabwa."
+Formal & Professional Speech,"Mu izina ry’ikigo cyacu, ndabashimira."
+Formal & Professional Speech,Turasaba abakiriya kwihangana ku bw’iyi serivisi.
+Formal & Professional Speech,"Nk’uko mubizi, isuku ni ingenzi mu kazi."
+Formal & Professional Speech,Ubusabe bwanyu buzitabwaho vuba.
+Formal & Professional Speech,Uyu ni umushinga ukeneye isesengura ryimbitse.
+Formal & Professional Speech,Tugomba gukomeza kunoza serivisi zacu.
+Formal & Professional Speech,Gira uruhare mu iterambere ry’igihugu.
+Formal & Professional Speech,Ibyemezo bifatwa bikwiye gushishoza.
+"Idioms, Proverbs & Cultural Expressions",Uravuga nk’ukubise agashyi.
+"Idioms, Proverbs & Cultural Expressions",Amazi arashyuha ntiyibagirwa iwabo wa mbeho.
+"Idioms, Proverbs & Cultural Expressions",Amaso y’undi ntakuremera urutugu.
+"Idioms, Proverbs & Cultural Expressions",Akanyoni katagurutse ntikamenya iyo bweze.
+"Idioms, Proverbs & Cultural Expressions",Ijisho ry’umutindi ribona kure.
+"Idioms, Proverbs & Cultural Expressions",Akaboko kamwe ntikabasha kwikora ku mugongo.
+"Idioms, Proverbs & Cultural Expressions",Uwicaye nabi abona nabi.
+"Idioms, Proverbs & Cultural Expressions","Nta mwiza udatse, nta mubi udakizwa."
+"Idioms, Proverbs & Cultural Expressions",Intwari ntiheba ku rugamba.
+"Idioms, Proverbs & Cultural Expressions",Uwihuse yishe imbwa.
+Question-Answer Pairs,Ese iyi gahunda izatangira ryari?
+Question-Answer Pairs,Iratangira mu cyumweru gitaha.
+Question-Answer Pairs,Ninde ugiye kuvuga?
+Question-Answer Pairs,Ni umuyobozi w’ikigo cyacu.
+Question-Answer Pairs,Ese iyi serivisi ni ubuntu?
+Question-Answer Pairs,"Oya, irasaba kwishyura make."
+Question-Answer Pairs,Ni gute wakoresha iri koranabuhanga?
+Question-Answer Pairs,Ugomba kwiyandikisha ubundi ugakurikiza amabwiriza.
+Question-Answer Pairs,Ese iyi nama izamara igihe kingana gute?
+Question-Answer Pairs,Izamara amasaha abiri.
+Commands & Instructions,"Reba iburyo, uhite uhagarara."
+Commands & Instructions,Saba ubufasha niba ubukeneye.
+Commands & Instructions,Andika izina ryawe aha hepfo.
+Commands & Instructions,Kanda kuri iyi button kugira ngo ufungure.
+Commands & Instructions,Kuramo iyi porogaramu mbere yo gukoresha.
+Commands & Instructions,Reka kunywa amazi ahagije buri munsi.
+Commands & Instructions,Subira inyuma gato maze ugaruke.
+Commands & Instructions,Tanga amakuru yawe asabwa.
+Commands & Instructions,Subiza igisubizo gikwiye.
+Commands & Instructions,Kurikiza amategeko igihe cyose.
+Named Entity Recognition,Paul yagiye i Kigali ejo.
+Named Entity Recognition,Musanze ni ahantu heza ho gutembera.
+Named Entity Recognition,Twazindukiye kuri Banki ya Kigali.
+Named Entity Recognition,Perezida Kagame yatangaje ibyemezo bishya.
+Named Entity Recognition,Isoko riri hafi ya stade Amahoro.
+Named Entity Recognition,Apple ni sosiyete izwi cyane ku isi.
+Named Entity Recognition,Imurikagurisha rizabera i Nyamata.
+Named Entity Recognition,Ubuyapani buzohereza intumwa i Kigali.
+Named Entity Recognition,Yahawe igihembo cyitiriwe Nobel.
+Named Entity Recognition,Guhura bizaba ku wa kane.
+Sentiment Analysis,Ndishimye cyane kuba hano.
+Sentiment Analysis,Narakariye ukuntu byagenze.
+Sentiment Analysis,Iyi serivisi irarenze rwose!
+Sentiment Analysis,Ndababaye kubona ibyo bintu byangiritse.
+Sentiment Analysis,Ni iby’agaciro gukorana namwe.
+Sentiment Analysis,Ntibishimishije kubona iyi raporo.
+Sentiment Analysis,Mbega igitekerezo cyiza!
+Sentiment Analysis,Ndumva bitanshimishije rwose.
+Sentiment Analysis,Ndizera ko bizagenda neza.
+Sentiment Analysis,Iri jambo rinteye impungenge.
+Paraphrased & Augmented Sentences,Ndashaka ko unyereka aho banki iri.
+Paraphrased & Augmented Sentences,Nshobora kumenya aho banki iherereye?
+Paraphrased & Augmented Sentences,Mumbwire aho banki iri.
+Paraphrased & Augmented Sentences,Ndagira ngo menye aho banki iri.
+Paraphrased & Augmented Sentences,Ese banki iri hafi aha?
+Paraphrased & Augmented Sentences,Nshaka kubona banki vuba.
+Paraphrased & Augmented Sentences,Banki iri he muri aka gace?
+Paraphrased & Augmented Sentences,Nagira ngo umfashe kumenya aho banki iri.
+Paraphrased & Augmented Sentences,Ese uzi aho banki yegereye iri?
+Paraphrased & Augmented Sentences,Mbabarira unyereke aho banki iri.

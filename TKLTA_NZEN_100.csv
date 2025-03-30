@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),I will go to the dairy tomorrow.
+Grammar Core (Sentence Structures & Tenses),She hasn’t been to the South Island yet.
+Grammar Core (Sentence Structures & Tenses),"If I were you, I wouldn’t swim in that river."
+Grammar Core (Sentence Structures & Tenses),The All Blacks have won the World Cup multiple times.
+Grammar Core (Sentence Structures & Tenses),The pavlova was eaten by the guests within minutes.
+Grammar Core (Sentence Structures & Tenses),They should have called before arriving.
+Grammar Core (Sentence Structures & Tenses),I was watching the news when the earthquake struck.
+Grammar Core (Sentence Structures & Tenses),She’s been learning Māori for three years now.
+Grammar Core (Sentence Structures & Tenses),"Had he known, he would have come earlier."
+Grammar Core (Sentence Structures & Tenses),We might visit Wellington next summer.
+Conversational Data (Real-Life Dialogues & Exchanges),"Hey bro, keen for a barbie this arvo?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Nah, sweet as, I’ll just grab some fish and chips."
+Conversational Data (Real-Life Dialogues & Exchanges),"Oi, have you seen my jandals anywhere?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Mate, the weather’s been all over the show lately."
+Conversational Data (Real-Life Dialogues & Exchanges),"I’ll have a flat white, cheers."
+Conversational Data (Real-Life Dialogues & Exchanges),Can you chuck this in the bin for me?
+Conversational Data (Real-Life Dialogues & Exchanges),"No worries, I’ll sort it out."
+Conversational Data (Real-Life Dialogues & Exchanges),You right there? Need a hand?
+Conversational Data (Real-Life Dialogues & Exchanges),Shot! That was an epic game.
+Conversational Data (Real-Life Dialogues & Exchanges),"She’s a bit crook today, poor thing."
+Code-Switching & Multilingualism,"Kia ora, how’s your day going?"
+Code-Switching & Multilingualism,"I’ll grab a pie, merci!"
+Code-Switching & Multilingualism,"Sweet as, amigo!"
+Code-Switching & Multilingualism,That hāngi was absolutely delicious.
+Code-Switching & Multilingualism,"Mate, you need to chillax, hakuna matata!"
+Code-Switching & Multilingualism,We’re heading to the marae this weekend.
+Code-Switching & Multilingualism,She’s pretty flash at speaking Te Reo.
+Code-Switching & Multilingualism,"Can I get a large latte, por favor?"
+Code-Switching & Multilingualism,"We had kai by the beach, was mean!"
+Code-Switching & Multilingualism,I’m off to whānau dinner tonight.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Please ensure all reports are submitted by Friday.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The new policy guidelines will be reviewed next quarter.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Our team is committed to delivering exceptional service.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",This procedure must be followed to ensure compliance.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Patients are advised to take this medication with food.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The board meeting has been scheduled for 10 AM.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Further analysis is required before proceeding.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",We appreciate your patience during this process.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Your application has been successfully received.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The results indicate a significant improvement in performance.
+"Idioms, Proverbs & Cultural Expressions",She’s got a real number eight wire mentality.
+"Idioms, Proverbs & Cultural Expressions",Don’t chuck your toys out of the cot.
+"Idioms, Proverbs & Cultural Expressions",He’s away laughing now.
+"Idioms, Proverbs & Cultural Expressions",It’s all good as gold.
+"Idioms, Proverbs & Cultural Expressions","No worries, it’s a piece of piss."
+"Idioms, Proverbs & Cultural Expressions","That’ll be a hard yakka, mate."
+"Idioms, Proverbs & Cultural Expressions",She’s a tall poppy in the industry.
+"Idioms, Proverbs & Cultural Expressions","Bit of a rough as guts bloke, eh?"
+"Idioms, Proverbs & Cultural Expressions","We’re just mucking around, no dramas."
+"Idioms, Proverbs & Cultural Expressions","Sweet as, no stress."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Where’s the nearest petrol station? – Just down the road, past the roundabout."
+Question-Answer Pairs (FAQ & Contextual Understanding),"What’s the weather like tomorrow? – Looks like it’ll be fine, maybe a few showers."
+Question-Answer Pairs (FAQ & Contextual Understanding),How do I get to the city from here? – You can take the train or a bus.
+Question-Answer Pairs (FAQ & Contextual Understanding),"Do you have any gluten-free options? – Yes, we’ve got a few on the menu."
+Question-Answer Pairs (FAQ & Contextual Understanding),"What time does the shop close? – 7 PM, but they might shut earlier."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Can I pay by EFTPOS? – Yeah, we take cards."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Is this walk suitable for kids? – Yep, it’s pretty easy-going."
+Question-Answer Pairs (FAQ & Contextual Understanding),What’s the best beach around here? – Bethells is a ripper!
+Question-Answer Pairs (FAQ & Contextual Understanding),How long does it take to drive to Queenstown? – About six hours.
+Question-Answer Pairs (FAQ & Contextual Understanding),"Where can I find a good coffee? – Try that café on the corner, their brews are top-notch."
+Commands & Instructions (Imperative Sentences),Turn off the lights before you leave.
+Commands & Instructions (Imperative Sentences),"Chuck the rubbish in the bin, mate."
+Commands & Instructions (Imperative Sentences),Mind the gap when stepping off the train.
+Commands & Instructions (Imperative Sentences),"Grab me a bottle of water, please."
+Commands & Instructions (Imperative Sentences),Fill out this form before your appointment.
+Commands & Instructions (Imperative Sentences),Be at the meeting on time.
+Commands & Instructions (Imperative Sentences),Take the first left after the roundabout.
+Commands & Instructions (Imperative Sentences),"Hold on tight, it’s gonna be a bumpy ride."
+Commands & Instructions (Imperative Sentences),Don’t forget to lock the door.
+Commands & Instructions (Imperative Sentences),Tell him I’ll be there soon.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Jacinda Ardern was the Prime Minister of New Zealand.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Auckland is the largest city in Aotearoa.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",The All Blacks won the Rugby World Cup in 2015.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Waitangi Day is celebrated on the 6th of February.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Fonterra is one of New Zealand’s biggest dairy companies.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Mount Cook is the highest mountain in the country.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Wellington is known for its vibrant arts scene.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Air New Zealand is the national airline.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",The Treaty of Waitangi was signed in 1840.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Christchurch has some of the best ski resorts in the South Island.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),That was the best flat white I’ve ever had!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I’m absolutely gutted about the game last night.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),She’s over the moon with her new job.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I feel so relaxed after that hike.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),This traffic is driving me mad!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I love spending summers at the bach.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),He’s always such a good bloke.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),The customer service was shocking.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I’m stoked to be heading to the festival this weekend!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"That pie was average, could have been better."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),She didn’t like the movie. → She wasn’t a fan of the film.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),We should leave now. → It’s probably best if we head off.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),That’s a cool car. → That car looks awesome.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),The food was delicious. → The meal was absolutely tasty.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"I’m really tired. → I’m knackered, mate."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),The meeting starts at noon. → The meeting kicks off at midday.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),He’s a great guy. → He’s a top bloke.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),I don’t know. → I haven’t got a clue.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),We had a good time at the beach. → The day at the beach was fantastic.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),It was an easy hike. → The walk was a breeze.

@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Mañana iré al mercado a comprar frutas.
+Grammar Core,"Si tuviera dinero, viajaría a Encarnación."
+Grammar Core,El documento fue firmado por el director.
+Grammar Core,No quiero que me hables en ese tono.
+Grammar Core,Ayer cociné una sopa paraguaya deliciosa.
+Grammar Core,Me gustaría aprender más sobre la historia de Paraguay.
+Grammar Core,El tren llegará a la estación en cinco minutos.
+Grammar Core,Ojalá pudiera visitarte esta semana.
+Grammar Core,Nosotros hemos estado trabajando en este proyecto todo el mes.
+Grammar Core,Los niños jugaban en el patio mientras llovía.
+Conversational Data,"- ¿Cómo estás? - Todo bien, ¿y vos?"
+Conversational Data,- ¿Dónde queda la terminal de ómnibus? - Dos cuadras más adelante.
+Conversational Data,"- Me encanta la chipa. - Sí, es riquísima, especialmente con cocido."
+Conversational Data,"- Necesito ayuda con esta tarea. - Claro, te explico."
+Conversational Data,- ¿Cuánto cuesta esta remera? - Cien mil guaraníes.
+Conversational Data,- ¿Viste el partido de ayer? - ¡Sí! Fue increíble.
+Conversational Data,"- ¿Puedo pagar con tarjeta? - No, solo efectivo."
+Conversational Data,"- Perdón, ¿me prestás un lápiz? - Sí, tomá."
+Conversational Data,- ¿Qué planes tenés para el finde? - Voy a visitar a mi familia.
+Conversational Data,"- ¿Probaste el mbejú? - No todavía, pero dicen que es delicioso."
+Code-Switching & Multilingualism,"Che amigo, ¿vamos a comer un asado tonight?"
+Code-Switching & Multilingualism,"Mba'éichapa estás, todo bien?"
+Code-Switching & Multilingualism,Hoy tengo que hacer un trabajo en la facultad y luego iré al gym.
+Code-Switching & Multilingualism,No sé si tomar tereré o un coffee.
+Code-Switching & Multilingualism,"El meeting de hoy es a las 3 p.m., después vamos por un lomito."
+Code-Switching & Multilingualism,"Vos sabés que me gusta el fútbol, pero también el basketball."
+Code-Switching & Multilingualism,"Ayer compré un teléfono nuevo, pero el charger no vino incluido."
+Code-Switching & Multilingualism,"Hoy quiero ver una peli, maybe algo de acción."
+Code-Switching & Multilingualism,"Pasa que en mi barrio hay mucho tráfico, es un caos total."
+Code-Switching & Multilingualism,"El evento será en el hotel Excelsior, very fancy."
+Formal & Professional Speech,"Estimado cliente, su solicitud ha sido procesada exitosamente."
+Formal & Professional Speech,"Por favor, firme el documento en la línea indicada."
+Formal & Professional Speech,Le informamos que su cuenta ha sido actualizada.
+Formal & Professional Speech,"Conforme al reglamento, el uso de dispositivos móviles está restringido."
+Formal & Professional Speech,Agradecemos su atención y quedamos a su disposición para cualquier consulta.
+Formal & Professional Speech,Es imprescindible cumplir con las normativas vigentes en la empresa.
+Formal & Professional Speech,El reporte financiero será presentado en la junta directiva.
+Formal & Professional Speech,Se recomienda a los pacientes llegar 15 minutos antes de su cita.
+Formal & Professional Speech,El presente contrato estipula las condiciones del servicio.
+Formal & Professional Speech,Los empleados deben registrar su asistencia diariamente.
+"Idioms, Proverbs & Cultural Expressions",Más vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions",No hay mal que por bien no venga.
+"Idioms, Proverbs & Cultural Expressions","El que madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions",A caballo regalado no se le mira el diente.
+"Idioms, Proverbs & Cultural Expressions",Cría cuervos y te sacarán los ojos.
+"Idioms, Proverbs & Cultural Expressions",Estás en la luna de Valencia.
+"Idioms, Proverbs & Cultural Expressions",Se me fue el santo al cielo.
+"Idioms, Proverbs & Cultural Expressions",Aquí hay gato encerrado.
+"Idioms, Proverbs & Cultural Expressions",Lo barato sale caro.
+"Idioms, Proverbs & Cultural Expressions","De tal palo, tal astilla."
+Question-Answer Pairs,¿Cuántos habitantes tiene Paraguay? - Aproximadamente 7 millones.
+Question-Answer Pairs,¿Cuál es la capital de Paraguay? - Asunción.
+Question-Answer Pairs,¿Qué significa ‘tereré’ en Paraguay? - Es una bebida fría a base de yerba mate.
+Question-Answer Pairs,¿Dónde se encuentra el Pantanal paraguayo? - En la región occidental del país.
+Question-Answer Pairs,¿Cómo se dice ‘gracias’ en guaraní? - ‘Aguyje’
+Question-Answer Pairs,¿Cuál es el plato típico de Paraguay? - La sopa paraguaya.
+Question-Answer Pairs,¿Cuál es el clima en Paraguay? - Mayormente cálido y húmedo.
+Question-Answer Pairs,¿Qué moneda se usa en Paraguay? - El guaraní.
+Question-Answer Pairs,¿Cómo se celebra la Fiesta de San Juan en Paraguay? - Con juegos tradicionales y comidas típicas.
+Question-Answer Pairs,"¿Cuál es la diferencia entre mate y tereré? - El mate es caliente, el tereré es frío."
+Commands & Instructions,Cerrá la puerta antes de salir.
+Commands & Instructions,"Prendé la luz, por favor."
+Commands & Instructions,Esperá aquí un momento.
+Commands & Instructions,Llamame cuando llegues.
+Commands & Instructions,"No toques eso, es peligroso."
+Commands & Instructions,Decime la verdad.
+Commands & Instructions,Enviame el informe antes del mediodía.
+Commands & Instructions,Apagá el aire acondicionado.
+Commands & Instructions,Doblá a la derecha en la siguiente esquina.
+Commands & Instructions,Mostrame cómo se hace.
+Named Entity Recognition (NER) Data,El presidente Santiago Peña visitó Argentina la semana pasada.
+Named Entity Recognition (NER) Data,El río Paraguay atraviesa el país de norte a sur.
+Named Entity Recognition (NER) Data,El 14 de mayo es el Día de la Independencia de Paraguay.
+Named Entity Recognition (NER) Data,María y José viajarán a Encarnación en diciembre.
+Named Entity Recognition (NER) Data,La Universidad Nacional de Asunción ofrece diversas carreras.
+Named Entity Recognition (NER) Data,La empresa Petropar anunció nuevos precios de combustible.
+Named Entity Recognition (NER) Data,Amazon abrirá una nueva oficina en Sudamérica.
+Named Entity Recognition (NER) Data,El Cerro Corá es un sitio histórico en Paraguay.
+Named Entity Recognition (NER) Data,El Guaraní es el idioma oficial junto con el español.
+Named Entity Recognition (NER) Data,Itaipú Binacional es una de las hidroeléctricas más grandes del mundo.
+Sentiment Analysis Data,Estoy muy feliz con mi nuevo trabajo.
+Sentiment Analysis Data,Odio cuando la gente no respeta las normas de tránsito.
+Sentiment Analysis Data,Este restaurante tiene la mejor comida que he probado.
+Sentiment Analysis Data,Me siento triste porque perdí mi celular.
+Sentiment Analysis Data,"¡Qué emoción, mañana es mi cumpleaños!"
+Sentiment Analysis Data,"El servicio al cliente fue terrible, no vuelvo más."
+Sentiment Analysis Data,Me encanta pasar tiempo con mi familia los domingos.
+Sentiment Analysis Data,"Fue una película aburrida, no la recomiendo."
+Sentiment Analysis Data,Estoy nervioso por mi entrevista de trabajo.
+Sentiment Analysis Data,"Qué alivio, finalmente terminé mi proyecto."
+Paraphrased & Augmented Sentences,Hoy hace mucho calor. → La temperatura está altísima hoy.
+Paraphrased & Augmented Sentences,Me gusta leer libros. → Disfruto la lectura de novelas y cuentos.
+Paraphrased & Augmented Sentences,Voy a viajar a Paraguay el próximo mes. → En un mes estaré visitando Paraguay.
+Paraphrased & Augmented Sentences,El examen fue difícil. → La prueba estuvo bastante complicada.
+Paraphrased & Augmented Sentences,La comida estaba deliciosa. → La cena fue exquisita.
+Paraphrased & Augmented Sentences,No tengo dinero suficiente. → Me falta plata para comprarlo.
+Paraphrased & Augmented Sentences,Mañana voy al médico. → Tengo cita con el doctor mañana.
+Paraphrased & Augmented Sentences,Estoy aprendiendo español. → Me estoy familiarizando con el español.
+Paraphrased & Augmented Sentences,Nos vemos más tarde. → Te veré en un rato.
+Paraphrased & Augmented Sentences,El tráfico está pesado hoy. → Hay demasiados autos en la calle hoy.

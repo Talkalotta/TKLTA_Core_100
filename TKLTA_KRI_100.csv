@@ -1,0 +1,101 @@
+Category,Sentence (Krio)
+Grammar Core,Mi bin de wok pan di project bifo yu kam.
+Grammar Core,Wi go don fayn di solushon bifor di deadline kam.
+Grammar Core,"E nor bin sabi di ansa, so e jus kip kwaiyet."
+Grammar Core,"If wi bin get mor taim, wi for don fayn beta wey."
+Grammar Core,Di letas dem kin send na email evri wik.
+Grammar Core,Mi nɔ go dɔn fɛn am if i nɔ bin tel mi.
+Grammar Core,Wi kin mek plan fɔ tumara fɔ meet.
+Grammar Core,Dem don fɔgɛt wetin a tell dem.
+Grammar Core,Di buk don bin reden bifo klas.
+Grammar Core,Yu fɔ mek sure yu go wit yu ID.
+Conversational Data,"Ah tell yu, a nor sabi wetin dem de tok."
+Conversational Data,"Mi broda, wetin yu tink bot dis new salone filim?"
+Conversational Data,Di man bin de tok so tay a no bin sabi wetin e de mean.
+Conversational Data,"How di wok de go, mi sista?"
+Conversational Data,"E say e nor de go de, but e nor gi mi resen."
+Conversational Data,Ah glad fɔ si yu oh! How bodi?
+Conversational Data,Di pasin we e du nor too fayn ya.
+Conversational Data,Una sabi di padi we get di bik moto?
+Conversational Data,Dis ya na di fos taim a de try dis food.
+Conversational Data,"Mi neba kin tok, but e sabi evri tin we de apin."
+Code-Switching & Multilingualism,"Mi padi, yu get chance fɔ check di email we a send?"
+Code-Switching & Multilingualism,Di meeting don shift go next week oh.
+Code-Switching & Multilingualism,"Ah sabi say e go cam, but a nor sho di exact taim."
+Code-Switching & Multilingualism,Dis ya na beta opportunity fɔ yu career.
+Code-Switching & Multilingualism,Yu nor go biliv wetin apin na di ofis tiday.
+Code-Switching & Multilingualism,Wi kin go eat somewhere nice lata?
+Code-Switching & Multilingualism,Yu don check di updates we dem send na WhatsApp?
+Code-Switching & Multilingualism,"Mi fambul, mek wi organize di program fayn wan."
+Code-Switching & Multilingualism,Mi de tink say di plan nor go wok dis time.
+Code-Switching & Multilingualism,"Di man de tok big big word dem, but e nor sabi di real fact."
+Formal & Professional Speech,"Gud monin sir, mi name na Alhaji Sesay, and a de represent mi company."
+Formal & Professional Speech,Di organization don decide fɔ implement new policies fɔ efficiency.
+Formal & Professional Speech,Di CEO de tok pan di importance fɔ ethical business practices.
+Formal & Professional Speech,"Plis, mek sure say yu submit yu dokument bifo Friday."
+Formal & Professional Speech,A go like request an appointment wit yu department head.
+Formal & Professional Speech,Di kontrakt de state say wi for deliver di project in six months.
+Formal & Professional Speech,Di meeting go komot na Conference Hall by 2 PM.
+Formal & Professional Speech,"Di patient nor bin wan teck di treatment, but wi kin counsel am."
+Formal & Professional Speech,Di gɔvment de plan fɔ introduce new laws pan taxation.
+Formal & Professional Speech,Di bank nor go gi yu loan if yu nor meet di criteria.
+"Idioms, Proverbs & Cultural Expressions",Wan finga nor de tek stone.
+"Idioms, Proverbs & Cultural Expressions","Yu nor fɔ lef pikin lek dat, na small pikin bot na big man e go kam."
+"Idioms, Proverbs & Cultural Expressions","Di wul nor de big fɔ enibɔdi, mek yu put ans fɔ yu sef."
+"Idioms, Proverbs & Cultural Expressions","Wetin man fɔ du, e mus du."
+"Idioms, Proverbs & Cultural Expressions",E get di han fɔ mek business beta.
+"Idioms, Proverbs & Cultural Expressions",Slo slo bit di jakas.
+"Idioms, Proverbs & Cultural Expressions","Di tin we e de do, na lek watin we old man go talk."
+"Idioms, Proverbs & Cultural Expressions","Ef padi don betrɛ yu, lef am, di tin go ton arɔnd."
+"Idioms, Proverbs & Cultural Expressions",Beta soup na moni mek am.
+"Idioms, Proverbs & Cultural Expressions",E get sense lek old man.
+Question-Answer Pairs,Wetin yu tink bot di new gɔvment policy?
+Question-Answer Pairs,How yu go describe di food we wi yestide?
+Question-Answer Pairs,"Di road don bad, wetin wi fɔ du?"
+Question-Answer Pairs,Wetin yu go do if yu win lotri?
+Question-Answer Pairs,"Di man say e de travel go London, but how long e go stap?"
+Question-Answer Pairs,Yu sabi di padi we get dat big shop?
+Question-Answer Pairs,Yu kin check di report fɔ mi?
+Question-Answer Pairs,Di meeting don start or wi de wait?
+Question-Answer Pairs,How dem de prepare dis tradishonal dish?
+Question-Answer Pairs,"Mi fambul, wetin yu need fɔ di program?"
+Commands & Instructions,"Plis, mek sure yu send di email bifor 12 PM."
+Commands & Instructions,Nor forget fɔ check di generator bifo wi go.
+Commands & Instructions,"Plis, stap fɔ disturb di meeting."
+Commands & Instructions,"Komot na road, di kɛr de kam!"
+Commands & Instructions,"Tell am mek e nor worry, wi go setul di mata."
+Commands & Instructions,Yu kin check mi result na website?
+Commands & Instructions,"Fet fɔ yu right, nor lemp."
+Commands & Instructions,Mek sure yu attend di workshop tumara.
+Commands & Instructions,Nor allow di pikin dem fɔ go de witout guide.
+Commands & Instructions,"Open di dor, di man wan kam insay."
+Named Entity Recognition (NER) Data,Di meeting go hol na Freetown City Hall.
+Named Entity Recognition (NER) Data,Mariama bin go America last year.
+Named Entity Recognition (NER) Data,Di program go start on April 15th.
+Named Entity Recognition (NER) Data,Alhaji Kanu na di CEO fɔ dis kampani.
+Named Entity Recognition (NER) Data,Sierra Leone get bɔku natral risɔs.
+Named Entity Recognition (NER) Data,Di padi bin enroll na Fourah Bay College.
+Named Entity Recognition (NER) Data,Di kontrakt go end na di month en di new wan go start.
+Named Entity Recognition (NER) Data,Wi de plan fɔ go Bo fɔ di festival.
+Named Entity Recognition (NER) Data,Di doktor say di operation nor go tek bɔku taim.
+Named Entity Recognition (NER) Data,Di minista de tok pan di new polis dem.
+Sentiment Analysis Data,Mi de feel so gladi tiday!
+Sentiment Analysis Data,Dis news don mek mi feel bad.
+Sentiment Analysis Data,"A nor sabi if a fayn or a bad, bot a de tink pan am."
+Sentiment Analysis Data,Di food sweet pass wetin a bin expect.
+Sentiment Analysis Data,Mi fren mek mi feel hapi wit di tin we e du.
+Sentiment Analysis Data,"Di way e tok to mi, e mek mi feel less important."
+Sentiment Analysis Data,"Mi fambul dem gi mi support, an a feel grateful."
+Sentiment Analysis Data,Mi boss nor de appreciate mi effort dem.
+Sentiment Analysis Data,Dis ya na di most interesting film we a don si.
+Sentiment Analysis Data,A vex so tay a nor sabi wetin fɔ du.
+Paraphrased & Augmented Sentences,Di buk we a bin reden don fayn.
+Paraphrased & Augmented Sentences,A bin reden di buk an e really fayn.
+Paraphrased & Augmented Sentences,Dis ya na di bes ples we a don go.
+Paraphrased & Augmented Sentences,Di ples we a go na wan we a really enjoy.
+Paraphrased & Augmented Sentences,Wi de go na di makit tiday fɔ bai food.
+Paraphrased & Augmented Sentences,"Tiday, wi de go fɔ bai sum food na di makit."
+Paraphrased & Augmented Sentences,Di man tok pan di impɔtant tin dem.
+Paraphrased & Augmented Sentences,E bin discuss di main point dem fɔ wi.
+Paraphrased & Augmented Sentences,Mi sista de waka go skul evri monin.
+Paraphrased & Augmented Sentences,"Evri monin, mi sista de go skul."

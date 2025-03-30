@@ -1,0 +1,101 @@
+Category,Sentence_Kinshasa_French
+Grammar Core,Il mange du foufou tous les jours.
+Grammar Core,Nous irons au marché demain.
+Grammar Core,"Si j'avais de l'argent, j'achèterais une voiture."
+Grammar Core,Le livre a été écrit par un auteur congolais.
+Grammar Core,"Ne parle pas trop fort, les enfants dorment."
+Grammar Core,J’étais en train de préparer le repas quand tu es arrivé.
+Grammar Core,"Demain, il pleuvra sûrement dans la ville."
+Grammar Core,Elle n’aime pas boire du thé sans sucre.
+Grammar Core,On m’a dit que la fête serait annulée.
+Grammar Core,"Si tu veux réussir, travaille dur."
+Conversational Data,"– Bonjour frère, ça fait longtemps ! – Oui, vraiment ! Comment va la famille ?"
+Conversational Data,"– Je peux t’aider à porter ça ? – Merci, c’est gentil."
+Conversational Data,"– Tu connais un bon restaurant ici ? – Oui, essayons celui-là, il a de bons plats."
+Conversational Data,"– Allô ? Tu es où ? – Je suis au marché, j’achète du poisson."
+Conversational Data,"– T’as fini tes devoirs ? – Pas encore, mais bientôt."
+Conversational Data,"– Excuse-moi, combien ça coûte ? – 5000 francs congolais."
+Conversational Data,"– On sort ce soir ? – Non, je suis trop fatigué."
+Conversational Data,"– Tu regardes quoi ? – Un film congolais, c’est super !"
+Conversational Data,"– Fais attention sur la route ! – T’inquiète, je gère."
+Conversational Data,"– Quel temps fait-il aujourd’hui ? – Il fait très chaud, prends de l’eau !"
+Code-Switching & Multilingualism,"Eh, mon frère, aujourd’hui c’est full stress, hein !"
+Code-Switching & Multilingualism,Tu as checké le mail que je t’ai envoyé ?
+Code-Switching & Multilingualism,"Mama, ce repas est trop delicious, merci !"
+Code-Switching & Multilingualism,On va au shop acheter du pain et du beurre.
+Code-Switching & Multilingualism,"Pardon, excuse-moi, je peux te poser une question ?"
+Code-Switching & Multilingualism,Il faut send le message avant 18h.
+Code-Switching & Multilingualism,J’ai need un peu d’aide avec ce travail.
+Code-Switching & Multilingualism,C’est quoi l’update sur notre projet ?
+Code-Switching & Multilingualism,Je vais printer les documents après la réunion.
+Code-Switching & Multilingualism,Le boss veut un feedback ASAP.
+Formal & Professional Speech,Veuillez soumettre votre rapport avant vendredi.
+Formal & Professional Speech,"Madame, pouvez-vous me donner un rendez-vous ?"
+Formal & Professional Speech,Le patient doit suivre strictement les indications du médecin.
+Formal & Professional Speech,"Dans ce contrat, nous stipulons les conditions générales d’utilisation."
+Formal & Professional Speech,La réunion avec le directeur aura lieu à 10h précises.
+Formal & Professional Speech,Ce document doit être signé par toutes les parties concernées.
+Formal & Professional Speech,Le conseil d’administration a approuvé le projet.
+Formal & Professional Speech,Nous vous remercions pour votre collaboration.
+Formal & Professional Speech,L’entreprise investit dans les énergies renouvelables.
+Formal & Professional Speech,L’analyse des données montre une progression significative.
+"Idioms, Proverbs & Cultural Expressions",Un rat ne peut pas accoucher d’un éléphant.
+"Idioms, Proverbs & Cultural Expressions",On ne traverse pas la rivière avec un seul pied.
+"Idioms, Proverbs & Cultural Expressions","Quand la chèvre broute, elle n’oublie jamais où elle attache la corde."
+"Idioms, Proverbs & Cultural Expressions",Celui qui a mangé le piment connaît bien son piquant.
+"Idioms, Proverbs & Cultural Expressions",On ne met pas deux crocodiles dans la même rivière.
+"Idioms, Proverbs & Cultural Expressions",Le chemin du marché n’est jamais long pour celui qui a faim.
+"Idioms, Proverbs & Cultural Expressions",Un arbre sans racines ne peut pas tenir debout.
+"Idioms, Proverbs & Cultural Expressions",Le poisson pourrit toujours par la tête.
+"Idioms, Proverbs & Cultural Expressions",Un tambour creux fait beaucoup de bruit.
+"Idioms, Proverbs & Cultural Expressions",À chaque oiseau son nid est beau.
+Question-Answer Pairs,Quel est le plat traditionnel du Congo ? – Le pondu avec du poisson fumé.
+Question-Answer Pairs,Combien coûte ce billet ? – 10 000 francs congolais.
+Question-Answer Pairs,Quelle est la capitale de la RDC ? – C’est Kinshasa.
+Question-Answer Pairs,Quel âge as-tu ? – J’ai 25 ans.
+Question-Answer Pairs,"Où habites-tu ? – À Bandalungwa, près du marché."
+Question-Answer Pairs,Qui a gagné le match hier ? – L’AS Vita Club !
+Question-Answer Pairs,"Tu préfères le thé ou le café ? – Le café, bien sûr !"
+Question-Answer Pairs,Pourquoi es-tu en retard ? – Il y avait trop de circulation.
+Question-Answer Pairs,Quelle est la saison en ce moment ? – C’est la saison des pluies.
+Question-Answer Pairs,Quelles langues parle-t-on à Kinshasa ? – Le lingala et le français.
+Commands & Instructions,Ferme la porte avant de sortir.
+Commands & Instructions,Prends ton cahier et écris.
+Commands & Instructions,N’oublie pas d’éteindre la lumière.
+Commands & Instructions,"Parle plus doucement, s’il te plaît."
+Commands & Instructions,"Ne touche pas ça, c’est fragile !"
+Commands & Instructions,Appelle-moi dès que tu arrives.
+Commands & Instructions,Écoute bien avant de répondre.
+Commands & Instructions,Évite de parler en même temps que moi.
+Commands & Instructions,Range tes affaires correctement.
+Commands & Instructions,Respecte toujours les règles de sécurité.
+Named Entity Recognition (NER),Joseph Kabila a été président de la RDC.
+Named Entity Recognition (NER),Kinshasa est la plus grande ville du pays.
+Named Entity Recognition (NER),Le fleuve Congo est le deuxième plus long d’Afrique.
+Named Entity Recognition (NER),L’Université de Kinshasa est réputée.
+Named Entity Recognition (NER),Le 30 juin est la fête de l’indépendance congolaise.
+Named Entity Recognition (NER),Goma se trouve à l’est du pays.
+Named Entity Recognition (NER),L’UNICEF aide les enfants en Afrique.
+Named Entity Recognition (NER),L’aéroport de Ndjili est le plus fréquenté du Congo.
+Named Entity Recognition (NER),Le stade des Martyrs accueille des concerts et des matchs.
+Named Entity Recognition (NER),Lubumbashi est un centre économique majeur.
+Sentiment Analysis Data,Je suis tellement heureux aujourd’hui !
+Sentiment Analysis Data,"Ce film était vraiment nul, je regrette d’y être allé."
+Sentiment Analysis Data,"J’adore ce restaurant, leur nourriture est délicieuse !"
+Sentiment Analysis Data,J’ai passé une très mauvaise journée.
+Sentiment Analysis Data,Ce projet est extrêmement intéressant.
+Sentiment Analysis Data,Je suis fatigué de toujours faire le même travail.
+Sentiment Analysis Data,Quelle joie de voir ma famille après si longtemps !
+Sentiment Analysis Data,Ce téléphone est trop cher pour ce qu’il offre.
+Sentiment Analysis Data,Je suis reconnaissant pour ton aide.
+Sentiment Analysis Data,Je ne supporte plus ce bruit incessant.
+Paraphrased & Augmented Sentences,Il est allé au marché ce matin.
+Paraphrased & Augmented Sentences,"Ce matin, il est parti au marché."
+Paraphrased & Augmented Sentences,Il s’est rendu au marché aujourd’hui.
+Paraphrased & Augmented Sentences,"Le matin, il a fait ses courses au marché."
+Paraphrased & Augmented Sentences,"Aujourd’hui, il a acheté des légumes au marché."
+Paraphrased & Augmented Sentences,Il a décidé d’aller acheter du poisson tôt.
+Paraphrased & Augmented Sentences,"Ce matin, il était au marché pour faire des courses."
+Paraphrased & Augmented Sentences,Son marché s’est fait tôt ce matin.
+Paraphrased & Augmented Sentences,"Tôt dans la journée, il a visité le marché."
+Paraphrased & Augmented Sentences,Il a fait un tour au marché en début de matinée.

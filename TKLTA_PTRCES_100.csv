@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Yo estudio español todos los días.
+Grammar Core,"Si hubiera sabido antes, habría tomado otra decisión."
+Grammar Core,Mañana iremos a la playa si el clima está bueno.
+Grammar Core,Se venden carros usados en este concesionario.
+Grammar Core,No quiero que salgas sin abrigo.
+Grammar Core,"Si tuviera más tiempo, aprendería otro idioma."
+Grammar Core,El libro fue escrito por un autor puertorriqueño.
+Grammar Core,Ojalá pudiera viajar a Puerto Rico pronto.
+Grammar Core,Anoche llovió mucho en San Juan.
+Grammar Core,Estamos estudiando para el examen de mañana.
+Conversational Data,"Hola, ¿cómo estás? – Estoy bien, gracias. ¿Y tú?"
+Conversational Data,¿Me puedes ayudar con este proyecto? – ¡Claro! ¿Qué necesitas?
+Conversational Data,"Perdón, ¿a qué hora abre la panadería? – A las siete de la mañana."
+Conversational Data,"¿Te gustaría ir al cine esta noche? – Sí, me encantaría."
+Conversational Data,"¿Puedo pagar con tarjeta? – Sí, aceptamos todas las tarjetas."
+Conversational Data,"Tengo que irme, nos vemos luego. – ¡Dale, cuídate!"
+Conversational Data,¿Dónde está el baño? – Al fondo a la derecha.
+Conversational Data,"Mami, tengo hambre. – Hay arroz con habichuelas en la nevera."
+Conversational Data,¿Qué hiciste el fin de semana? – Fui a la playa con mis amigos.
+Conversational Data,"¿Me traes un café? – Sí, con o sin azúcar?"
+Code-Switching & Multilingualism,Voy a parquear el carro aquí.
+Code-Switching & Multilingualism,Ese concierto estuvo súper cool.
+Code-Switching & Multilingualism,Ella siempre dice 'whatever' cuando no le importa.
+Code-Switching & Multilingualism,Tengo que hacer un report para la clase de inglés.
+Code-Switching & Multilingualism,El weekend pasado fui a un road trip por la isla.
+Code-Switching & Multilingualism,"No te preocupes, everything is fine."
+Code-Switching & Multilingualism,Vamos a hacer un meeting a las tres.
+Code-Switching & Multilingualism,¿Viste el email que te mandé?
+Code-Switching & Multilingualism,Mi jefe siempre dice ‘touch base’ cuando quiere una actualización.
+Code-Switching & Multilingualism,Estoy ready para la fiesta de esta noche.
+Formal & Professional Speech,"Estimado cliente, su pedido ha sido enviado con éxito."
+Formal & Professional Speech,"Por favor, envíe los documentos requeridos antes del viernes."
+Formal & Professional Speech,Agradecemos su paciencia mientras procesamos su solicitud.
+Formal & Professional Speech,El paciente debe seguir las instrucciones médicas al pie de la letra.
+Formal & Professional Speech,"Para obtener un reembolso, complete el formulario adjunto."
+Formal & Professional Speech,El contrato especifica las condiciones del acuerdo entre ambas partes.
+Formal & Professional Speech,El informe financiero estará disponible el próximo lunes.
+Formal & Professional Speech,Le recordamos que su cita es el 10 de abril a las 3:00 p.m.
+Formal & Professional Speech,Se recomienda el uso de mascarillas en espacios cerrados.
+Formal & Professional Speech,El servicio de atención al cliente opera de lunes a viernes.
+"Idioms, Proverbs & Cultural Expressions",A caballo regalado no se le mira el colmillo.
+"Idioms, Proverbs & Cultural Expressions",Más vale tarde que nunca.
+"Idioms, Proverbs & Cultural Expressions","En casa de herrero, cuchillo de palo."
+"Idioms, Proverbs & Cultural Expressions",No todo lo que brilla es oro.
+"Idioms, Proverbs & Cultural Expressions","El que madruga, Dios lo ayuda."
+"Idioms, Proverbs & Cultural Expressions",Está lloviendo a cántaros.
+"Idioms, Proverbs & Cultural Expressions",Me salió el tiro por la culata.
+"Idioms, Proverbs & Cultural Expressions",Se armó un revolú en la reunión.
+"Idioms, Proverbs & Cultural Expressions",Ese negocio va viento en popa.
+"Idioms, Proverbs & Cultural Expressions",Anda con las pilas puestas.
+Question-Answer Pairs,¿Cuál es la capital de Puerto Rico? – San Juan.
+Question-Answer Pairs,¿Cómo se dice ‘hello’ en español? – Hola.
+Question-Answer Pairs,¿Cuándo es la próxima reunión? – Mañana a las 2:00 p.m.
+Question-Answer Pairs,¿Quién escribió Don Quijote? – Miguel de Cervantes.
+Question-Answer Pairs,¿Cuántos días tiene una semana? – Siete.
+Question-Answer Pairs,¿Dónde queda el Viejo San Juan? – En la capital de Puerto Rico.
+Question-Answer Pairs,¿Por qué llueve tanto en abril? – Es temporada de lluvias.
+Question-Answer Pairs,"¿Me puedes prestar tu libro? – Sí, pero devuélvemelo mañana."
+Question-Answer Pairs,¿Cuál es tu comida favorita? – Me encanta el mofongo.
+Question-Answer Pairs,"¿Puedes repetirlo, por favor? – Claro, con mucho gusto."
+Commands & Instructions,"Por favor, apaga la luz antes de salir."
+Commands & Instructions,Lávate las manos antes de comer.
+Commands & Instructions,No olvides traer los documentos.
+Commands & Instructions,Dime la verdad sin rodeos.
+Commands & Instructions,Sigue las instrucciones del manual.
+Commands & Instructions,Espera aquí un momento.
+Commands & Instructions,Llámame cuando llegues.
+Commands & Instructions,Escribe tu nombre en la hoja.
+Commands & Instructions,"Habla más despacio, por favor."
+Commands & Instructions,Guarda silencio durante la película.
+Named Entity Recognition (NER),María fue a San Juan el fin de semana.
+Named Entity Recognition (NER),La Universidad de Puerto Rico es excelente.
+Named Entity Recognition (NER),El Yunque es una selva tropical en Puerto Rico.
+Named Entity Recognition (NER),Carmen viajará a España en diciembre.
+Named Entity Recognition (NER),Amazon tiene millones de clientes en el mundo.
+Named Entity Recognition (NER),El huracán María causó grandes daños en 2017.
+Named Entity Recognition (NER),Mi hermano trabaja en Microsoft.
+Named Entity Recognition (NER),El doctor Pérez es un especialista en cardiología.
+Named Entity Recognition (NER),Fui a Plaza Las Américas a comprar ropa.
+Named Entity Recognition (NER),Coca-Cola es una de las marcas más reconocidas.
+Sentiment Analysis Data,"Me encanta la comida puertorriqueña, es deliciosa."
+Sentiment Analysis Data,Estoy triste porque mi equipo perdió el partido.
+Sentiment Analysis Data,"Ese chiste fue muy gracioso, me hizo reír."
+Sentiment Analysis Data,Estoy frustrado con el tráfico de hoy.
+Sentiment Analysis Data,"Qué emoción, mañana voy de vacaciones."
+Sentiment Analysis Data,"No me gustó la película, estuvo aburrida."
+Sentiment Analysis Data,Estoy muy agradecido por tu ayuda.
+Sentiment Analysis Data,Este restaurante tiene un servicio excelente.
+Sentiment Analysis Data,Me da miedo volar en avión.
+Sentiment Analysis Data,"Hoy fue un día increíble, todo salió bien."
+Paraphrased & Augmented Sentences,Voy al supermercado a comprar pan.
+Paraphrased & Augmented Sentences,Me voy a la tienda a comprar pan.
+Paraphrased & Augmented Sentences,"Necesito comprar pan, voy al mercado."
+Paraphrased & Augmented Sentences,"Voy a hacer compras, necesito pan."
+Paraphrased & Augmented Sentences,Voy al colmado a comprar pan.
+Paraphrased & Augmented Sentences,Voy a conseguir pan en la tienda.
+Paraphrased & Augmented Sentences,Voy a la bodega por un poco de pan.
+Paraphrased & Augmented Sentences,Voy a comprar pan en el supermercado.
+Paraphrased & Augmented Sentences,"Tengo que comprar pan, voy ahora."
+Paraphrased & Augmented Sentences,"Voy de compras, el pan es mi prioridad."

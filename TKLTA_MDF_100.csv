@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),Мон школась учить.
+Grammar Core (Sentence Structures & Tenses),Сон учить школась.
+Grammar Core (Sentence Structures & Tenses),Ломан учить школась.
+Grammar Core (Sentence Structures & Tenses),Мон эрямс школась.
+Grammar Core (Sentence Structures & Tenses),Сон эряви школась.
+Grammar Core (Sentence Structures & Tenses),Авась эряви школась.
+Grammar Core (Sentence Structures & Tenses),Кедь учить школась.
+Grammar Core (Sentence Structures & Tenses),Школась эрямс ломанть.
+Grammar Core (Sentence Structures & Tenses),Мон велемс школась.
+Grammar Core (Sentence Structures & Tenses),Кедь эрямс школась.
+Conversational Data (Real-Life Dialogues & Exchanges),"Приветь, кеде сонк?"
+Conversational Data (Real-Life Dialogues & Exchanges),Монка пек кайсь?
+Conversational Data (Real-Life Dialogues & Exchanges),Кеде школа каванть?
+Conversational Data (Real-Life Dialogues & Exchanges),Школь цёки мей.
+Conversational Data (Real-Life Dialogues & Exchanges),Кайсь а мельга?
+Conversational Data (Real-Life Dialogues & Exchanges),Эпинь вейке.
+Conversational Data (Real-Life Dialogues & Exchanges),Кедь веле кайсь?
+Conversational Data (Real-Life Dialogues & Exchanges),Сон велемс школась?
+Conversational Data (Real-Life Dialogues & Exchanges),Ломан эрямс школась?
+Conversational Data (Real-Life Dialogues & Exchanges),Мастор велемс лесне?
+Code-Switching & Multilingualism,"Монка веле домась, но работа веле офисась."
+Code-Switching & Multilingualism,"Тейть школака велемс, because it is important."
+Code-Switching & Multilingualism,"Сон пек ашак, but sometimes lazy."
+Code-Switching & Multilingualism,"Кочкамса дома, because it was raining."
+Code-Switching & Multilingualism,"Кеде школа велемс, because it is useful."
+Code-Switching & Multilingualism,"Мастор велемс лесне, но школа велемс городась."
+Code-Switching & Multilingualism,"Сон пильге, but still young."
+Code-Switching & Multilingualism,"Кече веле кель, because it is cold."
+Code-Switching & Multilingualism,"Сон школа велемс, but only sometimes."
+Code-Switching & Multilingualism,"Тейть эрямс моньде, но мон эпинь."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Кедь школась кельть пек ашакс.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Ломан пек кадалгакс лангсь.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Сонть школа веле кочкамса.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Эсэ работа школась.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Кедь велемс школа каванть.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Авась ашакс вейке школась.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Тейть работа велемс школась.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Сон пек кочкамса школась.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Масть пильге школась.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Эскельсь кельть школась.
+"Idioms, Proverbs & Cultural Expressions",Кедь учитьсь шкода.
+"Idioms, Proverbs & Cultural Expressions",Тейть сонко кедеть.
+"Idioms, Proverbs & Cultural Expressions",Школа ашаккава.
+"Idioms, Proverbs & Cultural Expressions",Кель пек школась.
+"Idioms, Proverbs & Cultural Expressions",Школь эрямс моньде.
+"Idioms, Proverbs & Cultural Expressions",Кедь школась кадалгакс.
+"Idioms, Proverbs & Cultural Expressions",Сонко пильге школась.
+"Idioms, Proverbs & Cultural Expressions",Эскельсь ашакс.
+"Idioms, Proverbs & Cultural Expressions",Кочь школа велемс.
+"Idioms, Proverbs & Cultural Expressions",Ломан ашакс школась.
+Question-Answer Pairs (FAQ & Contextual Understanding),Кедь сон велемс? - Сон велемс школась.
+Question-Answer Pairs (FAQ & Contextual Understanding),Кайсь ашакс? - Мон пек ашакс.
+Question-Answer Pairs (FAQ & Contextual Understanding),Кеде школась? - Сон школась велемс Москвась.
+Question-Answer Pairs (FAQ & Contextual Understanding),Авась пильге лангсь? - Сон кельть ашакс.
+Question-Answer Pairs (FAQ & Contextual Understanding),Кедь школа кайсь? - Школа пек ашакс.
+Question-Answer Pairs (FAQ & Contextual Understanding),Ломан веле школась? - Ломан школась велемс дома.
+Question-Answer Pairs (FAQ & Contextual Understanding),Мон кельть ашакс? - Кельть эрямс моньде.
+Question-Answer Pairs (FAQ & Contextual Understanding),Масть кедь велемс? - Велемс лесне.
+Question-Answer Pairs (FAQ & Contextual Understanding),Кеде кочкамса? - Кочкамса Москвась.
+Question-Answer Pairs (FAQ & Contextual Understanding),Эскельсь ашакс? - Эскельсь велемс.
+Commands & Instructions (Imperative Sentences),Кедь велемс школась!
+Commands & Instructions (Imperative Sentences),Ломан вейке школась!
+Commands & Instructions (Imperative Sentences),Пильге сон школась!
+Commands & Instructions (Imperative Sentences),Тейть кочкамса!
+Commands & Instructions (Imperative Sentences),Мастор кайсь!
+Commands & Instructions (Imperative Sentences),Сон учитьсь!
+Commands & Instructions (Imperative Sentences),Школа эрямс!
+Commands & Instructions (Imperative Sentences),Кедь кадалгакс!
+Commands & Instructions (Imperative Sentences),Эскельсь кайсь!
+Commands & Instructions (Imperative Sentences),Ломан ашакс школась!
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Москва велемс кочкамса.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Александр учить школась.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Петрова школа велемс.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Саранск велемс масторсь.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Школьной администрация эрямс документ.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Профессор Иванов велемс университетась.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Ломан эряви Саранкс тешк.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Кедь учитьсь Марина школась.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Декабрь велемс пек студиясь.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Кедь предприятие велемс Москвась.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Мон лангсь пек ашакс.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Авась эряви лангсь.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Сон эряви ужат.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Школь эрямс пек кадалгакс.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Кельть эрямс моньде ашакс.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Сон велемс кедь ашакс.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Мон велемс пек кочкамса.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Школьной урно велемс пильге.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Эсэ эрямс ужат.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Авась эряви ашакс, тейть моньде."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Кедь учить школась, а веле ашакс."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Мон лангсь ашакс, но ашка велемс."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Школьной учить лангсь кочкамса.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Сон эряви лангсь, но моньде кельть."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Кеде школа велемс, ашкас кайсь."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Мон велемс ашакс, но тейть соньде эрямс."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Ломан школа веле ужат.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Эскельсь кочкамса ашакс.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Кедь эрямс школась.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Сон велемс кадалгакс школась.

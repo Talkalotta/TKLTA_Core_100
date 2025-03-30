@@ -1,0 +1,101 @@
+Category,Sentence (Kituba)
+Grammar Core,Mono me salaka na ndakisa ya mbote.
+Grammar Core,Mono ke sala na kisalu ya nkaka.
+Grammar Core,Mono ta sala na suka ya yindu.
+Grammar Core,"Soki mono salaka ve, nki ta salama?"
+Grammar Core,Mono me sala ve kisalu yango.
+Grammar Core,Kisalu me salama na mono.
+Grammar Core,Mono me salaka kisalu yina pamba pamba.
+Grammar Core,Yandi ke salaka na ndenge ya malamu.
+Grammar Core,Beto ke sala ve na nsuka ya mvula.
+Grammar Core,Mono ta salaka soki yandi tadila.
+Conversational Data,"— Mbote, nge ke zola nki? — Mono ke zola maji."
+Conversational Data,— Wapi nge ke kwenda? — Mono ke kwenda na ndako.
+Conversational Data,"— Beka ngolu, mono me lela. — Yindula ve, zoleka."
+Conversational Data,"— Yo ke zaba yandi? — Ve, mono ke zaba ve."
+Conversational Data,"— Nge ke yoka nsoni? — Nka, mono me lamuka kaka."
+Conversational Data,— Bonane! — Bonane na nge mpe!
+Conversational Data,— Tala! moto ke kwisa. — Oyo nde moninga na mono.
+Conversational Data,"— Yo ke bala? — Ve, mono ke zela."
+Conversational Data,— Nge me zwa nki? — Mono me zwa lipaki.
+Conversational Data,— Zola na mono. — Mono ke zola nge mingi.
+Code-Switching & Multilingualism,"Yo ke leka bien, surtout na travail."
+Code-Switching & Multilingualism,Mono me mema rapport na boss le matin.
+Code-Switching & Multilingualism,"Beto ke zala cool, yebaka yango!"
+Code-Switching & Multilingualism,"Soki yo ke pesa feedback, meyelo."
+Code-Switching & Multilingualism,Yandi ke comprendre mingi na français.
+Code-Switching & Multilingualism,Nge ke koma email na Kituba te?
+Code-Switching & Multilingualism,Mbala mingi to ke linker na WhatsApp.
+Code-Switching & Multilingualism,"Na l’école, to ke ko apprendre en mix."
+Code-Switching & Multilingualism,Voiture yango ezalaki big.
+Code-Switching & Multilingualism,"Yo ke mange na restaurant wana, hein?"
+Formal & Professional Speech,"S’il vous plaît, bonso na bureau na ntangu."
+Formal & Professional Speech,Doktɛ ke yamba nge lelo na midi.
+Formal & Professional Speech,"Na réunion, to ta tala plan ya miso."
+Formal & Professional Speech,Rapport yango me tanda na ndenge ya sembo.
+Formal & Professional Speech,Mokanda me sambwisama na tribunal ya mboka.
+Formal & Professional Speech,"Baninga, tokokutana na projet ya développement."
+Formal & Professional Speech,Protocole ke landama na forme ya officiel.
+Formal & Professional Speech,Akomi na statut ya consultant.
+Formal & Professional Speech,Demande na yo ke processing.
+Formal & Professional Speech,"Kuna na hôpital, discipline ke tendama mingi."
+"Idioms, Proverbs & Cultural Expressions",Ntoki ya bwatu me futuka kaka na zulu.
+"Idioms, Proverbs & Cultural Expressions",Kaka muntu ya mbote ke baka nsinga ya mpasi.
+"Idioms, Proverbs & Cultural Expressions","Soki mayele ke lunga, mamba ke vanda kimya."
+"Idioms, Proverbs & Cultural Expressions",Ndeke ke zinga na mpema ya zulu.
+"Idioms, Proverbs & Cultural Expressions",Mbisi ya nsuka me zwa na mboko ya mwana.
+"Idioms, Proverbs & Cultural Expressions","Soki nkento me lela, likambo me lɛkɛ."
+"Idioms, Proverbs & Cultural Expressions","Bulu me kele, kansi me vanda kimya."
+"Idioms, Proverbs & Cultural Expressions","Muntu me zola, kansi ntima me lela."
+"Idioms, Proverbs & Cultural Expressions",Kimia ke mbele na bitumba ya lenda.
+"Idioms, Proverbs & Cultural Expressions",Muntu ya lenda ke sona ve likambo.
+Question-Answer Pairs,Nani ke sala na ofisi yango? — Yandi ke sala kuna.
+Question-Answer Pairs,"Kutu nge me yoka sango yango? — Ee, na radio."
+Question-Answer Pairs,"Soki mpila me kota, nki to ta sala? — To ta kanga ekuke."
+Question-Answer Pairs,Nge ke zola kolia nki? — Mono ke zola saka-saka.
+Question-Answer Pairs,"Na ntangu ya mvula, wapi yo ke vanda? — Na ndako."
+Question-Answer Pairs,Nani ke pusa ve? — Mono ke zola kimia.
+Question-Answer Pairs,"Boni? — Nazali bien, mersi."
+Question-Answer Pairs,"Yo ke pesa nki solution? — To bundaka te, to yoka."
+Question-Answer Pairs,"Nge me tala film yango? — Ee, me yindula mingi."
+Question-Answer Pairs,Wapi yo ke tanga? — Na université ya Kinshasa.
+Commands & Instructions,Lenda ndako!
+Commands & Instructions,Fungola ekuke s’il te plaît.
+Commands & Instructions,Yambula kimia na kati na yo.
+Commands & Instructions,Kota na salle lelo.
+Commands & Instructions,Simbaka maboko ya yo bien.
+Commands & Instructions,Talela batu yango na meso.
+Commands & Instructions,Yebisa yandi na se ya motema.
+Commands & Instructions,Zingisaka table yango ntangu nyonso.
+Commands & Instructions,Lekisa mbangu!
+Commands & Instructions,Zwa eloko na ndaku.
+Named Entity Recognition (NER) Data,Marie ke tanga na Institut Supérieur.
+Named Entity Recognition (NER) Data,Kinshasa ke zala capitale ya RDC.
+Named Entity Recognition (NER) Data,Ntangu ya fête ezali le 30 juin.
+Named Entity Recognition (NER) Data,Papa Simon ke sala na Hôpital Général.
+Named Entity Recognition (NER) Data,UNICEF ke pesa maboko na bana.
+Named Entity Recognition (NER) Data,2024 ezalaki mbula ya kolela.
+Named Entity Recognition (NER) Data,Ndako ya Président ke zala na Mont Ngaliema.
+Named Entity Recognition (NER) Data,Entreprise yango ke zwa contrat ya Etat.
+Named Entity Recognition (NER) Data,Mama Aline ke suka na projet yango.
+Named Entity Recognition (NER) Data,Mbongo yango ke utaka na Banque Centrale.
+Sentiment Analysis Data,Mono ke yoka mawa mingi.
+Sentiment Analysis Data,Nazali na esengo mingi lelo.
+Sentiment Analysis Data,Likambo yango ke yindisa mono.
+Sentiment Analysis Data,Yandi me bebisa motema na mono.
+Sentiment Analysis Data,"Nge ke tala malamu, mersi mingi."
+Sentiment Analysis Data,Oyo me kanga mono na motema.
+Sentiment Analysis Data,"Mono ke gunguna, ezali pasi."
+Sentiment Analysis Data,Nge me sunga mono na ndenge ya solo.
+Sentiment Analysis Data,Likambu yango me lembisa mono.
+Sentiment Analysis Data,Nazali content ya ndenge nyonso.
+Paraphrased & Augmented Sentences,Mono ke tanga na bibliothèque.
+Paraphrased & Augmented Sentences,"Na bibliothèque, mono ke tanga."
+Paraphrased & Augmented Sentences,Mono me kwenda na ndako ya moninga.
+Paraphrased & Augmented Sentences,Mono ke vanda na ndako ya yandi.
+Paraphrased & Augmented Sentences,Yandi ke futa na boutique.
+Paraphrased & Augmented Sentences,Boutique me zwa mbongo na yandi.
+Paraphrased & Augmented Sentences,"Mbote! Boni yo? — Boni, mbote!"
+Paraphrased & Augmented Sentences,"To bundaka ve, to yoka kaka."
+Paraphrased & Augmented Sentences,"Kaka na kimia, likambo ke suka malamu."
+Paraphrased & Augmented Sentences,To yindula na kimia na ntangu ya mpasi.

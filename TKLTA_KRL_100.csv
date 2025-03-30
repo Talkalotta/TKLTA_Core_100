@@ -1,0 +1,101 @@
+Category,Sentence_Karelian
+Grammar Core,Mie olen lugenu kirjan.
+Grammar Core,Mie luen kirjan.
+Grammar Core,Mie lugen kirjan huomennu.
+Grammar Core,"Mie olisin lugenu kirjan, jos mulla oli aika."
+Grammar Core,Mie en lugenu kirjaa.
+Grammar Core,Kirja lugethan lapsille.
+Grammar Core,Mie olin lugenu kirjan ennen kouluun menöä.
+Grammar Core,"Jos sie lugesit sen, sie ymmärtäisit."
+Grammar Core,"Mie toivon, et sie lugesit sen."
+Grammar Core,Mie en ole nähny tämännäköistä kirjaa ennen.
+Conversational Data,Terveh! Mitä kuuluu?
+Conversational Data,Mie olin eilen kaupungissa. Sie?
+Conversational Data,Missä sie olet? Ootan sinuu.
+Conversational Data,"Mie en tiiä, mut voima katsoa."
+Conversational Data,Milloin sie tulet kotiin?
+Conversational Data,Onpa mukava päivä tänään!
+Conversational Data,Mitä sinä mielestä tämä kirja on hyvä?
+Conversational Data,Joko sie söit aamiaisen?
+Conversational Data,"Mie hain sinuu eilen, mutta et ollu kotona."
+Conversational Data,Mennäänkö kahville huomenna?
+Code-Switching & Multilingualism,"Mie tykkään kahvista, but sometimes I prefer tea."
+Code-Switching & Multilingualism,"Tänään oli hyvä päivä, mutta tomorrow might be better."
+Code-Switching & Multilingualism,Minä olen opiskelija ja I also work part-time.
+Code-Switching & Multilingualism,Hän sanoi ‘hello’ ja sitten jatkoi puhumista karjalaksi.
+Code-Switching & Multilingualism,Voisinko saada yhden ticket to Helsinki?
+Code-Switching & Multilingualism,"Minun lempi ruoka on sushi, mutta I also love Karelian pies."
+Code-Switching & Multilingualism,Hän kysyi ‘mikä sinun nimi on?’ ja sitten vaihtoi englantiin.
+Code-Switching & Multilingualism,"Tää elokuva on niin hyvä, I could watch it again!"
+Code-Switching & Multilingualism,"Luin tämän kirjan espanjaksi, but I want to read it in Karelian too."
+Code-Switching & Multilingualism,"Hän kertoi vitsin, mutta punchline oli ranskaksi."
+Formal & Professional Speech,Tämä sopimus astuu voimaan välittömästi.
+Formal & Professional Speech,"Hyvä asiakkaamme, toivotamme teidät tervetulleeksi."
+Formal & Professional Speech,Kokous pidetään huomenna kello 10:00.
+Formal & Professional Speech,Tarkista tiedot ennen lähettämistä.
+Formal & Professional Speech,Pyydämme teitä odottamaan vuoroanne.
+Formal & Professional Speech,Lääkärin suositus on levätä kaksi päivää.
+Formal & Professional Speech,Tämän tutkimuksen tulokset ovat luottamuksellisia.
+Formal & Professional Speech,Ilmoittautuminen sulkeutuu ensi viikolla.
+Formal & Professional Speech,Projektin määräaika on ensi kuussa.
+Formal & Professional Speech,Ole hyvä ja täytä tämä lomake.
+"Idioms, Proverbs & Cultural Expressions",Ei ole kaikki kultaa mikä kiiltää.
+"Idioms, Proverbs & Cultural Expressions",Parempi pyy pivossa kuin kymmenen oksalla.
+"Idioms, Proverbs & Cultural Expressions",Ei kahta ilman kolmatta.
+"Idioms, Proverbs & Cultural Expressions","Ken kuuseen kurkottaa, se katajaan kapsahtaa."
+"Idioms, Proverbs & Cultural Expressions",Rakkaudessa ja sodassa kaikki on sallittua.
+"Idioms, Proverbs & Cultural Expressions",Tyhjä tynnyri kolisee eniten.
+"Idioms, Proverbs & Cultural Expressions",Aikainen lintu madon nappaa.
+"Idioms, Proverbs & Cultural Expressions","Kuka vanhoja muistelee, sitä tikulla silmään."
+"Idioms, Proverbs & Cultural Expressions",Raha ei tee onnelliseksi.
+"Idioms, Proverbs & Cultural Expressions",Ahkeruus palkitaan.
+Question-Answer Pairs,Missä sinä asut? - Mie asun Sortavalassa.
+Question-Answer Pairs,Mitä sie haluat syyä? - Mie tahon keittoa.
+Question-Answer Pairs,Paljonko tämä maksaa? - Se maksoi viisi euroa.
+Question-Answer Pairs,"Miten menee? - Hyvin, kiitos."
+Question-Answer Pairs,Kuka on sinun lempi kirjailija? - Mie tykkään Aleksis Kivestä.
+Question-Answer Pairs,Mikä päivä tänään on? - Tänään on maanantai.
+Question-Answer Pairs,Miksi sie olet surullinen? - Koska mie hävisin pelin.
+Question-Answer Pairs,Milloin sie tulit kotiin? - Tulin eilen illalla.
+Question-Answer Pairs,Kenen kanssa sie menit elokuviin? - Mie menin kaverin kanssa.
+Question-Answer Pairs,Missä sie opiskelet? - Mie opiskelen yliopistossa.
+Commands & Instructions,Avaa ikkuna!
+Commands & Instructions,Älä koske siihen!
+Commands & Instructions,Tule tänne!
+Commands & Instructions,Kirjoita nimesi tähän.
+Commands & Instructions,Lue tämä kirja huomenna.
+Commands & Instructions,"Sulje ovi, kiitos."
+Commands & Instructions,Katso tätä kuvaa tarkasti.
+Commands & Instructions,Älä unohda ostaa maitoa.
+Commands & Instructions,Odota hetki.
+Commands & Instructions,Puhukaa hiljempaa.
+Named Entity Recognition,Helsinki on Suomen pääkaupunki.
+Named Entity Recognition,Karjala on kaunis alue.
+Named Entity Recognition,Joulupukki asuu Korvatunturilla.
+Named Entity Recognition,Mie tykkään Sortavalasta.
+Named Entity Recognition,Tampereella on paljon järviä.
+Named Entity Recognition,Nokia on suomalainen yritys.
+Named Entity Recognition,Albert Einstein oli kuuluisa fyysikko.
+Named Entity Recognition,Mie tapasin Liisan eilen.
+Named Entity Recognition,Venäjä on iso maa.
+Named Entity Recognition,Järvi nimeltä Ladoga on valtava.
+Sentiment Analysis Data,Rakastan tätä elokuvaa!
+Sentiment Analysis Data,Tämä kirja oli tylsä.
+Sentiment Analysis Data,Olin niin iloinen tänään!
+Sentiment Analysis Data,Mie vihaan odottamista.
+Sentiment Analysis Data,Sää on täydellinen tänään!
+Sentiment Analysis Data,Mie petyin tähän ravintolaan.
+Sentiment Analysis Data,Tämä oli paras päivä ikinä!
+Sentiment Analysis Data,Mie en tykännyt ruoasta.
+Sentiment Analysis Data,Mie olen innoissani matkasta!
+Sentiment Analysis Data,Tämä uutinen teki minut surulliseksi.
+Paraphrased & Augmented Sentences,Mie en ole nähnyt tämännäköistä kirjaa aikaisemmin.
+Paraphrased & Augmented Sentences,Tämä kirja on ihan uusi minulle.
+Paraphrased & Augmented Sentences,En ole ikinä ennen lukenut tällaista kirjaa.
+Paraphrased & Augmented Sentences,Tämä teos on täysin vieras minulle.
+Paraphrased & Augmented Sentences,En tunne tätä kirjaa ennestään.
+Paraphrased & Augmented Sentences,Mie en ole koskaan tutustunut tähän kirjaan.
+Paraphrased & Augmented Sentences,Tämä opus on minulle outo.
+Paraphrased & Augmented Sentences,Tämä kirja on minulle tuntematon.
+Paraphrased & Augmented Sentences,En ole nähnyt tätä teosta ennen.
+Paraphrased & Augmented Sentences,Tämä kirjallisuus on minulle uusi tuttavuus.

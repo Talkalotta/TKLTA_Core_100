@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Vakar valgiau obuolį.
+Grammar Core,Rytoj eisiu į parduotuvę.
+Grammar Core,Jis dažnai skaito knygas.
+Grammar Core,"Jei turėčiau laiko, keliaučiau po pasaulį."
+Grammar Core,Mūsų namas buvo pastatytas prieš dešimt metų.
+Grammar Core,Ji nebuvo laiminga dėl egzamino rezultatų.
+Grammar Core,Vaikai mokosi greitai.
+Grammar Core,Buvau sutikęs jį anksčiau.
+Grammar Core,Knygos buvo perskaitytos vakar.
+Grammar Core,Aš nesiruošiu tau padėti.
+Conversational Data,"Labas, kaip sekasi?"
+Conversational Data,"Gerai, ačiū! O tau?"
+Conversational Data,Ką šiandien veiksi?
+Conversational Data,Gal norėtum nueiti į kiną?
+Conversational Data,"Taip, skamba puikiai!"
+Conversational Data,Kaip buvo tavo savaitgalis?
+Conversational Data,Puikus! Keliavome į pajūrį.
+Conversational Data,Kur mes susitiksime?
+Conversational Data,"Prie kavinės, 18 valandą."
+Conversational Data,"Gerai, lauksiu!"
+Code-Switching & Multilingualism,Man labai patinka programming.
+Code-Switching & Multilingualism,Aš ką tik pirkau new laptop.
+Code-Switching & Multilingualism,Jis pasakė: 'Let’s go!'
+Code-Switching & Multilingualism,Šiandien turėjome labai important meeting.
+Code-Switching & Multilingualism,Kada grįši home?
+Code-Switching & Multilingualism,Aš kalbu lietuviškai ir English.
+Code-Switching & Multilingualism,Gali man padėti su this document?
+Code-Switching & Multilingualism,Labai cool diena šiandien!
+Code-Switching & Multilingualism,Reikia padaryti update sistemai.
+Code-Switching & Multilingualism,Jis sakė 'Hasta la vista!'
+Formal & Professional Speech,Prašome atsiųsti sutartį iki penktadienio.
+Formal & Professional Speech,"Gerbiamas kliente, jūsų užsakymas paruoštas."
+Formal & Professional Speech,Šis tyrimas atskleidžia svarbius duomenis.
+Formal & Professional Speech,Susitikimas vyks antradienį 10:00 valandą.
+Formal & Professional Speech,Dėkojame už bendradarbiavimą.
+Formal & Professional Speech,Norėtume pateikti oficialų pasiūlymą.
+Formal & Professional Speech,Šis dokumentas turi būti patvirtintas.
+Formal & Professional Speech,Medicinos tyrimai rodo teigiamus rezultatus.
+Formal & Professional Speech,Mūsų bendrovė siūlo kokybiškas paslaugas.
+Formal & Professional Speech,Prašome laikytis nustatytų taisyklių.
+"Idioms, Proverbs & Cultural Expressions","Nei šis, nei tas."
+"Idioms, Proverbs & Cultural Expressions",Laikas - pinigai.
+"Idioms, Proverbs & Cultural Expressions",Nespręsk knygos pagal viršelį.
+"Idioms, Proverbs & Cultural Expressions",Sėdi kaip ant adatų.
+"Idioms, Proverbs & Cultural Expressions",Meškos paslauga.
+"Idioms, Proverbs & Cultural Expressions","Du kartus matuok, vieną kartą kirpk."
+"Idioms, Proverbs & Cultural Expressions",Vienas lauke ne karys.
+"Idioms, Proverbs & Cultural Expressions",Geriau vėliau nei niekada.
+"Idioms, Proverbs & Cultural Expressions",Draugą nelaimėje pažinsi.
+"Idioms, Proverbs & Cultural Expressions",Tyla – gera byla.
+Question-Answer Pairs,Koks tavo vardas?
+Question-Answer Pairs,Mano vardas Tomas.
+Question-Answer Pairs,Kur tu gyveni?
+Question-Answer Pairs,Gyvenu Vilniuje.
+Question-Answer Pairs,Koks oras šiandien?
+Question-Answer Pairs,Šiandien saulėta ir šilta.
+Question-Answer Pairs,Kaip jautiesi?
+Question-Answer Pairs,Jaučiuosi puikiai!
+Question-Answer Pairs,Ar gali man padėti?
+Question-Answer Pairs,"Taip, žinoma!"
+Commands & Instructions,Atidaryk langą.
+Commands & Instructions,Parašyk laišką vadovui.
+Commands & Instructions,Nueik į parduotuvę ir nupirk pieno.
+Commands & Instructions,Įjunk televizorių.
+Commands & Instructions,Išjunk telefoną prieš susitikimą.
+Commands & Instructions,Atnešk man dokumentus.
+Commands & Instructions,Palauk čia kelias minutes.
+Commands & Instructions,"Pasirašyk čia, prašau."
+Commands & Instructions,Padėk knygą į lentyną.
+Commands & Instructions,Pakeisk slaptažodį.
+Named Entity Recognition (NER) Data,Vilnius yra Lietuvos sostinė.
+Named Entity Recognition (NER) Data,Jonas dirba Google kompanijoje.
+Named Entity Recognition (NER) Data,Susitiksime Gedimino prospekte.
+Named Entity Recognition (NER) Data,Paryžius yra nuostabus miestas.
+Named Entity Recognition (NER) Data,Apple išleido naują produktą.
+Named Entity Recognition (NER) Data,Gimiau 1995 metais.
+Named Entity Recognition (NER) Data,Šiandien yra kovo 6 diena.
+Named Entity Recognition (NER) Data,Prezidentas kalbėjo apie ekonominę situaciją.
+Named Entity Recognition (NER) Data,Kelionė į Romą buvo įspūdinga.
+Named Entity Recognition (NER) Data,NASA atrado naują planetą.
+Sentiment Analysis Data,Man labai patiko šis filmas!
+Sentiment Analysis Data,Tai buvo siaubinga patirtis.
+Sentiment Analysis Data,Aš esu labai laimingas!
+Sentiment Analysis Data,Jaučiuosi prislėgtas šiandien.
+Sentiment Analysis Data,Šis produktas yra tiesiog nuostabus.
+Sentiment Analysis Data,Mane erzina lėti žmonės.
+Sentiment Analysis Data,Tavo dovana buvo labai maloni staigmena!
+Sentiment Analysis Data,Šis sprendimas man kelia nerimą.
+Sentiment Analysis Data,Tai buvo pati blogiausia diena mano gyvenime.
+Sentiment Analysis Data,"Jis man labai padėjo, esu dėkingas."
+Paraphrased & Augmented Sentences,Aš myliu knygas.
+Paraphrased & Augmented Sentences,Knygos yra mano gyvenimo dalis.
+Paraphrased & Augmented Sentences,Negaliu įsivaizduoti gyvenimo be knygų.
+Paraphrased & Augmented Sentences,Man patinka skaityti įvairias knygas.
+Paraphrased & Augmented Sentences,Knygų skaitymas praturtina mano mintis.
+Paraphrased & Augmented Sentences,Mano aistra – knygos.
+Paraphrased & Augmented Sentences,Kiekvieną dieną skaitau po kelis puslapius.
+Paraphrased & Augmented Sentences,Negaliu užmigti be knygos rankose.
+Paraphrased & Augmented Sentences,Knygų pasaulis yra begalinis.
+Paraphrased & Augmented Sentences,Skaitau knygas nuo vaikystės.

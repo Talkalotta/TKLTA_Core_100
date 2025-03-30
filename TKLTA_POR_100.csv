@@ -1,0 +1,101 @@
+Category,Sentence_PT
+Grammar Core (Sentence Structures & Tenses),Ontem fui ao mercado e comprei frutas frescas.
+Grammar Core (Sentence Structures & Tenses),"Se eu tivesse mais tempo, viajaria pelo mundo."
+Grammar Core (Sentence Structures & Tenses),A carta será enviada amanhã pela manhã.
+Grammar Core (Sentence Structures & Tenses),Ele está estudando para o exame de matemática.
+Grammar Core (Sentence Structures & Tenses),Não gosto de café sem açúcar.
+Grammar Core (Sentence Structures & Tenses),O relatório foi concluído na semana passada.
+Grammar Core (Sentence Structures & Tenses),"Se chovesse hoje, ficaríamos em casa."
+Grammar Core (Sentence Structures & Tenses),A loja abrirá às nove da manhã.
+Grammar Core (Sentence Structures & Tenses),Já tinha terminado o projeto antes da reunião.
+Grammar Core (Sentence Structures & Tenses),Eles costumavam brincar no parque todas as tardes.
+Conversational Data (Real-Life Dialogues & Exchanges),"Oi, como foi o seu dia?"
+Conversational Data (Real-Life Dialogues & Exchanges),Pode me dizer onde fica a estação de metrô?
+Conversational Data (Real-Life Dialogues & Exchanges),"Quero um café sem açúcar, por favor."
+Conversational Data (Real-Life Dialogues & Exchanges),Está tudo bem com você hoje?
+Conversational Data (Real-Life Dialogues & Exchanges),Vamos ao cinema amanhã à noite?
+Conversational Data (Real-Life Dialogues & Exchanges),Que horas você sai do trabalho?
+Conversational Data (Real-Life Dialogues & Exchanges),Este lugar tem um ambiente incrível!
+Conversational Data (Real-Life Dialogues & Exchanges),Você viu o último episódio da série?
+Conversational Data (Real-Life Dialogues & Exchanges),"Eu não tenho certeza, mas posso verificar para você."
+Conversational Data (Real-Life Dialogues & Exchanges),Que tipo de música você gosta de ouvir?
+Code-Switching & Multilingualism,O restaurante aqui tem uma vibe muito cozy.
+Code-Switching & Multilingualism,Vou fazer um meeting com a equipe amanhã.
+Code-Switching & Multilingualism,Ela comprou um ticket para o show no fim de semana.
+Code-Switching & Multilingualism,O deadline do projeto é na próxima sexta-feira.
+Code-Switching & Multilingualism,Não esqueça de dar um follow-up no e-mail do cliente.
+Code-Switching & Multilingualism,Ele sempre usa um outfit bem estiloso.
+Code-Switching & Multilingualism,Vamos ter um brainstorming sobre a campanha.
+Code-Switching & Multilingualism,Esse software tem um feature incrível!
+Code-Switching & Multilingualism,Ela trabalha como designer em uma startup.
+Code-Switching & Multilingualism,O CEO fez um speech motivacional incrível.
+Formal & Professional Speech,"Prezado cliente, sua solicitação foi processada com sucesso."
+Formal & Professional Speech,A reunião do conselho será realizada na sexta-feira às 15h.
+Formal & Professional Speech,Solicitamos que preencha o formulário anexo.
+Formal & Professional Speech,O relatório financeiro será divulgado na próxima semana.
+Formal & Professional Speech,O contrato deve ser assinado antes do início do projeto.
+Formal & Professional Speech,A cirurgia será realizada sob anestesia geral.
+Formal & Professional Speech,"Por favor, envie a documentação necessária até o prazo estipulado."
+Formal & Professional Speech,A análise de mercado revelou tendências promissoras.
+Formal & Professional Speech,A política da empresa proíbe o uso de dispositivos pessoais durante o expediente.
+Formal & Professional Speech,O diagnóstico foi confirmado após exames laboratoriais detalhados.
+"Idioms, Proverbs & Cultural Expressions",Mais vale um pássaro na mão do que dois a voar.
+"Idioms, Proverbs & Cultural Expressions",A curiosidade matou o gato.
+"Idioms, Proverbs & Cultural Expressions","Quem semeia ventos, colhe tempestades."
+"Idioms, Proverbs & Cultural Expressions",Água mole em pedra dura tanto bate até que fura.
+"Idioms, Proverbs & Cultural Expressions",Cada macaco no seu galho.
+"Idioms, Proverbs & Cultural Expressions","De grão em grão, a galinha enche o papo."
+"Idioms, Proverbs & Cultural Expressions",Mais vale tarde do que nunca.
+"Idioms, Proverbs & Cultural Expressions","Quem cala, consente."
+"Idioms, Proverbs & Cultural Expressions",Ladrão que rouba ladrão tem cem anos de perdão.
+"Idioms, Proverbs & Cultural Expressions",Não adianta chorar sobre o leite derramado.
+Question-Answer Pairs,Qual é a capital de Portugal? - Lisboa.
+Question-Answer Pairs,Quantos planetas há no sistema solar? - Oito.
+Question-Answer Pairs,Quem escreveu 'Os Lusíadas'? - Luís de Camões.
+Question-Answer Pairs,Como posso resetar minha senha? - Vá até as configurações e clique em 'Redefinir Senha'.
+Question-Answer Pairs,Qual é o tempo de voo de Lisboa para Madrid? - Cerca de 1 hora e 30 minutos.
+Question-Answer Pairs,Que dia é feriado nacional em Portugal? - 25 de abril.
+Question-Answer Pairs,Qual é a moeda oficial de Portugal? - O Euro.
+Question-Answer Pairs,Como posso cancelar minha assinatura? - Entre em contato com o suporte ao cliente.
+Question-Answer Pairs,"Quantos litros tem um galão? - Aproximadamente 3,785 litros."
+Question-Answer Pairs,Quando foi a Revolução dos Cravos? - 25 de abril de 1974.
+Commands & Instructions,Feche a porta antes de sair.
+Commands & Instructions,"Por favor, desligue o computador após o expediente."
+Commands & Instructions,"Não toque nesse objeto, ele é frágil."
+Commands & Instructions,Siga as instruções do manual para instalar o software.
+Commands & Instructions,Lave bem as mãos antes de cozinhar.
+Commands & Instructions,Envie o relatório até o final do dia.
+Commands & Instructions,Aperte o botão para iniciar o processo.
+Commands & Instructions,Mantenha os documentos organizados no arquivo.
+Commands & Instructions,Digite sua senha e pressione Enter.
+Commands & Instructions,Atualize o aplicativo para a versão mais recente.
+Named Entity Recognition (NER),Maria visitou o Museu Nacional de Arte Antiga em Lisboa.
+Named Entity Recognition (NER),A Google lançou um novo produto inovador.
+Named Entity Recognition (NER),O Cristiano Ronaldo marcou três gols na última partida.
+Named Entity Recognition (NER),A conferência acontecerá em Paris no próximo mês.
+Named Entity Recognition (NER),O Banco Central anunciou novas taxas de juros.
+Named Entity Recognition (NER),A Tesla desenvolveu um carro elétrico revolucionário.
+Named Entity Recognition (NER),A Universidade de Coimbra é uma das mais antigas da Europa.
+Named Entity Recognition (NER),O Rio Tejo atravessa Portugal e Espanha.
+Named Entity Recognition (NER),A Amazon abriu um novo centro logístico em Madrid.
+Named Entity Recognition (NER),A ONU realizará uma reunião sobre mudanças climáticas.
+Sentiment Analysis Data,Estou muito feliz com minha nova casa!
+Sentiment Analysis Data,Este restaurante tem um péssimo atendimento.
+Sentiment Analysis Data,Acho que este filme foi incrível!
+Sentiment Analysis Data,Não gostei nada da forma como fui tratado.
+Sentiment Analysis Data,Sinto-me animado para a viagem de amanhã!
+Sentiment Analysis Data,Este livro mudou minha perspectiva sobre a vida.
+Sentiment Analysis Data,"O produto chegou danificado, estou muito decepcionado."
+Sentiment Analysis Data,"A apresentação foi excelente, parabéns!"
+Sentiment Analysis Data,Fiquei triste ao ouvir as notícias hoje.
+Sentiment Analysis Data,Que experiência maravilhosa tivemos no hotel!
+Paraphrased & Augmented Sentences,Ele comprou um carro novo. -> Ele adquiriu um veículo novo.
+Paraphrased & Augmented Sentences,Vamos ao cinema hoje? -> Gostaria de ir ao cinema hoje?
+Paraphrased & Augmented Sentences,O projeto foi finalizado ontem. -> O trabalho foi concluído ontem.
+Paraphrased & Augmented Sentences,O jantar estava delicioso. -> A comida estava incrível.
+Paraphrased & Augmented Sentences,O trânsito está horrível hoje. -> Há muito congestionamento hoje.
+Paraphrased & Augmented Sentences,Gostei muito do filme. -> Achei o filme excelente.
+Paraphrased & Augmented Sentences,O voo atrasou duas horas. -> A partida do avião foi adiada por duas horas.
+Paraphrased & Augmented Sentences,O evento será na próxima semana. -> O evento ocorrerá na semana seguinte.
+Paraphrased & Augmented Sentences,Preciso de ajuda com este problema. -> Poderia me auxiliar com esta questão?
+Paraphrased & Augmented Sentences,O computador não está funcionando. -> O sistema apresentou falha.
