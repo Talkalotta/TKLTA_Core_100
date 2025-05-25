@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),Chodievam tam každú stredu.
+Grammar Core (Sentence Structures & Tenses),"Bol by som tam prišiel, keby som mal čas."
+Grammar Core (Sentence Structures & Tenses),Písali sme list celej triede.
+Grammar Core (Sentence Structures & Tenses),Zajtra pôjdeš do školy.
+Grammar Core (Sentence Structures & Tenses),List bol napísaný učiteľkou.
+Grammar Core (Sentence Structures & Tenses),Neprídem dnes večer.
+Grammar Core (Sentence Structures & Tenses),"Čítali by sme viac, keby sme mali knihy."
+Grammar Core (Sentence Structures & Tenses),Kde si bol včera večer?
+Grammar Core (Sentence Structures & Tenses),"Staval by dom, keby mal peniaze."
+Grammar Core (Sentence Structures & Tenses),Kniha bola nájdená na lavičke.
+Conversational Data (Real-Life Dialogues & Exchanges),"Ahoj, ako sa máš?"
+Conversational Data (Real-Life Dialogues & Exchanges),Môžeme sa stretnúť dnes večer?
+Conversational Data (Real-Life Dialogues & Exchanges),"Neviem, čo tým myslíš."
+Conversational Data (Real-Life Dialogues & Exchanges),"Poď sem, chcem ti niečo ukázať."
+Conversational Data (Real-Life Dialogues & Exchanges),Dáš si kávu alebo čaj?
+Conversational Data (Real-Life Dialogues & Exchanges),"Prepáč, že meškám."
+Conversational Data (Real-Life Dialogues & Exchanges),Čo robíš cez víkend?
+Conversational Data (Real-Life Dialogues & Exchanges),Máš chvíľku čas?
+Conversational Data (Real-Life Dialogues & Exchanges),To je skvelý nápad!
+Conversational Data (Real-Life Dialogues & Exchanges),Fakt? To som nevedel.
+Code-Switching & Multilingualism,"Môžeme ísť do kina, or we could just stay home."
+Code-Switching & Multilingualism,Dnes mám meeting so šéfom.
+Code-Switching & Multilingualism,"Je to veľmi cool nápad, fakt!"
+Code-Switching & Multilingualism,"Pošli mi ten file, prosím."
+Code-Switching & Multilingualism,Toto je náš nový projekt launch.
+Code-Switching & Multilingualism,Zajtra mám deadline.
+Code-Switching & Multilingualism,Chceš ísť na lunch o dvanástej?
+Code-Switching & Multilingualism,Tá appka nefunguje správne.
+Code-Switching & Multilingualism,Potrebujeme brainstorming pred začiatkom.
+Code-Switching & Multilingualism,"On mi povedal 'don’t worry', všetko bude v pohode."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Podpíšte tento formulár, prosím."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Vaša žiadosť bola schválená.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Pacient má zvýšenú teplotu a kašeľ.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Zmluva nadobúda platnosť od zajtra.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Rada prebiehala v konferenčnej miestnosti.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Predložené dôkazy sú relevantné pre prípad.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Váš e-mail bol úspešne doručený.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Odporúčame ďalšie testovanie.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Používateľské údaje musia byť zašifrované.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Prosím, potvrďte svoju prítomnosť do piatku."
+"Idioms, Proverbs & Cultural Expressions","Kto druhému jamu kope, sám do nej padne."
+"Idioms, Proverbs & Cultural Expressions","Nie je všetko zlato, čo sa blyští."
+"Idioms, Proverbs & Cultural Expressions","Ako sa do lesa volá, tak sa z lesa ozýva."
+"Idioms, Proverbs & Cultural Expressions",Lepší vrabec v hrsti ako holub na streche.
+"Idioms, Proverbs & Cultural Expressions",Na každého raz dôjde.
+"Idioms, Proverbs & Cultural Expressions",Bez práce nie sú koláče.
+"Idioms, Proverbs & Cultural Expressions",Tichá voda brehy myje.
+"Idioms, Proverbs & Cultural Expressions","Kto skôr príde, ten skôr melie."
+"Idioms, Proverbs & Cultural Expressions","Keď sa dvaja bijú, tretí vyhráva."
+"Idioms, Proverbs & Cultural Expressions",Čas lieči všetky rany.
+Question-Answer Pairs (FAQ & Contextual Understanding),Kedy odchádza posledný autobus?
+Question-Answer Pairs (FAQ & Contextual Understanding),Ako funguje tento stroj?
+Question-Answer Pairs (FAQ & Contextual Understanding),Kto je prezidentom Slovenska?
+Question-Answer Pairs (FAQ & Contextual Understanding),Čo si o tom myslíš?
+Question-Answer Pairs (FAQ & Contextual Understanding),Prečo si tam nešiel?
+Question-Answer Pairs (FAQ & Contextual Understanding),Aký je rozdiel medzi týmito produktmi?
+Question-Answer Pairs (FAQ & Contextual Understanding),Koľko to stojí?
+Question-Answer Pairs (FAQ & Contextual Understanding),Kde si nechal kľúče?
+Question-Answer Pairs (FAQ & Contextual Understanding),Ktorý film si videl naposledy?
+Question-Answer Pairs (FAQ & Contextual Understanding),Môžem si to požičať?
+Commands & Instructions (Imperative Sentences),Zavri dvere.
+Commands & Instructions (Imperative Sentences),Pošli mi správu.
+Commands & Instructions (Imperative Sentences),Otoč sa doprava.
+Commands & Instructions (Imperative Sentences),Prečítaj túto knihu.
+Commands & Instructions (Imperative Sentences),Zostaň doma dnes.
+Commands & Instructions (Imperative Sentences),"Vypni svetlo, prosím."
+Commands & Instructions (Imperative Sentences),Zavolaj mu hneď.
+Commands & Instructions (Imperative Sentences),Nezabudni na úlohu.
+Commands & Instructions (Imperative Sentences),Otvor okno.
+Commands & Instructions (Imperative Sentences),Choď spať.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Bratislava je hlavné mesto Slovenska.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Ján Kuciak bol investigatívny novinár.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Dátum konferencie je 15. máj 2025.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Google otvoril nové centrum v Košiciach.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Prezidentka Zuzana Čaputová vystúpila v parlamente.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Mesto Prešov zaznamenalo rekordný rast.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Festival Pohoda sa koná každé leto.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Slovenská akadémia vied publikovala nový výskum.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Tatra banka zaviedla nový bezpečnostný systém.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",UNESCO zaradilo Spišský hrad na zoznam dedičstva.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Toto jedlo je výborné!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Nenávidím ranné vstávanie.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Som trochu nervózny z testu.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Cítim sa šťastný, keď prší."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Tento film bol úplne nudný.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Je mi to ľúto.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Som nadšený z tejto príležitosti.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Toto ma hnevá.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Už sa neviem dočkať víkendu.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Bolo to veľmi dojímavé.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Môžeme sa ísť pozrieť do mesta?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Chcel by som navštíviť centrum.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Radi by sme si dali niečo na pitie.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Môžeme ísť do mesta?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Poďme na výlet autom.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Rád by som sa prešiel po nábreží.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Mesto vyzerá veľmi krásne večer.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Je tu niekde dobrá reštaurácia?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Aký je najlepší spôsob, ako sa tam dostať?"
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Kde sa nachádza najbližšia stanica?
