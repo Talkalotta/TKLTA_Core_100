@@ -1,101 +1,101 @@
-Category,Sentence in Taiwanese Hokkien
-Grammar Core (Sentence Structures & Tenses),我去學校。
-Grammar Core (Sentence Structures & Tenses),伊今仔日無來。
-Grammar Core (Sentence Structures & Tenses),若雨落，我就無出去。
-Grammar Core (Sentence Structures & Tenses),彼本冊是我的。
-Grammar Core (Sentence Structures & Tenses),伊欲食飯。
-Grammar Core (Sentence Structures & Tenses),咱會當去台南看廟。
-Grammar Core (Sentence Structures & Tenses),我有去過彼間餐廳。
-Grammar Core (Sentence Structures & Tenses),若我是你，我就會講話。
-Grammar Core (Sentence Structures & Tenses),彼个狗予人咬了。
-Grammar Core (Sentence Structures & Tenses),若你唔聽話，你爸會罵你。
-Conversational Data (Real-Life Dialogues & Exchanges),你好！食飽未？
-Conversational Data (Real-Life Dialogues & Exchanges),今仔日天氣真好！
-Conversational Data (Real-Life Dialogues & Exchanges),你欲去佗位？
-Conversational Data (Real-Life Dialogues & Exchanges),這間店仔賣啥物？
-Conversational Data (Real-Life Dialogues & Exchanges),我今仔日佇厝睏一日。
-Conversational Data (Real-Life Dialogues & Exchanges),恁爸爸佇佗位？
-Conversational Data (Real-Life Dialogues & Exchanges),這塊糕真好食！
-Conversational Data (Real-Life Dialogues & Exchanges),彼个人是你的朋友無？
-Conversational Data (Real-Life Dialogues & Exchanges),你這馬閒無？
-Conversational Data (Real-Life Dialogues & Exchanges),伊嘛無講啥物。
-Code-Switching & Multilingualism,我要commit彼條code。
-Code-Switching & Multilingualism,這個project已經push去GitHub矣。
-Code-Switching & Multilingualism,你check過這條function未？
-Code-Switching & Multilingualism,請add一條comment佇這个file。
-Code-Switching & Multilingualism,若有bug，你就debug一下。
-Code-Switching & Multilingualism,API request timeout矣。
-Code-Switching & Multilingualism,這是frontend的問題抑是backend？
-Code-Switching & Multilingualism,database connection有問題。
-Code-Switching & Multilingualism,伊佇Slack共我講，code有問題。
-Code-Switching & Multilingualism,你deploy這个app矣無？
-"Formal & Professional Speech (Business, Legal, Medical, Technical)",根據法律，這个行為是不合法的。
-"Formal & Professional Speech (Business, Legal, Medical, Technical)",請提供您的身分證明文件。
-"Formal & Professional Speech (Business, Legal, Medical, Technical)",這个病人需要進一步檢查。
-"Formal & Professional Speech (Business, Legal, Medical, Technical)",我們的公司專門開發人工智慧技術。
-"Formal & Professional Speech (Business, Legal, Medical, Technical)",請簽名佇這份契約上。
-"Formal & Professional Speech (Business, Legal, Medical, Technical)",這項研究顯示新的治療方式有效。
-"Formal & Professional Speech (Business, Legal, Medical, Technical)",貴公司有提供國際運輸服務無？
-"Formal & Professional Speech (Business, Legal, Medical, Technical)",我們今仔日討論企業發展計畫。
-"Formal & Professional Speech (Business, Legal, Medical, Technical)",請準時提交您的財務報告。
-"Formal & Professional Speech (Business, Legal, Medical, Technical)",依據醫生的建議，你需要休息一個禮拜。
-"Idioms, Proverbs & Cultural Expressions",食飽閒閒無代誌。
-"Idioms, Proverbs & Cultural Expressions",三日無讀書，面目生荊棘。
-"Idioms, Proverbs & Cultural Expressions",有影無影講一大堆。
-"Idioms, Proverbs & Cultural Expressions",毋知驚死，才好去跳水。
-"Idioms, Proverbs & Cultural Expressions",牛牽到北京嘛是牛。
-"Idioms, Proverbs & Cultural Expressions",食緊弄破碗。
-"Idioms, Proverbs & Cultural Expressions",飼狗來顧厝。
-"Idioms, Proverbs & Cultural Expressions",人講話要有信用。
-"Idioms, Proverbs & Cultural Expressions",月娘照海面，世事無一定。
-"Idioms, Proverbs & Cultural Expressions",無工無傷，清氣過日。
-Question-Answer Pairs (FAQ & Contextual Understanding),這个地方佇佗位？
-Question-Answer Pairs (FAQ & Contextual Understanding),我佇捷運站等你，好無？
-Question-Answer Pairs (FAQ & Contextual Understanding),今仔日天氣如何？
-Question-Answer Pairs (FAQ & Contextual Understanding),這條路行的佇佗位？
-Question-Answer Pairs (FAQ & Contextual Understanding),若無錢，按怎買東西？
-Question-Answer Pairs (FAQ & Contextual Understanding),你有無去過台南？
-Question-Answer Pairs (FAQ & Contextual Understanding),台北車站離這裡遠無？
-Question-Answer Pairs (FAQ & Contextual Understanding),彼間店仔有賣咖啡無？
-Question-Answer Pairs (FAQ & Contextual Understanding),這本書佇佗位買會當買著？
-Question-Answer Pairs (FAQ & Contextual Understanding),你知影佗位有賣珍珠奶茶？
-Commands & Instructions (Imperative Sentences),請你再講一擺。
-Commands & Instructions (Imperative Sentences),放佇桌頂。
-Commands & Instructions (Imperative Sentences),請趕緊行！
-Commands & Instructions (Imperative Sentences),毋通食太濟甜的東西。
-Commands & Instructions (Imperative Sentences),叫伊來開門。
-Commands & Instructions (Imperative Sentences),寫你的名字佇這張紙頂。
-Commands & Instructions (Imperative Sentences),愛先洗手才會當食飯。
-Commands & Instructions (Imperative Sentences),入來坐啦！
-Commands & Instructions (Imperative Sentences),毋好咧吵，彼個嬰仔咧睏。
-Commands & Instructions (Imperative Sentences),這个報告明仔早欲交出去。
-"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",台北101是台灣最高的建築物。
-"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",我今仔日去過高雄市。
-"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",伊佇台南讀大學。
-"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",蘋果公司推出新的手機矣。
-"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",這場會議佇六月三號舉行。
-"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",我已經訂好七月十五號的機票。
-"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",伊佇中研院研究人工智慧。
-"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Google是國際科技公司。
-"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",陳先生是咱公司的老闆。
-"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",故宮博物院收藏真濟文物。
-Sentiment Analysis Data (Emotion & Opinion-based Sentences),我真歡喜這个地方！
-Sentiment Analysis Data (Emotion & Opinion-based Sentences),伊看起來真憂愁。
-Sentiment Analysis Data (Emotion & Opinion-based Sentences),這个電影予人感覺真感動。
-Sentiment Analysis Data (Emotion & Opinion-based Sentences),我對這個產品無滿意。
-Sentiment Analysis Data (Emotion & Opinion-based Sentences),伊對這個決定感覺真傷心。
-Sentiment Analysis Data (Emotion & Opinion-based Sentences),我對你的幫忙感覺感謝。
-Sentiment Analysis Data (Emotion & Opinion-based Sentences),這個消息予人真歡喜。
-Sentiment Analysis Data (Emotion & Opinion-based Sentences),伊對新工作充滿期待。
-Sentiment Analysis Data (Emotion & Opinion-based Sentences),我對這件事真失望。
-Sentiment Analysis Data (Emotion & Opinion-based Sentences),這道菜真好食！
-Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),伊今仔日有來。
-Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),今仔日伊有來矣。
-Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),這个人無佇厝。
-Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),伊這馬佇辦公室。
-Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),咱明仔日會當去看電影。
-Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),明仔日咱會當去戲院看電影。
-Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),伊已經買著這本書。
-Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),這本書伊已經買了。
-Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),若下晡有閒，我欲去運動。
-Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),若無閒，我就無去運動。
+Category,Sentence
+Grammar Core,Wa̍h tsia̍h-pá--ah.
+Grammar Core,In tī tōa-pak chia̍h pn̄g.
+Grammar Core,Guá beh khì pêⁿ-chhiú-á.
+Grammar Core,I m̄ sī lâng.
+Grammar Core,Guá ū khì lâu lāi.
+Grammar Core,I ē khì sīnn-mn̂g chhè lí.
+Grammar Core,Guá bē hō͘ lí tsia̍h.
+Grammar Core,Tāi-pak lóng bē lâi.
+Grammar Core,Guá hó bô hó?
+Grammar Core,In ū sái tsò lí ê būn-chiuⁿ.
+Conversational Data,Li hó bô?
+Conversational Data,Guá bē sái khì tī hit ê hō͘-lí.
+Conversational Data,Lí ē chia̍h bē chia̍h?
+Conversational Data,Tsia̍h-pá bōe? Guá ū phah pn̄g.
+Conversational Data,"Bô tī-chhiú, guá sió--ê sī tsò tāu-tsiá."
+Conversational Data,"Bē sái tsò--leh, lí kā guá kong chhiú--leh."
+Conversational Data,"Tāi-kháu lóng hó--ah, m̄-koh lí ê lán?"
+Conversational Data,Lí tsò sió-téng khì lí ê mā-tńg?
+Conversational Data,"Guá tsai--leh, guá ê lân-bó chhut--ah."
+Conversational Data,Lí tsai án-tsuánn lâi?
+Code-Switching & Multilingualism,"Wa̍h tsia̍h-pá--ah, but I still hungry."
+Code-Switching & Multilingualism,"Lí bē sái đi makan now, guá khì chhōe lí."
+Code-Switching & Multilingualism,"Tēnn bô tsài, tapi dia memang pandai."
+Code-Switching & Multilingualism,"Guá ē tsá hokkien, English pun sikit-sikit."
+Code-Switching & Multilingualism,"In chhiūn--leh, 啊你来做么？"
+Code-Switching & Multilingualism,"Bô hó--lah, kita tunggu sat ni."
+Code-Switching & Multilingualism,"Mā-tsiā bo-ho̍k, nanti you kena complain."
+Code-Switching & Multilingualism,"Tio̍h lah, sudah pukul dua liao."
+Code-Switching & Multilingualism,Guá mā beh khì eat sushi jin ho.
+Code-Switching & Multilingualism,"Na tsài, kita pi-liao."
+Formal & Professional Speech,Guá sī hit pêng kong-si ê tsok-chhiong.
+Formal & Professional Speech,Chhit-pō hō͘ lâng tsò káng-lí hó chhit--ê.
+Formal & Professional Speech,Lí sī guán lō͘-sū ê hù-lí-pia̍t.
+Formal & Professional Speech,Guá ê khì-chhì chhōe khòaⁿ sî-kan tsūn-tē.
+Formal & Professional Speech,"Sió-bē, li hó tsèng ēng sió-á tī tē-lí ê hō͘-chhiú."
+Formal & Professional Speech,Guá sī ēng lî-lí kā lí phah tiàm-tsuí.
+Formal & Professional Speech,"Lí sī tsò I.T., guá sī kā lí lia̍t phìⁿ-á-bé."
+Formal & Professional Speech,Lí ē sái kā guá kong ê chhu-hàn tō siau-tsū?
+Formal & Professional Speech,"Pêng-iú, chhiáⁿ hō͘ guán ē-hōe tsìn-sî kah khah hó."
+Formal & Professional Speech,Guán kong-tsú ē-lâi hó chia̍h ê tē-á tsuē kah hō͘-tsi̍t.
+"Idioms, Proverbs & Cultural Expressions","Tsia̍h bē-pá, khì hāu-pah."
+"Idioms, Proverbs & Cultural Expressions","Chhiū chhiū khiunn khiunn, hó bô hó tsái chhiū."
+"Idioms, Proverbs & Cultural Expressions","Ka-tsiánn ka-tsiánn, lóng m̄-koh sī hó lâng."
+"Idioms, Proverbs & Cultural Expressions",Khiū tsiah tsa̍p ê khah hó kah khiū tsa̍p gō͘.
+"Idioms, Proverbs & Cultural Expressions","Thóe khì lí bē tio̍h chhit-pah, hó hó khòaⁿ."
+"Idioms, Proverbs & Cultural Expressions","Thó guá tī tshòng kè, sió thâu phah tàu."
+"Idioms, Proverbs & Cultural Expressions",Pun-sî ē tī pûn-khì--ê lâng.
+"Idioms, Proverbs & Cultural Expressions","Khah hó lâi ū than-sî, bô kah hō͘-sî tsáu-á."
+"Idioms, Proverbs & Cultural Expressions",Tńg sî tsāi tsò sió tshì-á.
+"Idioms, Proverbs & Cultural Expressions","Tshing-sîn khì--leh, tshut lāu-hō͘."
+Question-Answer Pairs,Q: Lí siáng? A: Guá sī Lîm Ē-hô.
+Question-Answer Pairs,Q: Lí beh chia̍h sió-mih? A: Guá beh chia̍h laksa.
+Question-Answer Pairs,Q: Lí khì tó-uī? A: Guá khì sî-chhī.
+Question-Answer Pairs,"Q: Lí ū tsò khì chhōe bē? A: Bô, guá tō tī chia."
+Question-Answer Pairs,Q: Lí sī tī tó-uī kì--ê? A: Tī hó͘-bí kong-si.
+Question-Answer Pairs,Q: Lí sī lí ê mā-tńg lâi? A: Sī guán ê sió-pē.
+Question-Answer Pairs,"Q: Lí hō͘ guá khòaⁿ tńg-tńg bô? A: Hó--lah, sái hó--leh."
+Question-Answer Pairs,Q: Lí kap siáng lâi? A: Guá kap guán tsió-bó.
+Question-Answer Pairs,Q: Lí hō͘ guá kiò taxi bô? A: Guá tō kiò--ah.
+Question-Answer Pairs,Q: Lí ê nâ sī sî-á? A: Sī chhit-gō͘ hāu.
+Commands & Instructions,Tio̍h tsō khah sîn.
+Commands & Instructions,Lí bē sái khì hō͘ bô hō͘ lí.
+Commands & Instructions,Pái-kè chhiáⁿ lâi tsia̍h.
+Commands & Instructions,"Tsò hó--lah, mā sī guá khì."
+Commands & Instructions,Khì chhōe khì-sì pêng-iú.
+Commands & Instructions,Pān tshái kah tsia̍h pńg.
+Commands & Instructions,"Kā guá lâi, bē sái khì--ah."
+Commands & Instructions,Chhiáⁿ kā guá thiah tshiú.
+Commands & Instructions,Bōe khì piah bô hó--leh.
+Commands & Instructions,"Thiaⁿ guá kóng, mài tsò tāu-tsiá."
+Named Entity Recognition (NER) Data,Guá tī George Town chhù.
+Named Entity Recognition (NER) Data,Pêⁿ-chhiú-á tī Penang Hill lóng ū khòaⁿ.
+Named Entity Recognition (NER) Data,Guá ê hē-sai sī Khó͘ Tē-kāi.
+Named Entity Recognition (NER) Data,In tsai Singapore lâi.
+Named Entity Recognition (NER) Data,Guán lō͘-sū sī Ang Mô͘-sî.
+Named Entity Recognition (NER) Data,Lí sī tī SMJK Chung Ling hok-seng bē?
+Named Entity Recognition (NER) Data,Guá khì Gurney Plaza tsē tshài.
+Named Entity Recognition (NER) Data,Tī Tanjong Tokong ū chia̍h-hāu hó hó ê hām.
+Named Entity Recognition (NER) Data,Guá beh chhōe Tan Tock Seng ê phāng-thâu.
+Named Entity Recognition (NER) Data,Guán lân-tī sī chhut-sî tī 1994 nî.
+Sentiment Analysis Data,Guá tsìn hó-hí tī lí chia ê khòaⁿ.
+Sentiment Analysis Data,Guá sī gōa sńg lóng bē tsia̍h.
+Sentiment Analysis Data,Guá tsò khì kah lí tsò-pêng--ah.
+Sentiment Analysis Data,Tī hāng-tsî hām-lōo chin kúi.
+Sentiment Analysis Data,Guá tsìn bē-khì lí ê tàu-tsì.
+Sentiment Analysis Data,Guá bē tsiah lóng tsò chut--lah.
+Sentiment Analysis Data,"Guá sńg chhē-lí--lah, tī chia chin khòaⁿ."
+Sentiment Analysis Data,Guá tsìn sù-sik tsò sī guá tāi-kháu.
+Sentiment Analysis Data,Lí ê ē-tàng sī hó--lah!
+Sentiment Analysis Data,"Guá m̄-sī gám hó--leh, tī chia bô tshut-thâu."
+Paraphrased & Augmented Sentences,Guá beh chia̍h laksa.
+Paraphrased & Augmented Sentences,Guá hō͘ bē sái kā lí pêⁿ laksa.
+Paraphrased & Augmented Sentences,Lí ū laksa bô? Guá hó sió chia̍h.
+Paraphrased & Augmented Sentences,"Guá tsiah bô hó, laksa chhà-tsió--ah."
+Paraphrased & Augmented Sentences,Laksa sī guá ê ài.
+Paraphrased & Augmented Sentences,"Guá tsò--leh, hó lóng tsiah laksa--ah."
+Paraphrased & Augmented Sentences,Guá chin ài tsia̍h laksa.
+Paraphrased & Augmented Sentences,Laksa m̄ sī guá m̄ ài--lah.
+Paraphrased & Augmented Sentences,"Guá kóng kah lí, guá hō͘ laksa chin siang."
+Paraphrased & Augmented Sentences,Guá kah guán lâng chia̍h laksa tī Air Itam.
