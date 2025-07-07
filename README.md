@@ -12,8 +12,10 @@ The corpus consists of files named `TKLTA_<CODE>_100.csv`, where `<CODE>` identi
   - **Paraphrased & Augmented Sentences** – alternative phrasings and variations
 - A second column containing the sentence text in the relevant language.
 
+---
+
 Some files use native scripts or region‑specific orthographies. Lines may not be strictly normalized, so minor formatting differences are expected.
 
 ---
 
-This dataset is provided "as is" without warranty. It is intended for language learning, linguistics research, and natural language processing experiments.
+These datasets are provided "as is" without warranty. They are intended for language learning, linguistics research, and natural language processing experiments.
