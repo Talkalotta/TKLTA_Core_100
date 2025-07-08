@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),jr.n=i m pr
+Grammar Core (Sentence Structures & Tenses),jr=i m pr
+Grammar Core (Sentence Structures & Tenses),jr.t=i m pr
+Grammar Core (Sentence Structures & Tenses),iw=i r jri m pr
+Grammar Core (Sentence Structures & Tenses),jr=i jri n pr
+Grammar Core (Sentence Structures & Tenses),nn=i jri n pr
+Grammar Core (Sentence Structures & Tenses),jr.tw=j m pr
+Grammar Core (Sentence Structures & Tenses),jr.tw=f m pr
+Grammar Core (Sentence Structures & Tenses),jr.tw=sn m pr
+Grammar Core (Sentence Structures & Tenses),jr.tw=n=i
+Conversational Data (Real-Life Dialogues & Exchanges),di.k n.j snb?
+Conversational Data (Real-Life Dialogues & Exchanges),snb=i. di.k snb=k?
+Conversational Data (Real-Life Dialogues & Exchanges),iw=i m nfr. ntk?
+Conversational Data (Real-Life Dialogues & Exchanges),rdi n.j mw. rdi n.k mw.
+Conversational Data (Real-Life Dialogues & Exchanges),jr=i m kA n=k?
+Conversational Data (Real-Life Dialogues & Exchanges),ir.t n=k tA xw?
+Conversational Data (Real-Life Dialogues & Exchanges),ink mAa. ntk mAa?
+Conversational Data (Real-Life Dialogues & Exchanges),xai=i r pr. xai=k?
+Conversational Data (Real-Life Dialogues & Exchanges),mrr=i tA xnt. mrr=k?
+Conversational Data (Real-Life Dialogues & Exchanges),iw=i m r kA.k
+Code-Switching & Multilingualism,jr.n=i booking m ḥaw.t
+Code-Switching & Multilingualism,di=i review m Anglis
+Code-Switching & Multilingualism,jwi m taxi r tA Hwt
+Code-Switching & Multilingualism,mrr=i coffee m cafe
+Code-Switching & Multilingualism,"iw=j m pr, but iw=f m aH"
+Code-Switching & Multilingualism,hemet=i is doctor m clinic
+Code-Switching & Multilingualism,translate di.n=i m English
+Code-Switching & Multilingualism,jwi r station m microbus
+Code-Switching & Multilingualism,iw=j writing email m laptop
+Code-Switching & Multilingualism,note m class iw jr.n=i
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",di nTr anx n nswt
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",jn.wy m wDyt n pr
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",jr.t n wDbw m Hwt-nTr
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",sDm mdw m sStA
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",xpr sDm.w Htp nTr
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",iw wab.w m pr-nswt
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",jr.t jH n xrp iAt
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",jri tA sbAyt n sS
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",jn.tn Hsbt n rmT
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",smA.w rxyt m pr aHa
+"Idioms, Proverbs & Cultural Expressions",sbA n kA iw m DAt
+"Idioms, Proverbs & Cultural Expressions",rmT mAa m ib
+"Idioms, Proverbs & Cultural Expressions","dwn tA xt, n mrr xrw"
+"Idioms, Proverbs & Cultural Expressions",iaw m Xr nTr
+"Idioms, Proverbs & Cultural Expressions",Hrj jb jw m jst
+"Idioms, Proverbs & Cultural Expressions",jr.t nTr m Hr nfr
+"Idioms, Proverbs & Cultural Expressions",sDm sw r Drw
+"Idioms, Proverbs & Cultural Expressions",nb jAw r htpw
+"Idioms, Proverbs & Cultural Expressions",jmA mAa m DAt
+"Idioms, Proverbs & Cultural Expressions",jri tA jb n xA
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: ptr=k tA pr? A: iw=f m tA xnt
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: jm=k tA xt? A: iw=i jm.tw=f
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: mrr=k di=j mw? A: iw=i mrr
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: Hr=k m Xr? A: iw=i nfr
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: sDm=k n tA sS? A: sDm.n=i
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: ptr=f n tA sS? A: iw=f m sXr
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: jm=f r DAt? A: iw=f r smH
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: di=k snb n it? A: iw=i di.tw
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: iw=k mAa? A: iw=i mAa Hr
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: sDm.tw n.j? A: sDm.tw
+Commands & Instructions (Imperative Sentences),di mw!
+Commands & Instructions (Imperative Sentences),sDm r=i!
+Commands & Instructions (Imperative Sentences),jr nTr!
+Commands & Instructions (Imperative Sentences),jwi m Hwt!
+Commands & Instructions (Imperative Sentences),m sDm!
+Commands & Instructions (Imperative Sentences),wH tA xt!
+Commands & Instructions (Imperative Sentences),wn sbAyt!
+Commands & Instructions (Imperative Sentences),xr tA xt!
+Commands & Instructions (Imperative Sentences),xr mAa!
+Commands & Instructions (Imperative Sentences),jri tA pr!
+Named Entity Recognition (NER) Data,nswt m mn-nfr iw mAa xrw
+Named Entity Recognition (NER) Data,rdi.t mw r it-ḥtp
+Named Entity Recognition (NER) Data,xai nfr r Was.t
+Named Entity Recognition (NER) Data,jmA n kA n Imn
+Named Entity Recognition (NER) Data,sbAyt n PtH-Htp
+Named Entity Recognition (NER) Data,pr m Dd-mdw n ra
+Named Entity Recognition (NER) Data,jri nfr r Xnmw
+Named Entity Recognition (NER) Data,Htp di nswt imAx
+Named Entity Recognition (NER) Data,Hwt-nTr r Imn-Ra
+Named Entity Recognition (NER) Data,jmA xt m xAst Sma
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),iw=i m xA
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),iw=i m nfr
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),iw=i m Dn
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),iw=i m snb
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),mrr=i tA Hswt
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),sDm=i nfr
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),iw=i m DAt
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),iw=i n mAa
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),mrr=i n jri tA xt
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),iw=i m jb nfr
+Paraphrased & Augmented Sentences,iw=i r pr
+Paraphrased & Augmented Sentences,iw=i r tA pr
+Paraphrased & Augmented Sentences,iw=i jm=f
+Paraphrased & Augmented Sentences,jm.tw=f hrw pn
+Paraphrased & Augmented Sentences,iw=k m sDm
+Paraphrased & Augmented Sentences,sDm.k Hr tA mdw
+Paraphrased & Augmented Sentences,iw=f r jr.t
+Paraphrased & Augmented Sentences,jr.t=f Hr tA xt
+Paraphrased & Augmented Sentences,jm.n=f m DAt
+Paraphrased & Augmented Sentences,DAt jm.n=f
