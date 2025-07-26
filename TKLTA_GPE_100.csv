@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core (Sentence Structures & Tenses),I dey go school every day.
+Grammar Core (Sentence Structures & Tenses),Yesterday I chop waakye for junction.
+Grammar Core (Sentence Structures & Tenses),Tomorrow we go meet for Accra Mall.
+Grammar Core (Sentence Structures & Tenses),"If rain fall, I no go come out."
+Grammar Core (Sentence Structures & Tenses),I no dey like am when e shout.
+Grammar Core (Sentence Structures & Tenses),"The food wey dem cook, e finish."
+Grammar Core (Sentence Structures & Tenses),Dem go buy new car next week.
+Grammar Core (Sentence Structures & Tenses),I for study hard make I pass.
+Grammar Core (Sentence Structures & Tenses),She dey read book as I dey talk.
+Grammar Core (Sentence Structures & Tenses),"The job wey I apply, dem call me."
+Conversational Data (Real-Life Dialogues & Exchanges),"Chale, how body?"
+Conversational Data (Real-Life Dialogues & Exchanges),"I dey, you norr?"
+Conversational Data (Real-Life Dialogues & Exchanges),Wetin you go chop today?
+Conversational Data (Real-Life Dialogues & Exchanges),I go like fufu plus light soup.
+Conversational Data (Real-Life Dialogues & Exchanges),E be like say rain go fall o.
+Conversational Data (Real-Life Dialogues & Exchanges),Make we link up for town.
+Conversational Data (Real-Life Dialogues & Exchanges),You hear the gist about Kwame?
+Conversational Data (Real-Life Dialogues & Exchanges),"No be small tin o, the guy spoil there."
+Conversational Data (Real-Life Dialogues & Exchanges),Abi you fit help me small?
+Conversational Data (Real-Life Dialogues & Exchanges),"Oh sure, no yawa."
+Code-Switching & Multilingualism,I dey go marché go buy tomatoes.
+Code-Switching & Multilingualism,"E be serious case, enti menka da."
+Code-Switching & Multilingualism,I need to check Google before I go.
+Code-Switching & Multilingualism,"Je suis tired, I no fit continue."
+Code-Switching & Multilingualism,"Oya, make we waka comot."
+Code-Switching & Multilingualism,Mi pɛ waakye anɔpa yi.
+Code-Switching & Multilingualism,"Chale, that guy be too arrogant la."
+Code-Switching & Multilingualism,This thing hard pass mo maths homework.
+Code-Switching & Multilingualism,"Mepaakyɛw, you get change?"
+Code-Switching & Multilingualism,Dem say na today na match dey happen.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The patient dey respond to treatment well.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Please make you sign the contract here.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",You go need pay before we process the form.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The lawyer talk say we get strong case.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Kindly send the invoice via email.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Make we do Zoom meeting by 10am.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The doctor say make I rest two days.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",You go submit your report on Friday.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Dem dey conduct audit next week.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","The file dey confidential, abeg no share am."
+"Idioms, Proverbs & Cultural Expressions",Monkey no fine but e mama like am.
+"Idioms, Proverbs & Cultural Expressions","If fish go rot, e start from the head."
+"Idioms, Proverbs & Cultural Expressions",You no fit blow whistle inside soup.
+"Idioms, Proverbs & Cultural Expressions","As you lay your bed, so you go lie top."
+"Idioms, Proverbs & Cultural Expressions","Every day be for thief, one day for master."
+"Idioms, Proverbs & Cultural Expressions",Empty barrel dey make noise pass.
+"Idioms, Proverbs & Cultural Expressions",Better soup na money kill am.
+"Idioms, Proverbs & Cultural Expressions",You no dey take fire fight fire.
+"Idioms, Proverbs & Cultural Expressions",Time no dey wait for nobody.
+"Idioms, Proverbs & Cultural Expressions",E be who get shoe know where e dey pain am.
+Question-Answer Pairs (FAQ & Contextual Understanding),Where you dey go? — I dey go market.
+Question-Answer Pairs (FAQ & Contextual Understanding),Who chop the last meat? — Na you o!
+Question-Answer Pairs (FAQ & Contextual Understanding),Why you late? — Traffic hold me.
+Question-Answer Pairs (FAQ & Contextual Understanding),How much be this? — E be ₵10.
+Question-Answer Pairs (FAQ & Contextual Understanding),Wetin happen? — E phone fall for gutter.
+Question-Answer Pairs (FAQ & Contextual Understanding),Who dey call you? — E be my boss.
+Question-Answer Pairs (FAQ & Contextual Understanding),You sabi cook jollof? — Small small.
+Question-Answer Pairs (FAQ & Contextual Understanding),You go come later? — I go try.
+Question-Answer Pairs (FAQ & Contextual Understanding),Where you from? — I from Nima.
+Question-Answer Pairs (FAQ & Contextual Understanding),You fit help me? — I go try my best.
+Commands & Instructions (Imperative Sentences),Make you close the door.
+Commands & Instructions (Imperative Sentences),Give me my change.
+Commands & Instructions (Imperative Sentences),Carry this load go inside.
+Commands & Instructions (Imperative Sentences),Stop dey shout.
+Commands & Instructions (Imperative Sentences),Tell am say I no dey.
+Commands & Instructions (Imperative Sentences),Wait for me small.
+Commands & Instructions (Imperative Sentences),Check whether light come.
+Commands & Instructions (Imperative Sentences),Call me when you reach.
+Commands & Instructions (Imperative Sentences),Hold am well make e no fall.
+Commands & Instructions (Imperative Sentences),Pick the phone answer am.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Kwame dey go Tema tomorrow.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Mabel be nurse for Korle Bu.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Accra Mall dey busy on weekends.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Dem arrest am on 5th June.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Ghana Education Service issue new rules.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Today be Independence Day.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Kofi go travel go Kumasi next week.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Bank of Ghana raise the rate again.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Auntie Ama sell waakye for Kaneshie.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",UNICEF support school program for Chorkor.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I happy say I pass the exam.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),E pain me say you no talk true.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I no like the food at all.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),This movie sweet waa.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I confuse about the instructions.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),E surprise me how e win.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),The place too noisy.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I dey enjoy the vibe here.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),This dress fine pass the other one.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),I no dey trust that guy.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),I go come later. / I go show face soon.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),She no dey house. / She commot.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),We fit start now. / Make we begin now.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),The food sweet. / The chop be nice.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),I no get money. / My pocket dry.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),He go do am. / E go try do am.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),You dey craze? / You dey mad?
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),She sabi dance. / The girl fit dance waa.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),We dey go church. / We go enter church now.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),E tire me. / I no fit again.
