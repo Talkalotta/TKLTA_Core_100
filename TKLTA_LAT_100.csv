@@ -1,0 +1,101 @@
+Category,Latin Sentence
+Grammar Core,Puella librum legit.
+Grammar Core,Puer epistulam scripsit.
+Grammar Core,Magister discipulos docet.
+Grammar Core,Canis currit in horto.
+Grammar Core,Roma condita est a Romulo.
+Grammar Core,"Si tempus haberem, librum legerem."
+Grammar Core,Uxor marito epistulam mittit.
+Grammar Core,Viri fortes urbem defendebant.
+Grammar Core,Tempestas magna venit.
+Grammar Core,Poeta carmen pulchrum scribebat.
+Conversational Data,"Salve, amice! Quid agis?"
+Conversational Data,"Vale, cras te videbo!"
+Conversational Data,"Hodie bene me habeo, gratias."
+Conversational Data,Ubi est bibliotheca urbis?
+Conversational Data,Vinum rubrum an album mavis?
+Conversational Data,Potesne me adiuvare?
+Conversational Data,Quantum constat haec tunica?
+Conversational Data,Domi maneo hodie.
+Conversational Data,"Tempus volat, amice."
+Conversational Data,Fortasse cras pluerit.
+Code-Switching & Multilingualism,"Salve, mi amice! How are you hodie?"
+Code-Switching & Multilingualism,Quid facis this evening?
+Code-Switching & Multilingualism,Ego sum laetus because hodie est sol.
+Code-Switching & Multilingualism,Visne cenare cum me at the forum?
+Code-Switching & Multilingualism,Magister dixit: 'Est tempus now discere linguam Latinam.'
+Code-Switching & Multilingualism,Tempus est ire ad l'école.
+Code-Switching & Multilingualism,"In hac domo, omnes loquimur español et Latin."
+Code-Switching & Multilingualism,Dominus servum vocavit e gli disse: 'Veni huc!'
+Code-Switching & Multilingualism,Nos volumus pizza et vinum cum amici.
+Code-Switching & Multilingualism,Cras ego vadam ad die Schule.
+Formal & Professional Speech,Hoc decretum a senatu populoque Romano factum est.
+Formal & Professional Speech,Lex nova in foro nuntiata est.
+Formal & Professional Speech,Medicus aegroto consilium dedit.
+Formal & Professional Speech,Consul orationem de pace habuit.
+Formal & Professional Speech,Scientia lux est in tenebris.
+Formal & Professional Speech,Veritas semper vincit.
+Formal & Professional Speech,Advocatus causam clientis defendit.
+Formal & Professional Speech,Magistratus iura civium custodit.
+Formal & Professional Speech,Architectus novam basilicam designavit.
+Formal & Professional Speech,Historia nobis multa docet.
+"Idioms, Proverbs & Cultural Expressions",Alea iacta est.
+"Idioms, Proverbs & Cultural Expressions",Festina lente.
+"Idioms, Proverbs & Cultural Expressions",Omnia vincit amor.
+"Idioms, Proverbs & Cultural Expressions",Fortes fortuna adiuvat.
+"Idioms, Proverbs & Cultural Expressions",Audentes fortuna iuvat.
+"Idioms, Proverbs & Cultural Expressions","Quidquid agis, prudenter agas et respice finem."
+"Idioms, Proverbs & Cultural Expressions",Carpe diem.
+"Idioms, Proverbs & Cultural Expressions",Mens sana in corpore sano.
+"Idioms, Proverbs & Cultural Expressions",Homo homini lupus est.
+"Idioms, Proverbs & Cultural Expressions",Amicus certus in re incerta cernitur.
+Question-Answer Pairs,Quid est nomen tibi? — Marcus sum.
+Question-Answer Pairs,Ubi habitatis? — Romae habitamus.
+Question-Answer Pairs,Quot annos natus es? — Viginti annos natus sum.
+Question-Answer Pairs,Cur tardus venisti? — Via plena erat.
+Question-Answer Pairs,Quid de hoc sentis? — Pulchrum est.
+Question-Answer Pairs,Potesne mihi auxilium dare? — Ita vero.
+Question-Answer Pairs,Quando venies ad forum? — Mane venio.
+Question-Answer Pairs,Ubi est libraria? — Prope templum est.
+Question-Answer Pairs,Cuius est hic liber? — Meus est.
+Question-Answer Pairs,Quid novi? — Nihil novi.
+Commands & Instructions,Noli timere.
+Commands & Instructions,Audi me!
+Commands & Instructions,Dic veritatem.
+Commands & Instructions,Veni huc statim.
+Commands & Instructions,Scribe litteras.
+Commands & Instructions,Cave canem.
+Commands & Instructions,Fac ut gaudeam.
+Commands & Instructions,Mane hic!
+Commands & Instructions,Cogita antequam loquaris.
+Commands & Instructions,Da mihi aquam.
+Named Entity Recognition (NER) Data,Caesar Galliam vicit.
+Named Entity Recognition (NER) Data,Roma urbs aeterna est.
+Named Entity Recognition (NER) Data,Julius et Augustus fuerunt imperatores.
+Named Entity Recognition (NER) Data,Aegyptus terra antiqua est.
+Named Entity Recognition (NER) Data,Plinius scripsit multa de natura.
+Named Entity Recognition (NER) Data,Nero incendium Romae spectavit.
+Named Entity Recognition (NER) Data,Graecia philosophos praeclaros habuit.
+Named Entity Recognition (NER) Data,Hannibal Alpes transiit.
+Named Entity Recognition (NER) Data,Vergilius Aeneidem scripsit.
+Named Entity Recognition (NER) Data,Pompeius in bello civil fuit.
+Sentiment Analysis Data,Hic liber mirabilis est!
+Sentiment Analysis Data,Odi et amo.
+Sentiment Analysis Data,Tempestas hodie pessima est.
+Sentiment Analysis Data,Hoc vinum optimum saporem habet.
+Sentiment Analysis Data,Puer laetissimus est hodie.
+Sentiment Analysis Data,Mihi placet haec musica.
+Sentiment Analysis Data,Sum iratus propter moram.
+Sentiment Analysis Data,Nihil peius est quam mendacium.
+Sentiment Analysis Data,"Sol lucet, ergo felix sum."
+Sentiment Analysis Data,Haec narratio me tristem facit.
+Paraphrased & Augmented Sentences,Canis in horto currit.
+Paraphrased & Augmented Sentences,Horto canis currit.
+Paraphrased & Augmented Sentences,Puer epistulam misit.
+Paraphrased & Augmented Sentences,Epistulam puer scripsit.
+Paraphrased & Augmented Sentences,Magister linguam Latinam docet.
+Paraphrased & Augmented Sentences,Lingua Latina a magistro docetur.
+Paraphrased & Augmented Sentences,Ventī violenti cum imbri accedunt.
+Paraphrased & Augmented Sentences,Tempestas horribilis appropinquat.
+Paraphrased & Augmented Sentences,Roma urbs praeclara est.
+Paraphrased & Augmented Sentences,Urbs Roma mirabilis est.
