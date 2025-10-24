@@ -1,0 +1,101 @@
+Category,Sentence
+Grammar Core,Včeraj sem šel v trgovino.
+Grammar Core,Jutri bom obiskal babico.
+Grammar Core,Ali si kdaj potoval v tujino?
+Grammar Core,"Če bi imel čas, bi ti pomagal."
+Grammar Core,Nisem videl tistega filma.
+Grammar Core,Hiša je bila zgrajena leta 1990.
+Grammar Core,Pišem pismo vsak teden.
+Grammar Core,"Bila bi vesela, če bi prišel."
+Grammar Core,Zdravnik pregleda bolnika vsak dan.
+Grammar Core,Otroci bodo igrali nogomet po kosilu.
+Conversational Data,Živjo! Kako si danes?
+Conversational Data,"Ej, a greva na kavo?"
+Conversational Data,Kje si bil včeraj zvečer?
+Conversational Data,"Ne vem, mogoče kasneje."
+Conversational Data,Kaj misliš o tem filmu?
+Conversational Data,A si pripravljen za izpit?
+Conversational Data,"Uf, danes je pa res mraz!"
+Conversational Data,Ti si vedno tako pozitiven.
+Conversational Data,Kaj boš počel ta vikend?
+Conversational Data,A si že jedel?
+Code-Switching & Multilingualism,Danes grem na 'meeting' ob desetih.
+Code-Switching & Multilingualism,Moj najljubši film je 'The Godfather'.
+Code-Switching & Multilingualism,Nimam časa za ta 'nonsense'.
+Code-Switching & Multilingualism,To ni bil dober 'deal'.
+Code-Switching & Multilingualism,"Grem v 'office', potem pa domov."
+Code-Switching & Multilingualism,Pošljem ti 'email' kasneje.
+Code-Switching & Multilingualism,To je bil res 'crazy' vikend.
+Code-Switching & Multilingualism,Imeli smo 'brainstorming' o projektu.
+Code-Switching & Multilingualism,A si videl tisti 'post' na Instagramu?
+Code-Switching & Multilingualism,Naredil sem 'backup' vseh datotek.
+Formal & Professional Speech,"Spoštovani gospod Novak, prosimo za odziv."
+Formal & Professional Speech,Poročilo prikazuje pozitivne trende prodaje.
+Formal & Professional Speech,Zdravljenje se bo začelo po konzultaciji.
+Formal & Professional Speech,Zadeva je bila rešena po pravni poti.
+Formal & Professional Speech,Predlog vključuje nove proračunske ukrepe.
+Formal & Professional Speech,Obravnava bo potekala ob 14. uri.
+Formal & Professional Speech,Vaš termin je bil uspešno potrjen.
+Formal & Professional Speech,Analiza kaže znatno izboljšanje rezultatov.
+Formal & Professional Speech,Dovoljenje je bilo izdano v skladu z zakonodajo.
+Formal & Professional Speech,"Prosimo, da izpolnite spodnji obrazec."
+"Idioms, Proverbs & Cultural Expressions","Kdor prej pride, prej melje."
+"Idioms, Proverbs & Cultural Expressions",Bolje vrabec v roki kot golob na strehi.
+"Idioms, Proverbs & Cultural Expressions",Ima polne roke dela.
+"Idioms, Proverbs & Cultural Expressions",Nima vseh koleščkov v glavi.
+"Idioms, Proverbs & Cultural Expressions","Ko mačke ni, miši plešejo."
+"Idioms, Proverbs & Cultural Expressions",To je šlo mimo ušes.
+"Idioms, Proverbs & Cultural Expressions",Vsaka šola nekaj stane.
+"Idioms, Proverbs & Cultural Expressions",Siti volk in cela koza.
+"Idioms, Proverbs & Cultural Expressions",Po toči zvoniti je prepozno.
+"Idioms, Proverbs & Cultural Expressions",Na koncu tunela je vedno luč.
+Question-Answer Pairs,Kaj je tvoje ime? – Moje ime je Ana.
+Question-Answer Pairs,Koliko stane ta knjiga? – Stane deset evrov.
+Question-Answer Pairs,Kje si bil rojen? – V Mariboru.
+Question-Answer Pairs,Kdaj pride avtobus? – Čez pet minut.
+Question-Answer Pairs,Zakaj si žalosten? – Pogrešam dom.
+Question-Answer Pairs,Kako deluje ta naprava? – Pritisneš gumb in začne delovati.
+Question-Answer Pairs,Katera barva ti je najljubša? – Modra.
+Question-Answer Pairs,"Ali govoriš angleško? – Da, tekoče."
+Question-Answer Pairs,Kaj si jedel za kosilo? – Rižoto z zelenjavo.
+Question-Answer Pairs,Kdo je tvoj najljubši igralec? – Brad Pitt.
+Commands & Instructions,"Prosim, zapri vrata."
+Commands & Instructions,Natoči mi kozarec vode.
+Commands & Instructions,Vklopi luč v dnevni sobi.
+Commands & Instructions,Pojdi v svojo sobo.
+Commands & Instructions,Opravi domačo nalogo.
+Commands & Instructions,Pokliči babico danes zvečer.
+Commands & Instructions,Ne pozabi ključa.
+Commands & Instructions,Prinesi mi torbo.
+Commands & Instructions,Ugasni televizijo.
+Commands & Instructions,Pospravi mizo po večerji.
+Named Entity Recognition,Ana je šla v Ljubljano.
+Named Entity Recognition,Microsoft je predstavil nov izdelek.
+Named Entity Recognition,Julija je rojena 15. maja.
+Named Entity Recognition,Obiskal sem Triglavski narodni park.
+Named Entity Recognition,"Petek, 13. je bil poseben dan."
+Named Entity Recognition,Doktor Novak dela v UKC Maribor.
+Named Entity Recognition,Gospod Pahor je bil predsednik države.
+Named Entity Recognition,Na festivalu Lent je bilo veliko ljudi.
+Named Entity Recognition,Ob 10. uri se začne sestanek pri IBM.
+Named Entity Recognition,Turisti obiskujejo Bled celo leto.
+Sentiment Analysis Data,Ta film mi je bil zelo všeč.
+Sentiment Analysis Data,Danes sem žalosten.
+Sentiment Analysis Data,Vremena se veselim.
+Sentiment Analysis Data,To je bila najboljša odločitev!
+Sentiment Analysis Data,Zelo me je razočaral rezultat.
+Sentiment Analysis Data,Navdušen sem nad koncertom.
+Sentiment Analysis Data,Nimam mnenja o tem vprašanju.
+Sentiment Analysis Data,Grozen dan!
+Sentiment Analysis Data,Srečal sem prijazno osebo.
+Sentiment Analysis Data,Bila sem zelo jezna.
+Paraphrased & Augmented Sentences,Včeraj sem bil v knjižnici.
+Paraphrased & Augmented Sentences,Bil sem v knjižnici včeraj.
+Paraphrased & Augmented Sentences,Knjižnico sem obiskal včeraj.
+Paraphrased & Augmented Sentences,Včeraj sem obiskal knjižnico.
+Paraphrased & Augmented Sentences,Knjižnico sem včeraj obiskal.
+Paraphrased & Augmented Sentences,V knjižnici sem bil včeraj.
+Paraphrased & Augmented Sentences,Včeraj sem šel v knjižnico.
+Paraphrased & Augmented Sentences,Sem bil v knjižnici včeraj.
+Paraphrased & Augmented Sentences,Včeraj sem jo obiskal (knjižnico).
+Paraphrased & Augmented Sentences,"Bil sem tam, včeraj, v knjižnici."
