@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core (Sentence Structures & Tenses),Mie kävin koulussa eilen.
+Grammar Core (Sentence Structures & Tenses),Se syö nyt leipää.
+Grammar Core (Sentence Structures & Tenses),Me tulhaan myöhemhään.
+Grammar Core (Sentence Structures & Tenses),He oon käynheet torilla.
+Grammar Core (Sentence Structures & Tenses),Mie en nähny sitä.
+Grammar Core (Sentence Structures & Tenses),Työ ootte olheet väsyneet.
+Grammar Core (Sentence Structures & Tenses),Mie tekisin sen jos oisin kotona.
+Grammar Core (Sentence Structures & Tenses),Kala pyydethään verkoilla.
+Grammar Core (Sentence Structures & Tenses),Lintu lensi korkealla taivaassa.
+Grammar Core (Sentence Structures & Tenses),Lapset leikithään ulkona.
+Conversational Data (Real-Life Dialogues & Exchanges),"Hei, mitä kuuluu?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Hyvä, entä sinule?"
+Conversational Data (Real-Life Dialogues & Exchanges),Ootko sie nähny Ailen tänhään?
+Conversational Data (Real-Life Dialogues & Exchanges),"En, mutta mie kuulin sen tulevan."
+Conversational Data (Real-Life Dialogues & Exchanges),Se on hyvä uutinen!
+Conversational Data (Real-Life Dialogues & Exchanges),Missä sie olit viikonloppuna?
+Conversational Data (Real-Life Dialogues & Exchanges),Mie olin mummon luona.
+Conversational Data (Real-Life Dialogues & Exchanges),"Ai, oliko mukavaa?"
+Conversational Data (Real-Life Dialogues & Exchanges),Oli tosi rauhallista siellä.
+Conversational Data (Real-Life Dialogues & Exchanges),Täytyy mennä uudelleen pian.
+Code-Switching & Multilingualism,Mie meen shoppailemaan cityyn.
+Code-Switching & Multilingualism,Se sanoi että 'let’s go' nyt heti.
+Code-Switching & Multilingualism,Kahvi on ready pöyvällä.
+Code-Switching & Multilingualism,Työ puhuitte englanti ja suomi sekaisin.
+Code-Switching & Multilingualism,Mie tykkään mixata kieliä vähän.
+Code-Switching & Multilingualism,Onko wifi toiminna?
+Code-Switching & Multilingualism,Tämä meeting alkaa klo 10 sharp.
+Code-Switching & Multilingualism,Se on cool idea.
+Code-Switching & Multilingualism,Mie en oo sure siitä.
+Code-Switching & Multilingualism,Let’s chill huomenna.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Arvoisa johtaja, raportti on valmis tarkastukseen."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Lääkäri sanoi, ette potilas tarvitsee lepoa."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Tämä sopimus astuu voimaan heti allekirjoituksen jälkeen.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Insinööri tarkisti laittehen kunnonn.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Meidän yritys osallistuu kansainväliseen konferenssiin Tromssassa.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Päätös on tehty hallituksen kokouksessa.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Lasku toimitethaan asiakkaalle ensi viikolla.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Tietosuojalaki koskee kaikkia työntekijöitä.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Tämä lääke auttaa vähentämään kipua.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Projektin arvioitu kesto on kolme kuukautta.
+"Idioms, Proverbs & Cultural Expressions",Ei kaikki mikä kiiltää ole kultaa.
+"Idioms, Proverbs & Cultural Expressions","Joka ei työtä tee, sen ei pidä syömäkään."
+"Idioms, Proverbs & Cultural Expressions",Vesi vanhin voitehista.
+"Idioms, Proverbs & Cultural Expressions",Hiljaa hyvä tulee.
+"Idioms, Proverbs & Cultural Expressions",Parempi pyy pivossa kuin kymmenen oksalla.
+"Idioms, Proverbs & Cultural Expressions","Kuka aikaisin herää, se aartehen löytää."
+"Idioms, Proverbs & Cultural Expressions",Sisu vie perille.
+"Idioms, Proverbs & Cultural Expressions","Talvi tullee, mutta kevät aina voittaa."
+"Idioms, Proverbs & Cultural Expressions",Ei kala koukkuhun hypi ilman syöttiä.
+"Idioms, Proverbs & Cultural Expressions","Elä pelkää pakkasta, se karaistaa."
+Question-Answer Pairs (FAQ & Contextual Understanding),Mikä päivä tänhään on? – Tänhään on maanantai.
+Question-Answer Pairs (FAQ & Contextual Understanding),Missä sie asut? – Mie asun Tromssassa.
+Question-Answer Pairs (FAQ & Contextual Understanding),Kuka se mies on? – Se on opettaja.
+Question-Answer Pairs (FAQ & Contextual Understanding),Milloin sie tuut kotiin? – Klo viisi.
+Question-Answer Pairs (FAQ & Contextual Understanding),Mitä sie teet huomenna? – Mie meen kalastamhaan.
+Question-Answer Pairs (FAQ & Contextual Understanding),Onko kylmä ulkona? – On vähän pakkasta.
+Question-Answer Pairs (FAQ & Contextual Understanding),Kuinka kaukana se on? – Noin kaks kilometriä.
+Question-Answer Pairs (FAQ & Contextual Understanding),Miksi sie olet surullinen? – Mie jäin ilman lippua.
+Question-Answer Pairs (FAQ & Contextual Understanding),Kenen laukku tämä on? – Se on minun.
+Question-Answer Pairs (FAQ & Contextual Understanding),Miten sie opit kieltä? – Harjoittelemalla joka päivä.
+Commands & Instructions (Imperative Sentences),"Avaa ovi, ole hyvä."
+Commands & Instructions (Imperative Sentences),Sammuta valo ennen kuin lähet.
+Commands & Instructions (Imperative Sentences),Pese käet ennen ruokaa.
+Commands & Instructions (Imperative Sentences),Tule tänne heti!
+Commands & Instructions (Imperative Sentences),Odota minuutti.
+Commands & Instructions (Imperative Sentences),Kirjota nimes tähän.
+Commands & Instructions (Imperative Sentences),Kuuntele tarkasti.
+Commands & Instructions (Imperative Sentences),Älä unohda avaimia.
+Commands & Instructions (Imperative Sentences),Vie roskat ulos.
+Commands & Instructions (Imperative Sentences),Sulje ikkuna kun tuuli voimistuu.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Anna Tapio työskentelee Helsingin yliopistossa.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Tromssa on kaunis kaupunki Norjassa.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Matti meni Ouluun viime viikolla.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Yritys ArcticData perustettiin vuonna 2010.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Presidentti Niinistö piti puheen Rovaniemellä.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Google julkaisi uuden käännöstyökalun.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Sari syntyi 5. toukokuuta 1992.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Suomen Lappi tunnetaan revontulista.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Norjan meri on kylmä talvella.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Euroopan unioni rahoittaa tämän hankkeen.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Mie rakastan tätä paikkaa!
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Se elokuva oli surkea.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Tänhään oli mahtava päivä.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Mie en jaksa enää tätä työtä.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Ruoka maistui todella hyvältä.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Oon pettynyt tulokseen.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Se uutinen teki miut iloiseksi.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Tuo sää on aivan kamala.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Mie oon tyytyväinen saavutuksiini.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Tämä musiikki tuo miulle rauhan.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Mie näin eilen kauniin revontulen.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Eilen mie katselin taivaalla loistavia revontulia.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Revontulet näkyivät kirkkaasti eilen illalla.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Taivas hohti vihreänä ja punaisena eilen.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Eilen illalla mie ihailin pohjoisen valoja.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Kirkkaat revontulet valaisivat taivaan eilen.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Revontuli tanssi taivaassa kuin tuli.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Mie olin ulkona katsomassa valoja.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Se oli unohtumaton näky eilen illalla.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Eilen illalla pohjoisen taivas paloi väreissä.
