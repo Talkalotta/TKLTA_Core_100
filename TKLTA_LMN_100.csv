@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,मां काल बाजार गयो हतो।
+Grammar Core,ऊ आज घरमा काम करतो है।
+Grammar Core,आपण काल स्कूल जाशु।
+Grammar Core,तू पुस्तक पढ़ी चुकी है।
+Grammar Core,ऊ काम न करतो।
+Grammar Core,भोजन बनावाय गयो।
+Grammar Core,"जो मैं समय मळतो, तो मैं मदद करत।"
+Grammar Core,हमने पत्र लिख्यो है।
+Grammar Core,बालक खेलतो रहयो हतो।
+Grammar Core,तू आवेगा कि नहीं?
+Conversational Data,तू काई करतो है आज?
+Conversational Data,मैं आज खेतमा जावूं सोचूं।
+Conversational Data,"चल, साथे चा पीवां।"
+Conversational Data,काल तू क्यों न आयो?
+Conversational Data,"माफ कर, मैं व्यस्त हतो।"
+Conversational Data,आ बात साची है क्या?
+Conversational Data,"हाँ, बिलकुल साची है।"
+Conversational Data,"अरे, तूं इतलो जल्दी आयो!"
+Conversational Data,"थोड़ो समय बैठ, पाछो जइशु।"
+Conversational Data,"बराबर, फेर मिलां।"
+Code-Switching & Multilingualism,आज मीटिंग बहुत important है।
+Code-Switching & Multilingualism,तू file submit करी दी?
+Code-Switching & Multilingualism,मैं project पर काम करतो हूँ।
+Code-Switching & Multilingualism,Deadline पाछे extend थई गी।
+Code-Switching & Multilingualism,हम team साथे discussion कर्यो।
+Code-Switching & Multilingualism,तू online आवेगा आज?
+Code-Switching & Multilingualism,Report finalize करणी जरूरी है।
+Code-Switching & Multilingualism,Client ने feedback आप्यो।
+Code-Switching & Multilingualism,Presentation तैयार कर।
+Code-Switching & Multilingualism,Data secure राखजो।
+Formal & Professional Speech,कृपया आवेदन पत्र समय पर जमा करजो।
+Formal & Professional Speech,रोगी ने दवाई नियमित लेवी जरूरी है।
+Formal & Professional Speech,करारनु पालन करनु अनिवार्य है।
+Formal & Professional Speech,बैठक सुबह दस बजे आयोजित थशे।
+Formal & Professional Speech,प्रक्रिया अनुसार दस्तावेज प्रस्तुत करो।
+Formal & Professional Speech,आ वित्तीय विवरण गोपनीय है।
+Formal & Professional Speech,कानूनी सलाह बिना निर्णय न लो।
+Formal & Professional Speech,तकनीकी समस्या समाधानमा है।
+Formal & Professional Speech,प्रबंधक निर्देश आपशे।
+Formal & Professional Speech,शुल्क समयसीमा पहले भरजो।
+Idioms & Proverbs,ऊ आग म तेल डालतो है।
+Idioms & Proverbs,समय सोना जेसो है।
+Idioms & Proverbs,दो नावमा पग न राख।
+Idioms & Proverbs,जैसी करनी वैसी भरनी।
+Idioms & Proverbs,आ बात माथा उपर गी।
+Idioms & Proverbs,"धीरे चल, दूर चल।"
+Idioms & Proverbs,ऊ हवा में बात करतो है।
+Idioms & Proverbs,मन मजबूत राख।
+Idioms & Proverbs,मेहनत फल आपे है।
+Idioms & Proverbs,साचो मार्ग हमेशा कठिन होतो।
+Question-Answer Pairs,तू क्यां रहतो है?
+Question-Answer Pairs,मैं नांदेडमा रहतो हूँ।
+Question-Answer Pairs,आ काम कौन करशे?
+Question-Answer Pairs,प्रबंधक निर्णय लेशे।
+Question-Answer Pairs,आज तारीख काई है?
+Question-Answer Pairs,आज बीस फरवरी है।
+Question-Answer Pairs,तू खुश है?
+Question-Answer Pairs,"हाँ, मैं संतुष्ट हूँ।"
+Question-Answer Pairs,आ योजना क्यों जरूरी है?
+Question-Answer Pairs,विकास माटे जरूरी है।
+Commands & Instructions,दरवाजो बंद कर।
+Commands & Instructions,जल्दी आव।
+Commands & Instructions,ध्यान थी सांभळ।
+Commands & Instructions,पुस्तक खोल।
+Commands & Instructions,फोन बंद करजो।
+Commands & Instructions,आ काम पूरा कर।
+Commands & Instructions,सवाल पूछ।
+Commands & Instructions,बैठ जा।
+Commands & Instructions,लाइट चालू कर।
+Commands & Instructions,साफ सफाई करजो।
+Named Entity Recognition (NER) Data,राम नांदेड गयो।
+Named Entity Recognition (NER) Data,सीता हैदराबादमा पढ़े है।
+Named Entity Recognition (NER) Data,भारत देश विशाल है।
+Named Entity Recognition (NER) Data,गोदावरी नदी पवित्र है।
+Named Entity Recognition (NER) Data,मंगलवार ने सभा थई।
+Named Entity Recognition (NER) Data,२०२५ मा योजना शुरू थई।
+Named Entity Recognition (NER) Data,विश्व स्वास्थ्य संगठन मार्गदर्शन आपे है।
+Named Entity Recognition (NER) Data,दिल्ली भारतनी राजधानी है।
+Named Entity Recognition (NER) Data,गांधीजी सत्यना मार्ग पर चाल्या।
+Named Entity Recognition (NER) Data,नांदेड जिल्हो विकासशील है।
+Sentiment Analysis Data,मैं आ परिणाम थी खुश हूँ।
+Sentiment Analysis Data,आ निर्णय गलत लागे है।
+Sentiment Analysis Data,मनमा शांति महसूस थई।
+Sentiment Analysis Data,आ स्थिति चिंताजनक है।
+Sentiment Analysis Data,तू शानदार काम करयो।
+Sentiment Analysis Data,मुझे निराशा थई।
+Sentiment Analysis Data,आ अवसर प्रेरणादायक है।
+Sentiment Analysis Data,मने डर लागे है।
+Sentiment Analysis Data,आ समाचार सुखद है।
+Sentiment Analysis Data,परिस्थिति सामान्य है।
+Paraphrased & Augmented Sentences,मैं काल बाजार गयो।
+Paraphrased & Augmented Sentences,काल मैं बाजारमा हतो।
+Paraphrased & Augmented Sentences,आज ऊ घरमा काम करे है।
+Paraphrased & Augmented Sentences,ऊ आज घर पर काम करतो है।
+Paraphrased & Augmented Sentences,हमने पत्र लिख्यो।
+Paraphrased & Augmented Sentences,पत्र हमने लिख्यो है।
+Paraphrased & Augmented Sentences,तू जल्दी आव।
+Paraphrased & Augmented Sentences,जल्दी तू आव।
+Paraphrased & Augmented Sentences,आ काम जरूरी है।
+Paraphrased & Augmented Sentences,जरूरी आ काम है।
