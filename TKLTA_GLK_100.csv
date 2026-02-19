@@ -1,0 +1,101 @@
+Categories,Sentences
+1_Grammar_Core,من دیروز بازار بوم و تازه ماهی خریدم.
+1_Grammar_Core,تۊ هر روز صبح زود بیدار بوشی.
+1_Grammar_Core,اوش فردا به رشت سفر بکنه.
+1_Grammar_Core,اگر باران بباره، ما خانه بمانیم.
+1_Grammar_Core,ما کتاب ره نخوندیم چون وقت نداشتیم.
+1_Grammar_Core,خانه توسط کارگران تعمیر ببو.
+1_Grammar_Core,من تا هفته بعد پروژه ره تمام بکنم.
+1_Grammar_Core,شما چرا دیر رسیدین؟
+1_Grammar_Core,اوش گفته بی که کار ره انجام داه.
+1_Grammar_Core,اگر وقت داشتم، بیشتر مطالعه بکردم.
+2_Conversational_Data,سلام، حالت چونه؟ امروز کجا بوشی؟
+2_Conversational_Data,من خوبم، تو چطور؟ دیشب چه کار بکردی؟
+2_Conversational_Data,بیایم عصر با هم چای بخوریم؟
+2_Conversational_Data,نه، امروز سرم شلوغه ولی فردا آزادم.
+2_Conversational_Data,شنیدی که نمایشگاه جدید باز ببو؟
+2_Conversational_Data,آره، می‌گن خیلی دیدنی بیه.
+2_Conversational_Data,قیمت‌ها چطور بید؟ گرون نیه؟
+2_Conversational_Data,کمی گرونه ولی کیفیتش خوب بیه.
+2_Conversational_Data,بعداً تماس بگیر تا بیشتر حرف بزنیم.
+2_Conversational_Data,باشه، منتظر تماست بمونم.
+3_Code_Switching,امروز meeting مهمی در اداره داشتیم.
+3_Code_Switching,من report ره هنوز submit نکدم.
+3_Code_Switching,اوش گفت deadline خیلی نزدیک بیه.
+3_Code_Switching,لطفاً فایل ره upload بکن.
+3_Code_Switching,سیستم امروز error داه و کار متوقف ببو.
+3_Code_Switching,ما strategy جدید ره بررسی بکنیم.
+3_Code_Switching,این پروژه خیلی challenging بیه.
+3_Code_Switching,قرار بیه فردا presentation بدم.
+3_Code_Switching,اوش feedback مثبت داه.
+3_Code_Switching,بیایم یک brainstorm کوتاه داشته باشیم.
+4_Formal_Professional,خواهشمندم قرارداد ره تا پایان هفته امضا بکنید.
+4_Formal_Professional,طبق مقررات جدید، ثبت‌نام الزامی بیه.
+4_Formal_Professional,بیمار باید دارو ره منظم مصرف بکنه.
+4_Formal_Professional,گزارش مالی سالانه آماده ببو.
+4_Formal_Professional,جلسه رسمی ساعت ده صبح برگزار ببو.
+4_Formal_Professional,در صورت تأخیر، جریمه اعمال ببه.
+4_Formal_Professional,این سند محرمانه بیه و نباید منتشر ببه.
+4_Formal_Professional,لطفاً درخواست خود ره کتبی ارسال بکنید.
+4_Formal_Professional,نتایج آزمایش فردا اعلام ببه.
+4_Formal_Professional,شرکت تصمیم داه ساختار مدیریتی ره تغییر بده.
+5_Idioms_Proverbs,دلش مثل دریا بزرگ بیه.
+5_Idioms_Proverbs,کار ره امروز و فردا نکن.
+5_Idioms_Proverbs,با یک دست دو تا هندوانه نتونی بگیری.
+5_Idioms_Proverbs,صبر تلخ بیه ولی میوه‌اش شیرین بیه.
+5_Idioms_Proverbs,آب که از سر گذشت، چه یک وجب چه صد وجب.
+5_Idioms_Proverbs,هر که بامش بیش، برفش بیشتر.
+5_Idioms_Proverbs,سنگ بزرگ علامت نزدن بیه.
+5_Idioms_Proverbs,دوستی ره در سختی می‌شناسن.
+5_Idioms_Proverbs,تا نباشد چیزکی، مردم نگویند چیزها.
+5_Idioms_Proverbs,چراغی که به خانه رواست به مسجد حرام بیه.
+6_QA_Pairs,پایتخت ایران کجاست؟
+6_QA_Pairs,جمعیت رشت چقدر بیه؟
+6_QA_Pairs,چرا هوا امروز آلوده بیه؟
+6_QA_Pairs,بهترین فصل سفر به گیلان کدام بیه؟
+6_QA_Pairs,این دستگاه چطور کار بکنه؟
+6_QA_Pairs,چه کسی این کتاب ره نوشت؟
+6_QA_Pairs,نتیجه جلسه چه ببو؟
+6_QA_Pairs,آیا این دارو عوارض داره؟
+6_QA_Pairs,چطور می‌توانم ثبت‌نام بکنم؟
+6_QA_Pairs,نظر تۊ درباره این فیلم چیه؟
+7_Commands_Instructions,در ره ببند.
+7_Commands_Instructions,لطفاً چراغ ره خاموش بکن.
+7_Commands_Instructions,این فرم ره پر بکن.
+7_Commands_Instructions,صبر بکن تا من برگردم.
+7_Commands_Instructions,کتاب ره روی میز بذار.
+7_Commands_Instructions,با دقت گوش بده.
+7_Commands_Instructions,الان حرکت نکن.
+7_Commands_Instructions,اطلاعات ره ذخیره بکن.
+7_Commands_Instructions,به او کمک بکن.
+7_Commands_Instructions,این مسیر ره دنبال بکن.
+8_NER_Data,من در رشت زندگی بکنم.
+8_NER_Data,اوش هفته پیش به تهران سفر بکرد.
+8_NER_Data,دانشگاه گیلان دانشجویان زیادی داره.
+8_NER_Data,شرکت پارس خودرو قرارداد جدید امضا داه.
+8_NER_Data,علی دیروز با مریم ملاقات بکرد.
+8_NER_Data,کنفرانس در تاریخ بیست فروردین برگزار ببه.
+8_NER_Data,ما به بیمارستان پورسینا رفتیم.
+8_NER_Data,رودخانه سفیدرود از گیلان عبور بکنه.
+8_NER_Data,سازمان ملل بیانیه جدید صادر داه.
+8_NER_Data,نمایشگاه بین‌المللی کتاب تهران شروع ببو.
+9_Sentiment_Analysis,امروز خیلی خوشحال بیم.
+9_Sentiment_Analysis,از این تصمیم ناراحت بوم.
+9_Sentiment_Analysis,این غذا فوق‌العاده خوشمزه بیه.
+9_Sentiment_Analysis,هوا خیلی بد و کسل‌کننده بیه.
+9_Sentiment_Analysis,نتیجه امتحانم رضایت‌بخش ببو.
+9_Sentiment_Analysis,از رفتار او عصبانی بوم.
+9_Sentiment_Analysis,این خبر واقعاً امیدبخش بیه.
+9_Sentiment_Analysis,تجربه تلخی ره پشت سر گذاشتم.
+9_Sentiment_Analysis,کار تیمی عالی پیش ببو.
+9_Sentiment_Analysis,حس بی‌تفاوتی نسبت به موضوع دارم.
+10_Paraphrased_Augmented,من امروز به بازار بوم.
+10_Paraphrased_Augmented,امروز راهی بازار بوم.
+10_Paraphrased_Augmented,برای خرید به بازار رفتم.
+10_Paraphrased_Augmented,قصد بکردم بازار برم.
+10_Paraphrased_Augmented,امروز تصمیم گرفتم بازار برم.
+10_Paraphrased_Augmented,بازار رفتن امروز در برنامه‌ام ببو.
+10_Paraphrased_Augmented,صبح زود به سمت بازار حرکت بکردم.
+10_Paraphrased_Augmented,برای تهیه مایحتاج بازار بوم.
+10_Paraphrased_Augmented,امروز سری به بازار زدم.
+10_Paraphrased_Augmented,به منظور خرید روزانه بازار بوم.
