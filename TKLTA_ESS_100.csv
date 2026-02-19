@@ -1,0 +1,101 @@
+Categories,Sentences
+Code-Switching & Multilingualism,Computer ayaghtuq.
+Code-Switching & Multilingualism,Doctor takuyugtuq patient.
+Code-Switching & Multilingualism,Email taiguq ublumi.
+Code-Switching & Multilingualism,Homework aquyugtuq school-mi.
+Code-Switching & Multilingualism,Internet aquyugtuq.
+Code-Switching & Multilingualism,Meeting aqaghhaqtuq ublumi.
+Code-Switching & Multilingualism,Phone aqaghhaqsimayuq.
+Code-Switching & Multilingualism,Project aqaghhaqniaqtuq.
+Code-Switching & Multilingualism,Report aquyugtuq office-mi.
+Code-Switching & Multilingualism,Teacher qanrutke lesson.
+Commands & Instructions,Agayutke!
+Commands & Instructions,Aqaghhaq!
+Commands & Instructions,Aquyugtuq!
+Commands & Instructions,Ayuqunaq!
+Commands & Instructions,Ellangqellruuq!
+Commands & Instructions,Iglu pagtuq!
+Commands & Instructions,Qanrutke!
+Commands & Instructions,Taiguq!
+Commands & Instructions,Takuyugtuq!
+Commands & Instructions,Uqaq!
+Conversational Data,"Ayuqunaq, nakuuŋa."
+Conversational Data,Cam igguq?
+Conversational Data,Ellangqertuq ayuqunaq?
+Conversational Data,"Ila, taamatuq."
+Conversational Data,"Nakuuŋa, quyana."
+Conversational Data,Qakugnguq taiguu?
+Conversational Data,Qanuipit?
+Conversational Data,Quyana cakneq.
+Conversational Data,Taŋa qanrutke.
+Conversational Data,Ublumi taiguq.
+Formal & Professional Speech,Agayutmek atayutmek.
+Formal & Professional Speech,Aŋun aquyugtuq suli.
+Formal & Professional Speech,Ayuqunaq qanrutke.
+Formal & Professional Speech,Ellangqertuq nakuuŋaruq.
+Formal & Professional Speech,Iluaqtuq qanrutkelriit.
+Formal & Professional Speech,Iluaqun qanrutke.
+Formal & Professional Speech,Qanrutkellruuq ilagii.
+Formal & Professional Speech,Quyana cakneq ellangqellriit.
+Formal & Professional Speech,Quyana ellangqet.
+Formal & Professional Speech,Uqaqtuq nakuuŋaruq.
+Grammar Core,Aŋun aqaghhaqngituq.
+Grammar Core,Aŋun aqaghhaqniaqtuq.
+Grammar Core,Aŋun aqaghhaqsimayuq.
+Grammar Core,Aŋun aqaghhaqtek.
+Grammar Core,Aŋun aqaghhaqtellruuq.
+Grammar Core,Aŋun aqaghhaqtuaq.
+Grammar Core,Aŋun aqaghhaqtuq.
+Grammar Core,Aŋun aqaghhaqtuqaqa.
+Grammar Core,Aqaghhaqpagtuq aŋun.
+Grammar Core,Aqaghhaqtuq aŋun.
+"Idioms, Proverbs & Cultural Expressions",Aŋun ellangqertuq aniqu.
+"Idioms, Proverbs & Cultural Expressions",Aŋun igluqpagtuq.
+"Idioms, Proverbs & Cultural Expressions",Aŋun qepghaghaqtuq.
+"Idioms, Proverbs & Cultural Expressions",Ellangqellruuq ayaghtuq.
+"Idioms, Proverbs & Cultural Expressions",Ellangqellruuq qepghaghaq.
+"Idioms, Proverbs & Cultural Expressions",Ellangqertuq aŋun ayuqunaq.
+"Idioms, Proverbs & Cultural Expressions",Iglu aniguq ayuqunaq.
+"Idioms, Proverbs & Cultural Expressions",Iglu pagtuq aniguq.
+"Idioms, Proverbs & Cultural Expressions",Qepghaghaq aniguq.
+"Idioms, Proverbs & Cultural Expressions",Umyuaq igluqpagtuq.
+Named Entity Recognition (NER) Data,Alaska-mi taiguq.
+Named Entity Recognition (NER) Data,Anchorage-mi meeting aqaghhaqtuq.
+Named Entity Recognition (NER) Data,Bering Sea-mi aŋun takuyugtuq.
+Named Entity Recognition (NER) Data,February-mi taiguq.
+Named Entity Recognition (NER) Data,Gambell-mi aŋun aqaghhaqtuq.
+Named Entity Recognition (NER) Data,Nome-mi aŋun aqaghhaqtuq.
+Named Entity Recognition (NER) Data,Russia-mi iglu pagtuq.
+Named Entity Recognition (NER) Data,Savoonga-mi iglu pagtuq.
+Named Entity Recognition (NER) Data,St. Lawrence Island-mi ayuqunaq.
+Named Entity Recognition (NER) Data,USA-mi report aqaghhaqtuq.
+Paraphrased & Augmented Sentences,Aŋun aqaghhaqtuq cam.
+Paraphrased & Augmented Sentences,Ublumi aŋun ellangqertuq aqaghhaqtuq.
+Paraphrased & Augmented Sentences,Aŋun aqaghhaqtuq ublumi.
+Paraphrased & Augmented Sentences,Aŋun nakuuŋaruq aqaghhaqtuq.
+Paraphrased & Augmented Sentences,Aŋun ublumi aqaghhaqtuq.
+Paraphrased & Augmented Sentences,Aqaghhaqtuq aŋun ublumi.
+Paraphrased & Augmented Sentences,Aqaghhaqtuq ublumi aŋun.
+Paraphrased & Augmented Sentences,Cam aŋun aqaghhaqtuq.
+Paraphrased & Augmented Sentences,Nakuuŋaruq aŋun aqaghhaqtuq.
+Paraphrased & Augmented Sentences,Ublumi aŋun aqaghhaqtuq.
+Question-Answer Pairs,Qakugnguq aŋun aqaghhaqtuq?
+Question-Answer Pairs,Ayuqunaq nakuuŋaruq.
+Question-Answer Pairs,Cam ayuqunaq?
+Question-Answer Pairs,Aŋun ayaghtuq Savoonga-mun aqagu.
+Question-Answer Pairs,Arnat katimayut Gambell-mi.
+Question-Answer Pairs,Qakugnguq taiguq?
+Question-Answer Pairs,Qanuq aŋun aqaghhaqtuq?
+Question-Answer Pairs,Qanuq ellangqertuq?
+Question-Answer Pairs,Qanuq iglu pagtuq?
+Question-Answer Pairs,Angutet suliqut ubluŋani.
+Sentiment Analysis Data,Aŋun aqaghhaqtuq nakuuŋaruq.
+Sentiment Analysis Data,Ayuqunaq ellangqertuq.
+Sentiment Analysis Data,Ayuqunaq ublumi.
+Sentiment Analysis Data,Ellangqertuq ayuqunaq.
+Sentiment Analysis Data,Iglu pagtuq nakuuŋaruq.
+Sentiment Analysis Data,Nakuuŋaruq ayaghtuq.
+Sentiment Analysis Data,Nakuuŋaruq ublumi.
+Sentiment Analysis Data,Qanrutke nakuuŋaruq.
+Sentiment Analysis Data,Qanuq nakuuŋaruq.
+Sentiment Analysis Data,Ublumi ayuqunaq.

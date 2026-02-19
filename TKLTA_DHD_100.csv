@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,म्हूं काल बजार गयो हतो।
+Grammar Core,वो रोज सवेरै उठे है।
+Grammar Core,आम्हे आवता काल जयपुर जासूं।
+Grammar Core,"अगर तू पढ़े, तो पास होजासे।"
+Grammar Core,म्हें किताब नीं खरीदी।
+Grammar Core,घर म्हां काम करायो जासे।
+Grammar Core,बाळक रोटी खाय रह्यो है।
+Grammar Core,वो चिट्ठी लिखी चुकी है।
+Grammar Core,तूं कदीं इधर आयो हतो?
+Grammar Core,हम सब मिलकै काम करांला।
+Conversational Data,"कांई हाल चाल है, भाया?"
+Conversational Data,म्हारो दिन घणो व्यस्त रह्यो।
+Conversational Data,तूं आज स्कूल क्यूं नीं गयो?
+Conversational Data,"चाय पीणै चालो, बात करां।"
+Conversational Data,म्हने लागे है के वो आज आवेगो।
+Conversational Data,थांरो फोन क्यूं बंद रह्यो?
+Conversational Data,चलो सांझ नै घूमण जांला।
+Conversational Data,म्हें थाने काल याद कर्यो हतो।
+Conversational Data,इत्ती देर क्यूं लगाई?
+Conversational Data,"ठीक है, फेर काल मिलांला।"
+Code-Switching & Multilingualism,म्हूं आज office जावूं हूं।
+Code-Switching & Multilingualism,तूं meeting मां लेट क्यूं आयो?
+Code-Switching & Multilingualism,Project रो deadline नजदीक है।
+Code-Switching & Multilingualism,म्हने report email कर दी।
+Code-Switching & Multilingualism,Client नै proper जवाब दो।
+Code-Switching & Multilingualism,आज team साथ brainstorming करांला।
+Code-Switching & Multilingualism,Conference मां presentation देवूं है।
+Code-Switching & Multilingualism,System update करवाणो जरूरी है।
+Code-Switching & Multilingualism,Data backup कर लियो है?
+Code-Switching & Multilingualism,Training session घणी useful रही।
+Formal & Professional Speech,कृपया आवेदन पत्र समय पर जमा करावो।
+Formal & Professional Speech,रोगी नै नियमित दवा लेणी जरूरी है।
+Formal & Professional Speech,कानूनी प्रक्रिया अनुसार कार्यवाही कराई जासे।
+Formal & Professional Speech,बैठक मां प्रस्ताव सर्वसम्मति सूं पास थयो।
+Formal & Professional Speech,आर्थिक रिपोर्ट काल प्रस्तुत करजो।
+Formal & Professional Speech,तकनीकी समस्या रो समाधान चालू है।
+Formal & Professional Speech,कंपनी नै नई नीति घोषित करी है।
+Formal & Professional Speech,शोध पत्र विश्वविद्यालय मां जमा करायो गयो।
+Formal & Professional Speech,नियुक्ति प्रक्रिया पारदर्शी राखी जासे।
+Formal & Professional Speech,आप रो सुझाव स्वागत योग्य है।
+"Idioms, Proverbs & Cultural Expressions",ऊंट रा मुंह मां जीरां।
+"Idioms, Proverbs & Cultural Expressions","जाको राखे साईं, मार सके नीं कोय।"
+"Idioms, Proverbs & Cultural Expressions",थोथा चना बाजे घणा।
+"Idioms, Proverbs & Cultural Expressions",आंख्यां सूं ओझळ होजाणो।
+"Idioms, Proverbs & Cultural Expressions",घर री मुर्गी दाल बराबर।
+"Idioms, Proverbs & Cultural Expressions",नाच न जाणे आंगण टेढ़ो।
+"Idioms, Proverbs & Cultural Expressions","जितणी चादर होय, उतणा पग पसारो।"
+"Idioms, Proverbs & Cultural Expressions",बूंद बूंद सूं घड़ो भरै।
+"Idioms, Proverbs & Cultural Expressions",दूध रो जळ्यो छाछ भी फूंक फूंक पीवे।
+"Idioms, Proverbs & Cultural Expressions",एक पंथ दो काज।
+Question-Answer Pairs,थारो नाम कांई है?
+Question-Answer Pairs,जयपुर राजस्थान मां आवे है।
+Question-Answer Pairs,तूं कद जासे?
+Question-Answer Pairs,आज मौसम घणो सुहावणो है।
+Question-Answer Pairs,इत्ती कीमत क्यूं बढ़ी?
+Question-Answer Pairs,म्हने लागे है के बदलाव जरूरी है।
+Question-Answer Pairs,परीक्षा कद चालू होसी?
+Question-Answer Pairs,स्कूल आठ बजे खुलै है।
+Question-Answer Pairs,कांई तूं मदद कर सके है?
+Question-Answer Pairs,"हां, म्हूं जरूर मदद करूं।"
+Commands & Instructions,दरवाजो बंद कर दे।
+Commands & Instructions,कृपया ध्यान सूं सुनो।
+Commands & Instructions,फाइल यहां राखो।
+Commands & Instructions,जल्दी जवाब दो।
+Commands & Instructions,बत्ती बुझा देवो।
+Commands & Instructions,समय पर आवजो।
+Commands & Instructions,सूचना पढ़ लेजो।
+Commands & Instructions,काम आज ही पूरा करजो।
+Commands & Instructions,म्हने साचो बतावो।
+Commands & Instructions,लाइन मां खड़ा रहो।
+Named Entity Recognition (NER),महाराजा सवाई जयसिंह द्वितीय नै जयपुर बसायो।
+Named Entity Recognition (NER),गोविंद देवजी मंदिर जयपुर मां स्थित है।
+Named Entity Recognition (NER),हवा महल 1799 मां बनायो गयो।
+Named Entity Recognition (NER),राजस्थान विश्वविद्यालय उच्च शिक्षा रो केंद्र है।
+Named Entity Recognition (NER),तेजाजी राजस्थान रा लोक देवता है।
+Named Entity Recognition (NER),आमेर किला पर्यटकों नै आकर्षित करै है।
+Named Entity Recognition (NER),गणगौर त्योहार चैत्र मास मां मनायो जासे।
+Named Entity Recognition (NER),जल महल मानसागर झील मां है।
+Named Entity Recognition (NER),विद्याधर नगर जयपुर रो एक क्षेत्र है।
+Named Entity Recognition (NER),दिल्ली भारत री राजधानी है।
+Sentiment Analysis,म्हने आज घणी खुशी होई।
+Sentiment Analysis,यो समाचार सुनकै दुःख लाग्यो।
+Sentiment Analysis,मौसम देखकै मन प्रसन्न थयो।
+Sentiment Analysis,म्हारो अनुभव संतोषजनक रह्यो।
+Sentiment Analysis,इत्ती भीड़ सूं परेशानी होई।
+Sentiment Analysis,नई नौकरी मिलकै उत्साह बढ़्यो।
+Sentiment Analysis,वो व्यवहार घणो खराब लाग्यो।
+Sentiment Analysis,सफलता मिलकै गर्व महसूस थयो।
+Sentiment Analysis,परिणाम सूं निराशा हाथ लगी।
+Sentiment Analysis,संगीत सुनकै शांति मिलै है।
+Paraphrased & Augmented Sentences,म्हूं आज बजार जावूं हूं।
+Paraphrased & Augmented Sentences,आज म्हूं बजार तरफ जासूं।
+Paraphrased & Augmented Sentences,बजार मां आज म्हारो जाणो है।
+Paraphrased & Augmented Sentences,थूं किताब पढ़े है।
+Paraphrased & Augmented Sentences,तूं पुस्तक अध्ययन करै है।
+Paraphrased & Augmented Sentences,वो काम पूरा कर चुक्यो है।
+Paraphrased & Augmented Sentences,उसने कार्य समाप्त कर दियो है।
+Paraphrased & Augmented Sentences,हम सांझ नै मिलांला।
+Paraphrased & Augmented Sentences,सांझ रे समय हम भेट करांला।
+Paraphrased & Augmented Sentences,काल म्हूं थाने फोन करूं।
