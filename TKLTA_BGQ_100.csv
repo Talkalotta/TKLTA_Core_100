@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,म्हैं काल गाँव गयो थो।
+Grammar Core,वो रोज सवेरे दूध लावै है।
+Grammar Core,हम आवता साल शहर जासूं।
+Grammar Core,"अगर पानी पड़तो, तो खेत हरियाला हो जावै।"
+Grammar Core,मैं किताब न पढ़ी।
+Grammar Core,चिट्ठी काल लिखी गई थी।
+Grammar Core,बच्चा खेल रह्यो है।
+Grammar Core,तू काम कर लियो कर।
+Grammar Core,वो घर बनावैगा।
+Grammar Core,हमने बात समझ ली थी।
+Conversational Data,किंया करै है भाई?
+Conversational Data,आज तू देर क्यूं आयो?
+Conversational Data,"मैं तो बाज़ार जारो थो, तू भी चाल?"
+Conversational Data,"अरे, वो बात तो मज़ाक थी।"
+Conversational Data,थारो घर किधर है?
+Conversational Data,चल चाय पीवां बैठां।
+Conversational Data,आज मौसम घणो सुहावणो है।
+Conversational Data,तने खबर पड़ी के नहीं?
+Conversational Data,"हां, मैं सब सुन लियो।"
+Conversational Data,अब फेर मिलांगे।
+Code-Switching & Multilingualism,आज मीटिंग गाँव री पंचायत में रखी गई है।
+Code-Switching & Multilingualism,"तू मोबाइल चार्ज कर लियो, बैटरी लो है।"
+Code-Switching & Multilingualism,मैंने फाइल ईमेल सूं भेज दी।
+Code-Switching & Multilingualism,वो ऑनलाइन क्लास कर रह्यो है।
+Code-Switching & Multilingualism,कल ऑफिस में ट्रेनिंग सेशन है।
+Code-Switching & Multilingualism,तू अपडेट कर ले सिस्टम ने।
+Code-Switching & Multilingualism,मैं रिपोर्ट सबमिट कर दी है।
+Code-Switching & Multilingualism,आज डॉक्टर अपॉइंटमेंट कन्फर्म है।
+Code-Switching & Multilingualism,हम प्रोजेक्ट टाइम पर कम्प्लीट करांगे।
+Code-Switching & Multilingualism,तू लिंक शेयर कर दे।
+Formal & Professional Speech,आप कृपया आवेदन पत्र जमा करावो।
+Formal & Professional Speech,रोगी ने समय पर दवाई लेणी जरूरी है।
+Formal & Professional Speech,समझौतो लिखित रूप में तैयार करयो जावै।
+Formal & Professional Speech,कंपनी नियमां रो पालन अनिवार्य है।
+Formal & Professional Speech,बैठक सवेरे दस बजे प्रारंभ होगी।
+Formal & Professional Speech,तकनीकी समस्या रो समाधान शीघ्र करयो जावैगा।
+Formal & Professional Speech,न्यायालय में साक्ष्य प्रस्तुत करयो जावै।
+Formal & Professional Speech,रिपोर्ट विस्तार सूं तैयार करणी है।
+Formal & Professional Speech,वित्तीय विवरण स्पष्ट रूप सूं दर्शावो।
+Formal & Professional Speech,प्रशिक्षण कार्यक्रम आगामी सप्ताह आयोजित होवगा।
+"Idioms, Proverbs & Cultural Expressions",ऊंट के मुँह में जीरो।
+"Idioms, Proverbs & Cultural Expressions","जाको राखे साइयाँ, मार सके ना कोय।"
+"Idioms, Proverbs & Cultural Expressions",आग बिना धूंआ न उठै।
+"Idioms, Proverbs & Cultural Expressions",थोथा चणा बाजे घणा।
+"Idioms, Proverbs & Cultural Expressions",नाच न जाणे आंगण टेढ़ो।
+"Idioms, Proverbs & Cultural Expressions",घर को जोगी जोगड़ो।
+"Idioms, Proverbs & Cultural Expressions",सांप भी मरै लाठी भी न टूटै।
+"Idioms, Proverbs & Cultural Expressions",जैसी करनी वैसी भरनी।
+"Idioms, Proverbs & Cultural Expressions",एक पंथ दो काज।
+"Idioms, Proverbs & Cultural Expressions",बूंद-बूंद सूं घड़ो भरै।
+Question-Answer Pairs,थारो नाम काई है?
+Question-Answer Pairs,आज स्कूल क्यूं बंद है?
+Question-Answer Pairs,खेती में पानी कित रो चाहिये?
+Question-Answer Pairs,तू काल कहाँ गयो थो?
+Question-Answer Pairs,ई काम कद तक पूरा होसी?
+Question-Answer Pairs,गाँव में अस्पताल किधर है?
+Question-Answer Pairs,कित रो खर्च आयो?
+Question-Answer Pairs,वो फैसला क्यूं लियो गयो?
+Question-Answer Pairs,तू किस सूं बात कर रह्यो है?
+Question-Answer Pairs,आज सभा में कितरा लोग आयां?
+Commands & Instructions,दरवाजो बंद कर दे।
+Commands & Instructions,किताब ध्यान सूं पढ़।
+Commands & Instructions,जल्दी आ जा।
+Commands & Instructions,फोन उठावो।
+Commands & Instructions,बैठक में समय पर पहुंचजो।
+Commands & Instructions,दवाई समय पर ले लियो।
+Commands & Instructions,कागज जमा कर दे।
+Commands & Instructions,साफ-सफाई रखो।
+Commands & Instructions,बत्ती बंद कर दे।
+Commands & Instructions,सवाल ध्यान सूं सुनो।
+Named Entity Recognition,श्रीगंगानगर राजस्थान में स्थित है।
+Named Entity Recognition,रामलाल काल बीकानेर गयो थो।
+Named Entity Recognition,15 अगस्त 1947 भारत आजाद भयो।
+Named Entity Recognition,पंजाब नैशनल बैंक गाँव में खुल्यो।
+Named Entity Recognition,सरदार पटेल देश रो नेता थो।
+Named Entity Recognition,हनुमानगढ़ जिला पास में है।
+Named Entity Recognition,दिल्ली भारत री राजधानी है।
+Named Entity Recognition,गंगा नदी पवित्र मानी जावै है।
+Named Entity Recognition,महात्मा गांधी अहिंसा रो संदेश दियो।
+Named Entity Recognition,2023 में नई योजना शुरू हुई।
+Sentiment Analysis,म्हैं आज घणो खुश हूँ।
+Sentiment Analysis,ई खबर सुनके मन दुखी हो गयो।
+Sentiment Analysis,आज रो दिन सामान्य है।
+Sentiment Analysis,थारी मदद सूं मैं आभारी हूँ।
+Sentiment Analysis,ई व्यवहार बिलकुल गलत है।
+Sentiment Analysis,मौसम देख के मन प्रसन्न हो जावै।
+Sentiment Analysis,ई परिणाम निराशाजनक है।
+Sentiment Analysis,म्हैं थारे सूं संतुष्ट हूँ।
+Sentiment Analysis,ई बात सुनके गुस्सो आवै है।
+Sentiment Analysis,आज सब कुछ बढ़िया लागै है।
+Paraphrased & Augmented,मैं आज बाजार जाऊँगा।
+Paraphrased & Augmented,आज मैं बाजार जाण रो इरादो राखूँ हूँ।
+Paraphrased & Augmented,काल बारिश आई थी।
+Paraphrased & Augmented,बीते दिन पानी बरस्यो थो।
+Paraphrased & Augmented,वो खेत में काम कर रह्यो है।
+Paraphrased & Augmented,खेत में वो मेहनत करतो दिखै है।
+Paraphrased & Augmented,हम समय पर पहुंचांगे।
+Paraphrased & Augmented,हम नियत समय सूं पहले आवांगे।
+Paraphrased & Augmented,तू पढ़ाई कर रह्यो है।
+Paraphrased & Augmented,तू अभी अध्ययन में लाग्यो है।
