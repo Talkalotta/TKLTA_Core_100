@@ -1,0 +1,101 @@
+Categories,Sentences
+1_Grammar_Core,Saya di palei harưk lingik.
+1_Grammar_Core,Saya halam di palei harưk lingik.
+1_Grammar_Core,Saya ka di palei harưk lingik.
+1_Grammar_Core,Saya mưtai di palei harưk lingik.
+1_Grammar_Core,Saya di palei harưk lingik nư.
+1_Grammar_Core,Anưk di sang mưtai karei.
+1_Grammar_Core,Anưk ka sang karei mưtai.
+1_Grammar_Core,Anưk halam sang karei mưtai.
+1_Grammar_Core,Sang di bang mưtai thun.
+1_Grammar_Core,Sang ka bang mưtai thun.
+2_Conversational_Data,"Ai, ka di mana?"
+2_Conversational_Data,"Saya di palei, mưtai lingik."
+2_Conversational_Data,Halưm ka jari sang?
+2_Conversational_Data,"Saya jari, tapi halam lama."
+2_Conversational_Data,Ka ka tapak mak?
+2_Conversational_Data,"Ya, saya tapak mak di rang."
+2_Conversational_Data,Halưm ka ka bang lingik?
+2_Conversational_Data,"Bang lingik halam, hu janưk."
+2_Conversational_Data,Ka ka di sang mưtai?
+2_Conversational_Data,"Saya di sang mưtai, ka di mana?"
+3_Code_Switching_Multilingualism,Saya meeting di sang makrang.
+3_Code_Switching_Multilingualism,Anưk ka study di university palei.
+3_Code_Switching_Multilingualism,Sang ka apply project baru.
+3_Code_Switching_Multilingualism,Saya submit laporan di kantor.
+3_Code_Switching_Multilingualism,Ka ka check email halam?
+3_Code_Switching_Multilingualism,Saya download dokumen di laptop.
+3_Code_Switching_Multilingualism,Anưk ka presentasi di class.
+3_Code_Switching_Multilingualism,Sang di update data system.
+3_Code_Switching_Multilingualism,Saya planning event Ramưwan.
+3_Code_Switching_Multilingualism,Ka ka confirm schedule lingik?
+4_Formal_Professional_Speech,Saya hormat ka di hadapan sang.
+4_Formal_Professional_Speech,Sang mưtai laporan tahunan rasmi.
+4_Formal_Professional_Speech,Anưk ka nyurat surat rasmi.
+4_Formal_Professional_Speech,Saya mưtai perjanjian kerja.
+4_Formal_Professional_Speech,Sang di rang halưm keputusan rasmi.
+4_Formal_Professional_Speech,Anưk ka tapak mak rang.
+4_Formal_Professional_Speech,Saya di palei mesyuarat rasmi.
+4_Formal_Professional_Speech,Sang ka bang laporan teknikal.
+4_Formal_Professional_Speech,Anưk di sang mưtai dokumen sah.
+4_Formal_Professional_Speech,Saya halưm ka jawab soalan rasmi.
+5_Idioms_Proverbs_Cultural_Expressions,"Janưk bang tapak mak, lingik ka rang."
+5_Idioms_Proverbs_Cultural_Expressions,Palei halam mưtai sang.
+5_Idioms_Proverbs_Cultural_Expressions,Yang janưk di lingik rang.
+5_Idioms_Proverbs_Cultural_Expressions,Sang tapak mak halưm janưk.
+5_Idioms_Proverbs_Cultural_Expressions,Rang bang mưtai palei.
+5_Idioms_Proverbs_Cultural_Expressions,Anưk janưk di rang lingik.
+5_Idioms_Proverbs_Cultural_Expressions,Tapak mak sang halưm lama.
+5_Idioms_Proverbs_Cultural_Expressions,Janưk ka palei halưm thun.
+5_Idioms_Proverbs_Cultural_Expressions,Sang bang lingik rang.
+5_Idioms_Proverbs_Cultural_Expressions,Palei tapak mak janưk.
+6_Question_Answer_Pairs,Ai ka di palei? Saya di palei lingik.
+6_Question_Answer_Pairs,Halưm ka bang sang? Saya halam bang.
+6_Question_Answer_Pairs,"Ka ka tapak mak? Ya, saya tapak mak."
+6_Question_Answer_Pairs,Anưk ka di sang? Anưk di sang.
+6_Question_Answer_Pairs,"Sang ka mưtai laporan? Ya, sang mưtai."
+6_Question_Answer_Pairs,Ka ka bang lingik? Halam bang lingik.
+6_Question_Answer_Pairs,Saya ka di mana? Saya di rang.
+6_Question_Answer_Pairs,Anưk ka janưk? Anưk janưk lingik.
+6_Question_Answer_Pairs,Sang ka tapak mak? Sang halam tapak mak.
+6_Question_Answer_Pairs,"Ka ka jari sang? Ya, saya jari."
+7_Commands_Instructions,Bang lingik!
+7_Commands_Instructions,Tapak mak rang!
+7_Commands_Instructions,Janưk palei!
+7_Commands_Instructions,Nyurat surat rasmi!
+7_Commands_Instructions,Bang laporan teknikal!
+7_Commands_Instructions,Check email lingik!
+7_Commands_Instructions,Download dokumen!
+7_Commands_Instructions,Confirm schedule!
+7_Commands_Instructions,Apply project baru!
+7_Commands_Instructions,Submit laporan tahunan!
+8_Named_Entity_Recognition,Saya di Phan Rang-Tháp Chàm lingik.
+8_Named_Entity_Recognition,Anưk di Ninh Thuận.
+8_Named_Entity_Recognition,Sang di Việt Nam.
+8_Named_Entity_Recognition,Saya mưtai Ramưwan di palei.
+8_Named_Entity_Recognition,Anưk di Cham Bani.
+8_Named_Entity_Recognition,Sang di Cham Ahier.
+8_Named_Entity_Recognition,Saya di palei Hamu Tanran.
+8_Named_Entity_Recognition,Anưk di trường Trung học Phan Rang.
+8_Named_Entity_Recognition,Sang di tổ chức Hội Văn hóa Cham.
+8_Named_Entity_Recognition,Saya di ngày 21 tháng 2 năm 2026.
+9_Sentiment_Analysis,Saya janưk rang lingik.
+9_Sentiment_Analysis,Saya halưm janưk rang.
+9_Sentiment_Analysis,Sang bang lingik rang mak.
+9_Sentiment_Analysis,Anưk tapak mak halưm lama.
+9_Sentiment_Analysis,Saya di palei makrang.
+9_Sentiment_Analysis,Sang mưtai laporan halưm puas.
+9_Sentiment_Analysis,Anưk ka jari sang makrang.
+9_Sentiment_Analysis,Saya di rang halưm senang.
+9_Sentiment_Analysis,Sang tapak mak rang janưk.
+9_Sentiment_Analysis,Anưk halưm bang lingik.
+10_Paraphrased_Augmented_Sentences,Saya di palei lingik.
+10_Paraphrased_Augmented_Sentences,Lingik saya di palei.
+10_Paraphrased_Augmented_Sentences,Saya mưtai lingik di palei.
+10_Paraphrased_Augmented_Sentences,Di palei saya lingik.
+10_Paraphrased_Augmented_Sentences,Saya halam di palei lingik.
+10_Paraphrased_Augmented_Sentences,Saya ka di palei lingik.
+10_Paraphrased_Augmented_Sentences,Palei lingik saya di.
+10_Paraphrased_Augmented_Sentences,Saya di lingik palei.
+10_Paraphrased_Augmented_Sentences,Lingik di palei saya.
+10_Paraphrased_Augmented_Sentences,Saya palei lingik di.
