@@ -1,0 +1,101 @@
+Categories,Sentences
+1_Grammar_Core,Anga habai.
+1_Grammar_Core,Anga habaini.
+1_Grammar_Core,Anga habajao.
+1_Grammar_Core,Anga habala.
+1_Grammar_Core,Anga habasi.
+1_Grammar_Core,Anga habadang.
+1_Grammar_Core,Anga jonthai gajao.
+1_Grammar_Core,Baidi thangja.
+1_Grammar_Core,Baidini thangjaini.
+1_Grammar_Core,Baidang thangjadang.
+2_Conversational_Data,"Baidi, nangha mwsanai?"
+2_Conversational_Data,"Anga bima mwsanai, nangha?"
+2_Conversational_Data,Nangha Haflong thangja?
+2_Conversational_Data,"Anga Haflong thangjaini, aga Hojai thangja."
+2_Conversational_Data,"Baidi, jonthai gasa?"
+2_Conversational_Data,"Jonthai gajao, nangha bhabani."
+2_Conversational_Data,Nangha dangor kharai?
+2_Conversational_Data,"Anga dangor kharaini, anga saijao."
+2_Conversational_Data,"Bima, baiha gwsu?"
+2_Conversational_Data,"Anga gwsu, nangha thangja."
+3_Code_Switching,Anga school thangja.
+3_Code_Switching,Nangha meeting habajao?
+3_Code_Switching,Baidi office gajao.
+3_Code_Switching,Anga project khara.
+3_Code_Switching,Nangha mobile la gwsu?
+3_Code_Switching,Anga exam habadang.
+3_Code_Switching,Baidi doctor nangha da thangja.
+3_Code_Switching,Anga market la saijao.
+3_Code_Switching,Nangha bus la habai.
+3_Code_Switching,Baidi online class habajao.
+4_Formal_Professional,Anga report habadang.
+4_Formal_Professional,Nangha application gajao.
+4_Formal_Professional,Baidi meeting dangja.
+4_Formal_Professional,Anga hospital la thangja.
+4_Formal_Professional,Nangha contract habajao.
+4_Formal_Professional,Baidi legal kagoj gajao.
+4_Formal_Professional,Anga technical khana khara.
+4_Formal_Professional,Nangha finance report habala.
+4_Formal_Professional,Baidi company dangja.
+4_Formal_Professional,Anga medical parikha habadang.
+5_Idioms_Proverbs,Nangha mwjang gwsu.
+5_Idioms_Proverbs,Anga dima saijao.
+5_Idioms_Proverbs,Baidi jwla habai.
+5_Idioms_Proverbs,Anga khamja mwjang.
+5_Idioms_Proverbs,Nangha jwla gajao.
+5_Idioms_Proverbs,Baidi dima gwsu.
+5_Idioms_Proverbs,Anga mwjang khara.
+5_Idioms_Proverbs,Nangha jwla thangja.
+5_Idioms_Proverbs,Baidi khamja habai.
+5_Idioms_Proverbs,Anga jwla saijao.
+6_QA_Pairs,Nangha mwsanai? Anga bima mwsanai.
+6_QA_Pairs,Haflong thaima? Haflong Dima Hasao la ase.
+6_QA_Pairs,Nangha habajao? Anga habajao.
+6_QA_Pairs,Baidi jonthai gasa? Jonthai gajao.
+6_QA_Pairs,Nangha dangor kharai? Anga dangor kharaini.
+6_QA_Pairs,Anga school la thangja? Anga thangja.
+6_QA_Pairs,Nangha exam habadang? Anga habadang.
+6_QA_Pairs,Baidi doctor ase? Doctor ase.
+6_QA_Pairs,Nangha project khara? Anga khara.
+6_QA_Pairs,Anga mwjang gwsu? Anga gwsu.
+7_Commands_Instructions,Habai!
+7_Commands_Instructions,Habani!
+7_Commands_Instructions,Thangja!
+7_Commands_Instructions,Thangjani!
+7_Commands_Instructions,Saijao!
+7_Commands_Instructions,Gwsu!
+7_Commands_Instructions,Kharani!
+7_Commands_Instructions,Habajao!
+7_Commands_Instructions,Dangja!
+7_Commands_Instructions,Gajao!
+8_NER_Data,Anga Haflong thangja.
+8_NER_Data,Nangha Dima Hasao la ase.
+8_NER_Data,Baidi Hojai thangja.
+8_NER_Data,Anga Assam la ase.
+8_NER_Data,Nangha India la ase.
+8_NER_Data,Baidi Brahmaputra gajao.
+8_NER_Data,Anga Nagaon thangja.
+8_NER_Data,Nangha Guwahati thangja.
+8_NER_Data,Baidi 2024 sal la habajao.
+8_NER_Data,Anga Sunday la thangja.
+9_Sentiment_Analysis,Anga bima mwjang.
+9_Sentiment_Analysis,Nangha khamja gwsu.
+9_Sentiment_Analysis,Baidi jwla khara.
+9_Sentiment_Analysis,Anga mwjang gajao.
+9_Sentiment_Analysis,Nangha dima habai.
+9_Sentiment_Analysis,Baidi khamja thangja.
+9_Sentiment_Analysis,Anga jwla gwsu.
+9_Sentiment_Analysis,Nangha mwjang saijao.
+9_Sentiment_Analysis,Baidi dima khara.
+9_Sentiment_Analysis,Anga khamja habai.
+10_Paraphrased_Augmented,Anga jonthai gajao phamai jwla.
+10_Paraphrased_Augmented,Anga jonthai ase.
+10_Paraphrased_Augmented,Anga jonthai dangja.
+10_Paraphrased_Augmented,Anga jonthai habadang.
+10_Paraphrased_Augmented,Anga jonthai habala.
+10_Paraphrased_Augmented,Anga jonthai habasi.
+10_Paraphrased_Augmented,Anga jonthai habani.
+10_Paraphrased_Augmented,Anga jonthai habajao.
+10_Paraphrased_Augmented,Anga jonthai thangja.
+10_Paraphrased_Augmented,Anga jonthai saijao.

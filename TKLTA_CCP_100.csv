@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Angi rangamatit jaim.
+Grammar Core,Angi rangamatit gailam.
+Grammar Core,Angi rangamatit jaibo.
+Grammar Core,Angi rangamatit jaite parim.
+Grammar Core,Angi rangamatit na jaim.
+Grammar Core,Bo kitab porai ase.
+Grammar Core,Bo kitab poril.
+Grammar Core,Bo kitab poribo.
+Grammar Core,Ghor bana gela.
+Grammar Core,Ghor banaibo hoibo.
+Conversational Data,Ne kothai jao?
+Conversational Data,Angi bajarat jam.
+Conversational Data,Tui ki khaiso?
+Conversational Data,Angi bhaat khai ase.
+Conversational Data,Aji tor kaj ase ne?
+Conversational Data,"Na, aji amar kaj nai."
+Conversational Data,Kal dekha hoibo ne?
+Conversational Data,"Ho, kal dekha hoibo."
+Conversational Data,Tui keno deri korla?
+Conversational Data,Rasta bhir asil.
+Code-Switching & Multilingualism,Angi meetingot join korim.
+Code-Switching & Multilingualism,Tui assignment submit korsila ne?
+Code-Switching & Multilingualism,Bo mobile recharge koril.
+Code-Switching & Multilingualism,Angi online classot asilam.
+Code-Switching & Multilingualism,Tui file download korla?
+Code-Switching & Multilingualism,Kal training session ase.
+Code-Switching & Multilingualism,Amra project start korim.
+Code-Switching & Multilingualism,Tui report ready kor.
+Code-Switching & Multilingualism,Bo doctor appointment nil.
+Code-Switching & Multilingualism,Angi bus standot wait korim.
+Formal & Professional Speech,Apuni kripaya form puron koribo.
+Formal & Professional Speech,Ei protibedon official bhabe joma deya hoilo.
+Formal & Professional Speech,Rogi ke turat hospitalot niya jaibo lage.
+Formal & Professional Speech,Ei ain onujayi sobai dayitto nibo lage.
+Formal & Professional Speech,Meeting kal shokal dosot suru hoibo.
+Formal & Professional Speech,Companyr niti sob karmachari manibo lage.
+Formal & Professional Speech,Ei chukti dui pokkhor modde sampanno hoilo.
+Formal & Professional Speech,Technical somossa somadhan kora hoise.
+Formal & Professional Speech,Apuni apnar sign ekhane diben.
+Formal & Professional Speech,Ei prokolpo sarkari onumodon paisil.
+Idioms & Cultural Expressions,Mon ghorer moto halka hoilo.
+Idioms & Cultural Expressions,Bo matha gorom kori kotha koilo.
+Idioms & Cultural Expressions,Angi buk bhori anondo paisilam.
+Idioms & Cultural Expressions,Somoy nodir panir moto boiya jai.
+Idioms & Cultural Expressions,Bo chokh diya agun ber hoit asil.
+Idioms & Cultural Expressions,Angi mukh rakha korilam.
+Idioms & Cultural Expressions,Tor kotha monor modde thakibo.
+Idioms & Cultural Expressions,Bo haat dhori sahajjo koril.
+Idioms & Cultural Expressions,Jibon paharor rasta moto kothin.
+Idioms & Cultural Expressions,Angi mon diya kaj korim.
+Question-Answer Pairs,Chakma bhasha kotot kotha hoi?
+Question-Answer Pairs,Chakma bhasha pradhanoto Rangamatiot kotha hoi.
+Question-Answer Pairs,Tui kotot thako?
+Question-Answer Pairs,Angi Borkalot thaki.
+Question-Answer Pairs,Aji tarikh kot?
+Question-Answer Pairs,Aji baisakh masor dos tarikh.
+Question-Answer Pairs,Ei boi kar?
+Question-Answer Pairs,Ei boi amar.
+Question-Answer Pairs,Tui keno deri korsila?
+Question-Answer Pairs,Angi kajot byasto asilam.
+Commands & Instructions,Dorja bondho kor.
+Commands & Instructions,Kitab ta ekhane rak.
+Commands & Instructions,Kal shokal turat utho.
+Commands & Instructions,Chithi ta poriya sunao.
+Commands & Instructions,Ghor saf kor.
+Commands & Instructions,Mobile off kor.
+Commands & Instructions,Ei kaj turat shesh kor.
+Commands & Instructions,Chup thako.
+Commands & Instructions,Lineot dari thako.
+Commands & Instructions,Pani nia aso.
+Named Entity Recognition,Rangamati Bangladeshot ase.
+Named Entity Recognition,Kaptai nodi khub sundor.
+Named Entity Recognition,Dhaka Bangladeshor rajdhani.
+Named Entity Recognition,Bo Chittagongot thake.
+Named Entity Recognition,Borkal upazila pahari elaka.
+Named Entity Recognition,Kaptai Lake khub boro.
+Named Entity Recognition,Karbaria gram sundor jayga.
+Named Entity Recognition,Bo 2025 salot porikkha dil.
+Named Entity Recognition,Meeting 15 March 2026 hoibo.
+Named Entity Recognition,United Nations shanti rokkha kaj kore.
+Sentiment Analysis,Aji amar khub anondo lagse.
+Sentiment Analysis,Ei khobor shuniya dukho laglo.
+Sentiment Analysis,Bo kajot santushto ase.
+Sentiment Analysis,Ei porikkha khub kothin hoilo.
+Sentiment Analysis,Angi gorbo anubhob korim.
+Sentiment Analysis,Ei seba khub bhalo.
+Sentiment Analysis,Service ta kharap asil.
+Sentiment Analysis,Mon kharap lagse.
+Sentiment Analysis,Aji din ta shanti purno.
+Sentiment Analysis,Ei sinema amar monor moto hoilo.
+Paraphrased & Augmented Sentences,Angi sakal bela bajarat giyam.
+Paraphrased & Augmented Sentences,Angi bajarat jaite ase.
+Paraphrased & Augmented Sentences,Angi kal bajarat gailam.
+Paraphrased & Augmented Sentences,Kal angi bajarat jam.
+Paraphrased & Augmented Sentences,Bo boi poril.
+Paraphrased & Augmented Sentences,Bo ekta boi poriya shesh koril.
+Paraphrased & Augmented Sentences,Angi ehon bhaat khai thaki ase.
+Paraphrased & Augmented Sentences,Angi ekhon bhaat khaitasi.
+Paraphrased & Augmented Sentences,Oi rasta tuhan manuh bhorti asil.
+Paraphrased & Augmented Sentences,Rasta khub manush diya bhora asil.
