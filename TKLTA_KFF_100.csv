@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Nānu rēpu pāṭa caduvutānu.
+Grammar Core,Ame ninna santaku vellindi.
+Grammar Core,Mēmu ippudu illu kattutunnāmu.
+Grammar Core,Āyana pustakam rāyagaladu.
+Grammar Core,Vāru pani cēyalēru.
+Grammar Core,Nānu vaccē vāram pōtānu.
+Grammar Core,Ā pustakam caduvabaḍindi.
+Grammar Core,Ame tinakapōte bāgundadu.
+Grammar Core,Mēmu vaccēṭappuḍu vārini kalisāmu.
+Grammar Core,Āyana māṭlāḍēṭappuḍu andaru vinṭāru.
+Conversational Data,Em chestunnāv? Nēnu santaku vellutunnānu.
+Conversational Data,"Nīku ā cinna illu nacchindā? Avunu, chālā nacchindi."
+Conversational Data,"Rēpu kaludāmā? Sari, madhyāhnam kaludām."
+Conversational Data,Āyana ekkaḍiki vellāḍu? Āyana pāṭa caduvutunnāḍu.
+Conversational Data,Nīvu tindi tinnāvā? Inka tinnalēdu.
+Conversational Data,"Manam ippudu prārambham cēddāmā? Avunu, siddhanga unnānu."
+Conversational Data,Nī peru ēmi? Nā peru Soma.
+Conversational Data,Vāru enduku rāledu? Vāru pani lo unnāru.
+Conversational Data,I roju vātāvaranam bāgundā? Konchem veṣṭi ga undi.
+Conversational Data,"Nēnu sahāyam cēyālā? Avunu, dayacēsi cēyu."
+Code-Switching,Nāku meeting samayam gurṭu cēppu.
+Code-Switching,Ā report rēpu submit cēyāli.
+Code-Switching,Nī phone charge ayindā?
+Code-Switching,Mēmu project mīda pani cēstunnāmu.
+Code-Switching,Ā doctor appointment cancel cēsāḍu.
+Code-Switching,Nāku online class bāga nacchindi.
+Code-Switching,Āyana file upload cēyalēdu.
+Code-Switching,Mēmu bus station daggara wait cēstunnāmu.
+Code-Switching,Ā software update cēyāli.
+Code-Switching,Nī email pampāvā?
+Formal & Professional Speech,Dayacēsi mī arji patrika ivvandi.
+Formal & Professional Speech,Rōgi paristhiti sthiramga undi.
+Formal & Professional Speech,Sabha prārambham samayam padihenu gantalu.
+Formal & Professional Speech,Dayacēsi niyamalanu pāṭinchandi.
+Formal & Professional Speech,Ā contract pai hastākṣaram cēyandi.
+Formal & Professional Speech,Mī vivarālu spaṣṭanga andinchandi.
+Formal & Professional Speech,Ā vidyārthi parīkṣa lō vijayam sādhincāḍu.
+Formal & Professional Speech,Ā kāryālayam pratidina terustundi.
+Formal & Professional Speech,Dayacēsi samayāniki randi.
+Formal & Professional Speech,Ā nirṇayam adhikārikanga prakaṭinchabaḍindi.
+Idioms & Proverbs,Gundē mēda pāta peṭṭinattu undi.
+Idioms & Proverbs,Āyana māṭa rēyi la undi.
+Idioms & Proverbs,Cheyyi kalipi pani cēste vijayam vastundi.
+Idioms & Proverbs,Kallu terici cūḍāli.
+Idioms & Proverbs,Vāru āṭa āḍutunnattu māṭlāḍutunnāru.
+Idioms & Proverbs,Āyana mīda nammakam pēru la undi.
+Idioms & Proverbs,Inta pedda māṭa kaḍupu lō peṭṭaku.
+Idioms & Proverbs,Āme navvu puvvu la undi.
+Idioms & Proverbs,Āyana sandadi mabbulu la undi.
+Idioms & Proverbs,Chinna tappu pedda pāṭam nērpindi.
+Question-Answer,Nīku ē pustakam nacchindi? Nāku itihāsa pustakam nacchindi.
+Question-Answer,Rēpu sabha ekkaḍa jarugutundi? Grāma maidanam lō jarugutundi.
+Question-Answer,Nīvu ēmi caduvutunnāv? Nēnu bhāṣa adhyayanam cēstunnānu.
+Question-Answer,Āyana ekkaḍa pani cēstunnāḍu? Āyana pāṭaśāla lō pani cēstunnāḍu.
+Question-Answer,"Nīku sahāyam kāvāla? Avunu, konchem sahāyam cēyyandi."
+Question-Answer,I roju ē tedi? I roju padi tedi.
+Question-Answer,Nī illu ekkaḍa undi? Nā illu grāmam madhya undi.
+Question-Answer,Ā samasya ela parihāram? Manam kalisi ālōcinchāli.
+Question-Answer,Nīvu ē samayam lō vastāv? Sāyantram vastānu.
+Question-Answer,Ā pustakam evaru rāyāru? Āyana rāyāru.
+Commands & Instructions,Dayacēsi talupu mūyi.
+Commands & Instructions,Ā pustakam tecci ivvu.
+Commands & Instructions,Nī pani pūrti cēyu.
+Commands & Instructions,Ikkaḍa kūrcho.
+Commands & Instructions,Samayam pāṭinchandi.
+Commands & Instructions,Dayacēsi vinandi.
+Commands & Instructions,Ā file pampandi.
+Commands & Instructions,Nī peru rāyi.
+Commands & Instructions,Ā deepam veḷigin̄cu.
+Commands & Instructions,Dayacēsi nannu piluvu.
+NER Data,Soma Bhadrachalam lō nivasistunnāḍu.
+NER Data,Rāma 2025 lō pāṭa pūrti cēsāḍu.
+NER Data,Godāvari nadi chālā pedda di.
+NER Data,Hyderabad nagaram dūranga undi.
+NER Data,Talkalotta saṁstha bhāṣa abhivṛddhi cēstundi.
+NER Data,Sīta March 10na vaccindi.
+NER Data,Rāvi pāṭaśāla lō adhyāpakuḍu.
+NER Data,Bhadrachalam mandiram prasiddham.
+NER Data,Peacedeal saṁstha śānti kōsam pani cēstundi.
+NER Data,Bandwagon vāhanālu surakṣitam.
+Sentiment Analysis,Nāku ī cinemā chālā nacchindi.
+Sentiment Analysis,Ā pani chālā kaṣṭam ga undi.
+Sentiment Analysis,I roju nāku ānandaṁ ga undi.
+Sentiment Analysis,Nēnu konchem cintaga unnānu.
+Sentiment Analysis,Ā sevā chālā bāgundi.
+Sentiment Analysis,Nāku ī vārtha nacchalēdu.
+Sentiment Analysis,Āme māṭa chālā mṛduvam ga undi.
+Sentiment Analysis,Āyana pravartanam nannu bādhin̄cindi.
+Sentiment Analysis,I paristhiti sādhāraṇam ga undi.
+Sentiment Analysis,Nāku mī sahāyam pai kṛtajñata undi.
+Paraphrased & Augmented,Nēnu rēpu santaku vellutānu.
+Paraphrased & Augmented,Rēpu nānu santaku pōtānu.
+Paraphrased & Augmented,Ame ippudu pustakam caduvutundi.
+Paraphrased & Augmented,Ippudu ame pustakam caduvutunnadi.
+Paraphrased & Augmented,Mēmu kalisi pani cēsāmu.
+Paraphrased & Augmented,Manam okati ga pani nirvahinchāmu.
+Paraphrased & Augmented,Āyana sahāyam cēsāḍu.
+Paraphrased & Augmented,Āyana māku sahāyam andinchāḍu.
+Paraphrased & Augmented,Nāku ā bhōjanam nacchindi.
+Paraphrased & Augmented,Ā bhōjanam nāku priyam.
