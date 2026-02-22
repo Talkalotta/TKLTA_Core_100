@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Ndikurya emmere ya nyomushana.
+Grammar Core,Nkarikurya emmere izooba ryashu.
+Grammar Core,Nyowe ndirya emmere nyencakye.
+Grammar Core,Singirya nyama etarimu munyu.
+Grammar Core,Ekyokurya kyateirwe omukazi.
+Grammar Core,Tukaba twagenda aha isoko kare munonga.
+Grammar Core,Baragenda kucura enanga nimuramuka.
+Grammar Core,Akaziga nikagenda kukura mpora mpora.
+Grammar Core,Omwana takiri omuto nka kare.
+Grammar Core,Titwaba tukimanya ebyo orugyendo.
+Conversational Data,Wasuze ota munonga nyabo?
+Conversational Data,"Nasuzire gye, iwe wasibire ota?"
+Conversational Data,"Nyine ekizibu, noyenda kumpa obuhabuzi?"
+Conversational Data,"Yego, mbwira ekyokukora."
+Conversational Data,Obwire buno tuza kukora ki?
+Conversational Data,Reka tugende aha nyanja turabe amazi.
+Conversational Data,Mbwenu wahurire amakuru ago?
+Conversational Data,"Yego, nahurire kandi nanyumirwa."
+Conversational Data,Okagenda ryari e Kabale?
+Conversational Data,Ndagenda nyencakye kare munonga.
+Code-Switching & Multilingualism,Ninza kusubmitinga report nyencakye.
+Code-Switching & Multilingualism,Meeting eri scheduled omukiro gwakarere.
+Code-Switching & Multilingualism,Nayenda feedback aha project egi.
+Code-Switching & Multilingualism,Twine deadline eyamangu munonga.
+Code-Switching & Multilingualism,Omuyobozi yavuze ati strategy eyo ni nziza.
+Code-Switching & Multilingualism,Computer yangye terikukora bulungi.
+Code-Switching & Multilingualism,Twakora training eya online.
+Code-Switching & Multilingualism,Email yawe nayakire butarakera.
+Code-Switching & Multilingualism,System egi neeta update.
+Code-Switching & Multilingualism,Tugende tukore presentation omu hall.
+Formal & Professional Speech,Nkukusaba ompe ebaruha y'okwikiriza.
+Formal & Professional Speech,Ekitongore kyashohoye ebiragiro bishya.
+Formal & Professional Speech,Abaganga barikushaba abarwerezi kuguma omu maka.
+Formal & Professional Speech,Ekyemezo kyafatiirwe n'akakiiko k'ekyanga.
+Formal & Professional Speech,Omukozi akahabwa obushomesa bw'ekikora.
+Formal & Professional Speech,Ekitabo eki nikyegesa amateeka g'ebyobucuruzi.
+Formal & Professional Speech,Omuyobozi mukuru akahandiika ebaruha y'okusiima.
+Formal & Professional Speech,Ekizibu kyashemereire kusuzumibwa n'abakugu.
+Formal & Professional Speech,Abashomesa barikushaba obwegyerwa obushya.
+Formal & Professional Speech,Omusiri gwashwijumwamu ebimera by'obushakashatsi.
+"Idioms, Proverbs & Cultural Expressions",Akamwa k'omuntu kamurya.
+"Idioms, Proverbs & Cultural Expressions",Akati k'omuto tikarenga orugo.
+"Idioms, Proverbs & Cultural Expressions",Obworo tibwica nfu.
+"Idioms, Proverbs & Cultural Expressions",Ente niyo itwara obugyenyi.
+"Idioms, Proverbs & Cultural Expressions",Akanyoni katambuka n'ekishwi.
+"Idioms, Proverbs & Cultural Expressions",Omwana takurira omu nju emwe.
+"Idioms, Proverbs & Cultural Expressions",Obuguma nibwo bugumya obuhangwa.
+"Idioms, Proverbs & Cultural Expressions",Ebyo ebitaramire nibyo biramwa.
+"Idioms, Proverbs & Cultural Expressions",Akaboko kamwe tekatera nkuba.
+"Idioms, Proverbs & Cultural Expressions",Omutima omubi tigurora kisa.
+Question-Answer Pairs,Ekyaro kyawe kiri he?
+Question-Answer Pairs,Ni ryari orikugaruka omu maka?
+Question-Answer Pairs,Niki ekyakuretera okushoma?
+Question-Answer Pairs,Noyenda ki omu rugyendo oru?
+Question-Answer Pairs,Omuntu agira atya obusinguzi?
+Question-Answer Pairs,Niki ekirikuruma munonga?
+Question-Answer Pairs,Abana bakiga bakunda ki?
+Question-Answer Pairs,Ekitabo eki nikivuga aha ki?
+Question-Answer Pairs,Niki ekyatuma wagenda kare?
+Question-Answer Pairs,Omuntu aine kukora ki kugira atsinde?
+Commands & Instructions,Genda ozimye etara.
+Commands & Instructions,Reeta amaizi hano.
+Commands & Instructions,Shoma ekitabo eki n'obwegendereza.
+Commands & Instructions,Tega amatwi obuhabuzi buno.
+Commands & Instructions,Funga olugyero orwo.
+Commands & Instructions,Garuka aha kazi kawe.
+Commands & Instructions,Tandika okukora obushakashatsi.
+Commands & Instructions,Teekaho omukono aha rupapuro.
+Commands & Instructions,Reka kuvuga obusa.
+Commands & Instructions,Yambuka omuhanda n'obwegendereza.
+Named Entity Recognition (NER),John akagenda e Kabale omwaka gwa 2023.
+Named Entity Recognition (NER),Mary atuura omu Mbarara.
+Named Entity Recognition (NER),Ekitongore kya UNICEF kikakora enteekateeka.
+Named Entity Recognition (NER),Omukuru w'egomborora ya Rukiga yayebazibwa.
+Named Entity Recognition (NER),Omushumba Peter akashaba aha Sande.
+Named Entity Recognition (NER),Eishengyero rya Kigezi High School riri omu Rukungiri.
+Named Entity Recognition (NER),Olukiiko lwabereye aha 12/05/2024.
+Named Entity Recognition (NER),Abantu ba Uganda bakunda emirembe.
+Named Entity Recognition (NER),Enteekateeka ya Vision 2040 neeyongyera.
+Named Entity Recognition (NER),Oluguudo rwa Kabale-Kisoro nirwongyereirwe.
+Sentiment Analysis,Nanyumirwa munonga aha birori ebyo.
+Sentiment Analysis,Nabonabona ahabw'obwire bubi.
+Sentiment Analysis,Ninshemererwa kubona omwana wange atsindiire.
+Sentiment Analysis,Ndatinya ebizibu ebyo.
+Sentiment Analysis,Omugisha gunyikire munonga.
+Sentiment Analysis,Ekizibu ekyo kyanshobeire.
+Sentiment Analysis,Nanyanzigirwa obugyenyi bwawe.
+Sentiment Analysis,Ndine eshonga ahabw'ekikorwa ekyo.
+Sentiment Analysis,Ninyikiriza ekiteekerezo kyawe.
+Sentiment Analysis,Ndinire obwoba obutali buke.
+Paraphrased & Augmented Sentences,Ndikushaba ompe amaizi.
+Paraphrased & Augmented Sentences,Mpa amaizi nkunywa.
+Paraphrased & Augmented Sentences,Reka mpewe amaizi kugira nnywe.
+Paraphrased & Augmented Sentences,Nyowe nyenda amaizi ago.
+Paraphrased & Augmented Sentences,Omwana arikuseka munonga.
+Paraphrased & Augmented Sentences,Omwana aine okushemererwa kwingi.
+Paraphrased & Augmented Sentences,Arikuseka ahabw'enshonga nziza.
+Paraphrased & Augmented Sentences,Ekyaro kiri kitarimu bantu bangi.
+Paraphrased & Augmented Sentences,Abantu bake nibo bari omu kyaro.
+Paraphrased & Augmented Sentences,Ekyaro ekyo kirimu abantu bake.
