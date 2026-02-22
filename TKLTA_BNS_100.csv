@@ -1,0 +1,101 @@
+Categories,Sentences
+1_Grammar_Core,मैं रोज सबेरे खेत जात हूँ।
+1_Grammar_Core,वो काल बजार गओ रहो।
+1_Grammar_Core,हम परसों सभा मा शामिल होइहैं।
+1_Grammar_Core,अगर पानी परिहै त फसल अच्छी होइ।
+1_Grammar_Core,मौके पर काम न कइओ गओ।
+1_Grammar_Core,चिट्ठी आज लिखी जाही।
+1_Grammar_Core,मैं अभी खाना न खायो हूँ।
+1_Grammar_Core,जब तू आवै त हम बात करिहैं।
+1_Grammar_Core,बच्चा खेलत-खेलत गिर गओ।
+1_Grammar_Core,हम पढ़त रहे जब बरसात सुरु भई।
+2_Conversational_Data,तू कहाँ जात हौ?
+2_Conversational_Data,"मैं बजार जात हूँ, कुछ लानौ है।"
+2_Conversational_Data,"अरे जल्दी आव, देर होत है।"
+2_Conversational_Data,तैं काहे न आयो काल?
+2_Conversational_Data,"काम ज्यादा रहो, इस्से न आ पायो।"
+2_Conversational_Data,चाय पीहौ कि कॉफी लेहौ?
+2_Conversational_Data,"पहिले पानी दे, फेर बात करिहैं।"
+2_Conversational_Data,तोर घर मा सब ठीक है?
+2_Conversational_Data,"हाँ, सब बढ़िया चल रहो है।"
+2_Conversational_Data,"चल, साँझ मा फेर मिलत हैं।"
+3_Code_Switching,आज मीटिंग मा प्रोजेक्ट पर चर्चा होइ।
+3_Code_Switching,तू रिपोर्ट टाइम से सबमिट कर दइओ।
+3_Code_Switching,हमने ऑनलाइन फॉर्म भर दओ।
+3_Code_Switching,सर ने नया टास्क असाइन कर दओ।
+3_Code_Switching,क्लास मा प्रेजेंटेशन तैयार रहै।
+3_Code_Switching,मोबाइल का नेटवर्क डाउन हो गओ।
+3_Code_Switching,तू डेटा सेव कर लइओ।
+3_Code_Switching,हम ट्रेन से ऑफिस जाबै।
+3_Code_Switching,फाइल अपडेट कर के मेल भेज दइओ।
+3_Code_Switching,आज सिस्टम सही तरह रन न कर रहो।
+4_Formal_Professional,कृपया आवेदन पत्र नियत समय मा जमा करिओ।
+4_Formal_Professional,रोगी की हालत अब स्थिर बताई जात है।
+4_Formal_Professional,न्यायालय का फैसला अगली तारीख मा सुनाय जाही।
+4_Formal_Professional,बैठक मा प्रस्ताव सर्वसम्मति से पारित भओ।
+4_Formal_Professional,तकनीकी रिपोर्ट विस्तार से तैयार की गइ है।
+4_Formal_Professional,कर्मचारी अनुशासन का पालन करैं।
+4_Formal_Professional,संस्था विकास योजना पर कार्यरत है।
+4_Formal_Professional,दस्तावेज सत्यापन के बाद स्वीकृति दइ जाही।
+4_Formal_Professional,चिकित्सक ने उपचार जारी रखन को कहो।
+4_Formal_Professional,वित्तीय लेखा परीक्षण पूर्ण हो गओ।
+5_Idioms_Proverbs,ऊँट के मुँह मा जीरा जइसो काम भओ।
+5_Idioms_Proverbs,जैसी करनी वैसी भरनी मिलत है।
+5_Idioms_Proverbs,नाच न आवै आँगन टेढ़ो कहैं।
+5_Idioms_Proverbs,घर का भेदी लंका ढावै।
+5_Idioms_Proverbs,अंधा बाटै रेवड़ी फेर-फेर अपनन का दे।
+5_Idioms_Proverbs,दूध का जळो छाछ भी फूँक-फूँक पीवै।
+5_Idioms_Proverbs,थोथा चना बाजे घना।
+5_Idioms_Proverbs,जहाँ चाह वहाँ राह निकलत है।
+5_Idioms_Proverbs,बूंद-बूंद से घड़ा भरत है।
+5_Idioms_Proverbs,साँच को आँच न लागै।
+6_QA_Pairs,तू कउन गाँव से आयो हौ?
+6_QA_Pairs,मैं बरुआसागर से आयो हूँ।
+6_QA_Pairs,आज मौसम कैसो है?
+6_QA_Pairs,आज घना बदरा छाय रहैं।
+6_QA_Pairs,तू पढ़ाई काहे करत हौ?
+6_QA_Pairs,अच्छी नौकरी खातिर पढ़त हूँ।
+6_QA_Pairs,ये काम कब तक पूरो होइ?
+6_QA_Pairs,दू दिन मा पूरो हो जाही।
+6_QA_Pairs,तू का सोचत हौ इस बात पर?
+6_QA_Pairs,मोर मानना है कि हमे सोच-समझ के कदम उठावैं।
+7_Commands_Instructions,दरवज्जा बंद कर दइओ।
+7_Commands_Instructions,लाइट बुझा दइओ।
+7_Commands_Instructions,किताब ध्यान से पढ़ौ।
+7_Commands_Instructions,समय पर स्कूल पहुँचौ।
+7_Commands_Instructions,साफ-सफाई रखौ।
+7_Commands_Instructions,मोर बात ध्यान से सुनौ।
+7_Commands_Instructions,गाड़ी धीरे चलावौ।
+7_Commands_Instructions,पहिले हाथ धोवौ।
+7_Commands_Instructions,खाना गरम कर दइओ।
+7_Commands_Instructions,कागज सही जगह रखौ।
+8_NER_Data,रानी लक्ष्मीबाई झाँसी की शान रहिन।
+8_NER_Data,हम काल झाँसी शहर गइन।
+8_NER_Data,यमुना नदी उत्तर दिशा मा बहत है।
+8_NER_Data,भारत देश विविधता से भरपूर है।
+8_NER_Data,दीवाली का त्योहार कार्तिक मा आवै।
+8_NER_Data,रामनगर गाँव पहाड़ी के पास बसो है।
+8_NER_Data,डॉक्टर शर्मा आज अस्पताल मा रहैं।
+8_NER_Data,सोमवार के दिन सभा रखी गइ।
+8_NER_Data,सन १८५७ मा बड़ो विद्रोह भओ।
+8_NER_Data,दिल्ली मा संसद भवन स्थित है।
+9_Sentiment_Data,मोर मन आज बहुत खुश है।
+9_Sentiment_Data,यह खबर सुनके दुःख भओ।
+9_Sentiment_Data,तू मोका बहुत अच्छा लगत है।
+9_Sentiment_Data,इस बात से निराशा होई।
+9_Sentiment_Data,हमका गर्व है अपन काम पर।
+9_Sentiment_Data,ऊ बात सुनके गुस्सा आ गओ।
+9_Sentiment_Data,आज दिन सामान्य बीतो।
+9_Sentiment_Data,तोर मदद से खुशी मिली।
+9_Sentiment_Data,फसल खराब भई त चिंता बढ़ी।
+9_Sentiment_Data,परिणाम देखके संतोष भओ।
+10_Paraphrased_Augmented,मैं सबेरे जल्दी उठत हूँ।
+10_Paraphrased_Augmented,हम भोर होते ही जाग जात हैं।
+10_Paraphrased_Augmented,ऊ बजार जावत है।
+10_Paraphrased_Augmented,वो बजार की ओर निकल गओ।
+10_Paraphrased_Augmented,हम काम पूरा कर दओ।
+10_Paraphrased_Augmented,काम हमसे सम्पन्न भओ।
+10_Paraphrased_Augmented,बरसात सुरू होत ही खेत भीज गइन।
+10_Paraphrased_Augmented,"जैसे ही पानी परो, जमीन तर भई।"
+10_Paraphrased_Augmented,हम मिलके समस्या सुलझाइन।
+10_Paraphrased_Augmented,समस्या हम सबने साथ मिलके हल की।
