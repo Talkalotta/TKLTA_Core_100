@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Би экунду дюганамни одявам.
+Grammar Core,Би экунду дюганамни одяврам.
+Grammar Core,Би экунду дюганамни одявчим.
+Grammar Core,"Нуна дюганамни одявра, экундэ бурумчэ."
+Grammar Core,"Дюганамни одявкан, би тэгэни көрэв."
+Grammar Core,Би дюганамни одяврача бурумчэ.
+Grammar Core,"Нуна дюганамни одяврачин, би тукэви."
+Grammar Core,"Дюганамни одявна, би амарив."
+Grammar Core,"Бидэ дюганамни одяврачу, экунду амарив."
+Grammar Core,"Нуна дюганамни одяврамни, би харав."
+Conversational Data,— Сэкунду хаҥни одявра? — Би экунду дюганамни одяврам.
+Conversational Data,"— Таду хаҥни бэ? — Би амарив, баяв."
+Conversational Data,"— Нуна тукэви? — Тукэви, амарив."
+Conversational Data,"— Экунду бурумчэ? — Бурумчэ, би харав."
+Conversational Data,"— Дюганамни одявчим? — Одявчим, харав."
+Conversational Data,"— Таду экунду одяврамни? — Одяврамни, баяв."
+Conversational Data,"— Сэкунду амарив? — Амарив, тукэви."
+Conversational Data,"— Нуна экунду харав? — Харав, бурумчэ."
+Conversational Data,"— Бидэ одяврачу? — Одяврачу, амарив."
+Conversational Data,"— Таду баяв? — Баяв, тукэви."
+Code-Switching & Multilingualism,"Би университеттэ сурэн, English тылын эгдэн."
+Code-Switching & Multilingualism,"Нуна проект одяврамни, deadline бурумчэ."
+Code-Switching & Multilingualism,Бидэ meeting-дэ сукэрэв.
+Code-Switching & Multilingualism,"Нуна компьютер харав, файл одяврам."
+Code-Switching & Multilingualism,"Би интернеттэ мэдэв, статья унэн."
+Code-Switching & Multilingualism,"Нуна докторни көрэв, appointment одяврам."
+Code-Switching & Multilingualism,"Бидэ план одяврачу, budget харав."
+Code-Switching & Multilingualism,"Нуна report бичэв, начальник харав."
+Code-Switching & Multilingualism,"Би кафе-дэ сукэрэв, coffee амарив."
+Code-Switching & Multilingualism,"Нуна онлайн сурэн, курс харав."
+Formal & Professional Speech,"Экунду договор одяврамни, сторонакын харав."
+Formal & Professional Speech,Бидэ проектни реализация одяврачу.
+Formal & Professional Speech,"Нуна медицинскэ харав, диагноз бичэв."
+Formal & Professional Speech,"Судтэ дело харав, решение одяврам."
+Formal & Professional Speech,"Компания стратегия одяврамни, рынок харав."
+Formal & Professional Speech,"Би отчет бичэв, руководство харав."
+Formal & Professional Speech,"Нуна контракт одяврамни, шарт бурумчэ."
+Formal & Professional Speech,"Бидэ исследование одяврачу, результат харав."
+Formal & Professional Speech,"Нуна закон харав, статья бичэв."
+Formal & Professional Speech,"Би консультация одяврамни, клиент амарив."
+Idioms & Cultural Expressions,Эвенкитын мургин — дюганамни харав.
+Idioms & Cultural Expressions,"Тунгус тылын бурумчэ, сэкунду одявра."
+Idioms & Cultural Expressions,Баяв дюганамни — амарив сэкунду.
+Idioms & Cultural Expressions,"Орон одяврачин, эвенки амарив."
+Idioms & Cultural Expressions,Мэнгэ харав — бурумчэ тукэви.
+Idioms & Cultural Expressions,"Экунду бурумчэ, мургин амарив."
+Idioms & Cultural Expressions,"Дюганамни харав, сэкунду баяв."
+Idioms & Cultural Expressions,"Тылын одявра, орон харав."
+Idioms & Cultural Expressions,"Эвенки тукэви, мэнгэ амарив."
+Idioms & Cultural Expressions,"Баяв одяврамни, бурумчэ харав."
+Question-Answer Pairs,Экунду хаҥни одявра? — Би дюганамни одяврам.
+Question-Answer Pairs,"Нуна тукэви? — Тукэви, амарив."
+Question-Answer Pairs,Бидэ хаҥни харав? — Бидэ орон харав.
+Question-Answer Pairs,"Экунду бурумчэ? — Бурумчэ, баяв."
+Question-Answer Pairs,"Нуна харавни? — Харавни, одяврам."
+Question-Answer Pairs,"Би амарив? — Амарив, тукэви."
+Question-Answer Pairs,"Бидэ сурэн? — Сурэн, одяврачу."
+Question-Answer Pairs,"Нуна баяв? — Баяв, харав."
+Question-Answer Pairs,"Экунду одяврамни? — Одяврамни, бурумчэ."
+Question-Answer Pairs,"Би тукэви? — Тукэви, амарив."
+Commands & Instructions,Дюганамни одявра!
+Commands & Instructions,Оронни харав!
+Commands & Instructions,Тылын сурэн!
+Commands & Instructions,Мэнгэ бичэв!
+Commands & Instructions,Проектни одявра!
+Commands & Instructions,Сукэрэв таду!
+Commands & Instructions,Бурумчэ одявра!
+Commands & Instructions,Амарав сэкунду!
+Commands & Instructions,Көрэв документ!
+Commands & Instructions,Харав отчет!
+Named Entity Recognition,Би Красноярск-дэ сукэрэв.
+Named Entity Recognition,Нуна Байкал нуурни харав.
+Named Entity Recognition,Бидэ Россия-дэ сурэн.
+Named Entity Recognition,Сергей оронни одяврам.
+Named Entity Recognition,Мария университеттэ сурэн.
+Named Entity Recognition,Енисей мургин харав.
+Named Entity Recognition,Нуна Москва-дэ одяврам.
+Named Entity Recognition,Бидэ Таймыр орон харав.
+Named Entity Recognition,Иван проект одяврам.
+Named Entity Recognition,Анна отчет бичэв.
+Sentiment Analysis,"Би амарив, баяв."
+Sentiment Analysis,"Нуна бурумчэ, харав."
+Sentiment Analysis,"Бидэ тукэви, амарив."
+Sentiment Analysis,"Экунду баяв, орон харав."
+Sentiment Analysis,"Нуна харав, бурумчэ."
+Sentiment Analysis,"Би баяв, мэнгэ харав."
+Sentiment Analysis,"Бидэ бурумчэ, одяврачу."
+Sentiment Analysis,"Нуна амарив, тукэви."
+Sentiment Analysis,"Экунду харав, баяв."
+Sentiment Analysis,"Би бурумчэ, амарив."
+Paraphrased & Augmented,Би орон харав.
+Paraphrased & Augmented,Оронни би харав.
+Paraphrased & Augmented,Бидэ орон хараврачу.
+Paraphrased & Augmented,Нуна оронни хараврам.
+Paraphrased & Augmented,"Орон харавни, баяв."
+Paraphrased & Augmented,Би оронни амарив харав.
+Paraphrased & Augmented,Нуна харав орон.
+Paraphrased & Augmented,Бидэ харав оронни.
+Paraphrased & Augmented,"Орон хараврамни, бурумчэ."
+Paraphrased & Augmented,"Би баяв, орон харав."

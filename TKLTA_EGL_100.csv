@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,A vèdd al sul che al s'alza sora al col.
+Grammar Core,Ieri a son andê a Bulåggna par cumprèr un liber.
+Grammar Core,Dman andrò a lavurèr anc se al farà fred.
+Grammar Core,"S'a vess avû temp, a saria restê a cà."
+Grammar Core,Lè a n'à mia capî la lezion.
+Grammar Core,Al libr al è stê scrit da un autor modenês.
+Grammar Core,"Quand ch'i j éren zovn, i zugaven in piaza."
+Grammar Core,"Se ti studi, ti passarè l'esam."
+Grammar Core,A starò atênt fin ch'al problem al sarà risolt.
+Grammar Core,A n'ò mai vist un cèl cusì clar.
+Conversational Data,"— Cum a stê? — A stagh bén, e té?"
+Conversational Data,"— Vêni a magnèr staséra? — Sè, a riv a sèt."
+Conversational Data,"— T'à vist al film? — Mo brisa, al m'han dit ch'al è bèl."
+Conversational Data,— Indò a s'incontren? — In piaza Granda davanti al cafè.
+Conversational Data,— T'é pront? — Dam un minut e a vegn.
+Conversational Data,— Parché t'sèt in ritard? — Gh'era un gran trafic.
+Conversational Data,"— A t'piâs la musica? — Sè, specialmènt al jazz."
+Conversational Data,"— T'vô un cafè? — Volentîr, grazî."
+Conversational Data,— Cum t'ciâmet? — A m'ciam Marco.
+Conversational Data,"— A n'capî brisa! — Aspèta, a t'spieg melior."
+Code-Switching & Multilingualism,A n'son sicûr se al meeting al sarà doman o next week.
+Code-Switching & Multilingualism,Al manager al vòl un report più detailed.
+Code-Switching & Multilingualism,A gh'ò un feeling ch'al project al sarà complicê.
+Code-Switching & Multilingualism,L'é stê un weekend davvero relaxing.
+Code-Switching & Multilingualism,A stagh lavorand on a new idea.
+Code-Switching & Multilingualism,Al cliente al vòl un feedback immediato.
+Code-Switching & Multilingualism,A n'ò mia capî al concept del brand.
+Code-Switching & Multilingualism,Staséra a fem un brainstorming in uffici.
+Code-Switching & Multilingualism,Al team al è motivê e very efficient.
+Code-Switching & Multilingualism,A t'mand un messagg su WhatsApp.
+Formal & Professional Speech,La presente comunicazion la riguarda al contrat firmê in data odierna.
+Formal & Professional Speech,Al pazient al mostra sintom compatibil con un'infezion respiratoria.
+Formal & Professional Speech,La sentenza la sarà publicheda entro trenta dè.
+Formal & Professional Speech,Al bilanc annual al evidenzia una crescita costant.
+Formal & Professional Speech,A richied una valutazion tecnica approfondida.
+Formal & Professional Speech,L'intervent chirurgich al è stê eseguid senza complicazion.
+Formal & Professional Speech,La procedura la richied autorizazion preventiva.
+Formal & Professional Speech,Al document al dev èsser firmê digitalmènt.
+Formal & Professional Speech,La riunion la inizierà puntualmènt ale nòv.
+Formal & Professional Speech,A rest a disposizion par ulteriur chiariment.
+"Idioms, Proverbs & Cultural Expressions",L'à la testa tra al nûvol.
+"Idioms, Proverbs & Cultural Expressions",Chi va pian al va lontan.
+"Idioms, Proverbs & Cultural Expressions",A gh'à un pè in do scarpi.
+"Idioms, Proverbs & Cultural Expressions",Al temp al è daner.
+"Idioms, Proverbs & Cultural Expressions",A tiri la còrda massa.
+"Idioms, Proverbs & Cultural Expressions",Al mond al è picin.
+"Idioms, Proverbs & Cultural Expressions",A n'è mia tut or quel ch'al lus.
+"Idioms, Proverbs & Cultural Expressions",A casca dal pèra.
+"Idioms, Proverbs & Cultural Expressions",L'é cum cercèr un ag in tal fien.
+"Idioms, Proverbs & Cultural Expressions",A parla cum un libr stampê.
+Question-Answer Pairs,Quand l'è nata la citè ed Modna?
+Question-Answer Pairs,Qual è la capital dla region Emilia-Romagna?
+Question-Answer Pairs,Parché al cèl al è blu?
+Question-Answer Pairs,Cum funziona un mutor elettrich?
+Question-Answer Pairs,Chi à scrit la Divina Commedia?
+Question-Answer Pairs,Quant abitant gh'à Parma?
+Question-Answer Pairs,Indò s'trova al fium Po?
+Question-Answer Pairs,Cosa signifega sostenibilità?
+Question-Answer Pairs,Qual è la diferènza tra dirit civil e penal?
+Question-Answer Pairs,Parché l'educazion l'è important?
+Commands & Instructions,Zètta la porta quand t'esci.
+Commands & Instructions,Ascolta bén quel ch'a t'dîg.
+Commands & Instructions,Scriv al tò nom in cima al fogli.
+Commands & Instructions,Spegn al telefon prima d'entrèr.
+Commands & Instructions,Mand al document entro staséra.
+Commands & Instructions,Leg atentamènt l'istruzion.
+Commands & Instructions,Prepar la presentazion par doman.
+Commands & Instructions,Mètt a post al tavul.
+Commands & Instructions,Segui le indicazion del dotor.
+Commands & Instructions,N'usar mia quel macchinari senza autorizazion.
+Named Entity Recognition (NER) Data,Marco Rossi al è nê a Reggio Emilia al 12 mars 1990.
+Named Entity Recognition (NER) Data,L'università ed Bulåggna l'è una di più antighi d'Europa.
+Named Entity Recognition (NER) Data,Al musei Ferrari a Maranèl al riceva mil visitator ogni an.
+Named Entity Recognition (NER) Data,Giuseppe Verdi l'è nê a Busseto.
+Named Entity Recognition (NER) Data,La region Emilia-Romagna la confina con la Toscana.
+Named Entity Recognition (NER) Data,Al fium Po al passa da Piacenza.
+Named Entity Recognition (NER) Data,Laura Bianchi la lavora par l'azienda Barilla.
+Named Entity Recognition (NER) Data,Al concert al sarà al Teatro Comunale ed Modna.
+Named Entity Recognition (NER) Data,Al 25 april l'è festa nazional in Italia.
+Named Entity Recognition (NER) Data,La squadra del Bologna FC la zugherà domenega.
+Sentiment Analysis Data,A son felic d'aver superê l'esam.
+Sentiment Analysis Data,A m'sent trîst par la notizia.
+Sentiment Analysis Data,Quel film al m'à delûs.
+Sentiment Analysis Data,A gh'ò una gran fiducia in té.
+Sentiment Analysis Data,La situazion la m'preocupa massa.
+Sentiment Analysis Data,A son orgojôs del mè lavor.
+Sentiment Analysis Data,Al temp grîg al m'intrista.
+Sentiment Analysis Data,A n'son mia soddisfât del servizzi.
+Sentiment Analysis Data,Quel ristorant al è straordinari.
+Sentiment Analysis Data,A m'sent calm e seren.
+Paraphrased & Augmented Sentences,A vèdd al can che al core in campagna.
+Paraphrased & Augmented Sentences,Al can al sta currend tra i prà.
+Paraphrased & Augmented Sentences,In campagna al can al s'mov rapid.
+Paraphrased & Augmented Sentences,A sent un rumor fort fòra.
+Paraphrased & Augmented Sentences,Fòra gh'è un gran fracass.
+Paraphrased & Augmented Sentences,Al fracass fòra al è intens.
+Paraphrased & Augmented Sentences,A cerch una soluzione al problem.
+Paraphrased & Augmented Sentences,Al problem al richied una risposta clara.
+Paraphrased & Augmented Sentences,Gh'è bisogn d'una risposta precisa par quel problem.
+Paraphrased & Augmented Sentences,A pens ch'al futur al sarà prometent.

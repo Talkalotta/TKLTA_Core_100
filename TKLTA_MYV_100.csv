@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Мон толонь книгась ловномс.
+Grammar Core,Тон содат эрзянь кельть.
+Grammar Core,Сон прась велесэ.
+Grammar Core,Миень ялгат пурнавтнить кудосо.
+Grammar Core,Тонат тевтнесэ кандатть туво?
+Grammar Core,Сон азорось эйкакштнень кандо.
+Grammar Core,Мон ансяк эрямс учемсь.
+Grammar Core,Ми эрямо марто вейке шкато.
+Grammar Core,Книгась ловновсь студентэнь.
+Grammar Core,Кудосо эйкакштне вейкеть налкшить.
+Conversational Data,"– Кода тон эрят? – Эрян шумбрасто, дзяро."
+Conversational Data,– Косо тон ули? – Мон ули университетэсэ.
+Conversational Data,– Мезе тон кармат? – Карман ловномо.
+Conversational Data,"– Тон ванцят кино? – Ванцян, шумбра фильмась."
+Conversational Data,– Ков тон моли? – Молян кудо.
+Conversational Data,"– Мезе истя? – Истя, кода тон мерят."
+Conversational Data,"– Тон ёвтат правдань? – Ёвтан, апак кельгем."
+Conversational Data,– Кия сон? – Сон монь ялгам.
+Conversational Data,– Мезе тон кандат? – Кандан подарка.
+Conversational Data,"– Тон арсят истямо тевть? – Арсян, истя мезе паро."
+Code-Switching & Multilingualism,Мон моли работаcо офисэсэ.
+Code-Switching & Multilingualism,Сон ловны news интернетсэ.
+Code-Switching & Multilingualism,Тон кармат проектэнь валомс?
+Code-Switching & Multilingualism,Ми пурнавтнить meetingсэ кудосо.
+Code-Switching & Multilingualism,Мон кандын документтне директорэнь.
+Code-Switching & Multilingualism,Сон uploadить те файласо серверсэ.
+Code-Switching & Multilingualism,Тон видят scheduleтень?
+Code-Switching & Multilingualism,Ми обсудить тевтне planсо.
+Code-Switching & Multilingualism,Мон checkин кудосо online.
+Code-Switching & Multilingualism,Сон кельгить smart технологиятне.
+Formal & Professional Speech,"Шумбра чи, уважаемай коллегат, панжтама совещаниянть."
+Formal & Professional Speech,Просим тевсэ кандомс докладонтень ансяк вейке шкасо.
+Formal & Professional Speech,Тевсь эряви законэнь коряс.
+Formal & Professional Speech,Пациентось саизе поликлиникасо кувалма марто.
+Formal & Professional Speech,Договорось подписан шкань коряс.
+Formal & Professional Speech,Просим максомс информациянть ансяк официальнай каналтнесэ.
+Formal & Professional Speech,Учреждениясь нолды ответственностьтень проектсэнть кисэ.
+Formal & Professional Speech,Отчетось максозь директорэнь шкань коряс.
+Formal & Professional Speech,Заявлениясь кандозь канцеляриясо.
+Formal & Professional Speech,Просим соблюдатне техника безопасностенть.
+"Idioms, Proverbs & Cultural Expressions",Кедьсэ кедь вадрякс.
+"Idioms, Proverbs & Cultural Expressions",Седе панжозь валдо.
+"Idioms, Proverbs & Cultural Expressions",Келень кедьсэ ули.
+"Idioms, Proverbs & Cultural Expressions",Пильгесэ ловсо.
+"Idioms, Proverbs & Cultural Expressions",Сёрмадозь чачомо.
+"Idioms, Proverbs & Cultural Expressions",Серма кудосо арась.
+"Idioms, Proverbs & Cultural Expressions",Кудосо лембе вайгель.
+"Idioms, Proverbs & Cultural Expressions",Седе тяштене кельгить.
+"Idioms, Proverbs & Cultural Expressions",Пекесь вейке тевсэ.
+"Idioms, Proverbs & Cultural Expressions",Валдо тевсь паро кудосо.
+Question-Answer Pairs,Мезе истя эрзянь кель? Эрзянь кель улить финно-угорской кельть.
+Question-Answer Pairs,Косо ашти Саранск ош? Саранск ашти Мордовиясонть.
+Question-Answer Pairs,Ков молят студенттне? Студенттне молят университетсэ.
+Question-Answer Pairs,Мезе кармат тон валомс? Карман доклад валомс.
+Question-Answer Pairs,Кия президентось? Президентось нолды законть.
+Question-Answer Pairs,Мезе ули кудосо? Кудосо ули библиотека.
+Question-Answer Pairs,Ков эрят тон? Эрян Сарансксо.
+Question-Answer Pairs,Мезе тон арсят? Арсян истя мезе паро.
+Question-Answer Pairs,Кия тон ялгат? Ялгатне ули студенттне.
+Question-Answer Pairs,Мезе истямо культура? Культурась кельгить традициятне.
+Commands & Instructions,Панжта книганть ды ловно.
+Commands & Instructions,Ёвта правданть.
+Commands & Instructions,Молят школаcо шкасо.
+Commands & Instructions,Кандат документтне директорэнь.
+Commands & Instructions,Ванцят фильмась вейке марто.
+Commands & Instructions,Сёрма письмо ялгатнень.
+Commands & Instructions,Максат информациянть учительтень.
+Commands & Instructions,Видят тевтнень коряс инструкця.
+Commands & Instructions,Содат техника безопасностенть.
+Commands & Instructions,Пурнавтнить кудосо шкато.
+Named Entity Recognition (NER) Data,Саранск ошось ули Мордовиясонть столицась.
+Named Entity Recognition (NER) Data,Владимир Путин посетизе Сарансконть 2020 иестэ.
+Named Entity Recognition (NER) Data,МГУ им. Н. П. Огарёвонть ули университетесь Сарансксо.
+Named Entity Recognition (NER) Data,Инсар районсо ули ламо велетне.
+Named Entity Recognition (NER) Data,Иделесь чачсь Мордовиясо.
+Named Entity Recognition (NER) Data,Россиясонть ули ламо национальностетне.
+Named Entity Recognition (NER) Data,Чиесь 9 мая празднуят Победань чи.
+Named Entity Recognition (NER) Data,Москва ошось ашти Россиясо.
+Named Entity Recognition (NER) Data,Эрзянь театрось ашти Сарансксо.
+Named Entity Recognition (NER) Data,Огарёв университетесь кандо студенттнень разных регионтнестэ.
+Sentiment Analysis Data,Мон кельгань эрзянь кельть шумбрасто.
+Sentiment Analysis Data,Те фильмась ули мелезэм кельгомо.
+Sentiment Analysis Data,Мон седесэ пек вейке радость.
+Sentiment Analysis Data,"Тон мерят истямо валть, и мон пек арсян."
+Sentiment Analysis Data,Сон тевсь ульнесь пек шожда.
+Sentiment Analysis Data,Мон апак кельгем истямо кель.
+Sentiment Analysis Data,Те проектось ульнесь вейке паро тев.
+Sentiment Analysis Data,Мон мелезэм ульнесь седесэ кевкстезь.
+Sentiment Analysis Data,Сон корты шумбра вайгельсэ.
+Sentiment Analysis Data,Те новость ульнесь мелезэм тяжка.
+Paraphrased & Augmented Sentences,Мон ловнань книганть кудосо.
+Paraphrased & Augmented Sentences,Кудосо мон книганть ловнань.
+Paraphrased & Augmented Sentences,Студенттне молят университетсэ шкасо.
+Paraphrased & Augmented Sentences,Шкасо университетсэ молят студенттне.
+Paraphrased & Augmented Sentences,Мон кандын документтне канцеляриясо.
+Paraphrased & Augmented Sentences,Канцеляриясо мон кандын документтне.
+Paraphrased & Augmented Sentences,Сон ванцы фильмась кудосо.
+Paraphrased & Augmented Sentences,Кудосо сон ванцы фильмась.
+Paraphrased & Augmented Sentences,Ми пурнавтнить совещаниясэ.
+Paraphrased & Augmented Sentences,Совещаниясэ ми пурнавтнить.
