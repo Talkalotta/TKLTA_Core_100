@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Nde ra xíhni.
+Grammar Core,Nde ra xíhni ma.
+Grammar Core,Nde ra xíhni ya.
+Grammar Core,Nde ra xíhni ne.
+Grammar Core,Ra tsíhni nde.
+Grammar Core,Ra tsíhni nde ma.
+Grammar Core,Ra tsíhni nde ya.
+Grammar Core,Ra tsíhni nde ne.
+Grammar Core,Nde ma tsíhni ra.
+Grammar Core,Ya nde tsíhni ra.
+Conversational Data,¿Nde xíhni ma? — Ra xíhni nde.
+Conversational Data,¿Ha nde ya? — Ya nde tsíhni.
+Conversational Data,"Nde ra ma. — Ha, nde ra ma."
+Conversational Data,"¿Xíhni ne? — Ne, ra xíhni."
+Conversational Data,Ma nde ya. — Ya ma nde.
+Conversational Data,¿Ha ma ne? — Ne ma ha.
+Conversational Data,Ra nde ya. — Ya ra nde.
+Conversational Data,¿Tsíhni ma? — Tsíhni ya.
+Conversational Data,Ma ra nde. — Ha ma.
+Conversational Data,¿Ne nde? — Ne nde ya.
+Code-Switching & Multilingualism,Nde ra xíhni hoy.
+Code-Switching & Multilingualism,Mañana nde ra ma.
+Code-Switching & Multilingualism,Ra tsíhni trabajo nde.
+Code-Switching & Multilingualism,Nde meeting ya.
+Code-Switching & Multilingualism,Proyecto nde ra ma.
+Code-Switching & Multilingualism,Ra xíhni comida ya.
+Code-Switching & Multilingualism,Escuela nde ra tsíhni.
+Code-Switching & Multilingualism,Nde ra plan ya.
+Code-Switching & Multilingualism,Ra reporte nde ma.
+Code-Switching & Multilingualism,Evento nde ra xíhni.
+Formal & Professional Speech,Nde ra xíhni formal ya.
+Formal & Professional Speech,Ra tsíhni nde profesional ma.
+Formal & Professional Speech,Nde ya informe ra.
+Formal & Professional Speech,Solicitud nde ra ma.
+Formal & Professional Speech,Contrato nde ra tsíhni.
+Formal & Professional Speech,Nde procedimiento ya.
+Formal & Professional Speech,Ra análisis nde ma.
+Formal & Professional Speech,Informe nde ya ra.
+Formal & Professional Speech,Nde evaluación ma.
+Formal & Professional Speech,Ra documento nde ya.
+"Idioms, Proverbs & Cultural Expressions",Nde ra xíhni ya ña.
+"Idioms, Proverbs & Cultural Expressions",Ra tsíhni nde ma ña.
+"Idioms, Proverbs & Cultural Expressions",Ya nde ra tsíhni ña.
+"Idioms, Proverbs & Cultural Expressions",Ma ra nde tsíhni ña.
+"Idioms, Proverbs & Cultural Expressions",Ña nde ra xíhni.
+"Idioms, Proverbs & Cultural Expressions",Ra ña nde tsíhni.
+"Idioms, Proverbs & Cultural Expressions",Nde ña ra ma.
+"Idioms, Proverbs & Cultural Expressions",Ya ña nde ra.
+"Idioms, Proverbs & Cultural Expressions",Ma ña ra nde.
+"Idioms, Proverbs & Cultural Expressions",Ña ra nde ya.
+Question-Answer Pairs,¿Nde ra ma? — Ra ma nde.
+Question-Answer Pairs,¿Tsíhni ya? — Ya tsíhni nde.
+Question-Answer Pairs,¿Ha ne? — Ne ha nde.
+Question-Answer Pairs,¿Ma ya? — Ya ma nde.
+Question-Answer Pairs,¿Nde ne? — Ne nde ma.
+Question-Answer Pairs,¿Ra ya? — Ya ra nde.
+Question-Answer Pairs,¿Tsíhni ma? — Ma tsíhni nde.
+Question-Answer Pairs,¿Ha ya? — Ya ha nde.
+Question-Answer Pairs,¿Nde ma? — Ma nde ya.
+Question-Answer Pairs,¿Ra ma? — Ma ra nde.
+Commands & Instructions,Nde tsíhni ya.
+Commands & Instructions,Ra ma nde.
+Commands & Instructions,Tsíhni ne ya.
+Commands & Instructions,Ma nde ya.
+Commands & Instructions,Ra xíhni ne.
+Commands & Instructions,Ya tsíhni nde.
+Commands & Instructions,Ne ma ra.
+Commands & Instructions,Nde ra ma ya.
+Commands & Instructions,Tsíhni ra nde.
+Commands & Instructions,Ma ya nde.
+Named Entity Recognition,Nde Ixtlán nde.
+Named Entity Recognition,Ra San Luis de la Paz ya.
+Named Entity Recognition,Nde Guanajuato ma.
+Named Entity Recognition,Ra México nde.
+Named Entity Recognition,Ya María nde.
+Named Entity Recognition,Ma José ra.
+Named Entity Recognition,Nde 2024 ya.
+Named Entity Recognition,Ra Escuela Ixtlán nde.
+Named Entity Recognition,Nde Río Verde ya.
+Named Entity Recognition,Ra Hospital Central nde.
+Sentiment Analysis,Nde ra xíhni ya feliz.
+Sentiment Analysis,Ra tsíhni nde triste ma.
+Sentiment Analysis,Ya nde ra contento.
+Sentiment Analysis,Ma ra nde enojado.
+Sentiment Analysis,Nde ra tsíhni tranquilo.
+Sentiment Analysis,Ra nde ya preocupado.
+Sentiment Analysis,Ya ra nde orgulloso.
+Sentiment Analysis,Ma nde ra cansado.
+Sentiment Analysis,Nde ya ra emocionado.
+Sentiment Analysis,Ra ma nde satisfecho.
+Paraphrased & Augmented Sentences,Nde ra xíhni ya ma.
+Paraphrased & Augmented Sentences,Ya nde ra xíhni ma.
+Paraphrased & Augmented Sentences,Ma ya nde ra xíhni.
+Paraphrased & Augmented Sentences,Ra ya nde ma tsíhni.
+Paraphrased & Augmented Sentences,Tsíhni ra nde ya ma.
+Paraphrased & Augmented Sentences,Nde ma ya ra tsíhni.
+Paraphrased & Augmented Sentences,Ya ra ma nde tsíhni.
+Paraphrased & Augmented Sentences,Ma ra ya nde tsíhni.
+Paraphrased & Augmented Sentences,Tsíhni ya ma nde ra.
+Paraphrased & Augmented Sentences,Ra ma ya nde xíhni.

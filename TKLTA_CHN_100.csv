@@ -1,0 +1,101 @@
+Categories,Sentences
+1_Grammar_Core,Nsaika klatawa kopa makuk haus anqati.
+1_Grammar_Core,Nsaika chako kopa ukuk tənəs-iliʔi alta.
+1_Grammar_Core,Nsaika tiki klatawa kopa saghalie tumtum qʰata.
+1_Grammar_Core,Nsaika halo wawa kopa ukuk man.
+1_Grammar_Core,Ukuk haus yaka mamuk chako pus nsaika tiki.
+1_Grammar_Core,Yaka mitlite kopa hiyu illahee anqati.
+1_Grammar_Core,Nsaika mamuk pus yaka chako.
+1_Grammar_Core,Ukuk pipa chako mamuk kopa yaka.
+1_Grammar_Core,Nsaika wawa pus nsaika klatawa alta.
+1_Grammar_Core,Yaka halo mamuk ukuk kʰupa.
+2_Conversational_Data,A: Qʰata mika tiki? B: Nika tiki muckamuck alta.
+2_Conversational_Data,A: Mika klatawa kah? B: Nika klatawa kopa makuk haus.
+2_Conversational_Data,"A: Mika kumtuks ukuk wawa? B: Ē, nika kumtuks klaska."
+2_Conversational_Data,A: Qʰata ukuk? B: Ukuk nsaika pipa.
+2_Conversational_Data,A: Mika mitlite kah? B: Nika mitlite kopa haus.
+2_Conversational_Data,A: Qʰata mika nanich? B: Nika nanich saghalie illahee.
+2_Conversational_Data,"A: Mika tiki chako? B: Halo, nika halo tiki."
+2_Conversational_Data,A: Qʰata yaka mamuk? B: Yaka mamuk pipa.
+2_Conversational_Data,"A: Mika chako kopa maika? B: Ē, nika chako alta."
+2_Conversational_Data,A: Qʰata pus nsaika mamuk? B: Pus nsaika wawa.
+3_Code_Switching,Nika klatawa kopa store pus nika tiki muckamuck.
+3_Code_Switching,Yaka mamuk report kopa office alta.
+3_Code_Switching,Nsaika meeting chako saghalie haus.
+3_Code_Switching,Ukuk project yaka halo mamuk kloshe.
+3_Code_Switching,Nika send pipa kopa boss alta.
+3_Code_Switching,Klaska plan mamuk business kopa illahee.
+3_Code_Switching,Nsaika schedule chako alta pus klatawa.
+3_Code_Switching,Yaka study Chinuk Wawa kopa university.
+3_Code_Switching,Nika order muckamuck online alta.
+3_Code_Switching,Ukuk system halo mamuk kloshe.
+4_Formal_Professional,Nsaika wawa kloshe kopa ukuk council.
+4_Formal_Professional,Ukuk document yaka mamuk chako pus kloshe.
+4_Formal_Professional,Nsaika tiki mamuk kloshe wawa kopa sick man.
+4_Formal_Professional,Yaka mamuk law kopa illahee.
+4_Formal_Professional,Nsaika wawa pus mamuk hospital kloshe.
+4_Formal_Professional,Ukuk contract yaka mitlite kopa makuk haus.
+4_Formal_Professional,Nsaika kumtuks technical wawa.
+4_Formal_Professional,Yaka mamuk investigation kopa ukuk wawa.
+4_Formal_Professional,Nsaika tiki pus mamuk kloshe business.
+4_Formal_Professional,Ukuk report yaka chako alta.
+5_Idioms_Proverbs,Hyas kloshe tumtum yaka mitlite kopa nika.
+5_Idioms_Proverbs,Tumtum halo kloshe pus wawa hyas.
+5_Idioms_Proverbs,Saghalie nanich kloshe illahee.
+5_Idioms_Proverbs,"Kʰupa chako, kloshe mamuk."
+5_Idioms_Proverbs,Hyas muckamuck halo mamuk kloshe tumtum.
+5_Idioms_Proverbs,Chako kʰupa pus nsaika halo kumtuks.
+5_Idioms_Proverbs,Hiyu wawa halo mamuk kloshe.
+5_Idioms_Proverbs,Tənəs wawa kloshe mamuk.
+5_Idioms_Proverbs,Hyas illahee halo kloshe pus halo tumtum.
+5_Idioms_Proverbs,Kloshe nanich pus kloshe mamuk.
+6_QA_Pairs,Qʰata ukuk? Ukuk nsaika pipa.
+6_QA_Pairs,Kah nsaika mitlite? Nsaika mitlite kopa haus.
+6_QA_Pairs,Qʰata yaka tiki? Yaka tiki muckamuck.
+6_QA_Pairs,Kah yaka klatawa? Yaka klatawa kopa makuk haus.
+6_QA_Pairs,Qʰata pus yaka mamuk? Pus yaka wawa.
+6_QA_Pairs,Kah ukuk illahee? Ukuk mitlite saghalie.
+6_QA_Pairs,Qʰata yaka mamuk anqati? Yaka mamuk pipa anqati.
+6_QA_Pairs,Kah nsaika klatawa alta? Nsaika klatawa kopa school.
+6_QA_Pairs,Qʰata mika nanich? Nika nanich illahee.
+6_QA_Pairs,Kah klaska mitlite? Klaska mitlite kopa town.
+7_Commands_Instructions,Mamuk kloshe pipa alta.
+7_Commands_Instructions,Klatawa kopa haus alta.
+7_Commands_Instructions,Wawa kloshe kopa klaska.
+7_Commands_Instructions,Nanich kloshe ukuk illahee.
+7_Commands_Instructions,Chako kopa nika alta.
+7_Commands_Instructions,Mamuk muckamuck pus mika tiki.
+7_Commands_Instructions,Halo wawa hyas.
+7_Commands_Instructions,Mitlite kopa ukuk seat.
+7_Commands_Instructions,Kumtuks kloshe ukuk wawa.
+7_Commands_Instructions,Mamuk kloshe business.
+8_NER_Data,Nika klatawa kopa Portland anqati.
+8_NER_Data,Yaka mitlite kopa Washington illahee.
+8_NER_Data,Nsaika chako kopa Columbia River.
+8_NER_Data,Chief Seattle yaka wawa kloshe.
+8_NER_Data,Nika mitlite kopa Oregon alta.
+8_NER_Data,Klaska klatawa kopa Vancouver.
+8_NER_Data,Ukuk meeting mitlite kopa Tacoma.
+8_NER_Data,Nsaika nanich Mount Hood.
+8_NER_Data,Yaka chako kopa Pacific Ocean.
+8_NER_Data,Nika klatawa kopa Seattle alta.
+9_Sentiment_Analysis,Nika tumtum hyas kloshe alta.
+9_Sentiment_Analysis,Nika tumtum halo kloshe.
+9_Sentiment_Analysis,Ukuk wawa mamuk nika tumtum kloshe.
+9_Sentiment_Analysis,Ukuk mamuk halo kloshe kopa nika.
+9_Sentiment_Analysis,Nsaika tumtum tənəs kloshe.
+9_Sentiment_Analysis,Yaka wawa hyas kloshe.
+9_Sentiment_Analysis,Nika nanich ukuk pus hyas kloshe.
+9_Sentiment_Analysis,Ukuk mamuk nika tumtum sick.
+9_Sentiment_Analysis,Nika hyas kloshe pus mika chako.
+9_Sentiment_Analysis,Nsaika halo tumtum kloshe anqati.
+10_Paraphrased_Augmented,Nika klatawa kopa haus.
+10_Paraphrased_Augmented,Nika chako kopa haus.
+10_Paraphrased_Augmented,Nika mitlite kopa haus alta.
+10_Paraphrased_Augmented,Yaka klatawa kopa makuk haus alta.
+10_Paraphrased_Augmented,Yaka chako kopa makuk haus.
+10_Paraphrased_Augmented,Klaska mitlite kopa illahee alta.
+10_Paraphrased_Augmented,Nsaika wawa kloshe alta.
+10_Paraphrased_Augmented,Nsaika mamuk kloshe wawa.
+10_Paraphrased_Augmented,Ukuk haus mitlite saghalie illahee.
+10_Paraphrased_Augmented,Saghalie illahee mitlite kopa ukuk haus.
