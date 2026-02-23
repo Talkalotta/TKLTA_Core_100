@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Miaraw ko kiso ita no romi'ad.
+Grammar Core,Miaraw ako kiso ita no romi'ad.
+Grammar Core,Mikaen ko wama to tilid no faloco'.
+Grammar Core,Mikaen to wama no tilid no faloco'.
+Grammar Core,Sa'osi ko dateng to lalan.
+Grammar Core,Caka ko niyaro misaop no wawa.
+Grammar Core,Ma'araw kami i fafahiyan to sowal.
+Grammar Core,Amin ko fafahiyan a malemeday.
+Grammar Core,Pakaen to wawa i loma.
+Grammar Core,Pisa'osi to lalomaay to wama.
+Conversational Data,"O, ma'eno ko romi'ad?"
+Conversational Data,"Mafoti' ako i lalan, ma'eno kiso?"
+Conversational Data,Cima kiso i romi'ad no Pangcah?
+Conversational Data,Ano ko misanga'ay kiso?
+Conversational Data,Makaen kita to fafahiyan i riyar.
+Conversational Data,"Oway, caka ko kiso misa'osi?"
+Conversational Data,Mafoting ko tatay ko romi'ad.
+Conversational Data,"Miaraw ko kiso, saka ma'eno?"
+Conversational Data,Oromi'ad kita to sowal ko tatay.
+Conversational Data,Mafaloco' ko romi'ad a oway.
+Code-Switching & Multilingualism,"Miaraw ako, but I will come tomorrow."
+Code-Switching & Multilingualism,Caka ko homework ko wawa.
+Code-Switching & Multilingualism,Mikaen kami pizza i loma.
+Code-Switching & Multilingualism,Meeting ko wama i fafahiyan.
+Code-Switching & Multilingualism,Mafoti' ako to bus no Taitung.
+Code-Switching & Multilingualism,Miaraw ko project no sowal.
+Code-Switching & Multilingualism,Cima kiso manager no loma?
+Code-Switching & Multilingualism,Mikaen ko lunch to wawa.
+Code-Switching & Multilingualism,Sa'osi ko schedule ko romi'ad.
+Code-Switching & Multilingualism,Miaraw ako next week.
+Formal & Professional Speech,Mafaloco' ko romi'ad no sapalengaw i fafahiyan.
+Formal & Professional Speech,Pisa'osi ko misanga'ay a tamdaw.
+Formal & Professional Speech,Caka ko tamdaw a ma'araw to misalama.
+Formal & Professional Speech,Mafoting ko wama no lalan a kapah.
+Formal & Professional Speech,Miaraw ko sakalalomaay no fafahiyan.
+Formal & Professional Speech,Ma'araw ko niyaro to masadak a sowal.
+Formal & Professional Speech,Amin ko tamdaw a mafaloco'.
+Formal & Professional Speech,Pakaen ko wawa a misa'osi.
+Formal & Professional Speech,Sa'osi ko tamdaw to misalama.
+Formal & Professional Speech,Miaraw ko kapah a romi'ad.
+"Idioms, Proverbs & Cultural Expressions",Mafaloco' ko romi'ad a malemeday ko niyaro.
+"Idioms, Proverbs & Cultural Expressions",Amin ko wawa a mi'adop ko lalomaay.
+"Idioms, Proverbs & Cultural Expressions",Miaraw ko sowal a mafoti' ko lalan.
+"Idioms, Proverbs & Cultural Expressions",Sa'osi ko niyaro a malemeday.
+"Idioms, Proverbs & Cultural Expressions",Mikaen ko fafahiyan a ma'araw.
+"Idioms, Proverbs & Cultural Expressions",Mafoting ko tatay a malemeday ko wawa.
+"Idioms, Proverbs & Cultural Expressions",Miaraw ko romi'ad a masadak.
+"Idioms, Proverbs & Cultural Expressions",Caka ko niyaro a ma'araw.
+"Idioms, Proverbs & Cultural Expressions",Amin ko sowal a mafaloco'.
+"Idioms, Proverbs & Cultural Expressions",Mafaloco' ko lalan a mi'adop.
+Question-Answer Pairs,Ma'eno ko romi'ad no wama?
+Question-Answer Pairs,Cima ko tamdaw a miaraw?
+Question-Answer Pairs,Ano ko misa'osi to wawa?
+Question-Answer Pairs,Ma'eno ko niyaro i loma?
+Question-Answer Pairs,Cima ko ma'araw to sowal?
+Question-Answer Pairs,Ano ko kapah no fafahiyan?
+Question-Answer Pairs,Ma'eno ko lalan a mafoti'?
+Question-Answer Pairs,Cima ko tatay a misa'osi?
+Question-Answer Pairs,Ano ko misalama no tamdaw?
+Question-Answer Pairs,Ma'eno ko romi'ad a mafaloco'?
+Commands & Instructions,Miaraw kiso to loma.
+Commands & Instructions,Pakaen to wawa.
+Commands & Instructions,Sa'osi ko lalomaay.
+Commands & Instructions,Mikaen to fafahiyan.
+Commands & Instructions,Caka ko sowal.
+Commands & Instructions,Mafoti' kiso.
+Commands & Instructions,Amin ko tamdaw.
+Commands & Instructions,Pisa'osi to kapah.
+Commands & Instructions,Miaraw kita.
+Commands & Instructions,Sa'osi to lalan.
+Named Entity Recognition (NER),Mafoti' ako i Taitung.
+Named Entity Recognition (NER),Miaraw ko wama i Taipei.
+Named Entity Recognition (NER),Mikaen kami i Hualien.
+Named Entity Recognition (NER),Sa'osi ko tamdaw no Pangcah.
+Named Entity Recognition (NER),Mafaloco' ko romi'ad i Taiwan.
+Named Entity Recognition (NER),Cima ko wama no Amis?
+Named Entity Recognition (NER),Miaraw ako i Dulan.
+Named Entity Recognition (NER),Mikaen to wawa i Chenggong.
+Named Entity Recognition (NER),Sa'osi ko kapah i Pacific.
+Named Entity Recognition (NER),Mafoting ko tatay i Faloco'.
+Sentiment Analysis,Mafaloco' ko niyaro.
+Sentiment Analysis,Caka ko romi'ad a malemeday.
+Sentiment Analysis,Miaraw ako a masadak.
+Sentiment Analysis,Mikaen kami a mafaloco'.
+Sentiment Analysis,Sa'osi ko lalan a ma'araw.
+Sentiment Analysis,Mafoting ko wawa a malemeday.
+Sentiment Analysis,Amin ko sowal a masadak.
+Sentiment Analysis,Miaraw ko romi'ad a mafoti'.
+Sentiment Analysis,Malataw ko tamdaw a Sentiment Analysis to lalan no Faloco’.
+Sentiment Analysis,Mafaloco' ko tamdaw.
+Paraphrased & Augmented Sentences,Miaraw ako i lalan no romi'ad.
+Paraphrased & Augmented Sentences,"I lalan, miaraw ako."
+Paraphrased & Augmented Sentences,Mafoti' ako i romi'ad no lalan.
+Paraphrased & Augmented Sentences,"I romi'ad, mafoti' ako."
+Paraphrased & Augmented Sentences,Mikaen ako i loma.
+Paraphrased & Augmented Sentences,"I loma, mikaen ako."
+Paraphrased & Augmented Sentences,Sa'osi ko niyaro i loma.
+Paraphrased & Augmented Sentences,"I loma, sa'osi ko niyaro."
+Paraphrased & Augmented Sentences,Mafaloco' ko wawa i romi'ad.
+Paraphrased & Augmented Sentences,"I romi'ad, mafaloco' ko wawa."
