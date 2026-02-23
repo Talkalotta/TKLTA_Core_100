@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Nagbasa ako han libro kagab-i antes matulog.
+Grammar Core,Nagbabasá hiya hin nobela kada hapon.
+Grammar Core,Mabasa kami han kontrata buwas.
+Grammar Core,Magbabasá ako kun may oras pa ako.
+Grammar Core,Wara ako magbasa han mensahe.
+Grammar Core,Ginbasa an surat han direktor han kompanya.
+Grammar Core,Nagkadto kami ha Baybay City han nagligad nga semana.
+Grammar Core,Makadto hira ha kumperensya kon maaprubahan an pondo.
+Grammar Core,Nag-aaral pa hiya han medisina bisan makuri an kurso.
+Grammar Core,Natapos na namon an proyekto antes an deadline.
+Conversational Data,Kumusta ka? Dugay na kita waray magkita.
+Conversational Data,"Maopay man ako, busy la ha trabaho hini nga mga adlaw."
+Conversational Data,Adi ka ba ha plaza yana? Magkita kita didto.
+Conversational Data,"Diri ako makadto yana, may pamilya ako nga gin-aasikaso."
+Conversational Data,Ano an plano naton para han piyesta ha Baybay?
+Conversational Data,Basin makakaon kita ha gawas kun may oras ka.
+Conversational Data,"Sige, text la ako kon andam ka na."
+Conversational Data,"Salamat gud ha pagbulig kahapon, dako an naitabang mo."
+Conversational Data,"Wara problema, nalipay ako nga nakabulig."
+Conversational Data,"Kitakits buwas ha eskwelahan, ayaw pagpalate."
+Code-Switching & Multilingualism,May meeting kami buwas pero tentative pa an schedule.
+Code-Switching & Multilingualism,Nag-submit ako han report pero may kulang pa nga attachment.
+Code-Switching & Multilingualism,Magda-drive ako pakadto ha office antes mag-lunch.
+Code-Switching & Multilingualism,Pwede ba nimo i-forward an email ha akon?
+Code-Switching & Multilingualism,Nag-review ako para han final exam next week.
+Code-Switching & Multilingualism,May deadline kami yana nga quarter para han project.
+Code-Switching & Multilingualism,Mag-update ako ha team chat kun may changes.
+Code-Switching & Multilingualism,Nag-apply hiya hin online job samtang naga-eskwela.
+Code-Switching & Multilingualism,Please i-confirm kun available ka ha Friday.
+Code-Switching & Multilingualism,Nag-budget kami para han upcoming event ha city hall.
+Formal & Professional Speech,"Sumala han opisyal nga memorandum, kinahanglan isumite an dokumento antes Marso 5."
+Formal & Professional Speech,An pasyente gin-admit ha ospital tungod han komplikasyon ha baga.
+Formal & Professional Speech,Ini nga kontrata nagpapahayag han legal nga obligasyon han duha nga partido.
+Formal & Professional Speech,Ginrekomenda han inhenyero an teknikal nga pag-usisa han estruktura.
+Formal & Professional Speech,An kompanya nagpatuman hin bag-o nga polisiya ha seguridad.
+Formal & Professional Speech,"Sumala han datos han Department of Health, nagtaas an kaso han dengue."
+Formal & Professional Speech,Kinahanglan sundon an standard operating procedure ha laboratoryo.
+Formal & Professional Speech,An abogado nagpresentar hin ebidensya ha korte.
+Formal & Professional Speech,Gin-aprubahan han konseho an resolusyon mahitungod han badyet.
+Formal & Professional Speech,An institusyon naglalayon mapauswag an kalidad han edukasyon.
+"Idioms, Proverbs & Cultural Expressions","An tawo nga matiyaga, may gin-aabtan nga bunga."
+"Idioms, Proverbs & Cultural Expressions",Diri tanan nga nagkikinang bulawan.
+"Idioms, Proverbs & Cultural Expressions","Kun may tiyaga, may paglaum."
+"Idioms, Proverbs & Cultural Expressions","An nagbubuhat hin maopay, ginbabalusan hin maopay."
+"Idioms, Proverbs & Cultural Expressions",Baga hin waray buot kon diri namamati han tambag.
+"Idioms, Proverbs & Cultural Expressions","An tubig nga hilom, madalom."
+"Idioms, Proverbs & Cultural Expressions",Mas maopay an mahinay nga sigurado kay han madagmit nga sayop.
+"Idioms, Proverbs & Cultural Expressions",An akon kasingkasing nabug-atan han kasubo.
+"Idioms, Proverbs & Cultural Expressions",Naglalakat hiya nga murag may kalayo ha tiil.
+"Idioms, Proverbs & Cultural Expressions","An kinabuhi sugad hin dagat nga usahay malinaw, usahay mabaskog."
+Question-Answer Pairs,Ano an kapital han Pilipinas? An Manila amo an kapital.
+Question-Answer Pairs,San-o ginselebrar an piyesta ha Baybay? Ginselebrar ini kada Hunyo.
+Question-Answer Pairs,Kay ano importante an edukasyon? Kay ini an pundasyon han kabubuwason.
+Question-Answer Pairs,Hain nahamutang an City Hall? Nahamutang ini ha sentro han syudad.
+Question-Answer Pairs,Pira an bayad han matrikula? Nagdepende ini ha kurso.
+Question-Answer Pairs,Kay ano nagtaas an presyo han bugas? Tungod han kakulang ha suplay.
+Question-Answer Pairs,Ano an trabaho han nars? Nag-aalaga hiya han mga pasyente.
+Question-Answer Pairs,San-o matatapos an proyekto? Matatapos ini ha Disyembre.
+Question-Answer Pairs,Kay ano ka nalipay yana? Kay nakapasar ako han eksaminasyon.
+Question-Answer Pairs,"Ano an imo opinyon mahitungod han isyu? Para ha akon, kinahanglan hin patas nga solusyon."
+Commands & Instructions,Isara an purtahan antes ka gumawas.
+Commands & Instructions,Basaha an instruksyon antes magtikang.
+Commands & Instructions,Ipasa an papeles ha akon yana.
+Commands & Instructions,Ayaw pagkalimot han miting buwas.
+Commands & Instructions,I-check an email kada aga.
+Commands & Instructions,Tawga an kliyente yana nga hapon.
+Commands & Instructions,Humalata hin mahinay samtang nagmamaneho.
+Commands & Instructions,Ibutang an libro ha estante.
+Commands & Instructions,Pag-andam hin presentasyon para ha klase.
+Commands & Instructions,I-report dayon an bisan ano nga problema.
+Named Entity Recognition (NER) Data,Hi Juan Dela Cruz nagtrabaho ha Baybay City Hall.
+Named Entity Recognition (NER) Data,An University of the Philippines may kampus ha Diliman.
+Named Entity Recognition (NER) Data,"Natawo hi Maria Clara han Enero 12, 1998."
+Named Entity Recognition (NER) Data,An Leyte usa nga probinsya ha Eastern Visayas.
+Named Entity Recognition (NER) Data,Nagbisita hi Presidente Marcos ha Tacloban City.
+Named Entity Recognition (NER) Data,An Department of Education nagpatuman hin bag-o nga kurikulum.
+Named Entity Recognition (NER) Data,An Sinulog Festival ginselebrar ha Cebu City.
+Named Entity Recognition (NER) Data,Nagpirma hi Atty. Santos han kontrata kahapon.
+Named Entity Recognition (NER) Data,An San Juanico Bridge nag-uugnay han Leyte ngan Samar.
+Named Entity Recognition (NER) Data,An World Health Organization nagpagawas hin advisory yana nga semana.
+Sentiment Analysis Data,Nalipay gud ako han nakakarawat ako han maopay nga balita.
+Sentiment Analysis Data,Nabido ako han waray hiya tumuman han iya saad.
+Sentiment Analysis Data,Neutral la an akon pagbati mahitungod han desisyon.
+Sentiment Analysis Data,Nalilisang ako han hinabo nga aksidente.
+Sentiment Analysis Data,Nasubo an komunidad han naglabay an bagyo.
+Sentiment Analysis Data,Naghinulsol hiya han iya ginbuhat.
+Sentiment Analysis Data,Nadismaya an mga estudyante han gin-urong an programa.
+Sentiment Analysis Data,Nagpasalamat kami han madagmit nga serbisyo.
+Sentiment Analysis Data,Nahadlok ako magyakan ha atubangan han kadam-an.
+Sentiment Analysis Data,Nalilipay an pamilya han nagkatarampo hira utro.
+Paraphrased & Augmented Sentences,Nagbasa ako hin libro didto ha baybayon kahapon.
+Paraphrased & Augmented Sentences,"Kagab-i, nag-aram hiya ha iya kwarto tubtob hatinggab-i."
+Paraphrased & Augmented Sentences,Buwas kami maglalakat pakadto ha merkado temprano.
+Paraphrased & Augmented Sentences,Nagplano hira magtukod hin negosyo ha syudad.
+Paraphrased & Augmented Sentences,Gintagan hiya hin higayon nga magyakan ha entablado.
+Paraphrased & Augmented Sentences,Nagsurat ako hin diary mahitungod han akon eksperyensya.
+Paraphrased & Augmented Sentences,Naghinay-hinay hiya paglakaw tungod han kasakit ha tiil.
+Paraphrased & Augmented Sentences,Gin-imbitar kami ha kasal han amon sangkay.
+Paraphrased & Augmented Sentences,Nagtanom hira hin kahoy basi maprotektahan an kalibungan.
+Paraphrased & Augmented Sentences,Nag-ampo hiya antes magtikang an importante nga buruhaton.

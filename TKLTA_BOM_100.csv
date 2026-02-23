@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core (Sentence Structures & Tenses),A na gwom nyam.
+Grammar Core (Sentence Structures & Tenses),A be gwom nyam.
+Grammar Core (Sentence Structures & Tenses),A wo gwom nyam.
+Grammar Core (Sentence Structures & Tenses),A da gwom nyam.
+Grammar Core (Sentence Structures & Tenses),A ma gwom nyam.
+Grammar Core (Sentence Structures & Tenses),Nyam be gwom da a.
+Grammar Core (Sentence Structures & Tenses),A ta gwom nyam.
+Grammar Core (Sentence Structures & Tenses),A lo gwom nyam.
+Grammar Core (Sentence Structures & Tenses),A ki gwom nyam.
+Grammar Core (Sentence Structures & Tenses),A yi gwom nyam.
+Conversational Data (Real-Life Dialogues & Exchanges),Ngwa: Wo na? — A: A na la.
+Conversational Data (Real-Life Dialogues & Exchanges),Wo be ta lo? — A be ta Jos.
+Conversational Data (Real-Life Dialogues & Exchanges),"Ngwa ma nyam? — I, a ma nyam."
+Conversational Data (Real-Life Dialogues & Exchanges),Wo yi gwom? — A yi gwom sha.
+Conversational Data (Real-Life Dialogues & Exchanges),Ngwa be su? — A be su la.
+Conversational Data (Real-Life Dialogues & Exchanges),Wo lo ki? — A lo ki kasuwa.
+Conversational Data (Real-Life Dialogues & Exchanges),Ngwa da kwon? — A da kwon nyam.
+Conversational Data (Real-Life Dialogues & Exchanges),Wo ta be? — A ta be nyin.
+Conversational Data (Real-Life Dialogues & Exchanges),Ngwa ma gwom? — A ma gwom.
+Conversational Data (Real-Life Dialogues & Exchanges),Wo yi la? — A yi la nyi.
+Code-Switching & Multilingualism,A lo market la nyam.
+Code-Switching & Multilingualism,Ngwa check gwom sha.
+Code-Switching & Multilingualism,A be study nyam.
+Code-Switching & Multilingualism,Wo submit gwom la?
+Code-Switching & Multilingualism,A download gwom nyam.
+Code-Switching & Multilingualism,Ngwa call a sha.
+Code-Switching & Multilingualism,A schedule gwom la.
+Code-Switching & Multilingualism,Wo update gwom?
+Code-Switching & Multilingualism,A confirm nyam la.
+Code-Switching & Multilingualism,Ngwa print gwom sha.
+Formal & Professional Speech,A be nyi gwom gwan da asibiti.
+Formal & Professional Speech,Ngwa ta lo ofis la.
+Formal & Professional Speech,A be kwon takarda la kot.
+Formal & Professional Speech,Wo yi nyi rahoto la.
+Formal & Professional Speech,A ma gwom la bank.
+Formal & Professional Speech,Ngwa da nyi gwom la makaranta.
+Formal & Professional Speech,A be lo la taron hukumci.
+Formal & Professional Speech,Wo ta yi rahoto la ofis?
+Formal & Professional Speech,A lo la kasuwa gwan.
+Formal & Professional Speech,Ngwa be su la asibiti.
+"Idioms, Proverbs & Cultural Expressions",Gwom nyi lo gwan.
+"Idioms, Proverbs & Cultural Expressions",Nyam be gwom ta.
+"Idioms, Proverbs & Cultural Expressions",Ngwa yi lo nyam.
+"Idioms, Proverbs & Cultural Expressions",Gwom ma nyi sha.
+"Idioms, Proverbs & Cultural Expressions",Nyam lo da gwom.
+"Idioms, Proverbs & Cultural Expressions",Ngwa ta nyam gwan.
+"Idioms, Proverbs & Cultural Expressions",Gwom yi nyam la.
+"Idioms, Proverbs & Cultural Expressions",Nyam ma gwom la.
+"Idioms, Proverbs & Cultural Expressions",Ngwa lo nyam sha.
+"Idioms, Proverbs & Cultural Expressions",Gwom ta nyi la.
+Question-Answer Pairs (FAQ & Contextual Understanding),Wo na? A na Gyang.
+Question-Answer Pairs (FAQ & Contextual Understanding),Wo lo ki? A lo ki Jos.
+Question-Answer Pairs (FAQ & Contextual Understanding),Ngwa be ta lo? A be ta lo la kasuwa.
+Question-Answer Pairs (FAQ & Contextual Understanding),Wo yi gwom? A yi gwom la makaranta.
+Question-Answer Pairs (FAQ & Contextual Understanding),Ngwa ma nyam? A ma nyam la gida.
+Question-Answer Pairs (FAQ & Contextual Understanding),Wo da kwon? A da kwon nyam.
+Question-Answer Pairs (FAQ & Contextual Understanding),Ngwa ki lo? A ki lo la ofis.
+Question-Answer Pairs (FAQ & Contextual Understanding),Wo be su? A be su la asibiti.
+Question-Answer Pairs (FAQ & Contextual Understanding),Ngwa ta be? A ta be nyin.
+Question-Answer Pairs (FAQ & Contextual Understanding),Wo ma gwom? A ma gwom la bank.
+Commands & Instructions (Imperative Sentences),Lo la kasuwa.
+Commands & Instructions (Imperative Sentences),Ma nyam sha.
+Commands & Instructions (Imperative Sentences),Yi gwom la makaranta.
+Commands & Instructions (Imperative Sentences),Da kwon nyam.
+Commands & Instructions (Imperative Sentences),Ta lo la ofis.
+Commands & Instructions (Imperative Sentences),Be su la asibiti.
+Commands & Instructions (Imperative Sentences),Kwon takarda la kot.
+Commands & Instructions (Imperative Sentences),Lo ki bank.
+Commands & Instructions (Imperative Sentences),Yi rahoto la ofis.
+Commands & Instructions (Imperative Sentences),Gwom nyam gwan.
+Named Entity Recognition (NER) Data,Gyang lo la Jos.
+Named Entity Recognition (NER) Data,Rop be su la Rayfield.
+Named Entity Recognition (NER) Data,Nanpon yi gwom la University of Jos.
+Named Entity Recognition (NER) Data,Plateau be nyi gwan.
+Named Entity Recognition (NER) Data,Barakin Ladi lo gwan.
+Named Entity Recognition (NER) Data,Barkin Ladi ta be nyin.
+Named Entity Recognition (NER) Data,Jos be gwan Plateau.
+Named Entity Recognition (NER) Data,University of Jos lo la Jos.
+Named Entity Recognition (NER) Data,Rayfield be la Jos.
+Named Entity Recognition (NER) Data,Gyang ma gwom la Plateau.
+Sentiment Analysis Data,A yi la nyi.
+Sentiment Analysis Data,A ma gwom la nyi.
+Sentiment Analysis Data,A be su la sha.
+Sentiment Analysis Data,A lo la gwan.
+Sentiment Analysis Data,A ta be nyin sha.
+Sentiment Analysis Data,A yi gwom la nyi gwan.
+Sentiment Analysis Data,A ma nyam la sha.
+Sentiment Analysis Data,A be nyi gwom la nyi.
+Sentiment Analysis Data,A lo la kasuwa sha.
+Sentiment Analysis Data,A ta lo la nyi.
+Paraphrased & Augmented Sentences,A lo la kasuwa nyam.
+Paraphrased & Augmented Sentences,A ta lo la kasuwa.
+Paraphrased & Augmented Sentences,A be lo la kasuwa.
+Paraphrased & Augmented Sentences,A lo la kasuwa sha.
+Paraphrased & Augmented Sentences,A ki lo la kasuwa.
+Paraphrased & Augmented Sentences,A lo la kasuwa gwan.
+Paraphrased & Augmented Sentences,A lo kasuwa nyam.
+Paraphrased & Augmented Sentences,A lo ki kasuwa.
+Paraphrased & Augmented Sentences,A lo la kasuwa la nyi.
+Paraphrased & Augmented Sentences,A lo la kasuwa nyin.

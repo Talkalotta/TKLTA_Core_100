@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Me kɔ sukuu da bia.
+Grammar Core,Wo bɛ ba ɔkyena anɔpa.
+Grammar Core,Ɔ nni aduan no bio.
+Grammar Core,Yɛn kɔɔ gua no nnɛra.
+Grammar Core,Mo bɛyɛ adwuma no ɔkyena.
+Grammar Core,Wɔn yɛɛ fie no kɛse.
+Grammar Core,Me rekyerɛ Anyin kasa no seesei.
+Grammar Core,Ɔrenkɔ akuraa no bio.
+Grammar Core,Yɛbɛtumi ayɛ no sɛnea wopɛ.
+Grammar Core,Aduan no diiɛ na wɔde maa me.
+Conversational Data,A: Wo ho te sɛn? B: Me ho yɛ.
+Conversational Data,A: Wopɛ sɛ wokɔ he? B: Me pɛ sɛ me kɔ gua.
+Conversational Data,"A: Wohu no anaa? B: Yoo, mehu no."
+Conversational Data,A: Dɛn na woreyɛ? B: Merekɔ sukuu.
+Conversational Data,A: Wo ne hena na wopɛ sɛ wokasa? B: Me ne ɔkyerɛkyerɛni.
+Conversational Data,"A: Ɔbaa no aba anaa? B: Dabi, ɔnnya mmae."
+Conversational Data,A: Yɛnhyia da bɛn? B: Yɛnhyia Memeneda.
+Conversational Data,"A: Wode sika no aba? B: Yoo, mede aba."
+Conversational Data,"A: Woate asɛm no? B: Aane, mate."
+Conversational Data,A: Yɛnkɔ anɔpa anaa anwummere? B: Yɛnkɔ anɔpa.
+Code-Switching & Multilingualism,Me downloadi file no nnɛ.
+Code-Switching & Multilingualism,Yɛ meetingi wɔ ofis no.
+Code-Switching & Multilingualism,Ɔ sendi message no ma me.
+Code-Switching & Multilingualism,Me checki report no awie.
+Code-Switching & Multilingualism,Wɔ approvee project no ntɛm.
+Code-Switching & Multilingualism,Me printi document no.
+Code-Switching & Multilingualism,Yɛ plan na yɛ executee no.
+Code-Switching & Multilingualism,Ɔ updatee system no.
+Code-Switching & Multilingualism,Me booki ticket no dada.
+Code-Switching & Multilingualism,Yɛ schedulee program no ɔkyena.
+Formal & Professional Speech,Yɛsrɛ mo ma muntie nhyehyɛe foforo no.
+Formal & Professional Speech,Krataa no da so ara retwɛn mo mmuae.
+Formal & Professional Speech,Yɛde akyɛde yi rema mo sɛ adwuma no ayɛ yie.
+Formal & Professional Speech,Adwumayɛ no behyia da a wɔahyɛ no.
+Formal & Professional Speech,Yɛsrɛ sɛ momfa adanseɛ no mma ofis no.
+Formal & Professional Speech,Nnipa no bɛhyia adwumamfo no nnɛ.
+Formal & Professional Speech,Yɛma mo akwaaba wɔ adwumamhyia no ase.
+Formal & Professional Speech,"Sɛnea mmara no kyerɛ no, ɛsɛ sɛ wode krataa no ma."
+Formal & Professional Speech,Adwuma no wiee da a wɔde hyɛe no.
+Formal & Professional Speech,Yɛda mo ase wɔ mo adwumaden ho.
+"Idioms, Proverbs & Cultural Expressions","Anoma antu a, ɔbɔ ne ho ban."
+"Idioms, Proverbs & Cultural Expressions","Dua koro gye mframa a, ɛbu."
+"Idioms, Proverbs & Cultural Expressions",Nsuo a ɛda fam no na ɛdɔ.
+"Idioms, Proverbs & Cultural Expressions","Obi nnim a, obi kyere."
+"Idioms, Proverbs & Cultural Expressions",Sika ne mogya.
+"Idioms, Proverbs & Cultural Expressions","Se wo werɛ fi na wosankɔfa a, yenkyi."
+"Idioms, Proverbs & Cultural Expressions",Abofra bo nnwene baako.
+"Idioms, Proverbs & Cultural Expressions",Akokɔ da ne ho adi anɔpa.
+"Idioms, Proverbs & Cultural Expressions",Nkyene ne asaw.
+"Idioms, Proverbs & Cultural Expressions",Ɔbra yɛ akwantu tenten.
+Question-Answer Pairs,Dɛn ne wo din? Me din de Kofi.
+Question-Answer Pairs,Wo te he? Mete Abijan.
+Question-Answer Pairs,Bere bɛn na sukuu no fi ase? Ɛfi ase anɔpa.
+Question-Answer Pairs,Hena na ɔkyerɛ Anyin kasa? Ɔkyerɛkyerɛni Kwadwo.
+Question-Answer Pairs,Dɛn nti na worekɔ gua? Merekɔ tɔ aduan.
+Question-Answer Pairs,Wo pɛ adwuma bɛn? Mepɛ adwuma pa.
+Question-Answer Pairs,Bere bɛn na woba? Meba anwummere.
+Question-Answer Pairs,Dɛn na wode bɛyɛ sika no? Mede bɛtɔ nhoma.
+Question-Answer Pairs,Wopɛ aduan bɛn? Mepɛ banku.
+Question-Answer Pairs,Yɛbɛhyia he? Yɛbɛhyia fie.
+Commands & Instructions,Bra ha ntɛm.
+Commands & Instructions,Kɔtɔ aduan no ma me.
+Commands & Instructions,Fa krataa no brɛ me.
+Commands & Instructions,Tie me yie.
+Commands & Instructions,Kyerɛ no kwan.
+Commands & Instructions,Ma me nsuo no.
+Commands & Instructions,Kɔfrɛ no bra.
+Commands & Instructions,Kenkan nhoma no.
+Commands & Instructions,Si hɔ na twɛn.
+Commands & Instructions,Yɛ adwuma no seesei.
+Named Entity Recognition (NER),Kofi kɔɔ Abijan nnɛ.
+Named Entity Recognition (NER),Akosua te Kumasi.
+Named Entity Recognition (NER),Wɔhyiaa Yaw wɔ Accra.
+Named Entity Recognition (NER),Adwoa kɔɔ Ghana University.
+Named Entity Recognition (NER),Wɔde krataa no kɔmaa Ministry of Education.
+Named Entity Recognition (NER),Kojo fii Côte d’Ivoire.
+Named Entity Recognition (NER),Ama kɔɔ Paris bosome a atwam.
+Named Entity Recognition (NER),Wɔhyiaa Nana Addo wɔ gua no.
+Named Entity Recognition (NER),Kwaku ne Abena kɔɔ Tema.
+Named Entity Recognition (NER),Yaa te Bondoukou.
+Sentiment Analysis,Me ani agye paa.
+Sentiment Analysis,M’awerɛhow kɛse.
+Sentiment Analysis,Adwuma no yɛ me anigye.
+Sentiment Analysis,Me werɛhow wɔ asɛm no ho.
+Sentiment Analysis,Me ho tɔ me.
+Sentiment Analysis,Ɛyɛ me dɛ sɛ wokɔ.
+Sentiment Analysis,Me koma abɔ me.
+Sentiment Analysis,Ɔyɛ onipa pa paa.
+Sentiment Analysis,Asɛm no haw me.
+Sentiment Analysis,Me pɛ saa nhoma no paa.
+Paraphrased & Augmented Sentences,Me kɔ sukuu anɔpa biara.
+Paraphrased & Augmented Sentences,Anɔpa biara me kɔ sukuu.
+Paraphrased & Augmented Sentences,Ɔbɛba ɔkyena anɔpa.
+Paraphrased & Augmented Sentences,Ɔkyena anɔpa na ɔbɛba.
+Paraphrased & Augmented Sentences,Yɛn kɔ gua da biara.
+Paraphrased & Augmented Sentences,Da biara yɛn kɔ gua.
+Paraphrased & Augmented Sentences,Me pɛ Anyin kasa paa.
+Paraphrased & Augmented Sentences,Anyin kasa na mepɛ paa.
+Paraphrased & Augmented Sentences,Yɛbɛhyia anwummere.
+Paraphrased & Augmented Sentences,Anwummere na yɛbɛhyia.

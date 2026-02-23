@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Мен бүгүн мектепке барам.
+Grammar Core,Сен кечээ кино көрдүң.
+Grammar Core,Ал эртең шаарга барат.
+Grammar Core,Биз китеп окуп жатабыз.
+Grammar Core,Силер жыйында сүйлөдүңөр.
+Grammar Core,Алар жаңы долбоорду башташты.
+Grammar Core,"Мен барбайм, анткени убактым жок."
+Grammar Core,Бул макала адис тарабынан жазылган.
+Grammar Core,"Эгер аба ырайы жакшы болсо, тоого чыгабыз."
+Grammar Core,Мен окууну улантмакчымын.
+Conversational Data,"Салам, кандайсың?"
+Conversational Data,"Жакшы, өзүңчү?"
+Conversational Data,Кечинде жолуга алабызбы?
+Conversational Data,"Ооба, саат жетиде ыңгайлуубу?"
+Conversational Data,"Кечиресиң, кечигип калдым."
+Conversational Data,"Эч нерсе эмес, күтүп турдум."
+Conversational Data,Бүгүн аба ырайы сонун экен.
+Conversational Data,"Ооба, паркка барып келели."
+Conversational Data,Бул жердеги тамак абдан даамдуу экен.
+Conversational Data,"Макул, дагы бир жолу жолугалы."
+Code-Switching & Multilingualism,Мен бүгүн meetingге барам.
+Code-Switching & Multilingualism,Бул проект абдан маанилүү.
+Code-Switching & Multilingualism,Сен файлды upload кылдыңбы?
+Code-Switching & Multilingualism,Deadline эртең бүтөт.
+Code-Switching & Multilingualism,Биз online форматта иштейбиз.
+Code-Switching & Multilingualism,Ал презентацияны PowerPoint менен жасады.
+Code-Switching & Multilingualism,Кофе-брейкке чыгалы.
+Code-Switching & Multilingualism,Бул идея start-up үчүн ылайыктуу.
+Code-Switching & Multilingualism,Мен reportту кечинде жөнөтөм.
+Code-Switching & Multilingualism,Feedback берсең жакшы болот.
+Formal & Professional Speech,"Урматтуу кесиптештер, жыйын саат ондо башталат."
+Formal & Professional Speech,Бул келишим мыйзам талаптарына ылайык түзүлдү.
+Formal & Professional Speech,Бейтапка кошумча текшерүү сунушталат.
+Formal & Professional Speech,Компания жаңы стратегиясын жарыялады.
+Formal & Professional Speech,"Сураныч, арызды белгиленген мөөнөттө тапшырыңыз."
+Formal & Professional Speech,Изилдөөнүн жыйынтыгы илимий журналда басылды.
+Formal & Professional Speech,Кардарлардын маалыматтары купуя сакталат.
+Formal & Professional Speech,Салык декларациясы өз убагында берилүүгө тийиш.
+Formal & Professional Speech,Техникалык мүчүлүштүк убактылуу мүнөзгө ээ.
+Formal & Professional Speech,Расмий кат почта аркылуу жөнөтүлдү.
+"Idioms, Proverbs & Cultural Expressions",Эрте турган эркек иштен кур калбайт.
+"Idioms, Proverbs & Cultural Expressions",Жакшы сөз жан эргитет.
+"Idioms, Proverbs & Cultural Expressions",Сабыр түбү — сары алтын.
+"Idioms, Proverbs & Cultural Expressions",Дос кыйын күндө билинет.
+"Idioms, Proverbs & Cultural Expressions",Таш менен урганды аш менен ур.
+"Idioms, Proverbs & Cultural Expressions",Суу ичкен кудугуңа түкүрбө.
+"Idioms, Proverbs & Cultural Expressions",Адам сөзү менен бааланат.
+"Idioms, Proverbs & Cultural Expressions",Жалкоонун жообу даяр.
+"Idioms, Proverbs & Cultural Expressions","Көп уккан эмес, көп көргөн билет."
+"Idioms, Proverbs & Cultural Expressions",Ишеним тоону да жылдырат.
+Question-Answer Pairs,Горно-Алтайск кайсы республикада жайгашкан?
+Question-Answer Pairs,Алтай Республикасынын борбору кайсы шаар?
+Question-Answer Pairs,Бүгүнкү жыйын качан башталат?
+Question-Answer Pairs,Бул китеп ким тарабынан жазылган?
+Question-Answer Pairs,Эмне үчүн тил үйрөнүү маанилүү?
+Question-Answer Pairs,Сен кайсы университетте окуйсуң?
+Question-Answer Pairs,Бул долбоордун максаты эмнеде?
+Question-Answer Pairs,Жайкы каникул качан башталат?
+Question-Answer Pairs,Кайсы ыкма натыйжалуу деп ойлойсуң?
+Question-Answer Pairs,Кандай сунуш бере аласың?
+Commands & Instructions,Эшикти жап.
+Commands & Instructions,Бул документти оку.
+Commands & Instructions,Суроого так жооп бер.
+Commands & Instructions,Мага жардам берчи.
+Commands & Instructions,Файлды жүктөп ал.
+Commands & Instructions,Текстти которуп чык.
+Commands & Instructions,Жолугушууга убагында кел.
+Commands & Instructions,Китепти барактап көр.
+Commands & Instructions,Тынч отур.
+Commands & Instructions,Бул тапшырманы бүгүн бүтүр.
+Named Entity Recognition (NER),Горно-Алтайск Алтай Республикасынын борбору.
+Named Entity Recognition (NER),Катунь дарыясы Сибирде агат.
+Named Entity Recognition (NER),2025-жылы жаңы мектеп ачылды.
+Named Entity Recognition (NER),Михаил Евдокимов белгилүү саясатчы болгон.
+Named Entity Recognition (NER),Москва Россия Федерациясынын борбору.
+Named Entity Recognition (NER),Алтай мамлекеттик университети 1949-жылы негизделген.
+Named Entity Recognition (NER),Белуха тоосу бийик чоку.
+Named Entity Recognition (NER),Новосибирск шаары чоң өнөр жай борбору.
+Named Entity Recognition (NER),Бийск шаары тарыхый мааниге ээ.
+Named Entity Recognition (NER),Россия 1991-жылы көз карандысыз мамлекет болду.
+Sentiment Analysis,Бул фильм мага абдан жакты.
+Sentiment Analysis,Мен бул чечимге нааразы болдум.
+Sentiment Analysis,Жаңы жаңылык мени кубандырды.
+Sentiment Analysis,Бул кызмат сапатсыз көрүнөт.
+Sentiment Analysis,Мен бул жерди абдан жакшы көрөм.
+Sentiment Analysis,Бул кабар мени кайгыртты.
+Sentiment Analysis,Сенин эмгегиңе ыраазымын.
+Sentiment Analysis,Бул абал мени тынчсыздандырат.
+Sentiment Analysis,Жыйынтык канааттандырарлык болду.
+Sentiment Analysis,Бул сунуш мага кызыксыз.
+Paraphrased & Augmented Sentences,Мен бүгүн китеп окуп жатам.
+Paraphrased & Augmented Sentences,Бүгүн мен китеп окуудамын.
+Paraphrased & Augmented Sentences,Мен азыр адабият окуп турам.
+Paraphrased & Augmented Sentences,Кечээ биз тоого бардык.
+Paraphrased & Augmented Sentences,Биз кечээ тоого чыкканбыз.
+Paraphrased & Augmented Sentences,Эртең алар сапарга чыгышат.
+Paraphrased & Augmented Sentences,Алар эртең жолго чыгат.
+Paraphrased & Augmented Sentences,Бул маселе маанилүү.
+Paraphrased & Augmented Sentences,Бул маселе абдан олуттуу.
+Paraphrased & Augmented Sentences,Бул суроо чоң мааниге ээ.

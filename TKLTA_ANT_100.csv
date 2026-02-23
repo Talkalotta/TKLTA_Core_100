@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,A de wok evri maanin bifuo di sun rise.
+Grammar Core,Shi bin go a makit yestade an bai fresh fish.
+Grammar Core,Dem a go build di haus nex mont.
+Grammar Core,"If mi did kno, mi wuda tell yu di trut."
+Grammar Core,He naa like wen pipul taak bad bout ar.
+Grammar Core,Di pikni dem waz bein tich by di new teacha.
+Grammar Core,Wi done eat awredi so wi naa hongri.
+Grammar Core,She gwain call yu wen she reach a yaad.
+Grammar Core,Mi neva see dat kine ting inna mi life.
+Grammar Core,Di rain did a fall haad while wi waz a drive.
+Conversational Data,"A: Wa a gwan? B: Nutn much, jus a chill."
+Conversational Data,"A: Yu de kom Carnival? B: Yes man, mi naa miss dat."
+Conversational Data,A: Weh yu bin? B: Mi bin a St. John’s wid mi sista.
+Conversational Data,"A: Yu hungry? B: Likl bit, leh we get somting fu eat."
+Conversational Data,"A: Di meeting stil on? B: Yes, dem push it to two a klok."
+Conversational Data,"A: Yu hear di news? B: No, wa happen?"
+Conversational Data,"A: How di wuk a go? B: It rough, but mi manage."
+Conversational Data,"A: Yu see di match las nite? B: Yes, it sweet bad!"
+Conversational Data,A: Yu ready fu go? B: Gimme two minute.
+Conversational Data,"A: Yu need help? B: Tanks, mi appreciate it."
+Code-Switching & Multilingualism,Mi a study fu mi exam but di pressure real high.
+Code-Switching & Multilingualism,"She say she tired, but she still a hustle hard."
+Code-Switching & Multilingualism,Wi late because di traffic was crazy.
+Code-Switching & Multilingualism,He tek di bus instead of driving he car.
+Code-Switching & Multilingualism,Dem a plan one big event downtown.
+Code-Switching & Multilingualism,Mi phone dead so mi cyaan text back.
+Code-Switching & Multilingualism,She get one promotion at di office.
+Code-Switching & Multilingualism,Wi a watch one movie pan Netflix.
+Code-Switching & Multilingualism,Di system crash an everybody confuse.
+Code-Switching & Multilingualism,Mi need one break from all dis stress.
+Formal & Professional Speech,"Gud maanin, mi wud like fu schedule one appointment."
+Formal & Professional Speech,Please submit di document bifuo di deadline.
+Formal & Professional Speech,Di patient need immediate medical attention.
+Formal & Professional Speech,Wi request additional information regarding di contract.
+Formal & Professional Speech,Di engineer inspect di site yestade.
+Formal & Professional Speech,Kindly review di proposal an provide feedback.
+Formal & Professional Speech,Di court case adjourn till nex week.
+Formal & Professional Speech,Wi appreciate yu cooperation in dis matter.
+Formal & Professional Speech,Di technician resolve di technical issue.
+Formal & Professional Speech,Please ensure compliance wid di safety regulation.
+"Idioms, Proverbs & Cultural Expressions",He tink he bigga dan di system.
+"Idioms, Proverbs & Cultural Expressions",She de pon cloud nine since she win.
+"Idioms, Proverbs & Cultural Expressions",Dem tek sleep mark death.
+"Idioms, Proverbs & Cultural Expressions",Mi naa buy dat story; it smell fishy.
+"Idioms, Proverbs & Cultural Expressions",Yu cyaan plant yam an expect cassava.
+"Idioms, Proverbs & Cultural Expressions",All finger naa equal.
+"Idioms, Proverbs & Cultural Expressions","When breeze blow, fowl bottom expose."
+"Idioms, Proverbs & Cultural Expressions",Tek time mek monkey climb tree.
+"Idioms, Proverbs & Cultural Expressions",Too much wata drown pumpkin.
+"Idioms, Proverbs & Cultural Expressions","Ef yu play wid fire, yu bound fu get bun."
+Question-Answer Pairs,Q: Weh di hospital de? A: It de pan Independence Drive.
+Question-Answer Pairs,Q: Wa time di bank close? A: Four a klok.
+Question-Answer Pairs,Q: Who di Prime Minister? A: It de Gaston Browne.
+Question-Answer Pairs,Q: How much dis cost? A: It fifty dollar.
+Question-Answer Pairs,Q: When school reopen? A: Nex Monday.
+Question-Answer Pairs,Q: Why yu late? A: Traffic hold mi up.
+Question-Answer Pairs,Q: Which bus go All Saints? A: Number 22.
+Question-Answer Pairs,"Q: Yu like mango? A: Yes, mi love dem."
+Question-Answer Pairs,Q: How di weather? A: It hot an sunny.
+Question-Answer Pairs,Q: Wa yu opinion pon dat? A: Mi tink it fair.
+Commands & Instructions,Close di door bifuo yu leave.
+Commands & Instructions,Turn off di light.
+Commands & Instructions,Bring di file kom yah.
+Commands & Instructions,Call mi wen yu reach.
+Commands & Instructions,Tek yuself outta trouble.
+Commands & Instructions,Listen careful wa mi a say.
+Commands & Instructions,Wash yu han bifuo yu eat.
+Commands & Instructions,Send di email now.
+Commands & Instructions,Check di engine oil.
+Commands & Instructions,Stop mek noise an pay attention.
+Named Entity Recognition (NER) Data,Gaston Browne speak inna Parliament yestade.
+Named Entity Recognition (NER) Data,Carnival start inna St. John’s every August.
+Named Entity Recognition (NER) Data,Mi fren Althea move go Barbuda las year.
+Named Entity Recognition (NER) Data,Di meeting de a Antigua Trades and Labour Union.
+Named Entity Recognition (NER) Data,VC Bird International Airport busy dis maanin.
+Named Entity Recognition (NER) Data,Mi aunty work a Mount St. John Medical Centre.
+Named Entity Recognition (NER) Data,Independence Day celebrate pan November first.
+Named Entity Recognition (NER) Data,She graduate from Antigua State College.
+Named Entity Recognition (NER) Data,Di cruise ship dock at Heritage Quay.
+Named Entity Recognition (NER) Data,Wi travel go English Harbour fu Sailing Week.
+Sentiment Analysis Data,Mi real happy bout mi new job.
+Sentiment Analysis Data,Dis situation mek mi vex bad.
+Sentiment Analysis Data,Mi feel calm wen mi de pan di beach.
+Sentiment Analysis Data,Di service at di restaurant terrible.
+Sentiment Analysis Data,Mi proud a mi daughter achievement.
+Sentiment Analysis Data,Dat movie boring an too long.
+Sentiment Analysis Data,Mi grateful fu all di support.
+Sentiment Analysis Data,Mi disappointed inna di result.
+Sentiment Analysis Data,Di concert sweet an full a vibes.
+Sentiment Analysis Data,Mi nervous bout di interview tomorrow.
+Paraphrased & Augmented Sentences,Mi a go a makit later today.
+Paraphrased & Augmented Sentences,Later mi gwain head to di makit.
+Paraphrased & Augmented Sentences,Mi plan fu visit di makit dis evenin.
+Paraphrased & Augmented Sentences,Today mi de pan makit run.
+Paraphrased & Augmented Sentences,Mi stop by di makit afta wuk.
+Paraphrased & Augmented Sentences,Mi decide fu pass tru di makit.
+Paraphrased & Augmented Sentences,Mi tek one trip go makit jus now.
+Paraphrased & Augmented Sentences,Mi de pan mi way go makit.
+Paraphrased & Augmented Sentences,Mi soon reach a makit.
+Paraphrased & Augmented Sentences,Mi heading to di makit right now.
