@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Sa ish anoli.
+Grammar Core,Chi pisa tuk.
+Grammar Core,Ilap isht anoli tok?
+Grammar Core,Hash anumpoli chi hohchifo?
+Grammar Core,Sa pisa chi la chike.
+Grammar Core,Ilap pisa la tok?
+Grammar Core,Sa pisa chi hosh pisa.
+Grammar Core,Chi anoli la chi pisa tuk.
+Grammar Core,Ilap taloa toksh?
+Grammar Core,Sa anumpa la chi anoli chi.
+Conversational Data,Halito! Katimma ish ia?
+Conversational Data,"Yakoke, sa pisa li."
+Conversational Data,Chi hohchifo la chike?
+Conversational Data,Sa ia tuk miko chia.
+Conversational Data,Katimma ish pisa la tok?
+Conversational Data,"Ayokpa, sa pisa chi."
+Conversational Data,"Chi anoli la, sa nan tvshka."
+Conversational Data,Sa katimma ish ia tok?
+Conversational Data,Ilap pisa la toksh?
+Conversational Data,"Yakoke, chi anoli li."
+Code-Switching,Sa school illi li.
+Code-Switching,Chi meeting ia la chike.
+Code-Switching,Ilap project pisa tuk.
+Code-Switching,Sa email anoli li.
+Code-Switching,Chi office illi tok?
+Code-Switching,Ilap computer pisa li.
+Code-Switching,Sa homework pisa tuk.
+Code-Switching,Chi doctor pisa la tok?
+Code-Switching,Ilap business anoli li.
+Code-Switching,Sa team illi la chike.
+Formal & Professional Speech,Miko anumpa chi toksh.
+Formal & Professional Speech,Sa nan tvshka pisa chi.
+Formal & Professional Speech,Ilap nan tvshka anoli li.
+Formal & Professional Speech,Chi nan tvshka pisa tuk.
+Formal & Professional Speech,Miko anoli la chike.
+Formal & Professional Speech,Sa anoli chi hohchifo.
+Formal & Professional Speech,Ilap nan tvshka pisa la tok?
+Formal & Professional Speech,Chi anumpa miko tuk.
+Formal & Professional Speech,Sa pisa nan tvshka.
+Formal & Professional Speech,Ilap anoli la chike.
+Idioms & Cultural Expressions,Shilup pisa hosh ia.
+Idioms & Cultural Expressions,Nittak holisso anumpa.
+Idioms & Cultural Expressions,Shilombish holisso anoli.
+Idioms & Cultural Expressions,Hashi pisa toksh?
+Idioms & Cultural Expressions,Chukfi pisa la chike.
+Idioms & Cultural Expressions,Isht ish anoli hosh.
+Idioms & Cultural Expressions,Nan tvshka hosh anoli.
+Idioms & Cultural Expressions,Shilup anoli la chi.
+Idioms & Cultural Expressions,Hash pisa hosh.
+Idioms & Cultural Expressions,Chukfi anoli tok.
+Question-Answer Pairs,Katimma ish ia la tok?
+Question-Answer Pairs,Sa ia miko chia.
+Question-Answer Pairs,Chi pisa nan tvshka?
+Question-Answer Pairs,Sa pisa holisso.
+Question-Answer Pairs,Ilap ia tuk?
+Question-Answer Pairs,Ilap ia li.
+Question-Answer Pairs,Chi anoli la tok?
+Question-Answer Pairs,Sa anoli li.
+Question-Answer Pairs,Ilap pisa hosh?
+Question-Answer Pairs,Ilap pisa hosh.
+Commands & Instructions,Anoli!
+Commands & Instructions,Pisa holisso!
+Commands & Instructions,Ia miko chia!
+Commands & Instructions,Anumpa chi!
+Commands & Instructions,Pisa nan tvshka!
+Commands & Instructions,Illi hosh!
+Commands & Instructions,Anoli chi la!
+Commands & Instructions,Pisa hosh!
+Commands & Instructions,Ia la chike!
+Commands & Instructions,Nan tvshka pisa!
+Named Entity Recognition,Pushmataha miko tuk.
+Named Entity Recognition,Chahta Okla anumpoli.
+Named Entity Recognition,Durant illi Chahta Okla.
+Named Entity Recognition,Oklahoma nittak shilup.
+Named Entity Recognition,Nanih Waiya pisa li.
+Named Entity Recognition,Sa pisa Pushmataha tuk.
+Named Entity Recognition,Ilap ia Durant.
+Named Entity Recognition,Chahta Okla holisso anoli.
+Named Entity Recognition,Nanih Waiya nittak.
+Named Entity Recognition,Oklahoma miko tok.
+Sentiment Analysis,Sa ayokpa li.
+Sentiment Analysis,Sa hohchifo li.
+Sentiment Analysis,Chi ayokpa la chike.
+Sentiment Analysis,Ilap hohchifo tuk.
+Sentiment Analysis,Sa nan tvshka ayokpa.
+Sentiment Analysis,Chi anoli hohchifo.
+Sentiment Analysis,Ilap pisa ayokpa.
+Sentiment Analysis,Sa illi hohchifo.
+Sentiment Analysis,Chi ayokpa tuk.
+Sentiment Analysis,Ilap hohchifo la chike.
+Paraphrased & Augmented,Sa pisa holisso li.
+Paraphrased & Augmented,Sa holisso pisa li.
+Paraphrased & Augmented,Chi anoli li.
+Paraphrased & Augmented,Chi anumpoli li.
+Paraphrased & Augmented,Ilap ia li tok o?
+Paraphrased & Augmented,Ilap illi li.
+Paraphrased & Augmented,Sa anoli la chike.
+Paraphrased & Augmented,Sa anumpoli la chike.
+Paraphrased & Augmented,Chi pisa tuk oklah hinla.
+Paraphrased & Augmented,Chi pisa tok.
