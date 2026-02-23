@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Mi ye nyɛ ngɛ lɛ he.
+Grammar Core,Mi be ye nyɛ ngɛ lɛ he.
+Grammar Core,Mi kɛ ye nyɛ ngɛ lɛ he.
+Grammar Core,Mi ko ye nyɛ ngɛ lɛ he.
+Grammar Core,Mi ye nyɛ ngɛ lɛ hee.
+Grammar Core,Ngɛ lɛ he ye mi.
+Grammar Core,Mi be ko ye nyɛ ngɛ lɛ he.
+Grammar Core,Mi kɛ ko ye nyɛ ngɛ lɛ he.
+Grammar Core,Mi be he ngɛ lɛ.
+Grammar Core,Mi he ngɛ lɛ kɛ.
+Conversational Data,A: Ohe te? B: Mi te mli.
+Conversational Data,A: Wa he wò? B: Mi he lɛ he.
+Conversational Data,A: O kɛ je? B: Mi kɛ je mli.
+Conversational Data,A: O be ba? B: Mi be ba nyɛ.
+Conversational Data,A: O tsu? B: Mi tsu mli.
+Conversational Data,A: O he ngɛ? B: Mi he ngɛ lɛ.
+Conversational Data,A: O kɛ he lɛ? B: Mi kɛ he lɛ mli.
+Conversational Data,A: O be je? B: Mi be je nyɛ.
+Conversational Data,A: O ye ngɛ? B: Mi ye ngɛ lɛ.
+Conversational Data,A: O ko he? B: Mi ko he lɛ.
+Code-Switching,Mi be go market he.
+Code-Switching,Mi kɛ check email lɛ.
+Code-Switching,O be call mi nyɛ.
+Code-Switching,Mi ye submit form lɛ.
+Code-Switching,O kɛ send message lɛ.
+Code-Switching,Mi be attend meeting lɛ.
+Code-Switching,O ye download file lɛ.
+Code-Switching,Mi kɛ update system lɛ.
+Code-Switching,O be confirm appointment lɛ.
+Code-Switching,Mi ye schedule program lɛ.
+Formal & Professional Speech,"Mli ɔtsɛ lɛ, mi he gbɛi lɛ."
+Formal & Professional Speech,Mi be tsɔ mli he womi.
+Formal & Professional Speech,Mi ye lɛ tsɔ he blɔ.
+Formal & Professional Speech,Mi kɛ he lɛ kɛji.
+Formal & Professional Speech,Mi be lɛ he ngɛ lɛ kɛji.
+Formal & Professional Speech,Mi ye lɛ he ngɛ lɛ womi.
+Formal & Professional Speech,Mi be tsɔ lɛ he blɔ.
+Formal & Professional Speech,Mi kɛ he lɛ womi.
+Formal & Professional Speech,Mi ye lɛ tsɔ he ngɛ.
+Formal & Professional Speech,Mi be he lɛ kɛji.
+Idioms & Proverbs,Ngɛ ni ngɛ he.
+Idioms & Proverbs,Blɔ kɛ he nyɛ.
+Idioms & Proverbs,Mi he blɔ lɛ he.
+Idioms & Proverbs,Ngɛ kɛ he mli.
+Idioms & Proverbs,Blɔ ye ngɛ lɛ.
+Idioms & Proverbs,Ngɛ be he blɔ.
+Idioms & Proverbs,Mi kɛ ngɛ lɛ he.
+Idioms & Proverbs,Blɔ be he ngɛ.
+Idioms & Proverbs,Ngɛ ye blɔ lɛ.
+Idioms & Proverbs,Mi be he blɔ lɛ.
+Question-Answer Pairs,Ohe ye ngɛ? Ngɛ ye he.
+Question-Answer Pairs,Ohe kɛ je? Mi kɛ je.
+Question-Answer Pairs,Ohe be ba? Mi be ba.
+Question-Answer Pairs,Ohe tsu? Mi tsu.
+Question-Answer Pairs,Ohe he ngɛ? Mi he ngɛ.
+Question-Answer Pairs,Ohe ko he? Mi ko he.
+Question-Answer Pairs,Ohe ye lɛ? Lɛ ye he.
+Question-Answer Pairs,Ohe kɛ he? Mi kɛ he.
+Question-Answer Pairs,Ohe be je? Mi be je.
+Question-Answer Pairs,Ohe he blɔ? Mi he blɔ.
+Commands & Instructions,He ngɛ lɛ!
+Commands & Instructions,Kɛ je nyɛ!
+Commands & Instructions,Tsu mli!
+Commands & Instructions,Ba lɛ he!
+Commands & Instructions,Ko he ngɛ!
+Commands & Instructions,Tsɔ lɛ he!
+Commands & Instructions,Kɛ he lɛ!
+Commands & Instructions,Ye ngɛ lɛ!
+Commands & Instructions,Be je nyɛ!
+Commands & Instructions,He blɔ lɛ!
+NER Data,Mi be Ada he.
+NER Data,Mi kɛ Accra he.
+NER Data,Mi ye Ghana lɛ.
+NER Data,Mi be 2026 mli.
+NER Data,Mi kɛ Volta he.
+NER Data,Mi ye Tema lɛ.
+NER Data,Mi be Dangme lɛ.
+NER Data,Mi kɛ University lɛ.
+NER Data,Mi ye January lɛ.
+NER Data,Mi be Monday he.
+Sentiment Analysis,Mi he ngɛ lɛ mli.
+Sentiment Analysis,Mi he blɔ lɛ.
+Sentiment Analysis,Mi kɛ he mli.
+Sentiment Analysis,Mi be he nyɛ.
+Sentiment Analysis,Mi ye he lɛ.
+Sentiment Analysis,Mi kɛ blɔ lɛ.
+Sentiment Analysis,Mi be ngɛ lɛ.
+Sentiment Analysis,Mi he womi lɛ.
+Sentiment Analysis,Mi ye he mli.
+Sentiment Analysis,Mi kɛ ngɛ lɛ.
+Paraphrased & Augmented,Mi he ngɛ lɛ.
+Paraphrased & Augmented,Ngɛ lɛ mi he.
+Paraphrased & Augmented,Mi lɛ he ngɛ.
+Paraphrased & Augmented,He ngɛ lɛ mi.
+Paraphrased & Augmented,Ngɛ mi he lɛ.
+Paraphrased & Augmented,Lɛ mi he ngɛ.
+Paraphrased & Augmented,Mi he lɛ ngɛ.
+Paraphrased & Augmented,He lɛ mi ngɛ.
+Paraphrased & Augmented,Ngɛ he mi lɛ.
+Paraphrased & Augmented,Lɛ ngɛ mi he.

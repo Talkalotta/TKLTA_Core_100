@@ -1,0 +1,101 @@
+Categories,Sentences
+1. Grammar Core,N ba di laa.
+1. Grammar Core,N di laa zaa.
+1. Grammar Core,N gaa di laa.
+1. Grammar Core,N be di laa.
+1. Grammar Core,Laa dii yelɛ.
+1. Grammar Core,N kaa di laa.
+1. Grammar Core,O di laa kɔɔ.
+1. Grammar Core,O be gaa di laa.
+1. Grammar Core,Ba di laa wɛɛ.
+1. Grammar Core,N na di laa seŋa.
+2. Conversational Data,A: Fo wula? B: N wula som.
+2. Conversational Data,A: Fo la a? B: N laa.
+2. Conversational Data,A: Fo gaa yi? B: N gaa yi Wa.
+2. Conversational Data,A: Bɔɔ la fo bo? B: N bo laa.
+2. Conversational Data,A: Fo maŋa? B: N maŋa som.
+2. Conversational Data,A: Ba laa? B: Ba laa wɛɛ.
+2. Conversational Data,A: Fo be gaa? B: N be gaa suu.
+2. Conversational Data,A: Fo di laa? B: N di laa zaa.
+2. Conversational Data,A: Fo nyɛ o? B: N nyɛ o zaa.
+2. Conversational Data,A: Fo gɔrɛ? B: N gɔrɛ ka.
+3. Code-Switching & Multilingualism,N gaa school la zaa.
+3. Code-Switching & Multilingualism,O di rice laa.
+3. Code-Switching & Multilingualism,Ba be gaa market la.
+3. Code-Switching & Multilingualism,N be study Dagaare.
+3. Code-Switching & Multilingualism,O call n la.
+3. Code-Switching & Multilingualism,N send message la.
+3. Code-Switching & Multilingualism,Ba attend meeting laa.
+3. Code-Switching & Multilingualism,N check email la.
+3. Code-Switching & Multilingualism,O buy book la market.
+3. Code-Switching & Multilingualism,N prepare exam la.
+4. Formal & Professional Speech,Fo zaa som laa?
+4. Formal & Professional Speech,Ba kɔɔ yelɛ tuma la.
+4. Formal & Professional Speech,Hospital la ba nyɛ yelɛ.
+4. Formal & Professional Speech,Company la ba gaa meeting.
+4. Formal & Professional Speech,Legal yelɛ la o kɔɔ.
+4. Formal & Professional Speech,Dokita be nyɛ ba.
+4. Formal & Professional Speech,Teacher be yelɛ laa.
+4. Formal & Professional Speech,Office la ba di tuma.
+4. Formal & Professional Speech,Project la ba gaa som.
+4. Formal & Professional Speech,Report la o gaa zaa.
+"5. Idioms, Proverbs & Cultural Expressions",Kuɔ kpɛɛ nyɛ dɔɔ.
+"5. Idioms, Proverbs & Cultural Expressions",Nuu la dɔɔ wɛɛ.
+"5. Idioms, Proverbs & Cultural Expressions",Bie la kaŋa nyɛɛ.
+"5. Idioms, Proverbs & Cultural Expressions",Laa zaa wɛɛ som.
+"5. Idioms, Proverbs & Cultural Expressions",Yelɛ ka zaa kpɛɛ.
+"5. Idioms, Proverbs & Cultural Expressions",Nɔɔ la kpɛɛ dɔɔ.
+"5. Idioms, Proverbs & Cultural Expressions",Yiri la som ka.
+"5. Idioms, Proverbs & Cultural Expressions",Kuɔ la diɛ zaa.
+"5. Idioms, Proverbs & Cultural Expressions",Bie la wula zaa.
+"5. Idioms, Proverbs & Cultural Expressions",Nuu la zaa kɔɔ.
+6. Question-Answer Pairs,Fo la a? N laa.
+6. Question-Answer Pairs,Fo gaa yi? N gaa yi Wa.
+6. Question-Answer Pairs,Fo di laa? N di laa zaa.
+6. Question-Answer Pairs,Ba laa? Ba laa wɛɛ.
+6. Question-Answer Pairs,O be gaa? O be gaa suu.
+6. Question-Answer Pairs,Fo nyɛ o? N nyɛ o zaa.
+6. Question-Answer Pairs,Fo maŋa? N maŋa som.
+6. Question-Answer Pairs,Fo gɔrɛ? N gɔrɛ ka.
+6. Question-Answer Pairs,Fo kɔɔ? N kɔɔ yelɛ.
+6. Question-Answer Pairs,Fo be? N be zaa.
+7. Commands & Instructions,Di laa!
+7. Commands & Instructions,Gaa suu!
+7. Commands & Instructions,Yelɛ laa!
+7. Commands & Instructions,Nyɛ o!
+7. Commands & Instructions,Kɔɔ yelɛ!
+7. Commands & Instructions,Maŋa som!
+7. Commands & Instructions,Gɔrɛ ka!
+7. Commands & Instructions,Bo laa!
+7. Commands & Instructions,Zaa laa!
+7. Commands & Instructions,Wula!
+8. Named Entity Recognition,Wa la som.
+8. Named Entity Recognition,N gaa Tamale zaa.
+8. Named Entity Recognition,O la Kojo.
+8. Named Entity Recognition,Ba gaa Ghana.
+8. Named Entity Recognition,N di laa Wa.
+8. Named Entity Recognition,O be Accra.
+8. Named Entity Recognition,Ba la University of Ghana.
+8. Named Entity Recognition,N gaa Bolgatanga.
+8. Named Entity Recognition,O la Ama.
+8. Named Entity Recognition,Ba gaa Kumasi.
+9. Sentiment Analysis,N maŋa som.
+9. Sentiment Analysis,N maŋa ka.
+9. Sentiment Analysis,O la som.
+9. Sentiment Analysis,O la ka.
+9. Sentiment Analysis,Ba maŋa wɛɛ.
+9. Sentiment Analysis,N be yelɛ som.
+9. Sentiment Analysis,O be yelɛ ka.
+9. Sentiment Analysis,N di laa som.
+9. Sentiment Analysis,O nyɛ som.
+9. Sentiment Analysis,Ba la som.
+10. Paraphrased & Augmented Sentences,N gaa Wa zaa.
+10. Paraphrased & Augmented Sentences,N be gaa Wa.
+10. Paraphrased & Augmented Sentences,N na gaa Wa.
+10. Paraphrased & Augmented Sentences,N kaa gaa Wa.
+10. Paraphrased & Augmented Sentences,O gaa Wa laa.
+10. Paraphrased & Augmented Sentences,O be gaa Wa zaa.
+10. Paraphrased & Augmented Sentences,Ba gaa Wa wɛɛ.
+10. Paraphrased & Augmented Sentences,Ba be gaa Wa.
+10. Paraphrased & Augmented Sentences,N nyɛ laa zaa.
+10. Paraphrased & Augmented Sentences,N be wuo laa.

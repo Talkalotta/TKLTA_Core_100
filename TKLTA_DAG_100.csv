@@ -1,0 +1,101 @@
+Categories,Sentences
+1. Grammar Core,M bi la Tamale ni.
+1. Grammar Core,M daa di shinkafa zaaŋ ni.
+1. Grammar Core,M be di shinkafa la.
+1. Grammar Core,M na di shinkafa zaaŋ.
+1. Grammar Core,M ka di shinkafa la.
+1. Grammar Core,Shinkafa la di-ya ni m.
+1. Grammar Core,M pu di shinkafa la.
+1. Grammar Core,O daa nyɛ buku la.
+1. Grammar Core,Ti na yaɣi suu ni.
+1. Grammar Core,Buku la daa karim-ya ni o.
+2. Conversational Data,A: Fo anɛ? B: N anɛla.
+2. Conversational Data,A: Fo di be? B: N di be shinkafa.
+2. Conversational Data,"A: Fo yi Tamale la? B: Ayi, n yi Sagnarigu ni."
+2. Conversational Data,A: Fo boŋ nyɛ? B: N nyɛ ka ti kulikuli la.
+2. Conversational Data,A: Ti chaŋ la? B: Ti chaŋ zaaŋ ni.
+2. Conversational Data,A: Fo pu nyɛ o? B: N pu nyɛ o hali zaaŋ.
+2. Conversational Data,A: Fo tumsi bo? B: N tumsi sukuu la.
+2. Conversational Data,A: Fo bɔri? B: N bɔri ka n chɛ.
+2. Conversational Data,"A: Fo kuli la? B: N kuli la, ka n laɣim."
+2. Conversational Data,A: Fo be di? B: N be di ka n yɛli.
+3. Code-Switching & Multilingualism,M be office la zaaŋ ni.
+3. Code-Switching & Multilingualism,O daa attend meeting la Tamale ni.
+3. Code-Switching & Multilingualism,Ti na submit report la zaaŋ.
+3. Code-Switching & Multilingualism,N pu understandi ka fo yɛli la.
+3. Code-Switching & Multilingualism,O di lunch la ni colleagues la.
+3. Code-Switching & Multilingualism,Ti daa plan project la zaaŋ ni.
+3. Code-Switching & Multilingualism,M na calli fo zaaŋ.
+3. Code-Switching & Multilingualism,O be teachi sukuu la.
+3. Code-Switching & Multilingualism,N daa downloadi file la zaaŋ ni.
+3. Code-Switching & Multilingualism,Ti be discussi issue la.
+4. Formal & Professional Speech,Ti booni niŋ sukuu la kpema.
+4. Formal & Professional Speech,Yaa ni wum paɣa la.
+4. Formal & Professional Speech,Ti mali shɛli la ni sahi.
+4. Formal & Professional Speech,O daa sɔŋi nyɛla la kpema.
+4. Formal & Professional Speech,Ti booni yɛli la ni niŋ pam.
+4. Formal & Professional Speech,Yaa ni nyɛli la ni pam.
+4. Formal & Professional Speech,Ti daa karim sariya la.
+4. Formal & Professional Speech,O booni la ni doctor la.
+4. Formal & Professional Speech,Ti na sɔŋi pam pam.
+4. Formal & Professional Speech,Yaa ni tumsi la ni niŋ pam.
+"5. Idioms, Proverbs & Cultural Expressions",Kuɣu kpema ka o yuli.
+"5. Idioms, Proverbs & Cultural Expressions",Nyiɣisi niŋ zugu la.
+"5. Idioms, Proverbs & Cultural Expressions",Biɛla la nyɛ pam.
+"5. Idioms, Proverbs & Cultural Expressions",O yɛli niŋ zugu kpema.
+"5. Idioms, Proverbs & Cultural Expressions",Yuli ka o tiŋa.
+"5. Idioms, Proverbs & Cultural Expressions",Zugu kpema la di pam.
+"5. Idioms, Proverbs & Cultural Expressions",N pu wum ka o yɛli.
+"5. Idioms, Proverbs & Cultural Expressions",O ti pam ka o nyɛ.
+"5. Idioms, Proverbs & Cultural Expressions",Tiŋa la di zaaŋ.
+"5. Idioms, Proverbs & Cultural Expressions",O nyɛ zugu ka o yɛli.
+6. Question-Answer Pairs,Bo fo yuli? M yuli Adam.
+6. Question-Answer Pairs,Fo yi mini? N yi Tamale ni.
+6. Question-Answer Pairs,Bo fo tumsi? N tumsi sukuu la.
+6. Question-Answer Pairs,Fo di bo? N di tuo zaafi.
+6. Question-Answer Pairs,Fo be la? N be kpema.
+6. Question-Answer Pairs,Bo ti na tumsi? Ti na tumsi zaaŋ.
+6. Question-Answer Pairs,"Fo pu wum? Ayi, n wum."
+6. Question-Answer Pairs,Bo ka o daa di? O daa di shinkafa.
+6. Question-Answer Pairs,Fo nyɛ mini? N nyɛ buku la.
+6. Question-Answer Pairs,Bo ti be mali? Ti be mali shɛli.
+7. Commands & Instructions,Karim buku la.
+7. Commands & Instructions,Di shinkafa la.
+7. Commands & Instructions,Yaɣi suu la.
+7. Commands & Instructions,Kpini zugu la.
+7. Commands & Instructions,Yɛli pam pam.
+7. Commands & Instructions,Sɔŋi o kpema.
+7. Commands & Instructions,Chɛ ka fo kulikuli la.
+7. Commands & Instructions,Boŋi la ni pam.
+7. Commands & Instructions,Yili la zaaŋ ni.
+7. Commands & Instructions,Labi ka fo di.
+8. Named Entity Recognition (NER),Adam yi Tamale ni.
+8. Named Entity Recognition (NER),Amina be Sagnarigu ni.
+8. Named Entity Recognition (NER),Abdulai daa yaɣi Accra ni.
+8. Named Entity Recognition (NER),Fatima tumsi UDS ni.
+8. Named Entity Recognition (NER),Imam Haruna yɛli la Tamale ni.
+8. Named Entity Recognition (NER),President Nana Addo daa booni la.
+8. Named Entity Recognition (NER),Hospital Tamale Teaching Hospital be kpema.
+8. Named Entity Recognition (NER),Suu la yi White Volta ni.
+8. Named Entity Recognition (NER),School la yuli Ghana Senior High School.
+8. Named Entity Recognition (NER),Organization la yuli Dagbon Youth Association.
+9. Sentiment Analysis,N pam ka n di tuo zaafi la.
+9. Sentiment Analysis,M bɔri ka n pu nyɛ o.
+9. Sentiment Analysis,O chɛ ka o nyɛ buku la.
+9. Sentiment Analysis,N yɛli ka n pu wum.
+9. Sentiment Analysis,Ti pam pam ka ti tumsi.
+9. Sentiment Analysis,O wum ka o bɔri.
+9. Sentiment Analysis,N di shinkafa la ka n pam.
+9. Sentiment Analysis,O pu di ka o chɛ.
+9. Sentiment Analysis,Ti bɔri ka ti pu sɔŋi.
+9. Sentiment Analysis,N pam ka fo be la.
+10. Paraphrased & Augmented Sentences,M di tuo zaafi la.
+10. Paraphrased & Augmented Sentences,Tuo zaafi la di-ya ni m.
+10. Paraphrased & Augmented Sentences,N be di tuo zaafi la.
+10. Paraphrased & Augmented Sentences,N daa di tuo zaafi la.
+10. Paraphrased & Augmented Sentences,N na di tuo zaafi la.
+10. Paraphrased & Augmented Sentences,M pu di tuo zaafi la.
+10. Paraphrased & Augmented Sentences,Tuo zaafi la daa di-ya ni m.
+10. Paraphrased & Augmented Sentences,N ka di tuo zaafi la.
+10. Paraphrased & Augmented Sentences,N be mali tuo zaafi la.
+10. Paraphrased & Augmented Sentences,N yɛli ka n di tuo zaafi la.
