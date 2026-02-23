@@ -1,0 +1,101 @@
+Categories,Sentences
+1_Grammar_Core,मं रोज सकाळे दौड़त हंव।
+1_Grammar_Core,तें कल सभा मं गइस रहिस।
+1_Grammar_Core,ओ मन अगला महीना दिल्ली जाहीं।
+1_Grammar_Core,अगर पानी बरसही त हमन घर मं रहिबो।
+1_Grammar_Core,मोर काम पूरा हो गे हवय।
+1_Grammar_Core,तोर किताब मेज ऊपर रखे गे हवय।
+1_Grammar_Core,हमन ला समय पर पहुँचना चाही।
+1_Grammar_Core,ओहा बात ला समझ नइ पाइस।
+1_Grammar_Core,"जऊन चिट्ठी भेजे गे रहिस, ओ अब मिलिस।"
+1_Grammar_Core,"तें सच कहत हस, ये बात ठीक हे।"
+2_Conversational_Data,तें आज कइसे महसूस करत हस?
+2_Conversational_Data,"मं ठीक हंव, फेर काम बहुते हे।"
+2_Conversational_Data,"चल, चाय पीय बर चलथन।"
+2_Conversational_Data,तोर घर मं सब्बो ठीक चलत हे न?
+2_Conversational_Data,"अरे, कल के मैच देखे रहिस का?"
+2_Conversational_Data,"हाँ, आखिरी ओवर मं मजा आ गे रहिस।"
+2_Conversational_Data,तें काबर फोन नइ उठाइस?
+2_Conversational_Data,"माफ कर, मं मीटिंग मं रहंव।"
+2_Conversational_Data,अब का योजना बनावत हवन?
+2_Conversational_Data,"चल, संझा मं फेर बात करबो।"
+3_Code_Switching,आज मं office ले late आहूं।
+3_Code_Switching,तें report submit कर देहस का?
+3_Code_Switching,हमन meeting ला reschedule करथन।
+3_Code_Switching,ओ project अभी pending हे।
+3_Code_Switching,मोला feedback मेल मं भेज दे।
+3_Code_Switching,आज client संग discussion हे।
+3_Code_Switching,तें online class attend करथस?
+3_Code_Switching,server down हो गे रहिस।
+3_Code_Switching,deadline पहिली complete करना जरूरी हे।
+3_Code_Switching,team work ले result बेहतर आथे।
+4_Formal_Professional,कृपया आवेदन पत्र निर्धारित समय मं जमा करवावव।
+4_Formal_Professional,रोगी ला दवाई दिन मं दू बेर देवाय जाही।
+4_Formal_Professional,न्यायालय के आदेश अनुसार कार्यवाही होही।
+4_Formal_Professional,कंपनी के नियम के पालन अनिवार्य हे।
+4_Formal_Professional,प्रस्तावित योजना ला समिति स्वीकृति दे दिस।
+4_Formal_Professional,तकनीकी समस्या के समाधान बर विशेषज्ञ बुलाए गइन।
+4_Formal_Professional,बैठक के कार्यवृत्त लिखित रूप मं प्रस्तुत करन जरूरी हे।
+4_Formal_Professional,वित्तीय विवरण वार्षिक प्रतिवेदन मं सम्मिलित हे।
+4_Formal_Professional,सुरक्षा मानक के उल्लंघन स्वीकार नइ होही।
+4_Formal_Professional,ग्राहक संतुष्टि हमन के प्राथमिक लक्ष्य हे।
+5_Idioms_Proverbs,जैसे करहू तैसे भरहू।
+5_Idioms_Proverbs,नदी मं रहिके मगर संग बैर नइ कराय।
+5_Idioms_Proverbs,धीरज धरहू त फल मीठा मिलही।
+5_Idioms_Proverbs,आग मं घी डारना ठीक नइ हे।
+5_Idioms_Proverbs,खाली घड़ा जादा बजथे।
+5_Idioms_Proverbs,जेन बोहिथे तेन पावथे।
+5_Idioms_Proverbs,एक हाथ ले ताली नइ बजय।
+5_Idioms_Proverbs,समय ले पहिली अऊ भाग ले जादा कभू नइ मिलय।
+5_Idioms_Proverbs,अंधरा ला रंग के का पता।
+5_Idioms_Proverbs,जिहां चाह उहां राह।
+6_QA_Pairs,प्रश्न: रायपुर कऊन राजधानि हे? उत्तर: रायपुर छत्तीसगढ़ के राजधानि हे।
+6_QA_Pairs,प्रश्न: तें का पढ़त हस? उत्तर: मं इंजीनियरिंग पढ़त हंव।
+6_QA_Pairs,प्रश्न: आज तारीख का हे? उत्तर: आज तेईस फरवरी हे।
+6_QA_Pairs,प्रश्न: बाजार कते दूर हे? उत्तर: इहां ले तीन किलोमीटर दूर हे।
+6_QA_Pairs,प्रश्न: पानी काबर जरूरी हे? उत्तर: जीवन बर पानी आवश्यक हे।
+6_QA_Pairs,प्रश्न: परीक्षा कभू होही? उत्तर: अगला महीना परीक्षा होही।
+6_QA_Pairs,प्रश्न: ये किताब काकर हे? उत्तर: ये किताब मोर हे।
+6_QA_Pairs,प्रश्न: इंटरनेट कइसे काम करथे? उत्तर: डेटा सिग्नल के माध्यम ले चलथे।
+6_QA_Pairs,प्रश्न: खेती मं का बोए गीस? उत्तर: धान बोए गीस।
+6_QA_Pairs,प्रश्न: तें खुश काबर हस? उत्तर: काबरकि मोला सफलता मिलिस।
+7_Commands_Instructions,दरवाजा बंद कर दे।
+7_Commands_Instructions,कृपया बत्ती बंद करव।
+7_Commands_Instructions,मोला सच बात बता।
+7_Commands_Instructions,ये फाइल अभी भेज दे।
+7_Commands_Instructions,लाइन मं खड़े रहव।
+7_Commands_Instructions,धीरे-धीरे गाड़ी चलावव।
+7_Commands_Instructions,"पहिली हाथ धोवव, फेर खाना खावव।"
+7_Commands_Instructions,समय पर पहुँचे के कोशिश करव।
+7_Commands_Instructions,मोबाइल साइलेंट कर दे।
+7_Commands_Instructions,ये काम आजे पूरा कर।
+8_NER_Data,रायपुर छत्तीसगढ़ के प्रमुख सहर हे।
+8_NER_Data,भिलाई इस्पात संयंत्र भारत के प्रसिद्ध उद्योग हे।
+8_NER_Data,महात्मा गांधी भारत के महान नेता रहिन।
+8_NER_Data,इंदिरा गांधी राष्ट्रीय मुक्त विश्वविद्यालय दिल्ली मं स्थित हे।
+8_NER_Data,नवा रायपुर के नाम अब अटल नगर रखे गे हवय।
+8_NER_Data,महा शिवरात्रि फागुन महीना मं मनाय जाथे।
+8_NER_Data,सुभाष चंद्र बोस आजादी आंदोलन मं अग्रणी रहिन।
+8_NER_Data,छत्तीसगढ़ उच्च न्यायालय बिलासपुर मं हे।
+8_NER_Data,रायपुर रेल्वे स्टेशन ले कई गाड़ी चलथे।
+8_NER_Data,डॉ. भीमराव आंबेडकर भारतीय संविधान के निर्माता रहिन।
+9_Sentiment_Analysis,आज मोला बहुते खुशी होवत हे।
+9_Sentiment_Analysis,ये खबर सुनके मन दुखी हो गे।
+9_Sentiment_Analysis,मं तैंसे बहुत गर्व महसूस करत हंव।
+9_Sentiment_Analysis,ये सेवा सच मं सराहनीय हे।
+9_Sentiment_Analysis,इतना खराब अनुभव मं पहली बेर करे हंव।
+9_Sentiment_Analysis,फिल्म देखके मन खुश हो गे।
+9_Sentiment_Analysis,भीड़ देखके मोला घबराहट होइस।
+9_Sentiment_Analysis,तोर मदद बर मं आभारी हंव।
+9_Sentiment_Analysis,ये फैसला निराशाजनक लगथे।
+9_Sentiment_Analysis,आज दिन सामान्य ढंग ले बीतिस।
+10_Paraphrased_Augmented,मं रोज बिहान दौड़ लगाथंव।
+10_Paraphrased_Augmented,हर दिन सकाळे मं व्यायाम करथंव।
+10_Paraphrased_Augmented,तें अब्बड़ तेज काम करथस।
+10_Paraphrased_Augmented,तोर काम के गति बहुत अधिक हे।
+10_Paraphrased_Augmented,हमन मिलके ये समस्या सुलझा सकथन।
+10_Paraphrased_Augmented,ये दिक्कत ला हमन संग-संग दूर करबो।
+10_Paraphrased_Augmented,ओहा बहुते मेहनती विद्यार्थी हे।
+10_Paraphrased_Augmented,वो छात्र बहुत परिश्रमी आय।
+10_Paraphrased_Augmented,आज मौसम अत्यंत सुहावन हे।
+10_Paraphrased_Augmented,आज के दिन हवामान बहुत मनभावन लगथे।

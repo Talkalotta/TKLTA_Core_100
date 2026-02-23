@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Men kecha kitāb oqudum va andın köp ibrat aldım.
+Grammar Core,Sen bugun bazārğa barursen ve dostuŋnı körürsen.
+Grammar Core,Ol yarın safarga çıkğay va bizni unutmağay.
+Grammar Core,"Eger yağmur yağsa, biz yolğa çıkmasmiz."
+Grammar Core,Biz bu sözni inkār qılmadıq.
+Grammar Core,Xat ālim tarafıdın yazıldı.
+Grammar Core,Men her kün erta turup mashq qılurmen.
+Grammar Core,Ular bu işni tamām qılğan erdiler.
+Grammar Core,"Sen kelür bolsang, men seni qarşılarmen."
+Grammar Core,Bu mas'ala tezlikle hal bolğay.
+Conversational Data,— Qayerğa barursen? — Men medresege barurmen.
+Conversational Data,— Bu işni qachon tamām qıldın? — Kecha axşam.
+Conversational Data,"— Yaxşı mısan? — Alhamdulillah, yaxşımen."
+Conversational Data,"— Sen ne üçün kelmeding? — Uzr, yo‘lim to‘sıldı."
+Conversational Data,"— Bu kitābni oqudingmi? — Hā, nihāyatda foydalı."
+Conversational Data,"— Yarīn yig‘ilish barmu? — Hā, soat üçte."
+Conversational Data,"— Qahva ichermisen? — Yoq, choy afzal."
+Conversational Data,— Bu fikr saŋa maqulmu? — Andın yaxşırāq yoq.
+Conversational Data,— Qancha vaqt kutamız? — Bir sāatça.
+Conversational Data,— Safar qanday ötdi? — Juda barakali ötdi.
+Code-Switching & Multilingualism,Bugun meeting juda muhim erdi.
+Code-Switching & Multilingualism,Men reportni ertaga submit qilurmen.
+Code-Switching & Multilingualism,"Bu project tamam bolğach, celebration qilamız."
+Code-Switching & Multilingualism,"Deadline yaqin, tez harakat qilaylı."
+Code-Switching & Multilingualism,Online dars juda foydalı erdi.
+Code-Switching & Multilingualism,Men emailni tekshirib javob berdim.
+Code-Switching & Multilingualism,Bu system ishlamay turur.
+Code-Switching & Multilingualism,Conference Samarqandda bolğay.
+Code-Switching & Multilingualism,Budget mas'ala hal bolmadı.
+Code-Switching & Multilingualism,Team bilan maslahat qılduq.
+Formal & Professional Speech,Mazkur shartnoma ikki taraf razılığı bilen tuzıldı.
+Formal & Professional Speech,Bemorğa dori vaqtında berilmelidir.
+Formal & Professional Speech,Sud qarārı ertaga e‘lan qilinur.
+Formal & Professional Speech,Hisābat to‘liq ravishda taqdim etildi.
+Formal & Professional Speech,Ilmiy tadqiqāt natijaları nashr qilindi.
+Formal & Professional Speech,Ariza rasmiy tarzda qabūl qilindi.
+Formal & Professional Speech,Moliyaviy hisāb tekshiruvdan o‘tdi.
+Formal & Professional Speech,Texnik hujjat tasdiqlandi.
+Formal & Professional Speech,Majlis bayonnomasi yozıldı.
+Formal & Professional Speech,Qānun talabları bajarılmadı.
+"Idioms, Proverbs & Cultural Expressions",Til yarası bitmez.
+"Idioms, Proverbs & Cultural Expressions",Sabr qilğan murādına yetər.
+"Idioms, Proverbs & Cultural Expressions",Köz körgänni könül sezər.
+"Idioms, Proverbs & Cultural Expressions",Birlikte quvvat bar.
+"Idioms, Proverbs & Cultural Expressions",Er yigit sözide turur.
+"Idioms, Proverbs & Cultural Expressions",Vaqt oltundın qıymatlıdır.
+"Idioms, Proverbs & Cultural Expressions",Ilm nurdur.
+"Idioms, Proverbs & Cultural Expressions",Dost qora künde bilinür.
+"Idioms, Proverbs & Cultural Expressions",Mehnat qilğan to‘yar.
+"Idioms, Proverbs & Cultural Expressions",Yaxşı at ölməz.
+Question-Answer Pairs,Samarqand qaysı yerde turur? — Maveraünnehirde.
+Question-Answer Pairs,Bu kitābni kim yazdı? — Mashhur ālim.
+Question-Answer Pairs,Qachon bayram bolğay? — Bahār başında.
+Question-Answer Pairs,Nima uchun ilm kerak? — Jahāletni daf etmak üçün.
+Question-Answer Pairs,Neçe talaba qatnaştı? — Yigirme besh.
+Question-Answer Pairs,"Bu mas'ala qiyinmu? — Yo‘q, anıq tushunsa oson."
+Question-Answer Pairs,Qanday yondāşuv maqul? — Adolatlı yondāşuv.
+Question-Answer Pairs,Safar qancha sürdü? — Üch kün.
+Question-Answer Pairs,Kim javāb berür? — Mudarris.
+Question-Answer Pairs,"Bu qarār to‘ğrımı? — Hā, to‘ğrı."
+Commands & Instructions,Kitābni och ve oqu.
+Commands & Instructions,Tezroq javāb ber.
+Commands & Instructions,Bu hujjatni imzāla.
+Commands & Instructions,Eshikni yop.
+Commands & Instructions,Menga yordam qil.
+Commands & Instructions,Diqqat bilan tingla.
+Commands & Instructions,Savālğa javāb yoz.
+Commands & Instructions,Chiroqni yoq.
+Commands & Instructions,Mas'alani hal qil.
+Commands & Instructions,Vaqtni isrāf etme.
+Named Entity Recognition (NER),Amir Temur Samarqandda saltanat qurğan.
+Named Entity Recognition (NER),Ulug‘bek rasadxona bunyād qıldı.
+Named Entity Recognition (NER),Alisher Navoiy Heratda yashadı.
+Named Entity Recognition (NER),Buxoro qadimiy shahar erdi.
+Named Entity Recognition (NER),Hijriy 832 yılda bu voqea bolğan.
+Named Entity Recognition (NER),Zarafshon daryası serobdur.
+Named Entity Recognition (NER),Registon maydānı mashhurdur.
+Named Entity Recognition (NER),Mirzo Ulug‘bek ilmğa xizmat qıldı.
+Named Entity Recognition (NER),Temuriylar davrida taraqqiy bolğan.
+Named Entity Recognition (NER),Maveraünnehir tarixda muhim erdi.
+Sentiment Analysis Data,Bu xabar meni juda quvandırdı.
+Sentiment Analysis Data,Men bu holatdın ranjidim.
+Sentiment Analysis Data,Natija kutilgendek bolmadı.
+Sentiment Analysis Data,Yutuq hammamizni sevindirdi.
+Sentiment Analysis Data,Bu qarār adolatsız tuyuldu.
+Sentiment Analysis Data,Men umid bilen kuturmen.
+Sentiment Analysis Data,Uning so‘zi ilhom berdi.
+Sentiment Analysis Data,Bu ish meni charchattı.
+Sentiment Analysis Data,Bugun kayfiyatim a‘lā.
+Sentiment Analysis Data,Andın ko‘nglim to‘lmadı.
+Paraphrased & Augmented Sentences,Men kecha safarga chiqdim.
+Paraphrased & Augmented Sentences,Kecha men yo‘lga ravāna boldım.
+Paraphrased & Augmented Sentences,Biz ilm izlab medresege barduq.
+Paraphrased & Augmented Sentences,Ilm talabi bilen biz medresege yo‘l aldıq.
+Paraphrased & Augmented Sentences,U tez javāb berdi.
+Paraphrased & Augmented Sentences,Javābni u darhol taqdim etdi.
+Paraphrased & Augmented Sentences,Yig‘ilish ertaga bolğay.
+Paraphrased & Augmented Sentences,Ertaga majlis o‘tkazılur.
+Paraphrased & Augmented Sentences,Men bu fikrni maqul körmen.
+Paraphrased & Augmented Sentences,Bu qarāş menga yoqadur.
