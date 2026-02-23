@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Angni mwnai gwdan.
+Grammar Core,Bi thangnai jao.
+Grammar Core,Nwng jwngni rwngjao khou.
+Grammar Core,Anga bwisagu habnai mwnbai.
+Grammar Core,Bi gwdanbai mwjang phwrwi.
+Grammar Core,Jwngha mwnnai gwdw.
+Grammar Core,Angni swrwngthai habnai fisa.
+Grammar Core,Bi jwngni khamthini gwdan.
+Grammar Core,Nwngha angni sikhlao khou.
+Grammar Core,Anga nwngni khobor mwnnai.
+Conversational Data,A: Nwng khobor mwn? B: Angni mwjang.
+Conversational Data,A: Bwisagu jwngnai jao? B: Jwngha jao.
+Conversational Data,A: Skulni khobor ma? B: Swrwngthai mwjang.
+Conversational Data,A: Nwngha gwdan? B: Angni bazarni gwdan.
+Conversational Data,"A: Nwng angni rwngjao khou? B: Hoi, ang khou."
+Conversational Data,A: Gwjwnai jwngnai? B: Mwnnai nai.
+Conversational Data,"A: Thangnai ja? B: Ja, ang thangnai."
+Conversational Data,"A: Angni phone mwn? B: Hoi, mwn."
+Conversational Data,"A: Khobor gwdan? B: Nai, khobor nai."
+Conversational Data,A: Anga gwdanbai. B: Mwjang jao.
+Code-Switching,Angni meetingni schedule ajwr gwdan.
+Code-Switching,Nwng projectni deadline mwnnai?
+Code-Switching,Bi office-ni report phwrwi.
+Code-Switching,Anga online class mwnnai.
+Code-Switching,Nwngha training programni part lao?
+Code-Switching,Bi digital payment khou.
+Code-Switching,Angni file upload habnai mwnbai.
+Code-Switching,Nwng presentation swrwngthai jwngnai.
+Code-Switching,Bi hospitalni appointment mwnnai.
+Code-Switching,Anga business plan gwdanbai.
+Formal & Professional,Jwngni sangathanha swrwngthai khamthi phwrwi.
+Formal & Professional,Angni arji sarkarni daftarni gwdan.
+Formal & Professional,Bi hospitalni swrwngthai report mwnnai.
+Formal & Professional,Jwngni companyha notish phwrwi.
+Formal & Professional,Anga legal documentni khobor jwngnai.
+Formal & Professional,Bi technical systemni samthai sikhlao.
+Formal & Professional,Jwngha financial hisab phwrwi.
+Formal & Professional,Angni application swikhar habnai gwdan.
+Formal & Professional,Bi professional bhabnai jwngnai.
+Formal & Professional,Jwngni medical camp habnai phwrwi.
+Idioms & Proverbs,Gwjwnai gwdan jwngni khamthi nai.
+Idioms & Proverbs,Dwisa mwjang jwngni jwla mwjang.
+Idioms & Proverbs,Hathai sikhlao jwngnai mwjang phwrwi.
+Idioms & Proverbs,Khonthai nai mwnnai khou.
+Idioms & Proverbs,Bima rwngjao jwngnai nai.
+Idioms & Proverbs,Jwhwla jwngnai khamthi sikhlao.
+Idioms & Proverbs,Dwimwnai gwdan jwngnai mwjang nai.
+Idioms & Proverbs,Rwjabnai swrwngthai jwngnai mwjang.
+Idioms & Proverbs,Gwjwnai khamthi jwngnai phwrwi.
+Idioms & Proverbs,Jwngni jwla jwngnai swrwngthai.
+Question-Answer,Nwngha skulni thakhai ma?
+Question-Answer,Bwisagu bima jwngnai?
+Question-Answer,Kokrajharni rajdhani ma?
+Question-Answer,Hospitalni khonthai jwngnai?
+Question-Answer,Angni phone number ma?
+Question-Answer,Swrwngthai sikhlaoni thakhai ma?
+Question-Answer,Jwngni sangathan ma jwngnai?
+Question-Answer,Bi mwnnai khobor ma?
+Question-Answer,Nwngha gwdanbai gubun ma?
+Question-Answer,Skulni swrwngthai phwrwi ma?
+Commands & Instructions,Angni khobor khou.
+Commands & Instructions,File upload hab.
+Commands & Instructions,Report phwrwi ja.
+Commands & Instructions,Meetingni time sikhlao.
+Commands & Instructions,Hospitalni daftar gwdan.
+Commands & Instructions,Swrwngthai sikhlao jwng.
+Commands & Instructions,Bwisagu jwngnai ja.
+Commands & Instructions,Phone number phwrwi.
+Commands & Instructions,Document sign hab.
+Commands & Instructions,Trainingni part lao.
+NER Data,Angni Kokrajhar gwdan.
+NER Data,Bi Guwahati thangnai jao.
+NER Data,Jwngha Bodoland Territorial Regionni khobor jwngnai.
+NER Data,Angni Bwisagu 2025 jwngnai.
+NER Data,Bi Delhi-ni meeting mwnnai.
+NER Data,Jwngha Assam sarkarni notish khou.
+NER Data,Angni Udalguri bazarni gwdan.
+NER Data,Bi BTC sangathan jwngnai.
+NER Data,Jwngha 23 February 2026 jwngnai.
+NER Data,Angni India-ni hospital gwdan.
+Sentiment Analysis,Angni mwjang rwngjao mwnnai.
+Sentiment Analysis,Bi jwngnai mwjang nai.
+Sentiment Analysis,Anga khamthi phwrwi jwngnai khushi.
+Sentiment Analysis,Bi sikhlao jwngnai dukhu.
+Sentiment Analysis,Jwngha gwdanbai mwjang lagai.
+Sentiment Analysis,Angni khobor mwnnai santusht.
+Sentiment Analysis,Bi project jwngnai nirasha.
+Sentiment Analysis,Anga meetingni safalta jwngnai anand.
+Sentiment Analysis,Jwngha phone nai mwnnai jwngnai asubidha.
+Sentiment Analysis,Angni swrwngthai jwngnai gorai.
+Paraphrased & Augmented,Angni Kokrajharni schoolao sikhlao mwnai.
+Paraphrased & Augmented,Anga Kokrajharni gwdanbai.
+Paraphrased & Augmented,Bi Kokrajhar thangnai jao.
+Paraphrased & Augmented,Jwngha Kokrajharni phwrwi gwdan.
+Paraphrased & Augmented,Nwng Kokrajharni jwngnai ja.
+Paraphrased & Augmented,Angni bazarni gwdan.
+Paraphrased & Augmented,Anga bazarni phwrwi gwdanbai.
+Paraphrased & Augmented,Bi bazarni thangnai jao.
+Paraphrased & Augmented,Jwngha bazarni jwngnai ja.
+Paraphrased & Augmented,Nwng bazarni gwdan.
