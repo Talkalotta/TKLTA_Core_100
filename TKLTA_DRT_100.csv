@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Ik loop vandage naor de markt um verse groente te kopen.
+Grammar Core,Gisteravond hadde wi'j lange praot over de toekomst van oes dörp.
+Grammar Core,Morgen zal hee met zien collega’s vergaderen over het project.
+Grammar Core,"As ik meer tied hadde, zol ik een boek in het Drents schrieven."
+Grammar Core,Zi'j hebt de brieven al verstuurd nao de klanten.
+Grammar Core,De schure wordt morgen deur een timmerman repareerd.
+Grammar Core,Wi'j bint nooit te laat west veur een belangrieke afspraak.
+Grammar Core,Hij hef zien auto verkoch um geld te bespaoren.
+Grammar Core,Ze zult binnenkort naor Groningen reizen veur heur studie.
+Grammar Core,Ik hebbe nog nooit zoveul sneeuw in me leven zien.
+Conversational Data,"'Hoe giet 't met die?' 'Best wel, maor 'k bin wat moe van 't wark.'"
+Conversational Data,"'Goa'j vanaovend met naor 't feest?' 'Nee, ik moet vroeg opstaon.'"
+Conversational Data,"'Hestoe dat bericht al lezen?' 'Ja, en ik was der verbaosd over.'"
+Conversational Data,'Wat denk ie van 't plan?' 'Ik vin dat wi'j 't eerst beter bespreeken moet.'
+Conversational Data,"'Zal ik koffie zetten?' 'Graag, en doe der ok wat melk bie.'"
+Conversational Data,'Waor kom ie vot?' 'Ik kom net van 't station.'
+Conversational Data,"'Hest hulp neudig?' 'Ja, kunt ie mie even helpen met tillen?'"
+Conversational Data,"'Hoe was de reis?' 'Rustig, der was weinig verkeer.'"
+Conversational Data,"'Zult ie morgen kommen?' 'As alles goed giet, bin ik der.'"
+Conversational Data,'Wat zuj doeën as 't regent?' 'Dan blief ik gewoon thuus.'
+Code-Switching & Multilingualism,Ik heb net een meeting had over de nieuwe strategie.
+Code-Switching & Multilingualism,Dat project is echt next level veur oes team.
+Code-Switching & Multilingualism,Wi'j motten de planning updaten in het systeem.
+Code-Switching & Multilingualism,Hij hef feedback kregen van de manager.
+Code-Switching & Multilingualism,Zi'j is bezig met een online cursus marketing.
+Code-Switching & Multilingualism,Ik heb de files upload naor de cloud.
+Code-Switching & Multilingualism,Dat idee klinkt best smart en innovatief.
+Code-Switching & Multilingualism,Wi'j start morgen met de kickoff van het event.
+Code-Switching & Multilingualism,Hee werkt fulltime in de ICT-sector.
+Code-Switching & Multilingualism,Ze hef een deadline die morgen al is.
+Formal & Professional Speech,"Geachte heer, ik bevestig hiermede de ontvangst van uw brief."
+Formal & Professional Speech,Volgens het contract dient de betaling binnen dertig dagen te gebeuren.
+Formal & Professional Speech,De patiënt vertoont duidelijke symptomen van een infectie.
+Formal & Professional Speech,Het voorstel zal schriftelijk worden beoordeeld door de commissie.
+Formal & Professional Speech,Wij verzoeken u vriendelijk om de documenten tijdig aan te leveren.
+Formal & Professional Speech,De technische specificaties voldoen aan de gestelde eisen.
+Formal & Professional Speech,Tijdens de zitting werd het bewijs grondig besproken.
+Formal & Professional Speech,De vergadering wordt geleid door de voorzitter van de organisatie.
+Formal & Professional Speech,Het rapport bevat een analyse van de financiële situatie.
+Formal & Professional Speech,Wij streven naar duurzame samenwerking op lange termijn.
+"Idioms, Proverbs & Cultural Expressions",Hee hef de koe bie de hoorns vat.
+"Idioms, Proverbs & Cultural Expressions",Dat is water naor de zee dragen.
+"Idioms, Proverbs & Cultural Expressions",Zi'j zit met de handen in 't haar.
+"Idioms, Proverbs & Cultural Expressions",Hee giet deur dik en dun veur zien familie.
+"Idioms, Proverbs & Cultural Expressions",Dat plan is veur de kat zien viool.
+"Idioms, Proverbs & Cultural Expressions",Wi'j mutten de knoop deurhakken.
+"Idioms, Proverbs & Cultural Expressions",Zi'j hef het hart op de tonge.
+"Idioms, Proverbs & Cultural Expressions",Hee steekt de kop in 't zand.
+"Idioms, Proverbs & Cultural Expressions",Dat kwam as een donderslag bie heldere hemel.
+"Idioms, Proverbs & Cultural Expressions",Ze legt der geen windeieren bie.
+Question-Answer Pairs,Waor ligt Assen? Assen ligt in Drenthe.
+Question-Answer Pairs,Wanneer begint de markt? De markt begint om negen uur.
+Question-Answer Pairs,Wie hef dat boek schreven? Dat boek is schreven deur een lokale auteur.
+Question-Answer Pairs,Wat is de hoofdstad van Drenthe? Dat is Assen.
+Question-Answer Pairs,Hoe veul inwoners hef Emmen? Emmen hef meer as honderdduzend inwoners.
+Question-Answer Pairs,Waorom leert ie Drents? Um de cultuur beter te begriepen.
+Question-Answer Pairs,Wat betekent dat woord? Dat woord betekent ongeveer hetzelfde as in het Nederlands.
+Question-Answer Pairs,Wanneer giet de trein? De trein vertrekt om half tien.
+Question-Answer Pairs,Wie organiseert het festival? De gemeente organiseert het festival.
+Question-Answer Pairs,Hoe werkt dat systeem? Het systeem verwerkt gegevens automatisch.
+Commands & Instructions,Zet de deur dicht asjeblieft.
+Commands & Instructions,Luuster goed naor wat ik zeg.
+Commands & Instructions,Schrief dien naam bovenan het blad.
+Commands & Instructions,Pak de telefoon en bel de dokter.
+Commands & Instructions,Blief rustig en wacht op instructies.
+Commands & Instructions,Maak het rapport klaor veur vrijdag.
+Commands & Instructions,Lees de tekst hardop veur.
+Commands & Instructions,Geef het pakket of bie de receptie.
+Commands & Instructions,Volg de route zoas angegeven op de kaart.
+Commands & Instructions,Controleer de gegevens veurdat ie ze verstuurt.
+Named Entity Recognition (NER) Data,Jan woont in Emmen sinds 2015.
+Named Entity Recognition (NER) Data,Het Drents Museum in Assen trekt veul bezoekers.
+Named Entity Recognition (NER) Data,In 1945 eindigde de Tweede Wereldoorlog.
+Named Entity Recognition (NER) Data,Marie werkt bie de Rabobank in Hoogeveen.
+Named Entity Recognition (NER) Data,Het TT Festival wordt elk jaor in Assen holden.
+Named Entity Recognition (NER) Data,Pieter studeert an de Rijksuniversiteit Groningen.
+Named Entity Recognition (NER) Data,De provincie Drenthe ligt in het noordoosten van Nederland.
+Named Entity Recognition (NER) Data,In Meppel is een groot station.
+Named Entity Recognition (NER) Data,Het bedrijf Philips hef een vestiging in Drachten.
+Named Entity Recognition (NER) Data,Op 27 april vieren wi'j Koningsdag.
+Sentiment Analysis Data,Ik bin hiel bliede met het resultaat.
+Sentiment Analysis Data,Dat was een verschrikkelijke ervaring.
+Sentiment Analysis Data,Het wark viel mie eigenlijk best tegen.
+Sentiment Analysis Data,Ik heb grote waardering veur heur inzet.
+Sentiment Analysis Data,Dat restaurant was matig en niet bijzonder.
+Sentiment Analysis Data,Ik bin trots op wat wi'j bereikt hebt.
+Sentiment Analysis Data,Het weer maakt mie somber.
+Sentiment Analysis Data,Ik geniet van de rust in het dörp.
+Sentiment Analysis Data,Dat nieuws hef mie diep geraakt.
+Sentiment Analysis Data,Ik sta neutraal tegenover dat voorstel.
+Paraphrased & Augmented Sentences,Ik goa naor de winkel um brood te kopen.
+Paraphrased & Augmented Sentences,Ik zal straks brood halen bie de bakker.
+Paraphrased & Augmented Sentences,Brood koop ik meestal in de supermarkt.
+Paraphrased & Augmented Sentences,Vanaovend eet wi'j vers brood van de bakker.
+Paraphrased & Augmented Sentences,Ik heb brood neudig veur het ontbijt.
+Paraphrased & Augmented Sentences,De bakker hef vandaag vers brood bakken.
+Paraphrased & Augmented Sentences,Zonder brood kan ik niet goed ontbijten.
+Paraphrased & Augmented Sentences,Wi'j halen elke dag brood in het centrum.
+Paraphrased & Augmented Sentences,Dat brood smaakt heerlijk vers.
+Paraphrased & Augmented Sentences,Brood is een vast onderdeel van oes maaltijd.

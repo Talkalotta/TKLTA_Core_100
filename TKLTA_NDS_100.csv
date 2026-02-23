@@ -1,0 +1,101 @@
+Categories,Sentences
+1_Grammar_Core,Ik schriev en Brev an min Fründ.
+1_Grammar_Core,Du hest dat Bók glese.
+1_Grammar_Core,Hee weer gister in de Stadt.
+1_Grammar_Core,Wi warrt morgen fröh upstohn.
+1_Grammar_Core,Ji schölt dat nich vergeten.
+1_Grammar_Core,Se sünd al lang to Hus kamen.
+1_Grammar_Core,Dat Huus wart renoviert.
+1_Grammar_Core,"Wenn ik Tied harr, würd ik reisen."
+1_Grammar_Core,Ik heff dat nich seggt.
+1_Grammar_Core,"De Kinner spelen buten, während de Vadder arbeidt."
+2_Conversational_Data,"Moin, wo geiht di hüt?"
+2_Conversational_Data,"Mi geiht dat goot, un di?"
+2_Conversational_Data,Hest du al wat eten?
+2_Conversational_Data,"Nee, ik wart noch op min Fründ."
+2_Conversational_Data,Wat makst du in de Stadt?
+2_Conversational_Data,Ik koop en Geschenk för min Moder.
+2_Conversational_Data,Kummst du morgen mit na de Markt?
+2_Conversational_Data,"Jo, wenn dat Weer goot is."
+2_Conversational_Data,"Dat klinkt interessant, vertell mi mehr."
+2_Conversational_Data,Wi snackt later wedder doröver.
+3_Code_Switching_Multilingualism,Ik heff en Meeting in Vitória hüt.
+3_Code_Switching_Multilingualism,Wi goht later to de Shopping Center.
+3_Code_Switching_Multilingualism,Dat Projekt mutt morgen deliverd warrn.
+3_Code_Switching_Multilingualism,Hee hett en Online-Kurs maakt.
+3_Code_Switching_Multilingualism,Ik bruk en Update för min Computer.
+3_Code_Switching_Multilingualism,Se hett en Termin bi de Doctor.
+3_Code_Switching_Multilingualism,Wi hebbt dat Ticket al booked.
+3_Code_Switching_Multilingualism,Dat Event fangt Klock acht an.
+3_Code_Switching_Multilingualism,Ik heff en Feedback kregen.
+3_Code_Switching_Multilingualism,Wi plant en Workshop in Santa Maria.
+4_Formal_Professional_Speech,Wi bedanken uns för Ehr Interesse an unsen Service.
+4_Formal_Professional_Speech,Dat Kontrakt warrt nächste Week ünnerschreven.
+4_Formal_Professional_Speech,Bitte senden Se de Dokumente per E-Mail.
+4_Formal_Professional_Speech,De Patient mutt regelmäßig kontrolliert warrn.
+4_Formal_Professional_Speech,Dat Budget för dat Projekt is begrenzt.
+4_Formal_Professional_Speech,Wi empfehlen en detaillierte Analyse.
+4_Formal_Professional_Speech,De Bericht wart offiziell publiziert.
+4_Formal_Professional_Speech,Se köönt en Termin online reservieren.
+4_Formal_Professional_Speech,Dat System warrt aktuell aktualisiert.
+4_Formal_Professional_Speech,Wi bitten um fristgerechte Zahlung.
+5_Idioms_Proverbs_Cultural_Expressions,Hee hett Butter bi de Fische daan.
+5_Idioms_Proverbs_Cultural_Expressions,"Dat is nich allens Gold, wat glänzt."
+5_Idioms_Proverbs_Cultural_Expressions,Wi mutt de Kark in’t Dörp laten.
+5_Idioms_Proverbs_Cultural_Expressions,Hee sitt twüschen twee Stöhl.
+5_Idioms_Proverbs_Cultural_Expressions,Dat geiht över Stock un Steen.
+5_Idioms_Proverbs_Cultural_Expressions,Se hett dat Hart op de rechte Steed.
+5_Idioms_Proverbs_Cultural_Expressions,Hee maakt ut en Mück en Elefant.
+5_Idioms_Proverbs_Cultural_Expressions,Dat is en Tropfen op’n heten Steen.
+5_Idioms_Proverbs_Cultural_Expressions,Wi treckt all an een Strang.
+5_Idioms_Proverbs_Cultural_Expressions,Hee hett de Näs vörn.
+6_Question_Answer_Pairs,Wo liggt Santa Maria de Jetibá? Dat liggt in Espírito Santo.
+6_Question_Answer_Pairs,Wann fangt de School an? Se fangt Klock sieben an.
+6_Question_Answer_Pairs,Wer is de Bürgermeister? Dat is en lokaal Politiker.
+6_Question_Answer_Pairs,Wat kostet dat Ticket? Dat kostet twintig Real.
+6_Question_Answer_Pairs,Wo lang duert de Reis? Se duert twee Stünnen.
+6_Question_Answer_Pairs,Warum büst du to laat? Ik heff den Bus verpasst.
+6_Question_Answer_Pairs,Wat makt de Dokter? Hee untersucht de Patienten.
+6_Question_Answer_Pairs,Wo köönt wi dat finnen? In dat Zentrum vun de Stadt.
+6_Question_Answer_Pairs,Wokeen helpt di? Min Süster helpt mi.
+6_Question_Answer_Pairs,"Wat meenst du dorto? Ik meen, dat is en goode Idee."
+7_Commands_Instructions,Maak dat Finster to.
+7_Commands_Instructions,Lees den Text lütt un langsam.
+7_Commands_Instructions,Schriev dien Naam hier.
+7_Commands_Instructions,"Rööp mi an, wenn du ankummst."
+7_Commands_Instructions,Bruk dat Handbok för de Installation.
+7_Commands_Instructions,Gah na Hus un rust di ut.
+7_Commands_Instructions,Haal dat Water ut de Koken.
+7_Commands_Instructions,"Vergitt nich, de Dör to sluten."
+7_Commands_Instructions,Setzt juch bitte hen.
+7_Commands_Instructions,Kontrollier de Daten sorgfältig.
+8_Named_Entity_Recognition,Santa Maria de Jetibá is bekannt för ehr Kultur.
+8_Named_Entity_Recognition,Espírito Santo liggt in Brasilien.
+8_Named_Entity_Recognition,João besöcht de Escola Graça Aranha.
+8_Named_Entity_Recognition,Maria arbeit bi der Firma TechSol.
+8_Named_Entity_Recognition,De Rio Doce flütt dör dat Land.
+8_Named_Entity_Recognition,Am 15. Mai is dat Fest in Jetibá.
+8_Named_Entity_Recognition,Pastor Schmidt preekt in de Kark.
+8_Named_Entity_Recognition,Universidade Federal do Espírito Santo liggt in Vitória.
+8_Named_Entity_Recognition,Berlin liggt in Deutschland.
+8_Named_Entity_Recognition,"Am Montag, den 3. Juni 2024, fangt dat Seminar an."
+9_Sentiment_Analysis,Ik bün sehr glücklich över dat Resultat.
+9_Sentiment_Analysis,"Dat maakt mi traurig, dat du geihst."
+9_Sentiment_Analysis,Ik bün wütend över de Situation.
+9_Sentiment_Analysis,Dat weer en wunderbarer Dag.
+9_Sentiment_Analysis,Ik heff Angst vör de Prüfung.
+9_Sentiment_Analysis,Dat is en schrecklich Idee.
+9_Sentiment_Analysis,Ik bün stolz op min Familie.
+9_Sentiment_Analysis,Dat langweilt mi enorm.
+9_Sentiment_Analysis,Ik freu mi op dat Fest.
+9_Sentiment_Analysis,Dat is ganz normal un nich besonders.
+10_Paraphrased_Augmented_Sentences,Ik goa hüt na de Markt in Jetibá.
+10_Paraphrased_Augmented_Sentences,Hüt besöök ik den Markt in Jetibá.
+10_Paraphrased_Augmented_Sentences,De Markt in Jetibá warrt hüt vun mi besöcht.
+10_Paraphrased_Augmented_Sentences,Morgen reest wi na Vitória för Arbeit.
+10_Paraphrased_Augmented_Sentences,Wi warrt morgen för Arbeit na Vitória reisen.
+10_Paraphrased_Augmented_Sentences,För Arbeit goht wi morgen na Vitória.
+10_Paraphrased_Augmented_Sentences,Se hett dat Geschenk gister kocht.
+10_Paraphrased_Augmented_Sentences,Gister koft se dat Geschenk.
+10_Paraphrased_Augmented_Sentences,Dat Geschenk weer gister vun ehr kocht.
+10_Paraphrased_Augmented_Sentences,Ik lern de Spraak jeden Dag mit Freid.
