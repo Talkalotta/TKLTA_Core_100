@@ -1,0 +1,101 @@
+Categories,Sentences
+1_Grammar_Core,Ale oho ta pɨrɨka.
+1_Grammar_Core,Ale oho ra pɨrɨka.
+1_Grammar_Core,Ale oho ka pɨrɨka.
+1_Grammar_Core,Ale oho ta pɨrɨka wã.
+1_Grammar_Core,Ale oho ta pɨrɨka rupi.
+1_Grammar_Core,Oko ta iɨ.
+1_Grammar_Core,Oko ra iɨ.
+1_Grammar_Core,Oko ka iɨ.
+1_Grammar_Core,Ale ta sɨkɨ pe.
+1_Grammar_Core,Ale ra sɨkɨ pe.
+2_Conversational_Data,Ma’ẽ nde ere?
+2_Conversational_Data,"Ere, aiko porã."
+2_Conversational_Data,Mba’e reho ko’ẽrõ?
+2_Conversational_Data,Arovia nde rehe.
+2_Conversational_Data,"Eju, ja’u tembi’u."
+2_Conversational_Data,Nderehecháipa?
+2_Conversational_Data,Aĩ ko’ápe.
+2_Conversational_Data,Ko’ẽramo jajapo.
+2_Conversational_Data,Peve nde rógape?
+2_Conversational_Data,Ha upei jaiko py’aguapy.
+3_Code_Switching,Ale ta meeting pe ko’ẽrõ.
+3_Code_Switching,Oho office pe ko ara.
+3_Code_Switching,Eju lunch ja’u.
+3_Code_Switching,Ale ta project apo.
+3_Code_Switching,Oko ta report omondo.
+3_Code_Switching,Ale ra check email.
+3_Code_Switching,Eju training pe.
+3_Code_Switching,Ale ta call nde rehe.
+3_Code_Switching,Oko ta update sistema.
+3_Code_Switching,Ale ta finalize documento.
+4_Formal_Professional,Ale omondo kuatia oficial.
+4_Formal_Professional,Oko oikotevẽ dokumẽto médico.
+4_Formal_Professional,Pe contrato oñemoneĩ.
+4_Formal_Professional,Ale omombe’u relatório técnico.
+4_Formal_Professional,Oko oiporu termo jurídico.
+4_Formal_Professional,Ale oho assembleia oficial.
+4_Formal_Professional,Pe paciente oikotevẽ pohã.
+4_Formal_Professional,Oko omyesakã plano estratégico.
+4_Formal_Professional,Ale omoneĩ proposta formal.
+4_Formal_Professional,Pe decisão oñe’ẽ porã.
+5_Idioms_Proverbs,Yvy oikove nde pype.
+5_Idioms_Proverbs,Eirete oikuaa ára.
+5_Idioms_Proverbs,Ka’a ndopytai rei.
+5_Idioms_Proverbs,Ysyry oguata mbegue.
+5_Idioms_Proverbs,Maino’ẽ oikove py’a rupi.
+5_Idioms_Proverbs,Tata ndohesarái tatáre.
+5_Idioms_Proverbs,Yvyra oikuaa yvytu.
+5_Idioms_Proverbs,Guyra oikuaa yvága.
+5_Idioms_Proverbs,Py’a guasu ogueru mbarete.
+5_Idioms_Proverbs,Ko’ẽ ogueru tesape.
+6_QA_Pairs,Mba’épa ko’ẽrõ? Ko’ẽrõ oúta ára porã.
+6_QA_Pairs,Mávapa oho? Ale oho.
+6_QA_Pairs,Mba’e re’u? A’u tembi’u.
+6_QA_Pairs,Moõpa reime? Aime ko’ápe.
+6_QA_Pairs,Mba’ére reho? Aho mba’eapo rehe.
+6_QA_Pairs,Araka’épa ou? Oúta ko’ẽrõ.
+6_QA_Pairs,Mávapa omombe’u? Oko omombe’u.
+6_QA_Pairs,Mba’épa nde rembipota? Che rembipota py’aguapy.
+6_QA_Pairs,Mba’épa oiko? Oiko porã.
+6_QA_Pairs,Moõpa oho? Oho pɨrɨka.
+7_Commands_Instructions,Eju ko’ápe.
+7_Commands_Instructions,Ere chéve añete.
+7_Commands_Instructions,Eho pɨrɨka pe.
+7_Commands_Instructions,Ejapo nde rembiapo.
+7_Commands_Instructions,Eju ja’u tembi’u.
+7_Commands_Instructions,Ehecha kuatia.
+7_Commands_Instructions,Emondo mensagem.
+7_Commands_Instructions,Eñangareko nde rógare.
+7_Commands_Instructions,Eñemoarandu ko’ẽrõ.
+7_Commands_Instructions,Epyta ko’ápe.
+8_NER_Data,Ale oho Cayenne pe.
+8_NER_Data,Oko oikove Saint-Georges.
+8_NER_Data,Ale oho Oyapock rupi.
+8_NER_Data,Oko ohecha Brasil.
+8_NER_Data,Ale omombe’u França rehe.
+8_NER_Data,Oko oho Camopi.
+8_NER_Data,Ale ohecha Guyane.
+8_NER_Data,Oko omondo Paris pe.
+8_NER_Data,Ale oho Maroni ysyry.
+8_NER_Data,Oko oikuaa Amazônia.
+9_Sentiment_Data,Ale avy’a eterei.
+9_Sentiment_Data,Oko oñembyasy.
+9_Sentiment_Data,Ale py’a guasu.
+9_Sentiment_Data,Oko hasy.
+9_Sentiment_Data,Ale ohecha porã.
+9_Sentiment_Data,Oko ndovy’ái.
+9_Sentiment_Data,Ale omano py’aguapy.
+9_Sentiment_Data,Oko ojerovia.
+9_Sentiment_Data,Ale oñemondýi.
+9_Sentiment_Data,Oko oikove porã.
+10_Paraphrased_Augmented,Ale oho pɨrɨka ko’ẽrõ.
+10_Paraphrased_Augmented,Ko’ẽrõ ale oho pɨrɨka.
+10_Paraphrased_Augmented,Pɨrɨka pe ale oho ko’ẽrõ.
+10_Paraphrased_Augmented,Ale ta oho pɨrɨka.
+10_Paraphrased_Augmented,Oho ale pɨrɨka ko’ẽrõ.
+10_Paraphrased_Augmented,Ko’ẽrõ pɨrɨka ale oho.
+10_Paraphrased_Augmented,Ale pɨrɨka pe oho ko’ẽrõ.
+10_Paraphrased_Augmented,Pɨrɨka ko’ẽrõ ale oho.
+10_Paraphrased_Augmented,Oho pɨrɨka ale ko’ẽrõ.
+10_Paraphrased_Augmented,Ko’ẽrõ oho ale pɨrɨka.
