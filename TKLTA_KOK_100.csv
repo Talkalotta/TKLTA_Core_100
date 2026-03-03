@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,हांव रोज सकाळी उठटा आनी व्यायाम करता.
+Grammar Core,तूं काल बाजारांत गेलो आनी मासो विकत घेतलो.
+Grammar Core,ती उद्या शाळेंत जाणार आसा.
+Grammar Core,आम्ही गेल्या वर्सी गोव्यांत राहिलो.
+Grammar Core,तो पुस्तक वाचता आसा पण समजता ना.
+Grammar Core,हांव जेवण केल्यार मग काम सुरू करता.
+Grammar Core,पावस पडला म्हणून खेळ रद्द जाला.
+Grammar Core,घर बांधलें गेलें आसा गावांत.
+Grammar Core,तूं अभ्यास केलो असता तर पास जालो असता.
+Grammar Core,माका चहा आवडटा ना.
+Conversational Data,तूं किदें करता आसा आजकाल?
+Conversational Data,"हांव बरा आसा, तूं कसा आसा?"
+Conversational Data,"चल, आपण समुद्राकडे जावया."
+Conversational Data,आतां वेळ कितलो जाला?
+Conversational Data,माका थोडी मदत करूं शकता?
+Conversational Data,तूं काल फोन कित्याक केला ना?
+Conversational Data,"होय, हांव येता थोड्या वेळान."
+Conversational Data,"तें खरें आसा, पण आपल्याक विचार करपाक जाय."
+Conversational Data,आमकां उद्या भेटूंया का?
+Conversational Data,"नाका रे, हांव थकलो आसा."
+Code-Switching,आज meeting आसा म्हणून हांव late येता.
+Code-Switching,तूं project complete केलो काय?
+Code-Switching,माका email send करचो आसा.
+Code-Switching,ते presentation फार impressive आसलें.
+Code-Switching,आपण lunch करूंया hotelांत.
+Code-Switching,तो online class करता आसा.
+Code-Switching,माका file download करपाक मदत कर.
+Code-Switching,आमची team आज जीतली match.
+Code-Switching,तूं report submit केली काय?
+Code-Switching,हांव उद्या officeांत work करणार.
+Formal & Professional Speech,आमच्या कंपनीची वार्षिक बैठक सोमवारी आयोजित केली जाईल.
+Formal & Professional Speech,कृपया आपलो अर्ज वेळेवर सादर करात.
+Formal & Professional Speech,रुग्णाक औषध वेळेवर घ्यपाक सुचयता.
+Formal & Professional Speech,कायद्याच्या तरतुदीनुसार ही कारवाई केली जाईल.
+Formal & Professional Speech,तांत्रिक अहवाल उद्या प्रसिद्ध जाईल.
+Formal & Professional Speech,आपल्या सहकार्याबद्दल धन्यवाद.
+Formal & Professional Speech,या प्रकल्पाक सरकारी मान्यता मेळ्ळी आसा.
+Formal & Professional Speech,बैठकीचो निष्कर्ष लेखी स्वरूपांत पाठवला जाईल.
+Formal & Professional Speech,कृपया सुरक्षा नियम पाळात.
+Formal & Professional Speech,ही माहिती गोपनीय आसा.
+Idioms & Proverbs,हातांतों सोनें मेळ्ळें म्हणटा.
+Idioms & Proverbs,जशी करणी तशी भरणी.
+Idioms & Proverbs,आंधळ्यान हातीन दीप दिलो.
+Idioms & Proverbs,उगाचें पाणी ढवळू नका.
+Idioms & Proverbs,एक हातान टाळी वाजता ना.
+Idioms & Proverbs,वाऱ्यावर घर बांधू नका.
+Idioms & Proverbs,सोंसार समुद्रासारको आसा.
+Idioms & Proverbs,वेळ गेल्यार परत येता ना.
+Idioms & Proverbs,थेंब थेंब साचून तळो भरता.
+Idioms & Proverbs,दिसता तसं नसता.
+Question-Answer,गोव्याची राजधानी कितें आसा? पणजी आसा.
+Question-Answer,तूं कशें शिकता? हांव रोज सराव करता.
+Question-Answer,समुद्र कित्याक निळो दिसता? कारण आकाशाचो परावर्तन.
+Question-Answer,भारताचो स्वातंत्र्य दिन कधी? पंधरावा ऑगस्ट.
+Question-Answer,तूं किती भासा जाणता? हांव तीन भासा जाणता.
+Question-Answer,शाळा किती वाजता सुरू जाता? सकाळी आठ वाजता.
+Question-Answer,तूं पुस्तक कित्याक वाचता? ज्ञान मेळोवपाक.
+Question-Answer,पावस कित्याक पडता? ढगांतल्यान पाणी येता.
+Question-Answer,"तूं उद्या येणार काय? होय, नक्की येता."
+Question-Answer,हा पदार्थ कसो करता? आधी मसालो भाजता.
+Commands & Instructions,दार बंद कर.
+Commands & Instructions,कृपया शांत बसा.
+Commands & Instructions,ही फॉर्म भर.
+Commands & Instructions,माका फोन कर.
+Commands & Instructions,उद्यापासून वेळेवर ये.
+Commands & Instructions,संगणक बंद करात.
+Commands & Instructions,कागदांवर सही कर.
+Commands & Instructions,ही माहिती तपासून पाहा.
+Commands & Instructions,मुलांक शिस्त शिकयात.
+Commands & Instructions,सुरक्षा पट्टा लाव.
+Named Entity Recognition,पणजी गोव्याची राजधानी आसा.
+Named Entity Recognition,मडगांव दक्षिण गोव्यांत आसा.
+Named Entity Recognition,वास्को-द-गामा एक प्रसिद्ध बंदर आसा.
+Named Entity Recognition,महालसा मंदिर मर्दोळांत आसा.
+Named Entity Recognition,डॉ. बाबासाहेब आंबेडकर भारतीय राज्यघटनेचे शिल्पकार.
+Named Entity Recognition,गोवा विद्यापीठ तळेगांवांत आसा.
+Named Entity Recognition,झुआरी नदी गोव्यांत वाहता.
+Named Entity Recognition,संत फ्रान्सिस झेवियर गोव्यांत आले.
+Named Entity Recognition,दिल्ली भारताची राजधानी आसा.
+Named Entity Recognition,ताज महाल आग्रांत आसा.
+Sentiment Analysis,हांव फार आनंदी आसा आज.
+Sentiment Analysis,माका हें काम आवडटा.
+Sentiment Analysis,तें चित्र फार सुंदर आसा.
+Sentiment Analysis,हांव निराश जालो.
+Sentiment Analysis,हें निर्णय वाईट आसा.
+Sentiment Analysis,तूं खूप चांगलो मित्र आसा.
+Sentiment Analysis,माका राग येता तुझ्यावर.
+Sentiment Analysis,हा अनुभव अविस्मरणीय आसा.
+Sentiment Analysis,माका भीती वाटता.
+Sentiment Analysis,"तें साधारण आसा, खास ना."
+Paraphrased & Augmented,हांव सकाळी व्यायाम करता रोज.
+Paraphrased & Augmented,रोज सकाळी हांव व्यायाम करीत आसा.
+Paraphrased & Augmented,तूं बाजारांत काल गेलो होतास.
+Paraphrased & Augmented,काल तूं बाजाराक गेलो.
+Paraphrased & Augmented,ती उद्या शाळेक वचपाक तयार आसा.
+Paraphrased & Augmented,उद्याची ती शाळेंत जाणार.
+Paraphrased & Augmented,आम्ही गोव्यांत गेल्या वर्सी राहात होतो.
+Paraphrased & Augmented,गेल्या वर्सी आमचें वास्तव्य गोव्यांत आसलें.
+Paraphrased & Augmented,तो पुस्तक समजून वाचता आसा.
+Paraphrased & Augmented,पुस्तक वाचतांना तो अर्थ शोधता.
