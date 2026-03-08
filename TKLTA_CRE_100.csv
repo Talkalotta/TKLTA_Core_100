@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,niwāpamāw atim.
+Grammar Core,kiwī-mīcisona maskisin.
+Grammar Core,wīcihēw atim nēhiyaw.
+Grammar Core,namōya niwāpamāw awīna.
+Grammar Core,nīsta nika-mīcisōn māna.
+Grammar Core,kiwāpamāw awa maskwa.
+Grammar Core,otē nika-itohtēn.
+Grammar Core,namōya kika-mōsihkēn.
+Grammar Core,nīsta niwī-mōsihkēn ispīhk.
+Grammar Core,wīkiwāmihk ayāw.
+Conversational Data,tānisi kiya?
+Conversational Data,mīna kiya māna?
+Conversational Data,ēkwa tânita ē-itohtēyan?
+Conversational Data,namōya nitēyihtēn.
+Conversational Data,"āha, niwī-mīcisōn."
+Conversational Data,tānisi ēkwa kiya ēkwa?
+Conversational Data,"ēkosi, namōya mīna."
+Conversational Data,tânita wīkiwām?
+Conversational Data,"mōy, namōya nikiskisin."
+Conversational Data,ēkosi māka kīhtwām.
+Code-Switching & Multilingualism,"tānisi, today nika-itohtēn school."
+Code-Switching & Multilingualism,kiya ready ēkwa?
+Code-Switching & Multilingualism,nika-call itwēw nikosis.
+Code-Switching & Multilingualism,"mōya, that ēkosi namōya miywāsin."
+Code-Switching & Multilingualism,nika-check ēkwa mīna.
+Code-Switching & Multilingualism,"tānisi friend, tânita ē-itohtēyan?"
+Code-Switching & Multilingualism,ēkwa meeting ēkosi.
+Code-Switching & Multilingualism,nika-work ispīhk.
+Code-Switching & Multilingualism,namōya good ēkwa.
+Code-Switching & Multilingualism,mīna tomorrow nika-itohtēn.
+Formal & Professional Speech,"tānisi, nika-kiskinwahamākosīn maskihkīy."
+Formal & Professional Speech,ēkwa kīhtwām nika-nakatēn nitatoskēwin.
+Formal & Professional Speech,namōya miywāsin maskihkīy.
+Formal & Professional Speech,miyo-pimātisiwin ka-isi-wīcihēyāhk.
+Formal & Professional Speech,ēkwa nika-isi-kiskinwahamākosīn.
+Formal & Professional Speech,nēhiyawēwin nika-kiskinwahamākosīn.
+Formal & Professional Speech,otē ayāwak okimāwak.
+Formal & Professional Speech,miyo-wīcihitowin ka-pimipāyik.
+Formal & Professional Speech,namōya ayāw maskihkīy.
+Formal & Professional Speech,ēkwa ka-nitawi-kiskinwahamākosiyāhk.
+"Idioms, Proverbs & Cultural Expressions",miyo-pimātisiwin isi pimātisiwin.
+"Idioms, Proverbs & Cultural Expressions",tānisi ēkwa kīhtwām pimipahtā.
+"Idioms, Proverbs & Cultural Expressions",miywāsin kīhtwām wīcihitowin.
+"Idioms, Proverbs & Cultural Expressions",maskwa isi sīpiy.
+"Idioms, Proverbs & Cultural Expressions",pimipahtā kīhtwām nēhiyaw.
+"Idioms, Proverbs & Cultural Expressions",miyo-isi-wīcihitowin.
+"Idioms, Proverbs & Cultural Expressions",kiskinwahamākēwin pimātisiwin.
+"Idioms, Proverbs & Cultural Expressions",miyo-mīcisowin pimipahtā.
+"Idioms, Proverbs & Cultural Expressions",nēhiyawēwin pimātisiwin.
+"Idioms, Proverbs & Cultural Expressions",wīcihitowin kīhtwām.
+Question-Answer Pairs,tānita ē-itohtēyan?
+Question-Answer Pairs,tānisi ēkwa kiya?
+Question-Answer Pairs,awīna ē-wāpamat?
+Question-Answer Pairs,tānita wīkiwām?
+Question-Answer Pairs,tānita maskwa?
+Question-Answer Pairs,tānisi ēkwa?
+Question-Answer Pairs,awīna otatoskēw?
+Question-Answer Pairs,tānita ē-ayamihāyān?
+Question-Answer Pairs,tānita ē-mīcisoyan?
+Question-Answer Pairs,awīna nēhiyaw?
+Commands & Instructions,itohtē otē.
+Commands & Instructions,mīcisōn ānōhci.
+Commands & Instructions,nakatē maskisin.
+Commands & Instructions,wāpam awiyak.
+Commands & Instructions,pimipahtā ispīhk.
+Commands & Instructions,kiskinohamākē.
+Commands & Instructions,pē-itohtē.
+Commands & Instructions,mīna itwē.
+Commands & Instructions,nakatē nitatoskēwin.
+Commands & Instructions,miyo-itohtē.
+Named Entity Recognition,Fort Smith ohci niya.
+Named Entity Recognition,Canada ohci nēhiyawak.
+Named Entity Recognition,Slave River sīpiy.
+Named Entity Recognition,Alberta ohci maskwa.
+Named Entity Recognition,Treaty Eight askī.
+Named Entity Recognition,Fort Chipewyan wīkiwām.
+Named Entity Recognition,Northwest Territories askī.
+Named Entity Recognition,Mackenzie River sīpiy.
+Named Entity Recognition,Wood Buffalo Park askī.
+Named Entity Recognition,Fort Resolution wīkiwām.
+Sentiment Analysis,miywāsin ānōhci.
+Sentiment Analysis,namōya miywāsin.
+Sentiment Analysis,ninanāskomitin.
+Sentiment Analysis,niwīhtam ēkwa.
+Sentiment Analysis,nīsta miyo-āyimihāw.
+Sentiment Analysis,namōya nika-mīcisōn.
+Sentiment Analysis,mīna kīhtwām miywāsin.
+Sentiment Analysis,nikotwāsik itēyihtam.
+Sentiment Analysis,ninanāskomitin kīhtwām.
+Sentiment Analysis,miywāsin pimātisiwin.
+Paraphrased & Augmented Sentences,niya nika-itohtēn otē.
+Paraphrased & Augmented Sentences,nīsta otē nika-itohtēn.
+Paraphrased & Augmented Sentences,otē nika-itohtēn niya.
+Paraphrased & Augmented Sentences,niya otē nika-pimipahtān.
+Paraphrased & Augmented Sentences,nīsta nika-pimipahtān otē.
+Paraphrased & Augmented Sentences,otē nika-pimipahtān niya.
+Paraphrased & Augmented Sentences,niya nika-mīcisōn ānōhci.
+Paraphrased & Augmented Sentences,ānōhci nika-mīcisōn niya.
+Paraphrased & Augmented Sentences,nīsta ānōhci nika-mīcisōn.
+Paraphrased & Augmented Sentences,ānōhci niya nika-mīcisōn.
