@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Ninose gagwe gaye ningii-izhaawaa noongom.
+Grammar Core,Giga-waabamawaa awiya apii gagwe gagwe-izhaayan.
+Grammar Core,Ningii-bimose giiwedinong noongom giizhigad.
+Grammar Core,Ningii-zaaga'iganing izhaa noongom dash gaye gagwe.
+Grammar Core,Gidaa-bimosemin apane gagwe gagwe-izhiwebiziyaang.
+Grammar Core,Nimino-ayaa noongom miinawaa giiwedinong.
+Grammar Core,Gii-ayaa gagwe gagwe gagwe gaye gii-izhaawag.
+Grammar Core,Gaawiin ninisidotaan gagwe gagwe gagwe izhiwebiziwin.
+Grammar Core,Ningii-gikendaan gagwe gagwe gagwe gagwe.
+Grammar Core,Gidaa-waabandaan gagwe gagwe gagwe apii gagwe.
+Conversational Data,"Aaniin, aandi ezhaayan noongom?"
+Conversational Data,"Bozhoo, nimino-ayaa, giin dash?"
+Conversational Data,Aaniish ezhi-ayaayan apii gii-izhaayan?
+Conversational Data,Miigwech gidaa-bi-izhaayan omaa.
+Conversational Data,Aandi gagwe izhaamin noongom giizhigad?
+Conversational Data,Giga-waabamigoo naagaj?
+Conversational Data,"Enh, ningii-izhaa noongom waabigwaning."
+Conversational Data,Giga-ganoonigoo noongom apii gagwe.
+Conversational Data,Miigwech bizindawiyeg noongom.
+Conversational Data,Baamaapii giga-waabamin.
+Code-Switching,Ninose to the store noongom.
+Code-Switching,Giga-callinaan apii bi-izhaayan.
+Code-Switching,Ningii-drive izhaawaa giiwedinong.
+Code-Switching,Ninose meetinging apii giizhigad.
+Code-Switching,Giga-sendinaan gagwe gagwe message.
+Code-Switching,Ningii-check email apii giizhigad.
+Code-Switching,Ninose schooling noongom.
+Code-Switching,Giga-startinaan project noongom.
+Code-Switching,Ningii-finishinaan work giiwedinong.
+Code-Switching,Giga-updateinaan report apii gagwe.
+Formal & Professional Speech,Giga-giigidomin omaa gagwe gagwe gagwe.
+Formal & Professional Speech,Ningii-mazina'igan gii-biindige noongom.
+Formal & Professional Speech,Giga-ozhibii'ige miinawaa mazina'igan.
+Formal & Professional Speech,Ningii-ayaawag omaa gagwe gagwe gagwe.
+Formal & Professional Speech,Gidaa-giigidomin apii gagwe izhiwebiziyaang.
+Formal & Professional Speech,Ningii-nagamonin omaa gagwe gagwe.
+Formal & Professional Speech,Giga-bizindawimin omaa gagwe gagwe.
+Formal & Professional Speech,Ningii-waabandan mazina'igan giiwedinong.
+Formal & Professional Speech,Gidaa-gikinoo'amaagewin omaa giizhigad.
+Formal & Professional Speech,Ningii-giigidon omaa gagwe gagwe.
+Idioms & Cultural Expressions,Gimiwan gagwe izhi-ayaad izhi-zaagi'idiwin.
+Idioms & Cultural Expressions,Mino-bimaadiziwin gagwe izhiwebizi.
+Idioms & Cultural Expressions,Gego gagwe gagwe gagwe izhiwebiziwin.
+Idioms & Cultural Expressions,Gego gagwe gagwe izhi-ayaawin.
+Idioms & Cultural Expressions,Mino-giizhigad izhiwebiziwin.
+Idioms & Cultural Expressions,Gego gagwe gagwe izhi-bimaadiziwin.
+Idioms & Cultural Expressions,Mino-ayaa apii gagwe izhiwebizi.
+Idioms & Cultural Expressions,Gego gagwe izhi-bimaadiziyaan.
+Idioms & Cultural Expressions,Mino-bimaadiziwin apii gagwe.
+Idioms & Cultural Expressions,Gego gagwe izhiwebiziyaan.
+Question-Answer,Aaniin ezhi-ayaayan?
+Question-Answer,Aandi izhaayan?
+Question-Answer,Wegonen gagwe izhiwebiziyaan?
+Question-Answer,Aaniin dash gagwe izhi-ayaad?
+Question-Answer,Wegonen gagwe izhi-bimaadiziyaan?
+Question-Answer,Aandi gagwe izhi-izhaayan?
+Question-Answer,Wegonen gagwe izhi-gikendaman?
+Question-Answer,Aaniin gagwe izhi-giigidoyan?
+Question-Answer,Aandi gagwe izhi-bimoseyan?
+Question-Answer,Wegonen gagwe izhi-nandawenim?
+Commands & Instructions,Bi-izhaa omaa.
+Commands & Instructions,Bizindan omaa giigidowin.
+Commands & Instructions,Waabandaan mazina'igan.
+Commands & Instructions,Nagamon omaa.
+Commands & Instructions,Bimose miinawaa bi-izhaa.
+Commands & Instructions,Gikinoo'amaage omaa.
+Commands & Instructions,Bizindan apii giigidoyaan.
+Commands & Instructions,Waabam awiya omaa.
+Commands & Instructions,Ozhibii'ige mazina'igan.
+Commands & Instructions,Biindige omaa.
+Named Entity Recognition,Wiikwemkoong indaa izhaa noongom.
+Named Entity Recognition,Nindoonjibaa Anishinaabekiing.
+Named Entity Recognition,Torontoong gii-izhaa noongom.
+Named Entity Recognition,Ontarioing nindayaa.
+Named Entity Recognition,Ninose Wiikwemkoong noongom.
+Named Entity Recognition,Anishinaabemowin ninadendam.
+Named Entity Recognition,Lake Huron gii-waabandaan.
+Named Entity Recognition,Manitoulin Island gii-izhaa.
+Named Entity Recognition,Sudburying gii-ayaa.
+Named Entity Recognition,Canadaong nindayaa.
+Sentiment Analysis,Nimino-ayaa noongom.
+Sentiment Analysis,Gego nimino-ayaa.
+Sentiment Analysis,Ninendaagwad miigwech.
+Sentiment Analysis,Ningashkendam apii gagwe.
+Sentiment Analysis,Niminwendam noongom giizhigad.
+Sentiment Analysis,Ningotchi-animi'eyaa.
+Sentiment Analysis,Ningashkendam izhiwebiziwin.
+Sentiment Analysis,Niminwendaan giizhigad.
+Sentiment Analysis,Gego gagwe nimino-ayaa.
+Sentiment Analysis,Niminwendam miinawaa.
+Paraphrased & Augmented,Ninose izhaa giiwedinong.
+Paraphrased & Augmented,Ninose bimose giiwedinong.
+Paraphrased & Augmented,Ninose izhaa omaa.
+Paraphrased & Augmented,Ninose bi-izhaa omaa.
+Paraphrased & Augmented,Ninose izhaa waabigwaning.
+Paraphrased & Augmented,Ninose bimose omaa.
+Paraphrased & Augmented,Ninose izhaa noongom.
+Paraphrased & Augmented,Ninose bimose noongom.
+Paraphrased & Augmented,Ninose izhaa miinawaa.
+Paraphrased & Augmented,Ninose bimose miinawaa.

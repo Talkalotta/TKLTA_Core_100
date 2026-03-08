@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Men bügın bazarga bardım.
+Grammar Core,Ol kitap oqıp atır.
+Grammar Core,Biz erteń jaña jobalardı baslaymız.
+Grammar Core,Men bul jumıstı bügın bitire almayman.
+Grammar Core,Ol kеше mektepke barmağan edi.
+Grammar Core,Biz bul məseleni tez arada sheshemiz.
+Grammar Core,Men sol waqıtta hat jazıp otırğan edim.
+Grammar Core,"Ol usınıs qabıl etilse, qatnasadı."
+Grammar Core,Bul kitap birneşe tilge audarılğan.
+Grammar Core,Men bunday jağdaydı aldın kórmegenmen.
+Conversational Data,"Sälem, qalaysañ, bügın waqıtıñ bar ma?"
+Conversational Data,"Men jaqsıman, biraq biraz jumısım köp."
+Conversational Data,Sen keşe kinoga bardıñ ba?
+Conversational Data,"Ya, film qızıqlı eken."
+Conversational Data,Erteń kafede kezdessek qalay boladı?
+Conversational Data,"Mağan jaqadı, saǵat üshte baramız ba?"
+Conversational Data,"Jaqsı, men seni sol jerde kútemen."
+Conversational Data,Sen qaysı kitapty oqıp jürseñ?
+Conversational Data,Men tarihi roman oqıp atırman.
+Conversational Data,"Onı oqısañ, keyin pikirlerimizdi talqılayıq."
+Code-Switching,Men bügın online meetingke qatnastım.
+Code-Switching,Ol jaña project boyınsha report jazdı.
+Code-Switching,Biz startap ushın jaña ideya izlep atırmız.
+Code-Switching,Bul software jaqsı isleydi eken.
+Code-Switching,Men email arqalı hújjetti jiberip qoydım.
+Code-Switching,Ol marketing strategiyasın jaqsı túsindirdi.
+Code-Switching,Biz deadlineǵa shekem jumıstı bitiremiz.
+Code-Switching,Bul platforma arqalı sabaq ótiw oñay.
+Code-Switching,Ol presentation waqıtında senimdi sóyledi.
+Code-Switching,Men database penen islewdi úyrenip atırman.
+Formal & Professional Speech,"Hurmetli qatnasıwshılar, konferenciyanı baslawğa ruxsat etińiz."
+Formal & Professional Speech,Bul kelisim eki jaqtıń mindetlerin anıq belgileyedi.
+Formal & Professional Speech,Meditsinalıq tekseriw nátiyjeleri jaqsı boldy.
+Formal & Professional Speech,Kompaniya jaña strategiyalıq jospar qabıl etti.
+Formal & Professional Speech,Bul texnologiya ónimdar sapasın arttıradı.
+Formal & Professional Speech,Sud qararı erteń jariyalanadı.
+Formal & Professional Speech,Dáriger naýqastıń jaǵdayın baqılap atır.
+Formal & Professional Speech,Bul hújjet resmi túrde tastıyıqlanadı.
+Formal & Professional Speech,Jobalıq top innovatsiyalıq sheshimler usındı.
+Formal & Professional Speech,Seminar qatnasıwshılar ushın paydalı boldy.
+Idioms & Proverbs,Erte turğan erdiń ырысы artıq.
+Idioms & Proverbs,"Sabır etseń, tas jarıladı."
+Idioms & Proverbs,Doslıq basqa kúnde sınaladı.
+Idioms & Proverbs,Jaqsı sóz janğa dawa.
+Idioms & Proverbs,"Aqıl jasdan, asıl tastan."
+Idioms & Proverbs,Kóp kórgen kópsin biladi.
+Idioms & Proverbs,El birligi — ulı kúsh.
+Idioms & Proverbs,Usta qol altın qol.
+Idioms & Proverbs,Birlik bar jerde tirlik bar.
+Idioms & Proverbs,"Jaman atqa jal bítse, jan-jaqqa shabady."
+Question-Answer,Nukus qalası qaysı óńirde jaylasqan?
+Question-Answer,Qaraqalpaqstan Respublikasınıń astanası qaysı qala?
+Question-Answer,Bul kitap kim tarafınan jazılğan?
+Question-Answer,Bugın hawa rayı qanday boladı?
+Question-Answer,Universitetke tapsırıw ushın qanday hújjetler kerek?
+Question-Answer,Bul dárini qaysı waqıtta qabıllaw kerek?
+Question-Answer,Qaysı muzeyde tariyxıy eksponatlar bar?
+Question-Answer,Jaña texnologiya qanday payda keltiredi?
+Question-Answer,Qaysı tilderdi úyreniw qiyın dep oylaysız?
+Question-Answer,Kitap oqıw ne ushın paydalı?
+Commands & Instructions,Esiñikti jaqpı qoyıń.
+Commands & Instructions,Bul hújjetti múqiyat oqıń.
+Commands & Instructions,Erteń jıyınğa waqıtında keliń.
+Commands & Instructions,Maǵan bul maǵlıwmatnı jiberiń.
+Commands & Instructions,Telefonıńızdı daúsız rejimge qoyıń.
+Commands & Instructions,Bul programmany kompyuterge ornatıń.
+Commands & Instructions,Qáwipsizlik qaǵıydaların saqlań.
+Commands & Instructions,Bul esapti qayta tekseriń.
+Commands & Instructions,Kitaptı kitapxanaga qaytarıń.
+Commands & Instructions,Jobalıq hújjetti bügın tapsırıń.
+Named Entity Recognition,Ájiniyaz atındaǵı Nukus pedagogikalıq instituty belgili bilim orını.
+Named Entity Recognition,Nukus qalası Qaraqalpaqstan Respublikasınıń iri madeniy ortalığı.
+Named Entity Recognition,2024-jılı Tashkentte halıqaralıq forum ótti.
+Named Entity Recognition,Berdaq Qaraqalpaq ádebiyatınıń ulı shayırı.
+Named Entity Recognition,Amudarya ózeni Orta Aziyanıń eń ulı daryalarınıń biri.
+Named Entity Recognition,Savitskiy muzeyi dunyaǵa belgili kórkem ónер ortalığı.
+Named Entity Recognition,Qaraqalpaqstan Respublikası 1991-jılı óz statusın aldı.
+Named Entity Recognition,Nukus aeroportı айmaqtaǵı muhim transport tüyini.
+Named Entity Recognition,Tashkent qalası Ózbekstannıń paýtaxtı.
+Named Entity Recognition,Aral teñizi ekologiyalıq mashqalanıń belgisi.
+Sentiment Analysis,Bul film maǵan óte jaqadı.
+Sentiment Analysis,Men bügın ózimdi baqıtlı sezindim.
+Sentiment Analysis,Bul qızmetten kóńilim qalmadı.
+Sentiment Analysis,Kitaptı oqıǵanda terең áser aldım.
+Sentiment Analysis,Bul jańalıq meni qwanıshqa bóledi.
+Sentiment Analysis,Jol azabı meni biraz sharşattı.
+Sentiment Analysis,Jaña jumıs ornı men ushın jaqsı múmkinshilik.
+Sentiment Analysis,Bul tájiriybe men ushın qımbat sabaq boldy.
+Sentiment Analysis,Men bügınǵı natıyjeden razı emespin.
+Sentiment Analysis,Doslar menen kezdesiw kóńildi kóterdi.
+Paraphrased & Augmented,Men bügın bazardan jaña jemisler satıp aldım.
+Paraphrased & Augmented,Bügın men bazardan taza jemisler aldım.
+Paraphrased & Augmented,"Men bazarga barıp, birneşe jemis satıp keldim."
+Paraphrased & Augmented,Bügın bazarda jaqsı jemisler satılıp atır eken.
+Paraphrased & Augmented,Men bazardan paydalı ónimlerdi tańladım.
+Paraphrased & Augmented,Bazardan satıp alınǵan jemisler óte dámli.
+Paraphrased & Augmented,Bügın bazarğa barıw maǵan paydalı boldy.
+Paraphrased & Augmented,Men bazarda kóp adam bar ekenin bayqadım.
+Paraphrased & Augmented,Bazarǵa barǵanda jaña ónimlerdi kórdım.
+Paraphrased & Augmented,Bazarda satılǵan jemisler sapalı eken.
