@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Ngəna Maiduguri-ro kura.
+Grammar Core,Ngəna Maiduguri-ro kura-ti.
+Grammar Core,Ngəna Maiduguri-ro kura-da.
+Grammar Core,Ali kitab ro kadi.
+Grammar Core,Ali kitab ro kadi-ti.
+Grammar Core,Ali kitab ro kadi-da.
+Grammar Core,Ngəna ruwa beye.
+Grammar Core,Ngəna ruwa beye-ti.
+Grammar Core,Ngəna ruwa beye-da.
+Grammar Core,Fati kəram ro wuna.
+Conversational Data,"Salaam, nyi ngəna lafiya?"
+Conversational Data,"Lafiya, nyi kadi?"
+Conversational Data,Ngəna kasuwa-ro kura.
+Conversational Data,Kasuwa-ro kadi nyi?
+Conversational Data,"Eyo, ngəna kura."
+Conversational Data,Shin nyi abinci kadi?
+Conversational Data,"Eyo, ngəna abinci kadi."
+Conversational Data,Abinci ngəna yime.
+Conversational Data,Nyi ina-ro jiba?
+Conversational Data,Ngəna gida-ro kura.
+Code Switching,Ngəna meeting-ro kura today.
+Code Switching,Ali report ro submit-ti.
+Code Switching,Nyi project ro finish-ti?
+Code Switching,Ngəna office-ro kura tomorrow.
+Code Switching,Manager ngəna call-ti.
+Code Switching,Email ro send-ti ngəna.
+Code Switching,Nyi schedule ro check-ti?
+Code Switching,Team ngəna discussion kadi.
+Code Switching,Deadline ngəna tomorrow.
+Code Switching,Client ngəna feedback kadi.
+Formal Professional Speech,Dokta ngəna mara lafiya ro duba.
+Formal Professional Speech,Shari'a ngəna gaskiya ro kare.
+Formal Professional Speech,Ma'aikata ngəna rahoto ro rubu.
+Formal Professional Speech,Bank ngəna kudi ro kula.
+Formal Professional Speech,Malami ngəna dalibai ro koya.
+Formal Professional Speech,Asibiti ngəna lafiya ro kare.
+Formal Professional Speech,Hukuma ngəna doka ro aiwatar.
+Formal Professional Speech,Injiniya ngəna gini ro tsara.
+Formal Professional Speech,Lauya ngəna shari'a ro kare.
+Formal Professional Speech,Ma'aikaci ngəna aiki ro gama.
+Idioms Proverbs,Zuciya mai tsarki ruwa kamar madubi.
+Idioms Proverbs,Mutum mai hakuri yana cin nasara.
+Idioms Proverbs,Rana daya ba ta gina gida.
+Idioms Proverbs,Magana mai dadi tana bude zuciya.
+Idioms Proverbs,Ruwa baya tsayawa a wuri daya.
+Idioms Proverbs,Mai hankali ya san hanya.
+Idioms Proverbs,Gaskiya ta fi karfi.
+Idioms Proverbs,Mutum da ilimi kamar haske.
+Idioms Proverbs,Karamin tsuntsu yana tashi da safe.
+Idioms Proverbs,Mai aiki baya jin yunwa.
+Question Answer,Nyi ina-ro kura?
+Question Answer,Ngəna Borno-ro kura.
+Question Answer,Nyi abinci kadi?
+Question Answer,"Eyo, ngəna abinci suro?"
+Question Answer,Nyi suna nde?
+Question Answer,Suna ngəna Ali.
+Question Answer,Nyi aiki nde?
+Question Answer,Ngəna malami.
+Question Answer,Nyi lafiya?
+Question Answer,"Eyo, ngəna lafiya."
+Commands Instructions,Kadi kitab.
+Commands Instructions,Rufe kofa.
+Commands Instructions,Bude taga.
+Commands Instructions,Kawo ruwa.
+Commands Instructions,Jira kadan.
+Commands Instructions,Rubuta wannan.
+Commands Instructions,Karanta littafi.
+Commands Instructions,Taimaka mini.
+Commands Instructions,Zo nan.
+Commands Instructions,Tafi gida.
+Named Entity Recognition,Ali Maiduguri-ro kura.
+Named Entity Recognition,Fati Ngala-ro kura.
+Named Entity Recognition,Borno University-ro dalibai kura.
+Named Entity Recognition,Muhammad kasuwa Monday-ro kura.
+Named Entity Recognition,Aisha Abuja-ro kura.
+Named Entity Recognition,Borno State Nigeria-ro kura.
+Named Entity Recognition,Shehu Musa Umar ro gana.
+Named Entity Recognition,Lake Chad kusa-ro kura.
+Named Entity Recognition,Monday Ali kasuwa-ro kura.
+Named Entity Recognition,2024 shekara Maiduguri-ro ruwa yawa.
+Sentiment Analysis,Ngəna farin ciki.
+Sentiment Analysis,Ngəna bakin ciki.
+Sentiment Analysis,Wannan labari dadi.
+Sentiment Analysis,Wannan aiki wahala.
+Sentiment Analysis,Ngəna gaji sosai.
+Sentiment Analysis,Ngəna godiya sosai.
+Sentiment Analysis,Wannan abinci dadi.
+Sentiment Analysis,Wannan rana kyau.
+Sentiment Analysis,Ngəna damuwa kadan.
+Sentiment Analysis,Ngəna jin dadi.
+Paraphrased Sentences,Ngəna kasuwa-ro gaji.
+Paraphrased Sentences,Ngəna kasuwa-ro tafi.
+Paraphrased Sentences,Ngəna kasuwa-ro je.
+Paraphrased Sentences,Ali ruwa beye.
+Paraphrased Sentences,Ali ruwa sha.
+Paraphrased Sentences,Ali ruwa kadi.
+Paraphrased Sentences,Fati gida-ro kura.
+Paraphrased Sentences,Fati gida-ro tafi.
+Paraphrased Sentences,Fati gida-ro je.
+Paraphrased Sentences,Dalibi kitab karanta.
