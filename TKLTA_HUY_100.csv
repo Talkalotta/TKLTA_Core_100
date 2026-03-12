@@ -1,0 +1,101 @@
+﻿Categories,Sentences
+Grammar Core,我昨天在牛车水吃了一碗很好吃的鱼丸面。
+Grammar Core,他现在正在办公室准备下午的会议。
+Grammar Core,如果明天下雨，我们就改在室内开会。
+Grammar Core,她已经完成了报告，现在可以提交给经理。
+Grammar Core,我们每个星期都会一起去公园跑步。
+Grammar Core,这个问题如果早点解决，项目就不会被耽误。
+Grammar Core,会议被经理取消了，因为有更紧急的事情。
+Grammar Core,我不会忘记你昨天给我的建议。
+Grammar Core,等我下班以后，我们再一起去吃晚餐。
+Grammar Core,这个系统正在被工程师重新设计。
+Conversational Data,你今天有去小贩中心吃午餐吗？
+Conversational Data,有啊，我刚刚吃了海南鸡饭，很好吃。
+Conversational Data,真的吗？那家店是不是在地铁站旁边的那间？
+Conversational Data,对，就是那间，每天都很多人排队。
+Conversational Data,你等了多久才买到？
+Conversational Data,差不多十分钟吧，还算可以。
+Conversational Data,下次你带我一起去，我也想试试看。
+Conversational Data,没问题，我们明天中午一起去吧。
+Conversational Data,好啊，到时候我早点到公司找你。
+Conversational Data,行，就这样说定了。
+Code-Switching & Multilingualism,我刚刚在MRT上看到很多人都在用手机看新闻。
+Code-Switching & Multilingualism,今天的meeting可能会比较长，你要先准备好资料。
+Code-Switching & Multilingualism,等一下我们去hawker centre吃东西，好不好？
+Code-Switching & Multilingualism,这个project如果今天完成，我们就可以早点回家。
+Code-Switching & Multilingualism,老板说明天要做presentation，所以今晚要准备。
+Code-Switching & Multilingualism,我已经把file发到email里，你可以先看看。
+Code-Switching & Multilingualism,这个idea其实不错，可以在下一次discussion提出来。
+Code-Switching & Multilingualism,如果client同意，我们就马上开始新的phase。
+Code-Switching & Multilingualism,她刚刚在WhatsApp里发了新的schedule。
+Code-Switching & Multilingualism,今天traffic很严重，很多人迟到。
+Formal & Professional Speech,本公司将于下个月正式推出新的金融服务平台。
+Formal & Professional Speech,请各部门在星期五之前提交年度预算报告。
+Formal & Professional Speech,医生建议病人保持规律作息并减少压力。
+Formal & Professional Speech,根据合同条款，双方必须遵守保密协议。
+Formal & Professional Speech,工程团队正在评估系统升级的可行性。
+Formal & Professional Speech,会议记录已经整理完成，并发送给所有参与者。
+Formal & Professional Speech,法律顾问将会审查所有相关文件。
+Formal & Professional Speech,医院正在引入新的医疗设备以提高效率。
+Formal & Professional Speech,技术部门计划在周末进行系统维护。
+Formal & Professional Speech,管理层正在讨论公司的长期发展策略。
+"Idioms, Proverbs & Cultural Expressions",做事情不要画蛇添足，简单就好。
+"Idioms, Proverbs & Cultural Expressions",他做事一向脚踏实地，所以大家都很信任他。
+"Idioms, Proverbs & Cultural Expressions",这件事真是塞翁失马，焉知非福。
+"Idioms, Proverbs & Cultural Expressions",大家同舟共济，一起把项目完成。
+"Idioms, Proverbs & Cultural Expressions",机会来了就要把握，不然会后悔莫及。
+"Idioms, Proverbs & Cultural Expressions",做人要饮水思源，不要忘记帮助过你的人。
+"Idioms, Proverbs & Cultural Expressions",他做事情总是三思而后行。
+"Idioms, Proverbs & Cultural Expressions",有些事情急不来，欲速则不达。
+"Idioms, Proverbs & Cultural Expressions",我们团队一直风雨同舟，共同面对挑战。
+"Idioms, Proverbs & Cultural Expressions",凡事留一线，日后好相见。
+Question-Answer Pairs,新加坡国庆日是哪一天？
+Question-Answer Pairs,新加坡国庆日是在八月九日。
+Question-Answer Pairs,新加坡最有名的小吃是什么？
+Question-Answer Pairs,很多人喜欢吃辣椒螃蟹和海南鸡饭。
+Question-Answer Pairs,滨海湾金沙在哪里？
+Question-Answer Pairs,滨海湾金沙位于新加坡的滨海湾地区。
+Question-Answer Pairs,新加坡的官方语言有哪些？
+Question-Answer Pairs,新加坡有四种官方语言：英语、华语、马来语和泰米尔语。
+Question-Answer Pairs,为什么很多人喜欢住在靠近地铁站的地方？
+Question-Answer Pairs,因为交通方便，可以节省很多通勤时间。
+Commands & Instructions,请把这份文件发送给整个团队。
+Commands & Instructions,先登录系统，然后点击报告页面。
+Commands & Instructions,把会议室的灯关掉再离开。
+Commands & Instructions,请在下午三点之前完成这份表格。
+Commands & Instructions,把这些数据整理成一个清单。
+Commands & Instructions,记得明天早上带上你的身份证。
+Commands & Instructions,请按照步骤安装这个软件。
+Commands & Instructions,先检查设备，然后再启动系统。
+Commands & Instructions,把客户的反馈记录在数据库里。
+Commands & Instructions,请仔细阅读说明书再操作机器。
+Named Entity Recognition,李显龙曾经担任新加坡总理。
+Named Entity Recognition,滨海湾花园是新加坡著名的旅游景点。
+Named Entity Recognition,南洋理工大学位于新加坡西部。
+Named Entity Recognition,新加坡动物园每年吸引很多游客。
+Named Entity Recognition,樟宜机场被认为是世界上最好的机场之一。
+Named Entity Recognition,国会大厦位于新加坡市中心。
+Named Entity Recognition,新加坡管理大学靠近多美歌地铁站。
+Named Entity Recognition,乌节路是新加坡最著名的购物街。
+Named Entity Recognition,圣淘沙岛是很多游客喜欢去的地方。
+Named Entity Recognition,新加坡河见证了城市的发展历史。
+Sentiment Analysis,这家餐厅的食物真的非常美味。
+Sentiment Analysis,今天的天气太热了，让人有点烦躁。
+Sentiment Analysis,我对这个新项目感到非常期待。
+Sentiment Analysis,服务态度很好，让人感觉很舒服。
+Sentiment Analysis,这个产品的质量让我有点失望。
+Sentiment Analysis,团队合作顺利，大家都很开心。
+Sentiment Analysis,等了一个小时才上菜，我有点不满意。
+Sentiment Analysis,这个地方的风景真的很漂亮。
+Sentiment Analysis,听到这个消息我非常激动。
+Sentiment Analysis,这次体验整体来说还算不错。
+Paraphrased & Augmented Sentences,我今天早上在小贩中心吃了咖椰吐司。
+Paraphrased & Augmented Sentences,今天早上我去小贩中心买了一份咖椰吐司当早餐。
+Paraphrased & Augmented Sentences,早上我在小贩中心吃早餐，点了咖椰吐司。
+Paraphrased & Augmented Sentences,我早上到小贩中心吃了一份传统的咖椰吐司。
+Paraphrased & Augmented Sentences,今天的早餐是在小贩中心解决的，我吃了咖椰吐司。
+Paraphrased & Augmented Sentences,早上我特地去小贩中心买咖椰吐司当早餐。
+Paraphrased & Augmented Sentences,今天早上我在附近的小贩中心吃了咖椰吐司。
+Paraphrased & Augmented Sentences,我今天的早餐是在小贩中心买的咖椰吐司。
+Paraphrased & Augmented Sentences,早上我和朋友一起去小贩中心吃咖椰吐司。
+Paraphrased & Augmented Sentences,今天早上我决定在小贩中心吃一份咖椰吐司。
