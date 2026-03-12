@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,N ye xwé wá nú Abomey zã.
+Grammar Core,E na wa xwé gbèdomè gudo.
+Grammar Core,N má yi xwé lá gudo.
+Grammar Core,E kò wa xwé o.
+Grammar Core,Wémɛ́ wá xwé gbè.
+Grammar Core,N yi xwé lá jì.
+Grammar Core,E na yi zã nú mi.
+Grammar Core,N kpé ɖé nú wémɛ́.
+Grammar Core,E ma wá o gudo.
+Grammar Core,N na kpé xwé gbè.
+Conversational Data,A: Fo wa? B: N wa bo.
+Conversational Data,A: Fo kpé? B: N kpé gã.
+Conversational Data,A: Fo xo ɖé? B: N xo Abomey.
+Conversational Data,A: Fo yi zã? B: N na yi gudo.
+Conversational Data,A: N kpé nú fo. B: Akpé na wé.
+Conversational Data,A: Fo nyi mɛ? B: N nyi mɛ bo.
+Conversational Data,A: Fo na wa? B: N na wa gudo.
+Conversational Data,A: Fo kpé jɛ? B: N kpé bo.
+Conversational Data,A: Fo yi market? B: N yi lá.
+Conversational Data,A: Fo na kpé? B: N na kpé gã.
+Code-Switching & Multilingualism,N na go market lá gudo.
+Code-Switching & Multilingualism,E say he wa tomorrow.
+Code-Switching & Multilingualism,N buy bread lá market.
+Code-Switching & Multilingualism,E check phone tɔn.
+Code-Switching & Multilingualism,N send message nú fo.
+Code-Switching & Multilingualism,E call mi gudo.
+Code-Switching & Multilingualism,N download app tɔn.
+Code-Switching & Multilingualism,E start meeting lá office.
+Code-Switching & Multilingualism,N pay money lá bank.
+Code-Switching & Multilingualism,E drive car lá city.
+Formal & Professional Speech,Mɛ̀sìn wá mɛ̀ nú tɔn nùmi gbè.
+Formal & Professional Speech,Mɛ̀ na kpé xwé gbè tɔn.
+Formal & Professional Speech,Agbán kpé nú nùmi.
+Formal & Professional Speech,Mɛ̀ nyi kpɔ́n tɔn.
+Formal & Professional Speech,Nùmi gbè wá mɛ̀.
+Formal & Professional Speech,Mɛ̀ na yi meeting gudo.
+Formal & Professional Speech,Nùmi kpé gbè nú mɛ̀.
+Formal & Professional Speech,Mɛ̀ wá tɔn xwé gbè.
+Formal & Professional Speech,Agbán na kpé nú mɛ̀.
+Formal & Professional Speech,Mɛ̀ nyi mɛ̀ tɔn.
+"Idioms, Proverbs & Cultural Expressions","Aví kɔ́ nú wá, aví xwé kpé."
+"Idioms, Proverbs & Cultural Expressions","Agbè nyi mɛ̀, mɛ̀ nyi agbè."
+"Idioms, Proverbs & Cultural Expressions",Xwé ɖé kpé ɖé.
+"Idioms, Proverbs & Cultural Expressions",Nùmi kpé gbè.
+"Idioms, Proverbs & Cultural Expressions",Aví nyi xwé.
+"Idioms, Proverbs & Cultural Expressions",Agbè kpé xwé.
+"Idioms, Proverbs & Cultural Expressions",Nùmi kpé gã.
+"Idioms, Proverbs & Cultural Expressions",Xwé kpé nú mɛ̀.
+"Idioms, Proverbs & Cultural Expressions",Aví kpé gbè.
+"Idioms, Proverbs & Cultural Expressions",Agbè nyi xwé.
+Question-Answer Pairs,Fo xo ɖé? — N xo Abomey.
+Question-Answer Pairs,Fo kpé jɛ? — N kpé gã.
+Question-Answer Pairs,Fo yi zã? — N yi gudo.
+Question-Answer Pairs,Fo nyi mɛ? — N nyi mɛ bo.
+Question-Answer Pairs,Fo na wa? — N na wa gudo.
+Question-Answer Pairs,Fo kpé? — N kpé bo.
+Question-Answer Pairs,Fo yi market? — N yi lá.
+Question-Answer Pairs,Fo na kpé? — N na kpé gã.
+Question-Answer Pairs,Fo wa jɛ? — N wa bo.
+Question-Answer Pairs,Fo yi ɖé? — N yi Abomey.
+Commands & Instructions,Kpó xwé gbè nú mi.
+Commands & Instructions,Yi market lá gudo.
+Commands & Instructions,Kpé nú wémɛ́.
+Commands & Instructions,Nyi mɛ̀ kpɔ́n.
+Commands & Instructions,Wá nú mi.
+Commands & Instructions,Kpó agbè.
+Commands & Instructions,Kpé gbè nú nùmi.
+Commands & Instructions,Yi zã.
+Commands & Instructions,Kpó phone tɔn.
+Commands & Instructions,Kpé xwé.
+Named Entity Recognition,Houégbadja yi Abomey zã.
+Named Entity Recognition,Ghézo kpé nú Dahomey.
+Named Entity Recognition,Abomey nyi xo tɔn.
+Named Entity Recognition,Cotonou nyi city gã.
+Named Entity Recognition,Benin nyi country.
+Named Entity Recognition,N kpé nú Abomey.
+Named Entity Recognition,E yi Porto-Novo.
+Named Entity Recognition,Ghézo nyi king.
+Named Entity Recognition,Benin kpé gã.
+Named Entity Recognition,Abomey nyi zã.
+Sentiment Analysis,N kpé gã nú nùmi.
+Sentiment Analysis,N kpé jɛ o.
+Sentiment Analysis,E kpé gã.
+Sentiment Analysis,N nyi mɛ kpé.
+Sentiment Analysis,E kpé bo.
+Sentiment Analysis,N kpé ɖé.
+Sentiment Analysis,E kpé jɛ.
+Sentiment Analysis,N kpé gã nú fo.
+Sentiment Analysis,E nyi mɛ kpé.
+Sentiment Analysis,N kpé jɛ nú nùmi.
+Paraphrased & Augmented Sentences,N xo Abomey.
+Paraphrased & Augmented Sentences,Abomey nyɛ xo tɔn.
+Paraphrased & Augmented Sentences,N yi Abomey.
+Paraphrased & Augmented Sentences,N wa Abomey zã.
+Paraphrased & Augmented Sentences,Abomey kpé nú mi.
+Paraphrased & Augmented Sentences,N kpé Abomey.
+Paraphrased & Augmented Sentences,N xo zã Abomey.
+Paraphrased & Augmented Sentences,Abomey nyi xo.
+Paraphrased & Augmented Sentences,N yi lá Abomey.
+Paraphrased & Augmented Sentences,N kpé xo Abomey.
