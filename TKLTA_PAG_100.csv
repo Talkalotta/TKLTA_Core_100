@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Manlalako si Ana ed merkado kada agsapa.
+Grammar Core,Nanlapuay si Ramon ed Dagupan idi kaabi.
+Grammar Core,Manla si Maria ed eskuela no bigat.
+Grammar Core,Sikato et mangiwas ed trabaho no agmaliket.
+Grammar Core,Inusar na so libro ya insulat na.
+Grammar Core,Agko amta no anto so ibaga na no walay problema.
+Grammar Core,Nanlapu ya inmey si Pedro tan nanbalik met la.
+Grammar Core,Manluto kami ed balay no labi.
+Grammar Core,Nausar so kotse ya binili da idi nakaraan a taon.
+Grammar Core,Sikami so mangipakita no paraan ya tama.
+Conversational Data,"Kumusta ka, kumusta so trabaho mo ed opisina?"
+Conversational Data,"Maong a bigat, anto so plano mo ed anday agew?"
+Conversational Data,Inmey ka la ed merkado no kaabigan?
+Conversational Data,"On, agko la naawat so ibaga na kanen."
+Conversational Data,Aliwa so pakiramdam ko no walay bagyo.
+Conversational Data,Sika so mangala ed anak tayo ed eskuela?
+Conversational Data,Salamat la unay ta tinulungan mo ak.
+Conversational Data,"Ontan, siguro agtay la makapasyar no ulan."
+Conversational Data,Anto so paborito mong kanen ed Dagupan?
+Conversational Data,"On, bangus syempre ta sikat ed siyudad tayo."
+Code-Switching,Meeting tayo no bigat so office para ed project.
+Code-Switching,Nag-send ak la email kanen ta urgent so report.
+Code-Switching,Pwede ka ba mag-join ed training session tayo?
+Code-Switching,Deadline na no Friday so proposal tayo.
+Code-Switching,Check mo la so file ya in-upload ko online.
+Code-Switching,Nag-call so manager kanen about ed schedule.
+Code-Switching,Need tayo mag-update ed system no kaabigan.
+Code-Switching,Mag-start la so workshop ed 9 AM.
+Code-Switching,Pwede mo bang i-review so document ya sinurat ko?
+Code-Switching,Submit mo la so form before closing time.
+Formal & Professional Speech,Ipapaabot mi so opisyal ya anunsyo ed amin a empleyado.
+Formal & Professional Speech,Importanteng masunod so regulasyon ya inisyu na organisasyon.
+Formal & Professional Speech,Agawa kami so masusing pagsusuri ed proyekto.
+Formal & Professional Speech,Ipalapad mi so programa para ed komunidad.
+Formal & Professional Speech,Kinakailangan so kumpletong dokumento antes ya aprobahan so aplikasyon.
+Formal & Professional Speech,Nagpulong so konseho para talakayin so plano ed siyudad.
+Formal & Professional Speech,Isusumite mi so ulat ed pamunuan no katapusan na bulan.
+Formal & Professional Speech,Importante so etika ed propesyonal ya komunikasyon.
+Formal & Professional Speech,Inilatag na doktor so anggan ya proseso na gamutan.
+Formal & Professional Speech,Pinagtibay na komite so bagong patakaran.
+Idioms & Proverbs,"No ag-ukom ed labas, ta agmo amta so loob."
+Idioms & Proverbs,So masipag et agkukulang.
+Idioms & Proverbs,"No walay tiyaga, walay bunga."
+Idioms & Proverbs,So agpanano et agla makadalan ed tagumpay.
+Idioms & Proverbs,Mas maong so duga ya malinis nen so dakel a marumi.
+Idioms & Proverbs,So mapanagnas et napupunta ed maong ya lugar.
+Idioms & Proverbs,Agkalkal so nakaraan no walay pakinabang.
+Idioms & Proverbs,So matalino et manisip antes ya manalita.
+Idioms & Proverbs,So ag-inom ed paya et agmakakita ed duga.
+Idioms & Proverbs,So makapagtulungan et makakamit so tagumpay.
+Question-Answer,Anto so oras na klase mo no bigat?
+Question-Answer,Sino so managturo ed asignatura ya matematika?
+Question-Answer,Kapigan so pista ed baryo tayo?
+Question-Answer,Anto so rason na pagbisita mo ed ospital?
+Question-Answer,Iner so lugar ya paborito mong pasyaran?
+Question-Answer,Panon so paraan na pagluto na bangus?
+Question-Answer,Anto so ibig sabihin na salitan ito?
+Question-Answer,Sino so mayor ed Dagupan ed taon na 2024?
+Question-Answer,Kapigan ka manlapuay ed trabaho?
+Question-Answer,Anto so plano mo no darating a bakasyon?
+Commands & Instructions,Ibuklat mo so libro ed pahina a bente.
+Commands & Instructions,Ipaabot mo ed kanya so mensahe ko.
+Commands & Instructions,Ihanda so lamesa antes ya mangan tayo.
+Commands & Instructions,Ilista so amin ya kailangan ed proyekto.
+Commands & Instructions,Ipasa so dokumento ed opisina no kaabigan.
+Commands & Instructions,I-check mo so makina antes ya gamiten.
+Commands & Instructions,Ilinis mo so kwarto antes ya dumemelap so bisita.
+Commands & Instructions,I-save mo so file ed computer.
+Commands & Instructions,Ipadala so sulat ed koreo no kaabigan.
+Commands & Instructions,Iayos so kagamitan despues na gamit.
+NER Data,Inmey si Carlos ed Dagupan City idi Lunes.
+NER Data,Nanbisita kami ed Lingayen Beach idi Mayo 2023.
+NER Data,Si Maria Santos et nagtuturo ed University of the Philippines.
+NER Data,Nagpulong so lider ed Manila idi Enero.
+NER Data,Si Dr. Reyes et manggagamot ed Pangasinan Provincial Hospital.
+NER Data,Inilunsad na DepEd so programa ed 2024.
+NER Data,Nanlapuay si Juan ed Urdaneta City.
+NER Data,Binisita na turista so Hundred Islands ed Alaminos.
+NER Data,Nag-aral si Elena ed Ateneo de Manila University.
+NER Data,Nagdaos so pamahalaan ed event idi Disyembre 12.
+Sentiment Analysis,Maliket ak unay ta nakita ko so pamilya ko.
+Sentiment Analysis,Nalungkot ak ta nawara so alaga mi.
+Sentiment Analysis,Masaya kami ta nagtagumpay so proyekto.
+Sentiment Analysis,Nabahala ak ed balita ya narinig ko.
+Sentiment Analysis,Mapalar ak ta walay mababaleg a oportunidad.
+Sentiment Analysis,Nasiyahan so amin ed handaan idi pista.
+Sentiment Analysis,Nainis ak ed ag-inasikaso na serbisyo.
+Sentiment Analysis,Mapayapa so pakiramdam ko no agsapa.
+Sentiment Analysis,Natatakot so anak ed makulog ya kulog.
+Sentiment Analysis,Nagpapasalamat ak ed tulong ya inawat ko.
+Paraphrased Variations,"No aga, naglalako si Ana ed merkado."
+Paraphrased Variations,"Kada agsapa, manlalako si Ana ed merkado."
+Paraphrased Variations,Si Ana et maglalako ed merkado no umaga.
+Paraphrased Variations,"Ed merkado agsapa, makikita mo si Ana ya manlalako."
+Paraphrased Variations,"No bigat, si Ana et nagbebenta ed merkado."
+Paraphrased Variations,Si Ana so mangilako ed merkado kada umaga.
+Paraphrased Variations,"Kada umaga, makikita si Ana ed merkado ya manlalako."
+Paraphrased Variations,Naglalako si Ana ed merkado no kaagahan.
+Paraphrased Variations,"Ed kaagahan, nagbebenta si Ana ed merkado."
+Paraphrased Variations,Si Ana et manlalako ed merkado no aga.
