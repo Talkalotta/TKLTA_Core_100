@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Mi vado al mercato ogni matina par comprar fruta fresca.
+Grammar Core,Ieri gavemo visità el museo e imparà tante robe nove.
+Grammar Core,Domàn andarò a lavorar presto perché go un incontro importante.
+Grammar Core,"Se gavessi tempo, studiarìa ancora de più la lengua veneta."
+Grammar Core,No bevo cafè dopo mezanote perché no rieso più a dormir.
+Grammar Core,El libro xe stà scrito da un autor famoso de Venesia.
+Grammar Core,"Quando rivarà l’inverno, portarò el capoto più pesante."
+Grammar Core,Stavo caminando pian pian quando go visto un vecio amigo.
+Grammar Core,"Se ti studi con costansa, te impararè tuto sensa problemi."
+Grammar Core,Nualtri gavemo finì el lavoro prima del previsto.
+Conversational Data,"Ciao Marco, come te sté incò?"
+Conversational Data,"Tuto ben, go appena finì de lavorar e adesso me riposo un poco."
+Conversational Data,Te vien con nualtri a magnar na pizza stasera?
+Conversational Data,"Volentiera, ma prima go da finir un progetto urgente."
+Conversational Data,"No ghe problema, te spetemo verso le oto."
+Conversational Data,"Perfeto, porto anca na botella de vin."
+Conversational Data,Ti ga visto che tempo brutto che fa incò?
+Conversational Data,"Sì, ma domàn disi che vegnirà fora el sol."
+Conversational Data,"Ben, cusì podaremo far na passegiada in centro."
+Conversational Data,"D’accordo, a dopo allora!"
+Code-Switching & Multilingualism,Sto lavorando su un novo project de software par l’azienda.
+Code-Switching & Multilingualism,El meeting de domàn sarà molto important par el team.
+Code-Switching & Multilingualism,Go mandato un email al manager par confirmar la riunion.
+Code-Switching & Multilingualism,Sto facendo un update del sistema prima del launch.
+Code-Switching & Multilingualism,"Se el server crasha, bisogna restartarlo subito."
+Code-Switching & Multilingualism,El cliente ga chiesto un report più detailed.
+Code-Switching & Multilingualism,Sto testando el software par evitar bug nel sistema.
+Code-Switching & Multilingualism,Gavemo discutesto la strategy durante el meeting.
+Code-Switching & Multilingualism,El designer ga creato un layout molto clean.
+Code-Switching & Multilingualism,Dopo lunch riprendemo col lavoro.
+Formal & Professional Speech,La presente comunicazion conferma la riunion prevista par domàn matina.
+Formal & Professional Speech,L’azienda richiede che tuti i documenti i sia consegnai entro venerdì.
+Formal & Professional Speech,El contrato sarà rivisto dal dipartimento legale.
+Formal & Professional Speech,La procedura medica richiede attenzione e precision.
+Formal & Professional Speech,El raport tecnico descrive i risultati del esperimento.
+Formal & Professional Speech,La direzion ga approvà el novo piano operativo.
+Formal & Professional Speech,El paziente ga ricevù el tratamento necessario.
+Formal & Professional Speech,El progetto industriale vegnirà completà entro tre mesi.
+Formal & Professional Speech,La documentazion ufficiale sarà archiviada digitalmente.
+Formal & Professional Speech,El consulente finanziario ga preparà un analisi dettagliada.
+"Idioms, Proverbs & Cultural Expressions",Chi va pian va sano e va lontan.
+"Idioms, Proverbs & Cultural Expressions",No tuti i mali vien par nuocer.
+"Idioms, Proverbs & Cultural Expressions",Megio un ovo incò che na galina domàn.
+"Idioms, Proverbs & Cultural Expressions",Chi dorme no ciapa pesi.
+"Idioms, Proverbs & Cultural Expressions",Far el furbo no paga sempre.
+"Idioms, Proverbs & Cultural Expressions",Ogni scarpa la diventa zataro.
+"Idioms, Proverbs & Cultural Expressions",Par vegnir lontan bisogna scomenzar da vicino.
+"Idioms, Proverbs & Cultural Expressions",L’erba del vicino la par sempre più verde.
+"Idioms, Proverbs & Cultural Expressions",Chi semena vento racoglie tempesta.
+"Idioms, Proverbs & Cultural Expressions","Co l’acqua rivarà, tuti impara a nuotar."
+Question-Answer Pairs,Domanda: Dove se trova el museo principale de Venesia? Risposta: Vicin a Piazza San Marco.
+Question-Answer Pairs,Domanda: Che ora scomenzarà la riunion? Risposta: Alle diese precise.
+Question-Answer Pairs,Domanda: Quanto costa sto biglieto? Risposta: Costa diese euro.
+Question-Answer Pairs,Domanda: Perché studi la lengua veneta? Risposta: Par conservar la cultura.
+Question-Answer Pairs,Domanda: Quando rivarà el treno? Risposta: Tra vinti minuti.
+Question-Answer Pairs,Domanda: Chi ga scrito sto libro? Risposta: Un autor venessian.
+Question-Answer Pairs,Domanda: Come se prepara sto piato? Risposta: Con ingredienti freschi.
+Question-Answer Pairs,Domanda: Che tempo farà domàn? Risposta: Probabilmente sol.
+Question-Answer Pairs,Domanda: Perché te lavori qua? Risposta: Perché me piase el ambiente.
+Question-Answer Pairs,Domanda: Dove posso comprar pane fresco? Risposta: Alla paneteria del quartiere.
+Commands & Instructions,Serra la porta prima de uscir.
+Commands & Instructions,Mandeme el documento entro stasera.
+Commands & Instructions,"Par piazer, spegni la luce quando te parti."
+Commands & Instructions,Ascolta con atension le istrusion.
+Commands & Instructions,Controła i dati prima de mandar el raport.
+Commands & Instructions,Prendi sto modulo e compila tuto.
+Commands & Instructions,Speta qua finché torno.
+Commands & Instructions,Porta sti scatoloni nel magazen.
+Commands & Instructions,Legi el manual prima de usar el dispositivo.
+Commands & Instructions,Segui passo passo la procedura indicà.
+Named Entity Recognition (NER),Marco Rossi ga visità Roma el 12 marzo 2024.
+Named Entity Recognition (NER),La conferensa internazionale se farà a Milano.
+Named Entity Recognition (NER),L’università Ca’ Foscari se trova a Venesia.
+Named Entity Recognition (NER),El festival de cinema de Venezia xe famoso nel mondo.
+Named Entity Recognition (NER),Giulia Bianchi lavora par la compagnia Tecnitalia.
+Named Entity Recognition (NER),El ponte de Rialto xe un simbolo storico.
+Named Entity Recognition (NER),La riunion ga luogo al Hotel Danieli.
+Named Entity Recognition (NER),El progetto europeo Horizon 2030 finanzia la ricerca.
+Named Entity Recognition (NER),Antonio Vivaldi xe nato a Venesia.
+Named Entity Recognition (NER),La Biennale de Venezia atira artisti internazionali.
+Sentiment Analysis Data,Sto ristorante xe fantastico e el cibo xe delizioso.
+Sentiment Analysis Data,No me ga piasso par gnente el servizio de sto hotel.
+Sentiment Analysis Data,La vista dal canal al tramonto xe meravigliosa.
+Sentiment Analysis Data,Sto prodotto xe mediocre e no vale el prezzo.
+Sentiment Analysis Data,Go passà na giornata splendida con i me amici.
+Sentiment Analysis Data,El traffico in città me fa vegnir nervoso.
+Sentiment Analysis Data,El concerto ieri sera xe stà incredibile.
+Sentiment Analysis Data,Sto film xe noioso e troppo longo.
+Sentiment Analysis Data,La gentileza del personale me ga colpì.
+Sentiment Analysis Data,Me sento soddisfà del lavoro che go fato.
+Paraphrased & Augmented Sentences,Mi bevo un cafè caldo ogni matina.
+Paraphrased & Augmented Sentences,Ogni matina bevo un cafè caldo prima de lavorar.
+Paraphrased & Augmented Sentences,"Prima de andar al lavoro, mi bevo sempre un cafè."
+Paraphrased & Augmented Sentences,El cafè matutino me dà energia par scomenzar el giorno.
+Paraphrased & Augmented Sentences,Senza un cafè al matino me sento stanco.
+Paraphrased & Augmented Sentences,La matina inizio la giornata con un cafè caldo.
+Paraphrased & Augmented Sentences,Bevo cafè fresco appena svejo.
+Paraphrased & Augmented Sentences,Un bon cafè matutino me mete de bon umor.
+Paraphrased & Augmented Sentences,Dopo colazion bevo ancora un cafè.
+Paraphrased & Augmented Sentences,El cafè della matina xe parte della mia rutina.

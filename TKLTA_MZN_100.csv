@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,من دیروز بازار ساری ره بَییم.
+Grammar Core,اِمشو بارون بارنه و هوا خُنَک بوه.
+Grammar Core,من فردا با دوستم دیدار هاکنم.
+Grammar Core,اگر وقت داشته بیم، کتاب بخانم.
+Grammar Core,او کار ره زود تمام هاکنه.
+Grammar Core,ما دیروز مهمان ره خانه ره دعوت کردیم.
+Grammar Core,این نامه دیشب نوشته بَیّه.
+Grammar Core,من نخواهم دیر به جلسه برسم.
+Grammar Core,تو همیشه راست گَپ زنی.
+Grammar Core,ما سال آینده سفر هاکنیم.
+Conversational Data,سلام، حال شِما چِطوره؟
+Conversational Data,من خُوبم، تو چِطوری؟
+Conversational Data,اِمشو کجا شِی؟
+Conversational Data,بیّا باهم چای بخوریم.
+Conversational Data,تو امروز خیلی خسته به نظر آیی.
+Conversational Data,دیشب چرا تلفن ره جواب ندی؟
+Conversational Data,من کمی دیر رسیدم، ببخش.
+Conversational Data,هوا خیلی قشنگ بوه، نه؟
+Conversational Data,بعداً دوباره صحبت هاکنیم.
+Conversational Data,فعلاً خداحافظ، فردا ببینمت.
+Code-Switching,امروز یه meeting مهم در اداره داشتیم.
+Code-Switching,من باید report ره تا فردا آماده هاکنم.
+Code-Switching,او همیشه online کار هاکنه.
+Code-Switching,امشو یه movie جدید باهم دیدیم.
+Code-Switching,برای project جدید تیم ره جمع هاکردیم.
+Code-Switching,او توی company بزرگ کار هاکنه.
+Code-Switching,من message ره دیشب فرستادم.
+Code-Switching,بیّا یه coffee باهم بخوریم.
+Code-Switching,او schedule ره تغییر هاده.
+Code-Switching,این idea خیلی خوبه.
+Formal Professional,لطفاً گزارش مالی ماهانه ره بررسی بفرمایید.
+Formal Professional,این قرارداد باید پیش از امضا دقیق مطالعه بَوّه.
+Formal Professional,بیمار نیاز به معاینه فوری داره.
+Formal Professional,جلسه رسمی ساعت ده صبح برگزار بَوّه.
+Formal Professional,لطفاً مدارک مورد نیاز ره تحویل بدین.
+Formal Professional,این پروژه نیاز به بررسی فنی دقیق داره.
+Formal Professional,طبق قانون جدید، ثبت اطلاعات الزامی بوه.
+Formal Professional,نتیجه آزمایش فردا اعلام بَوّه.
+Formal Professional,درخواست شِما در حال بررسی بوه.
+Formal Professional,لطفاً فرم ره کامل پر هاکنید.
+Idioms Proverbs,او مثل ماهی دریا ره خوب شناسه.
+Idioms Proverbs,این کار مثل آب خوردن آسونه.
+Idioms Proverbs,دلش مثل دریا گنده بوه.
+Idioms Proverbs,او همیشه دو دِل بوه.
+Idioms Proverbs,کار امروز ره به فردا ننداز.
+Idioms Proverbs,آدم باید به قولش وفا هاکنه.
+Idioms Proverbs,وقت طلا بوه.
+Idioms Proverbs,صبر تلخه ولی میوه‌اش شیرینه.
+Idioms Proverbs,هرکه بکارده، همان ره درو هاکنه.
+Idioms Proverbs,دوستی واقعی در سختی معلوم بوه.
+Question Answer,ساری مرکز کدام استان بوه؟
+Question Answer,بهترین زمان سفر به مازندران چه وقت بوه؟
+Question Answer,چرا هوا امروز اینقدر گرم بوه؟
+Question Answer,تو امروز چه کاری انجام هادی؟
+Question Answer,چگونه می‌توانم این برنامه ره نصب هاکنم؟
+Question Answer,آیا این رستوران غذای محلی داره؟
+Question Answer,چند ساعت طول کشه تا به دریا برسیم؟
+Question Answer,نظر تو درباره این کتاب چیست؟
+Question Answer,چرا مردم اینجا زود بیدار بَوّن؟
+Question Answer,آیا فردا باران بارنه؟
+Commands Instructions,در ره ببند.
+Commands Instructions,لطفاً چراغ ره روشن هاکن.
+Commands Instructions,این متن ره با دقت بخان.
+Commands Instructions,به موقع به جلسه بیا.
+Commands Instructions,کتاب ره روی میز بگذار.
+Commands Instructions,این فایل ره ذخیره هاکن.
+Commands Instructions,به مهمانان خوشامد بگو.
+Commands Instructions,دست‌هایت ره بشور.
+Commands Instructions,صدای موسیقی ره کم هاکن.
+Commands Instructions,این کار ره امروز تمام هاکن.
+NER Data,من دیروز در ساری با علی دیدار هاکردم.
+NER Data,دانشگاه مازندران در بابلسر قرار داره.
+NER Data,جشن نوروز در ایران بسیار مهم بوه.
+NER Data,شرکت ایران‌خودرو خودروهای زیادی تولید هاکنه.
+NER Data,او در تهران زندگی هاکنه.
+NER Data,مریم در بیمارستان شفا کار هاکنه.
+NER Data,مسابقه در ورزشگاه آزادی برگزار بَوّه.
+NER Data,کنفرانس علمی در دانشگاه تهران برگزار بَوّه.
+NER Data,کتاب ره از کتابخانه ملی گرفتم.
+NER Data,جلسه در اداره آموزش و پرورش برگزار بَوّه.
+Sentiment Analysis,این فیلم واقعاً عالی بوه.
+Sentiment Analysis,من از رفتار او ناراحت بَییم.
+Sentiment Analysis,امروز روز خیلی خوبی بوه.
+Sentiment Analysis,این غذا اصلاً خوشمزه نیه.
+Sentiment Analysis,من از دیدن تو خیلی خوشحال بَییم.
+Sentiment Analysis,او از نتیجه کارش راضی نیه.
+Sentiment Analysis,این مکان آرامش‌بخش بوه.
+Sentiment Analysis,رفتار او واقعاً ناامیدکننده بوه.
+Sentiment Analysis,من به آینده امیدوار بَییم.
+Sentiment Analysis,این تجربه برایم بسیار ارزشمند بوه.
+Paraphrased Augmented,من امروز به بازار ساری رفتم.
+Paraphrased Augmented,امروز من به بازار شهر ساری رفتم.
+Paraphrased Augmented,صبح امروز به بازار ساری سر زدم.
+Paraphrased Augmented,امروز برای خرید به بازار ساری رفتم.
+Paraphrased Augmented,من امروز صبح راهی بازار ساری شدم.
+Paraphrased Augmented,برای خرید امروز به بازار ساری رفتم.
+Paraphrased Augmented,امروز سری به بازار ساری زدم.
+Paraphrased Augmented,من امروز در بازار ساری خرید هاکردم.
+Paraphrased Augmented,امروز به بازار ساری رفتم تا خرید هاکنم.
+Paraphrased Augmented,صبح زود به بازار ساری رفتم.
