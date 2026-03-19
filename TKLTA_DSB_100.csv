@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Ja cytam knigłu kuždy źeń.
+Grammar Core,Wón jo knigłu cytal wčera.
+Grammar Core,Buźoś cytas tu knigłu zjutša.
+Grammar Core,"Bych cytal, gaž bych měł cas."
+Grammar Core,Knjiga se cytajo w šuli.
+Grammar Core,Ja njecytam te knigły.
+Grammar Core,My smy južo cytali ten tekst.
+Grammar Core,Wóni budu cytas knigły w pśichodźe.
+Grammar Core,"Gaž jo déšć, cytam doma."
+Grammar Core,"Wóna by była cytala, ale njamała cas."
+Conversational,"A: Kak se maš? B: Dobrje, a ty?"
+Conversational,A: Co cyniš? B: Cytam nowosći.
+Conversational,"A: Źośo źinsa do města? B: Jo, źośo."
+Conversational,A: Co jo to? B: To jo mój telefon.
+Conversational,A: Když se zetkamy? B: W pjatk wjacor.
+Conversational,"A: Co byś rady jěł? B: Picu, pšosym."
+Conversational,"A: Maš cas? B: Ně, som zaspóźony."
+Conversational,A: Kak było w šuli? B: Wjelgin zajmje.
+Conversational,"A: Słysas? B: Jo, jasnje."
+Conversational,A: Pomóžoš mě? B: Wótpomagam rad.
+Code-Switching,"Ja som busy źinsa, njamam cas."
+Code-Switching,To jo wjelgin cool knigła.
+Code-Switching,Źośo na meeting do města.
+Code-Switching,To jo mój new telefon.
+Code-Switching,Som tired pó źeńu.
+Code-Switching,Wón jo expert za IT.
+Code-Switching,To jo wjelgin important wěc.
+Code-Switching,Źinsa mam online kurs.
+Code-Switching,Wóna jo manager w firmje.
+Code-Switching,My robimy project gromaźe.
+Formal,"Prosym, pósćelśo dokumenty do pjatka."
+Formal,S wašym dowólnjenim bych se spytał na dalšne informacije.
+Formal,Toś ten kontrakt jo pšipšawjony za podpis.
+Formal,Pacient trjeba dalšne lěcbu.
+Formal,Techniski raport pokazujo problem.
+Formal,Firma planujo nowy projekt w regionje.
+Formal,Prosimy wó potwjerdźenje termína.
+Formal,Toś to jo oficielne wuzjawjenje.
+Formal,Meeting buźo se wótměśo zajtra rano.
+Formal,Dokumentacija musy byś dopjelny.
+Idioms,Wón ma złotne ruki.
+Idioms,Wóna ma głowu na swójim městnje.
+Idioms,To jo kapka w móru.
+Idioms,Wón jo ako ryba w wodźe.
+Idioms,Źeń jo dłujki ako tydźeń.
+Idioms,Wóna jo ako słón w porcelanje.
+Idioms,Wón ma srce ze złota.
+Idioms,To jo stara pśipowěsć.
+Idioms,Wóna groni mjed a mloko.
+Idioms,Wón jo pśi swójich mysłach.
+QA,Co jo twóje mě? Mójo mě jo Jan.
+QA,Źo jo šula? Šula jo w městje.
+QA,Když jo meeting? Meeting jo w pjatk.
+QA,Co cyniš? Cytam knigłu.
+QA,Kak se maš? Mam se derje.
+QA,Źo bydliš? Bydlim w Chóśebuzu.
+QA,Co jěš? Jěm wěcórju.
+QA,Kak jo wětr? Jo zimny.
+QA,Co planujoš? Planiju wótpocnyś.
+QA,Źo źośo? Źośo do doma.
+Commands,Zacyni duri!
+Commands,Pśinjas knigłu!
+Commands,Cytaj toś ten tekst!
+Commands,Piš list!
+Commands,Posłuchaj mě!
+Commands,Źi domoj!
+Commands,Njecyni to!
+Commands,Pśipšaw jědło!
+Commands,Wobglědaj to!
+Commands,Zawołaj mě!
+NER,Jan jo šel do Chóśebuza w 2024.
+NER,Maria źěła w firmje Siemens.
+NER,Berlin jo głowne město Nimskeje.
+NER,Uniwersita w Lipsku jo stara.
+NER,Tesla jo znata firma.
+NER,Łužyca jo region w Nimskej.
+NER,Amazon jo wjelika kompanija.
+NER,Angela Merkel jo była kanclerka.
+NER,Spreewald jo znaty kraj.
+NER,Google jo technologiska firma.
+Sentiment,Som wjelgin wjasoły źinsa.
+Sentiment,To jo smutny źeń.
+Sentiment,Lubiśo toś ten film.
+Sentiment,Njelubiśo toś tu knigłu.
+Sentiment,To jo wjelgin rědny wobraz.
+Sentiment,Som zły na to.
+Sentiment,Wóna jo spokójna.
+Sentiment,Wón jo wjelgin radostny.
+Sentiment,To jo strasny problem.
+Sentiment,Som spokojny z wósadkom.
+Paraphrase,Ja cytam knigłu. / Ja som pśi cytanju knigły.
+Paraphrase,Wón źo do šule. / Wón se wótprawja do šule.
+Paraphrase,Wóna jě jabłko. / Wóna konsuměrujo jabłko.
+Paraphrase,My źośo domoj. / My se wrośimy domoj.
+Paraphrase,Wón spi. / Wón jo w spánju.
+Paraphrase,Wóna piśo kawu. / Wóna pije kawu.
+Paraphrase,Ja pišom list. / Ja se zaběram z pisanjom lista.
+Paraphrase,Wóni graju. / Wóni se bawja.
+Paraphrase,Źeń jo chódny. / Wětr jo zimny.
+Paraphrase,To jo dobre. / To jo wjelgin derje.
