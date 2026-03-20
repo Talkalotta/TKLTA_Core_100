@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Io apo fattu su traballu in tempus.
+Grammar Core,No ando a su mercau oi.
+Grammar Core,Domani ando a visitai sos amigus.
+Grammar Core,"Si tenessi tempus, leggessi prus libros."
+Grammar Core,Sa domo est istada cunstruita in su 1900.
+Grammar Core,Nosu amus cantadu in sa festa.
+Grammar Core,Issu non b'at a benni.
+Grammar Core,Deo soe istende imparende su sardu.
+Grammar Core,Custu libru est istadu iscrittu dae unu autore famosu.
+Grammar Core,"Si andas, nci torraus prus tardu."
+Conversational Data,"A: Cumenti ses? B: Soe beni, gràtzias."
+Conversational Data,A: Ite ses faghende? B: Soe traballende.
+Conversational Data,"A: Andamus a su bar? B: Eja, imoi benzo."
+Conversational Data,A: T'as praxidu su film? B: Meda!
+Conversational Data,A: A ue ses andadu? B: A Casteddu.
+Conversational Data,A: A ite ora benis? B: A sas otto.
+Conversational Data,"A: Boles unu cafè? B: Eja, gràtzias."
+Conversational Data,A: Custa est sa prima borta tua? B: Eja.
+Conversational Data,"A: Ses prontu? B: Eja, andamus."
+Conversational Data,A: Ite pensas de custu? B: Est interessante.
+Code-Switching,Oe vado a su meeting cun su team.
+Code-Switching,Appo finidu su project e est ready.
+Code-Switching,Andamus a su beach pro relaxai.
+Code-Switching,Custu est very important pro nosu.
+Code-Switching,Devo checkare sa mail imoi.
+Code-Switching,Est unu good idea pro su business.
+Code-Switching,Faghemi unu call a Maria.
+Code-Switching,Su system est down oe.
+Code-Switching,"Ajo, let’s go a su mercau."
+Code-Switching,Custu est troppo complicadu.
+Formal Speech,Si prega de compilare su modulu allegadu.
+Formal Speech,Sa riunione at a cumintzai a sas deghe.
+Formal Speech,Custu documentu est riservadu.
+Formal Speech,"Pro piacere, confirmade sa presenza."
+Formal Speech,Sa lege est aplicada in totu su territoriu.
+Formal Speech,Su paziente est istadu visitadu oe.
+Formal Speech,Est netzessariu respetare sas normas.
+Formal Speech,Sa proposta est istada approvada.
+Formal Speech,Su sistema informaticu est aggiornadu.
+Formal Speech,Si richiedet una risposta urgente.
+Idioms,Est comente su bentu: non si bidet ma si sentit.
+Idioms,"Chie no arriscat, no guadagnat."
+Idioms,Est tardu comente su sole in idda.
+Idioms,Faeddat meda ma non faghet nudda.
+Idioms,Est duru comente pedra.
+Idioms,Andat a passu de lumaca.
+Idioms,Tenet su fogu in su coro.
+Idioms,Est lebiu comente una pena.
+Idioms,"Non b'at pressa, ma arrivat."
+Idioms,Est comente pischina sena abba.
+QA,Ue est sa biblioteca? Est in su centru.
+QA,A ite ora oberit su negoziu? A sas noe.
+QA,Chie est su presidente? Est elettu dae su populu.
+QA,Pro ite servit custu? Pro imparai.
+QA,Comente si faghet custu piattu? Cun ingredientes simples.
+QA,Ue andas? A traballu.
+QA,Ite boles? Unu cafè.
+QA,Pro ite est importante su sardu? Pro sa cultura.
+QA,Comente ses imparende? Cun pratica.
+QA,Est difìtzile? Non meda.
+Commands,Abbi su libru.
+Commands,Serra sa gianna.
+Commands,Anda a cumprende su pane.
+Commands,Iscrie custu.
+Commands,Ascurta cun atentzione.
+Commands,Faghe su traballu.
+Commands,Nara sa beridade.
+Commands,Torra imoi.
+Commands,Non faeddare.
+Commands,Agata una solutzione.
+NER,Casteddu est sa capitale de sa Sardigna.
+NER,Maria est andada a Nùgoro.
+NER,Su 2020 est istadu unu annu diffìtzile.
+NER,L'Universidade de Casteddu est famosa.
+NER,Giovanni est duttore in Sassari.
+NER,Sa festa est su 15 de austu.
+NER,Roma est in Italia.
+NER,Amazon est una azienda manna.
+NER,Su Monte Limbara est altu.
+NER,Paolo est nadu in Olbia.
+Sentiment,Soe meda cuntentu oe.
+Sentiment,Custu est terribile.
+Sentiment,Mi praxet custu logu.
+Sentiment,Non mi piaget pro nudda.
+Sentiment,Est una bellissima die.
+Sentiment,Soe tristu pro custu.
+Sentiment,Custu est fantastico!
+Sentiment,"Non est malu, ma podet mellorai."
+Sentiment,Soe arrabiadu pro sa situatzione.
+Sentiment,Mi sento in pàche.
+Paraphrased,Deo ando a su mercau.
+Paraphrased,Deo mi movo a su mercau.
+Paraphrased,Deo mi dirigo a su mercau.
+Paraphrased,Deo so andende a su mercau.
+Paraphrased,Deo apo intentzione de andai a su mercau.
+Paraphrased,Est deo chi ando a su mercau.
+Paraphrased,Deo benzo a su mercau.
+Paraphrased,Deo mi preparo pro su mercau.
+Paraphrased,Deo ando subitu a su mercau.
+Paraphrased,Deo passu dae su mercau.

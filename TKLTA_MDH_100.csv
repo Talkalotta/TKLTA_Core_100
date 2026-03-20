@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Minibpasan ako sa palaw a inka.
+Grammar Core,Mapakay ako sa merkado kagiya.
+Grammar Core,Makatunog ako sa Qur’an buwas.
+Grammar Core,Di ako makainom sa kapi.
+Grammar Core,Inumpasan so inkanin sa mama.
+Grammar Core,Pipiya so ginawa ko a proyekto.
+Grammar Core,Makasulat ako sa surat kung ipamasa.
+Grammar Core,Minamagana ako sa opisina adlaw-adlaw.
+Grammar Core,Mapatay so kandila kung di kabantayan.
+Grammar Core,Makatabang ako kagiya kung tinawag ako.
+Conversational Data,"Aya, ngain ka pe?"
+Conversational Data,"Pe ko sa merkado, ikaw?"
+Conversational Data,"Mapiya a adlaw, kumusta ka?"
+Conversational Data,"Mapiya met, salamat sa pakatanong."
+Conversational Data,"Kagiya, nakita ko seka sa plasa."
+Conversational Data,"O, totoo yan, naglakaw kami ro’n."
+Conversational Data,Ngain kita magkita buwas?
+Conversational Data,Sa masjid kita magkita.
+Conversational Data,"Sige, kita-kita ta buwas."
+Conversational Data,"Salamat, ingat ka."
+Code-Switching,Mag-meeting kami buwas sa opisina.
+Code-Switching,Nag-submit ako sa report ko kagiya.
+Code-Switching,Kailangan ta mag-plan para sa event.
+Code-Switching,Pwede ka ba mag-join sa team?
+Code-Switching,Naka-schedule na so training namu.
+Code-Switching,Nag-check ako sa email ko kanina.
+Code-Switching,Mag-start na so program bukas.
+Code-Switching,Nag-update ako sa system today.
+Code-Switching,Mag-review kita sa project details.
+Code-Switching,Naka-approve na so request mo.
+Formal & Professional,Ikaw na kapipiyaan na ipagbigay-alam ko sa inka so resulta.
+Formal & Professional,Mapiya a pakipag-ugnayan sa opisina para sa detalye.
+Formal & Professional,Kailangan so kumpletong dokumento bago maaprubahan.
+Formal & Professional,So pasyente na kailangan sa agarang atensyon.
+Formal & Professional,So kontrata na dapat sundin ng dalawang panig.
+Formal & Professional,Mapiya a isumite so aplikasyon bago sa deadline.
+Formal & Professional,So ulat na naglalaman sa teknikal na pagsusuri.
+Formal & Professional,So proseso na dapat sundan ng lahat.
+Formal & Professional,Kailangan so malinaw na komunikasyon sa organisasyon.
+Formal & Professional,So pag-aaral na nakatuon sa agham at teknolohiya.
+Idioms & Proverbs,Madakel a tubig so linampasan na niya.
+Idioms & Proverbs,Aya kabaya na makapantag sa mata.
+Idioms & Proverbs,Mapiya so liyu a panaw na may layun.
+Idioms & Proverbs,Di na makasugat so baras sa kahoy.
+Idioms & Proverbs,Matabang so puso na tao.
+Idioms & Proverbs,Makasulod sa isip na mapiya a aral.
+Idioms & Proverbs,Aya pagkapantag sa langit so kaligayahan.
+Idioms & Proverbs,Mapiya so kapagon na may bunga.
+Idioms & Proverbs,Di makapantag sa dalan so ginawa.
+Idioms & Proverbs,Makasabot ka sa liyu a kahimtangan.
+Question-Answer,Ngain so merkado? Sa sentro ito.
+Question-Answer,Ano so oras? Alas dyes na.
+Question-Answer,Sino so guro? Si Ahmad.
+Question-Answer,Kailan so klase? Buwas pa.
+Question-Answer,Bakit ka naglakaw? Para magpalit.
+Question-Answer,Ano so pagkain? Inkanin at isda.
+Question-Answer,Ngain ka nakatira? Sa Cotabato.
+Question-Answer,Ano so trabaho mo? Guro ako.
+Question-Answer,Sino so kaibigan mo? Si Ali.
+Question-Answer,Bakit mahalaga so edukasyon? Para sa kinabukasan.
+Commands & Instructions,Lakaw ka na sa merkado.
+Commands & Instructions,Isulat mo so pangalan mo.
+Commands & Instructions,Basa ka sa libro.
+Commands & Instructions,Tumindog ka dito.
+Commands & Instructions,Umupo ka dyan.
+Commands & Instructions,Ihatid mo so sulat.
+Commands & Instructions,Buksan mo so pinto.
+Commands & Instructions,Isara mo so bintana.
+Commands & Instructions,Tumawag ka sa ina mo.
+Commands & Instructions,Mag-aral ka mabuti.
+NER Data,Si Ahmad ay taga-Cotabato City.
+NER Data,So Bangsamoro ay rehiyon sa Mindanao.
+NER Data,Naglakaw kami sa Rio Grande de Mindanao.
+NER Data,So eskwelahan na Notre Dame University ay sikat.
+NER Data,Si Amina ay ipinanganak noong 2005.
+NER Data,So Eid al-Fitr ay mahalagang okasyon.
+NER Data,Nagpunta kami sa Davao City kagiya.
+NER Data,So organisasyon na BARMM ay mahalaga.
+NER Data,Si Sultan Kudarat ay kilalang lider.
+NER Data,So Mayo 1 ay Araw ng Paggawa.
+Sentiment Analysis,Masaya ako sa resulta.
+Sentiment Analysis,Malungkot ako sa balita.
+Sentiment Analysis,Mapiya so pakiramdam ko ngayon.
+Sentiment Analysis,Aya ako nalipay sa nangyari.
+Sentiment Analysis,Natutuwa ako sa regalo.
+Sentiment Analysis,Nababahala ako sa sitwasyon.
+Sentiment Analysis,Mapiya so serbisyo nila.
+Sentiment Analysis,Masama so karanasan ko.
+Sentiment Analysis,Wala akong pakialam.
+Sentiment Analysis,Mapiya so adlaw ko.
+Paraphrased Sentences,Lakaw ako sa merkado.
+Paraphrased Sentences,Pumunta ako sa pamilihan.
+Paraphrased Sentences,Naglakaw ako papunta sa tindahan.
+Paraphrased Sentences,Umalis ako para bumili.
+Paraphrased Sentences,Nagpunta ako para magpalit.
+Paraphrased Sentences,Ako ay papunta sa merkado.
+Paraphrased Sentences,Naglakad ako sa sentro.
+Paraphrased Sentences,Papunta ako sa tindahan.
+Paraphrased Sentences,Ako ay bumili sa merkado.
+Paraphrased Sentences,Nagpunta ako roon para mamili.
