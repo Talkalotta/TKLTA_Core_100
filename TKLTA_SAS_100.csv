@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Tiang mangan nasi.
+Grammar Core,Tiang sampun mangan nasi.
+Grammar Core,Tiang bakal mangan nasi.
+Grammar Core,Tiang seng mangan nasi.
+Grammar Core,Nasi niki kemangan olih tiang.
+Grammar Core,"Lamun tiang puniki mangan, tiang wareg."
+Grammar Core,Tiang sedang mangan nasi.
+Grammar Core,Tiang baru bae mangan nasi.
+Grammar Core,Tiang belum mangan nasi.
+Grammar Core,Tiang harus mangan nasi.
+Conversational,"A: Pira kabar side? B: Sae, matur tampiasih."
+Conversational,A: Side lalo kembe? B: Tiang lalo pasar.
+Conversational,A: Niki ape? B: Niki jaje tradisional.
+Conversational,A: Kenapa side telat? B: Jalan macet.
+Conversational,A: Begawe ape side? B: Tiang guru.
+Conversational,A: Meli ape? B: Meli sayur.
+Conversational,A: Side tinggal mbe? B: Tiang tinggal Mataram.
+Conversational,A: Sudah mangan? B: Sampun.
+Conversational,A: Mau lalo kembe? B: Lalo sekolah.
+Conversational,A: Jam pira? B: Jam telu.
+Code Switching,Tiang lagi kerja di office.
+Code Switching,Side sudah submit tugas niki?
+Code Switching,Meeting niki bakal mulai jam sepuluh.
+Code Switching,Tiang order makanan online.
+Code Switching,Project niki penting banget.
+Code Switching,Side harus login dulu.
+Code Switching,Deadline tugas niki besok.
+Code Switching,Tiang cek email sak lek.
+Code Switching,System niki error.
+Code Switching,Tiang update data niki.
+Formal,Tiang nyuwun pangaksama ring gangguan niki.
+Formal,Rapat niki dilaksanayang jam pitu.
+Formal,Dokumen niki perlu diperiksa ulang.
+Formal,Pasien niki butuh perawatan lanjut.
+Formal,Kontrak niki sah secara hukum.
+Formal,Tiang matur nuhun atas kerjasama niki.
+Formal,Permohonan niki disetujui.
+Formal,Data niki bersifat rahasia.
+Formal,Tim niki akan evaluasi hasil.
+Formal,Keputusan niki final.
+Idioms,"Mate raga, urip rasa."
+Idioms,Bau angin.
+Idioms,Kena panas.
+Idioms,Lemah lembut ati.
+Idioms,Sakit ati.
+Idioms,Berat tangan.
+Idioms,Ringan tangan.
+Idioms,Panas ati.
+Idioms,Tutup mata.
+Idioms,Buka mata.
+QA,Apa arti jaje? Jaje artinya makanan ringan.
+QA,Side tinggal mbe? Tiang tinggal Lombok.
+QA,Kenapa penting belajar? Supaya pintar.
+QA,Apa fungsi sekolah? Untuk belajar.
+QA,Apa itu budaya? Warisan tradisi.
+QA,Kenapa kerja? Untuk penghasilan.
+QA,Apa makanan khas? Ayam taliwang.
+QA,Apa itu bahasa? Alat komunikasi.
+QA,Kenapa sehat penting? Supaya kuat.
+QA,Apa tujuan hidup? Untuk berkembang.
+Commands,Tulung buka pintu niki.
+Commands,Ambil buku niki.
+Commands,Tulis jawaban niki.
+Commands,Dengek dengan baik.
+Commands,Jangan ribut.
+Commands,Datang tepat waktu.
+Commands,Bersihkan meja niki.
+Commands,Ikuti aturan niki.
+Commands,Periksa tugas niki.
+Commands,Segera kumpul.
+NER,Tiang tinggal ring Mataram.
+NER,Side lalo ke Lombok Timur.
+NER,Acara niki tanggal 10 Januari.
+NER,Nama tiang Ahmad.
+NER,Sekolah niki SMA 1 Mataram.
+NER,Perusahaan niki PT Sasak Jaya.
+NER,Tiang lahir tahun 2000.
+NER,Festival Bau Nyale terkenal.
+NER,Gunung Rinjani indah.
+NER,Bandara Lombok ramai.
+Sentiment,Tiang senang banget.
+Sentiment,Tiang sedih hari niki.
+Sentiment,Tiang puas dengan hasil.
+Sentiment,Tiang kecewa.
+Sentiment,Perasaan tiang campur.
+Sentiment,Tiang marah.
+Sentiment,Tiang bangga.
+Sentiment,Tiang takut.
+Sentiment,Tiang tenang.
+Sentiment,Tiang gugup.
+Paraphrase,Tiang nuju makan nasi.
+Paraphrase,Tiang nedha nasi.
+Paraphrase,Tiang dahar nasi.
+Paraphrase,Tiang makan nasi.
+Paraphrase,Tiang lagi makan nasi.
+Paraphrase,Tiang sedang nedha nasi.
+Paraphrase,Tiang sampun makan nasi.
+Paraphrase,Tiang sudah nedha nasi.
+Paraphrase,Tiang baru makan nasi.
+Paraphrase,Tiang habis makan nasi.
