@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Kuv noj mov txhua hnub.
+Grammar Core,Nws tau mus kawm nag hmo.
+Grammar Core,Peb yuav mus ncig teb chaws tag kis.
+Grammar Core,Kuv tsis nyiam haus kas fes.
+Grammar Core,Lub tsev ntawd raug tsim xyoo tas los.
+Grammar Core,"Yog kuv muaj sijhawm, kuv yuav pab koj."
+Grammar Core,Nws tab tom sau ntawv rau nws niam.
+Grammar Core,Peb tsis tau pom nws ntev lawm.
+Grammar Core,Kuv twb ua tiav kuv txoj haujlwm lawm.
+Grammar Core,Lawv yuav tsis tuaj yog tias nag los.
+Conversational,Koj nyob li cas hnub no?
+Conversational,"Kuv nyob zoo heev, ua tsaug rau koj."
+Conversational,Peb mus noj mov ua ke puas tau?
+Conversational,"Zoo mas, peb mus thaum tav su."
+Conversational,Koj puas tau ua koj txoj haujlwm tiav lawm?
+Conversational,"Tsis tau, kuv tseem ua nyob."
+Conversational,"Ua li mas, kuv yuav tos koj."
+Conversational,Koj xav mus saib movie los?
+Conversational,"Tau kawg, kuv nyiam heev."
+Conversational,Peb sib ntsib thaum 6 teev tsaus ntuj.
+Code-Switching,Kuv mus work hnub no lig heev.
+Code-Switching,Nws yuav join peb meeting tag kis.
+Code-Switching,Koj puas tau check koj email?
+Code-Switching,Peb yuav schedule ib lub sijhawm tshiab.
+Code-Switching,Kuv nyiam kawm online classes.
+Code-Switching,Nws yog ib tug good leader heev.
+Code-Switching,Koj xav download qhov app no?
+Code-Switching,Peb muaj deadline hnub Friday.
+Code-Switching,Kuv yuav submit kuv project hnub no.
+Code-Switching,Nws tab tom attend ib lub conference.
+Formal,Thov koj xa cov ntaub ntawv no rau kuv ua ntej hnub kawg.
+Formal,Peb lub tuam txhab npaj yuav nthuav dav xyoo tom ntej.
+Formal,Tus neeg mob xav tau kev kho mob tam sim.
+Formal,Cov ntaub ntawv no yog kev cai lij choj yuav tsum khaws cia.
+Formal,Peb thov kom koj ua raws li cov txheej txheem no.
+Formal,Qhov project no yuav tsum tau tshuaj xyuas kom meej.
+Formal,Peb xav teem sijhawm sib tham txog kev lag luam.
+Formal,Cov ntaub ntawv yuav tsum raug tiv thaiv kom zoo.
+Formal,Thov sau npe ua ntej tuaj koom kev cob qhia.
+Formal,Peb tab tom txhim kho kev siv tshuab tshiab.
+Idioms,Nws ua haujlwm ib yam li tus ntsaum khwv noj.
+Idioms,Tsis txhob ua li tus dev tom pob txha qub.
+Idioms,Koj hais lus zoo li dej ntws.
+Idioms,Nws muaj siab ntev zoo li roob.
+Idioms,Kuv lub siab dhia zoo li nplaim taws.
+Idioms,Nws coj li tus qaib tsis muaj taub hau.
+Idioms,Koj txawj hais lus ua rau neeg luag.
+Idioms,Nws ua siab loj zoo li tsov.
+Idioms,Kuv xav tias kuv nyob saum ntuj lawm.
+Idioms,Nws lub siab tawv zoo li pob zeb.
+QA,Koj lub npe hu li cas?
+QA,Kuv lub npe hu ua Nplooj.
+QA,Koj nyob qhov twg?
+QA,Kuv nyob hauv nroog Saint Paul.
+QA,Koj ua haujlwm dab tsi?
+QA,Kuv ua haujlwm ua kws qhia ntawv.
+QA,Koj nyiam dab tsi?
+QA,Kuv nyiam nyeem ntawv.
+QA,Koj hnub nyoog pes tsawg?
+QA,Kuv muaj 25 xyoo.
+Commands,Qhib lub qhov rooj.
+Commands,Thov zaum ntawm no.
+Commands,Mus nqa dej los.
+Commands,Tsis txhob kov qhov ntawd.
+Commands,Saib xyuas tus me nyuam.
+Commands,Sau koj lub npe rau daim ntawv.
+Commands,Mloog zoo thaum kuv hais.
+Commands,Mus kawm kom siab.
+Commands,Hu rau kuv thaum koj tuaj txog.
+Commands,Kaw lub teeb thaum koj tawm.
+NER,Nplooj nyob hauv Saint Paul.
+NER,Xyoo 2020 peb tsiv mus Minnesota.
+NER,Google yog ib lub tuam txhab loj.
+NER,Kuv ntsib Paj Ntxoog nag hmo.
+NER,Peb mus xyuas Mekas lub caij ntuj sov.
+NER,Peb kawm ntawv hauv Central High School.
+NER,Peb mus rau Minneapolis hnub no.
+NER,Kuv yug hnub tim 12 lub Tsib Hlis.
+NER,Peb ua haujlwm rau Microsoft.
+NER,Peb sib ntsib ntawm Mississippi River.
+Sentiment,Kuv zoo siab heev hnub no.
+Sentiment,Kuv chim siab txog qhov ntawd.
+Sentiment,Nws ua rau kuv tu siab.
+Sentiment,Kuv txaus siab rau koj txoj kev pab.
+Sentiment,Qhov no ua rau kuv ntxhov siab.
+Sentiment,Kuv hlub kuv tsev neeg.
+Sentiment,Kuv ntxub kev dag.
+Sentiment,Kuv xav tias zoo kawg nkaus.
+Sentiment,Kuv tsis nyiam qhov no.
+Sentiment,Kuv muaj kev cia siab rau yav tom ntej.
+Paraphrased,Kuv yuav mus tom khw hnub no.
+Paraphrased,Hnub no kuv npaj yuav mus tom khw.
+Paraphrased,Kuv tab tom npaj mus tom khw hnub no.
+Paraphrased,Hnub no kuv yuav mus yuav khoom tom khw.
+Paraphrased,Kuv xav mus tom khw hnub no.
+Paraphrased,Kuv yuav tawm mus tom khw hnub no.
+Paraphrased,Hnub no kuv yuav mus xyuas tom khw.
+Paraphrased,Kuv npaj siab mus tom khw hnub no.
+Paraphrased,Kuv yuav mus tom khw yuav khoom.
+Paraphrased,Hnub no kuv mus tom khw.

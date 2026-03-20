@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,म्यरि दिदी कालि बाजार गइ थी।
+Grammar Core,तू अब खाणु खांण लाग रौ छ।
+Grammar Core,हम कालि देहरादून जामां।
+Grammar Core,ऊ काम नि करि पायो।
+Grammar Core,म्यरु किताब पढ़ी जा रौ छ।
+Grammar Core,तू काणि नि आयो थौ?
+Grammar Core,हमन काम पूरा करि द्यौंलु।
+Grammar Core,ऊ घर बनौण लाग रौ छ।
+Grammar Core,म्यरि आमा खाना बनौंदि छ।
+Grammar Core,"तू अगर पढ़लु, त पास होलु।"
+Conversational,कसि छा तू आज?
+Conversational,"म्यरु दिन ठिक गयो, तेरो कुसि गयो?"
+Conversational,चल चाय पियूं।
+Conversational,तू कत जा रौ छ?
+Conversational,म्यरि भैण घर मै छ।
+Conversational,आज मौसम खूब ठंडो छ।
+Conversational,"तू कालि नि आयो, काणि?"
+Conversational,हम फिल्म देखण जालां।
+Conversational,"थोड़ो रुक, म्यरु काम खतम होण दे।"
+Conversational,"ठीक छ, बाद मै मिलां।"
+Code-Switching,आज म्यरु meeting बहुत important छ।
+Code-Switching,तू lunch खालो कि नि?
+Code-Switching,म्यरु phone switch off छ।
+Code-Switching,हम project पूरा करणा छ।
+Code-Switching,आज office मै काम ज्यादा छ।
+Code-Switching,तू file send कर द्ये।
+Code-Switching,म्यरु boss खुश नि छ।
+Code-Switching,आज छुट्टी cancel हो गई।
+Code-Switching,तू जल्दी reply कर।
+Code-Switching,हम deadline पूरा करां।
+Formal,कृपया आप बैठि जां।
+Formal,म्यरु आवेदन स्वीकार करि दिऊ।
+Formal,आपणु समय देने खातिर धन्यवाद।
+Formal,यह निर्णय महत्वपूर्ण छ।
+Formal,मामलो न्यायालय मै चल रौ छ।
+Formal,रिपोर्ट तैयार करि दी गई छ।
+Formal,कृपया दस्तावेज जमा करां।
+Formal,रोगी की हालत स्थिर छ।
+Formal,प्रक्रिया पूरी करि दी गई छ।
+Formal,आपको सूचित करणा आवश्यक छ।
+Idioms,ऊ त बिलकुल आँख मै धूल झोंकणु छ।
+Idioms,म्यरु दिल खुश हो गयो।
+Idioms,ऊ त हाथ खड़ा करि दीनो।
+Idioms,तू आग मै घी डाल रौ छ।
+Idioms,ऊ कान धरि बैठ गयो।
+Idioms,म्यरु दिमाग घूम गयो।
+Idioms,ऊ पानी-पानी हो गयो।
+Idioms,तू बात को बतंगड़ बनौंदु छ।
+Idioms,ऊ हाथ धो बैठो।
+Idioms,म्यरु मन भर गयो।
+QA,तू कत जा रौ छ? — म्यरु स्कूल जा रौ छ।
+QA,आज तारीख कति छ? — आज दस तारीख छ।
+QA,तू काणि रो रौ छ? — म्यरु खिलौना टूट गयो।
+QA,कौन आयो थौ? — म्यरु दोस्त आयो थौ।
+QA,"तू खाना खालो? — हां, म्य खालो।"
+QA,कसि मौसम छ? — बहुत ठंडो छ।
+QA,तू पढ़ाई करि ली? — अभी नि।
+QA,घर मै कौन छ? — सब छां।
+QA,"तू खुश छा? — हां, बहुत खुश छू।"
+QA,काम पूरा भयो? — अभी चल रौ छ।
+Commands,दरवाजो बंद कर।
+Commands,इकां आ।
+Commands,चुप बैठ।
+Commands,पानी ल्ये आ।
+Commands,जल्दी कर।
+Commands,फोन उठाल।
+Commands,लाइट बंद कर।
+Commands,ध्यान दे।
+Commands,किताब खोल।
+Commands,म्यरि बात सुन।
+NER,म्यरु नाम मोहन सिंह छ।
+NER,हम देहरादून मै रहां।
+NER,गंगा नदी पवित्र छ।
+NER,भारत एक महान देश छ।
+NER,म्यरु स्कूल दून स्कूल छ।
+NER,दिल्ली राजधानी छ।
+NER,कालि 15 अगस्त छ।
+NER,मोदी भारत के प्रधानमंत्री छ।
+NER,केदारनाथ धाम प्रसिद्ध छ।
+NER,हम ऋषिकेश जामां।
+Sentiment,म्यरु दिन बहुत अच्छा गयो।
+Sentiment,म्य दुखी छु।
+Sentiment,ऊ बात सुनि खुशी हुई।
+Sentiment,म्यरु मन खराब छ।
+Sentiment,आज खूब मजा आयो।
+Sentiment,म्य गुस्से मै छु।
+Sentiment,सब कुछ बढ़िया छ।
+Sentiment,म्य निराश छु।
+Sentiment,ऊ बहुत प्यारी छ।
+Sentiment,म्य थक गयो छु।
+Paraphrase,म्य पानी पियूं।
+Paraphrase,म्य जल पियूं।
+Paraphrase,म्य किताब पढ़ूं।
+Paraphrase,म्य पुस्तक पढ़ूं।
+Paraphrase,तू घर जा।
+Paraphrase,तू अपने घर जा।
+Paraphrase,हम खेलां।
+Paraphrase,हम खेलण जालां।
+Paraphrase,ऊ हंस रौ छ।
+Paraphrase,ऊ मुस्कुरा रौ छ।
