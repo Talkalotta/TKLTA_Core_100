@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Naglakad ako kahapon paing eskwelahan.
+Grammar Core,Nagluluto hiya ha kusina yana.
+Grammar Core,Magbaya kami buwas paing Jolo.
+Grammar Core,"Bang aku magkaon, aku maghuwat ha iyo."
+Grammar Core,Indi aku makaadto sabab may sakit aku.
+Grammar Core,Sinurat in surat sin bata.
+Grammar Core,Nag-inum kami sin kape kaina.
+Grammar Core,Magtrabaho siya ha opisina sunod bulan.
+Grammar Core,Indi hiya nagbaya paing merkado.
+Grammar Core,"Pag-abot ko, tapos na in miting."
+Conversational Data,Way in kaw? Maayo ba in adlaw mo?
+Conversational Data,"Maayo aku, salamat. Ikaw, kumusta kaw?"
+Conversational Data,Hain kaw paing yana?
+Conversational Data,Paing aku ha tindahan magpalit sin sud-an.
+Conversational Data,Ayaw kaw kalimot magdala sin kwarta.
+Conversational Data,"Na, mag-upod kaw ba kan aku?"
+Conversational Data,"Pwede, pero sandali la aku mag-andam."
+Conversational Data,Unu in plano ta buwas?
+Conversational Data,Maglakat kita paing baybay magpahangin.
+Conversational Data,"Sige, magkita kita alas sais."
+Code-Switching & Multilingualism,Mag-start na kita sin meeting yana.
+Code-Switching & Multilingualism,Please ayaw kaw kalimot sin assignment mo.
+Code-Switching & Multilingualism,Busy aku today kaya indi aku makaadto.
+Code-Switching & Multilingualism,Mag-submit kaw sin report before Friday.
+Code-Switching & Multilingualism,Nag-order aku sin food online kagina.
+Code-Switching & Multilingualism,Mag-check kita sin schedule later.
+Code-Switching & Multilingualism,Deadline na yana so kinahanglan tapuson.
+Code-Switching & Multilingualism,Mag-update kaw kan aku pinaagi sin email.
+Code-Switching & Multilingualism,Mag-join kaw ha Zoom meeting buwas.
+Code-Switching & Multilingualism,Nag-practice kami sin presentation yesterday.
+Formal & Professional Speech,Bangin mahimo nindo isumite in dokumento ha opisina.
+Formal & Professional Speech,In pasyente kinahanglan hatagan sin tambal adlaw-adlaw.
+Formal & Professional Speech,Ini nga kasabutan ginpirmahan ha duha nga partido.
+Formal & Professional Speech,In kompanya naghatag sin bag-o nga patakaran.
+Formal & Professional Speech,Kinahanglan sundon in protocol ha laboratoryo.
+Formal & Professional Speech,In empleyado gin-awardahan tungod sin iya maayong performance.
+Formal & Professional Speech,In kaso pagahukman sunod semana.
+Formal & Professional Speech,Magpahibalo kami ha publiko sin bag-o nga serbisyo.
+Formal & Professional Speech,In report ginpresentar ha management kahapon.
+Formal & Professional Speech,Kinahanglan mag-register antes magamit in sistema.
+"Idioms, Proverbs & Cultural Expressions","In tawo nga pasensyoso, makakaangkon sin kaayuhan."
+"Idioms, Proverbs & Cultural Expressions","Bang maghuwat kaw, may bunga in kahago mo."
+"Idioms, Proverbs & Cultural Expressions","In dili marunong magbalik, indi marunong magpasalamat."
+"Idioms, Proverbs & Cultural Expressions","In kinabuhi parang dagat, may kalinaw kag may bagyo."
+"Idioms, Proverbs & Cultural Expressions","In tawo nga mapinadayunon, makakaabot ha tumong."
+"Idioms, Proverbs & Cultural Expressions","In dila parang kutsilyo, makasakit bisan wala dugo."
+"Idioms, Proverbs & Cultural Expressions","In oras parang bulawan, indi dapat sayangon."
+"Idioms, Proverbs & Cultural Expressions",In maayong binuhatan magabalik ha imo.
+"Idioms, Proverbs & Cultural Expressions","In tawo nga may paglaum, indi mawawalan sin dalan."
+"Idioms, Proverbs & Cultural Expressions","In pagkakaibigan parang tanom, kinahanglan alagaan."
+Question-Answer Pairs,Unu in ngaran mo?
+Question-Answer Pairs,In ngaran ko si Ahmad.
+Question-Answer Pairs,Hain kaw nagpuyo?
+Question-Answer Pairs,Nagpuyo aku ha Jolo.
+Question-Answer Pairs,Kay anu ka nag-eskwela?
+Question-Answer Pairs,Para magkaadun sin maayong kinabukasan.
+Question-Answer Pairs,San-u in miting?
+Question-Answer Pairs,Buwas alas nuebe.
+Question-Answer Pairs,Unu in paborito mo nga pagkaon?
+Question-Answer Pairs,In paborito ko in tiyula itum.
+Commands & Instructions,Isira in purtahan.
+Commands & Instructions,Dala-a in libro diri.
+Commands & Instructions,Pagdali kay mahuli kita.
+Commands & Instructions,Pahuway anay kaw.
+Commands & Instructions,Tagai hiya sin tubig.
+Commands & Instructions,Ayaw pag-ingay.
+Commands & Instructions,Sunod ha instruksiyon.
+Commands & Instructions,Tan-awa in bata.
+Commands & Instructions,Iandam in pagkaon.
+Commands & Instructions,Tawaga in doktor.
+Named Entity Recognition,Si Abdul nagbaya paing Jolo kahapon.
+Named Entity Recognition,In meeting ginbuhat ha Zamboanga City.
+Named Entity Recognition,Natawu hiya ha Sulu han 2001.
+Named Entity Recognition,In kumpanya ABC Corporation nagbukas bag-o nga branch.
+Named Entity Recognition,Nag-eskwela hiya ha Mindanao State University.
+Named Entity Recognition,In fiesta ha Jolo ginselebrar han Agosto.
+Named Entity Recognition,Si Fatima nagtrabaho ha Department of Health.
+Named Entity Recognition,In eroplano paing Manila naglupad alas dose.
+Named Entity Recognition,Nagkita kami ha Plaza Rizal.
+Named Entity Recognition,In proyekto ginponduhan sin United Nations.
+Sentiment Analysis,Masaya aku yana tungod sin maayong balita.
+Sentiment Analysis,Malungkot hiya kay nawala in iya amigo.
+Sentiment Analysis,Nasuko aku tungod sin imo ginbuhat.
+Sentiment Analysis,Nalipay kami ha resulta sin proyekto.
+Sentiment Analysis,Nahadlok in bata ha kusog nga kilat.
+Sentiment Analysis,Kontento aku ha kinabuhi ko yana.
+Sentiment Analysis,Nabudlayan hiya ha trabaho niya.
+Sentiment Analysis,Excited aku magbaya buwas.
+Sentiment Analysis,Nadismaya kami ha serbisyo.
+Sentiment Analysis,Nahimuot aku ha imo tabang.
+Paraphrased & Augmented,Naglakad ako paing merkado.
+Paraphrased & Augmented,Nagbaya ako paing merkado.
+Paraphrased & Augmented,Paing aku ha merkado maglakad.
+Paraphrased & Augmented,Nag-adto ako ha merkado.
+Paraphrased & Augmented,Magbaya ako ha merkado yana.
+Paraphrased & Augmented,Paing aku ha merkado yana.
+Paraphrased & Augmented,Aku in naglakad paing merkado.
+Paraphrased & Augmented,Aku in nag-adto ha merkado.
+Paraphrased & Augmented,Maglakad aku paing merkado.
+Paraphrased & Augmented,Nagbaya aku ha merkado yana.
