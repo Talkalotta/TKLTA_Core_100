@@ -1,6 +1,6 @@
 # TKLTA Core 100
 
-Kindly find the key for currently available languages and their TKLTA language codes here: https://www.talkalotta.com/languages
+Kindly find the key for languages with currently available datasets and their TKLTA language codes here: https://www.talkalotta.com/languages
 
 ---
 
