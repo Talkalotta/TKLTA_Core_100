@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Nindali ndia ku isoko inyanga yakwe.
+Grammar Core,Ali alikuloma nende omukhasi we.
+Grammar Core,Tukhalaba esinema kumakya.
+Grammar Core,Shibakhanyola okhwinjila omukolo.
+Grammar Core,Omwana yalimibwa nende nyina.
+Grammar Core,Abandu bakhalikulya inyama likholo.
+Grammar Core,Nakhabola eshikalamu shiosi.
+Grammar Core,Omwitsa akhaya okhukhola omulimo.
+Grammar Core,Ifwe shikhuli khurira tawe.
+Grammar Core,Likoli likhandi likhanyoola amatsi.
+Conversational Data,"Wamukhaale, oli otya lelo?"
+Conversational Data,"Endi bulayi, nawe oli otya?"
+Conversational Data,Witsa khumulembe gwa shina?
+Conversational Data,Netsa okhulonda ebitabo esikoloni.
+Conversational Data,Kori nende tsingokho ta?
+Conversational Data,"Yee, tsiri khushikapo."
+Conversational Data,Olalonda okhulya shina olwaleero?
+Conversational Data,Ningenda okhukhwa itumbi nende inyama.
+Conversational Data,Khalabaana inyasaye naliho.
+Conversational Data,"Eeh, khwitsomana kandi lwakundi."
+Code-Switching & Multilingualism,Ndikho office but nditsa okhucha khaya bwangu.
+Code-Switching & Multilingualism,Teacher yambolela okhurevise before exams.
+Code-Switching & Multilingualism,Tuli online meeting kumakya.
+Code-Switching & Multilingualism,Ningenda supermarket okhugura sukari.
+Code-Switching & Multilingualism,Manager alayile report ikhumalike lelo.
+Code-Switching & Multilingualism,Omwana alikhupostinga ebifwani ku Facebook.
+Code-Switching & Multilingualism,Driver yakhwa fuel station lwangu.
+Code-Switching & Multilingualism,Twayingana project eyo khushule.
+Code-Switching & Multilingualism,Nikhafurahi kubanga team yetu yatsinda.
+Code-Switching & Multilingualism,Receptionist yambolele okhwendela waiting room.
+Formal & Professional Speech,Twabasaba mulonde empapula tsenyu khushikalo shia reception.
+Formal & Professional Speech,Omulwayi alinakwo okhumira emiti tsiosi.
+Formal & Professional Speech,Kampani yakhola omukutano gwabachesi.
+Formal & Professional Speech,Abalimi bakafunila obulayi khulwa puloguramu ya serikali.
+Formal & Professional Speech,Esibuli shia khoteli shikhalondwa buli mwaka.
+Formal & Professional Speech,Omusomi yandikha lipoti yebikolelwa.
+Formal & Professional Speech,Abakozi balondokhana nende amateeko ga kampuni.
+Formal & Professional Speech,Dokita yalomalila okhulola abarwali.
+Formal & Professional Speech,Ikooti yakhaya omusango ogwo.
+Formal & Professional Speech,Enjiniya akhalanga ebifwaanikho byeprojekti.
+"Idioms, Proverbs & Cultural Expressions",Omulosi shalilwa tawe.
+"Idioms, Proverbs & Cultural Expressions",Amasika kabili shikabolela omundu omulala.
+"Idioms, Proverbs & Cultural Expressions",Omwana ni witsa wa buli muntu.
+"Idioms, Proverbs & Cultural Expressions",Inyanga ndala shiyikhulila omwana.
+"Idioms, Proverbs & Cultural Expressions",Owulila taafwa tawe.
+"Idioms, Proverbs & Cultural Expressions",Litala limanyibwa khulwa okhulwaana.
+"Idioms, Proverbs & Cultural Expressions",Amatsi shikagalukha khushina.
+"Idioms, Proverbs & Cultural Expressions",Omukhongo kukhila kumurwe.
+"Idioms, Proverbs & Cultural Expressions",Olugendo lukhila nende okhutambula.
+"Idioms, Proverbs & Cultural Expressions",Omundu omulayi amanyibwa khumilimo.
+Question-Answer Pairs,Ni wina wakhola eshikalamu eshi?
+Question-Answer Pairs,Ni nyina wakulanga omwana eshikombe?
+Question-Answer Pairs,Lwaki wabula eshule inyanga yakwe?
+Question-Answer Pairs,Ni lilali mukutano gukhabakho?
+Question-Answer Pairs,Abandu banga batsa omukolo?
+Question-Answer Pairs,Shina shiosi shikhuluma omusomi?
+Question-Answer Pairs,Olina okhuyiina Nairobi ta?
+Question-Answer Pairs,Wakhurera hena obulayi buno?
+Question-Answer Pairs,Ni shina shikhukora embusi okhurira?
+Question-Answer Pairs,Niwina ulabirira eshamba lino?
+Commands & Instructions,Ikhala hasi olinde omukalatsi.
+Commands & Instructions,Bolela abana bakhine omwoyo.
+Commands & Instructions,Gala olwigi nolome bulembi.
+Commands & Instructions,Yikha ebitabo khumeesa.
+Commands & Instructions,Soma eshitabu shiosi tawe.
+Commands & Instructions,Leta amatsi khushikombe shino.
+Commands & Instructions,Kina oluyembo olwo kandi.
+Commands & Instructions,Khwata eshifungulo shikhagwe hasi.
+Commands & Instructions,Tandika omulimo kumangu.
+Commands & Instructions,Hoya embusi mushibira.
+Named Entity Recognition,Wycliffe yatsia Mumias kumalila omukutano.
+Named Entity Recognition,Mary akhasoma khu Maseno University.
+Named Entity Recognition,Abandu ba Kakamega bakhoya omwoyo.
+Named Entity Recognition,Omukasa gukhabakho nga 12 Juni 2025.
+Named Entity Recognition,Safaricom yafungula ofisi imbya Bungoma.
+Named Entity Recognition,Peter yalonda omutoka gwa Toyota.
+Named Entity Recognition,Kisumu nilyo itokho likhongo khubukolwe.
+Named Entity Recognition,UNESCO yakhonya amasomo ga lulimi.
+Named Entity Recognition,Radio Mulembe yakhola interview nende omwimbi.
+Named Entity Recognition,Amina alikhukola khushibitaro shia Moi.
+Sentiment Analysis,Nindakhwa nende esanga nyingi lelo.
+Sentiment Analysis,Omwoyo kwanje kukhurira khulwa eshinyasio esho.
+Sentiment Analysis,Tufurahiile okhunyoola obuyambi.
+Sentiment Analysis,Shindakhonya omukana ogwo tawe.
+Sentiment Analysis,Abana bakhalia khulwa inzala.
+Sentiment Analysis,Yafurahi muno olwa yatsinda.
+Sentiment Analysis,Ningwenda muno omukanda guno.
+Sentiment Analysis,Likambo elyo linyasia abantu.
+Sentiment Analysis,Nikhayikha omwoyo khulwa amakhuwa ako.
+Sentiment Analysis,Twakhola omukolo khubufurahi.
+Paraphrased & Augmented Sentences,Omwana alikhulya itumbi mumwalo.
+Paraphrased & Augmented Sentences,Mumwalo omwana alikhulia itumbi.
+Paraphrased & Augmented Sentences,Abalimi bakharima mumasikha.
+Paraphrased & Augmented Sentences,Mumasikha abalimi bakhalima buli lunaku.
+Paraphrased & Augmented Sentences,Likoli likhenda bwangu khunjila.
+Paraphrased & Augmented Sentences,Khunjila likoli likhalola bwangu.
+Paraphrased & Augmented Sentences,Omukhasi akhalanga ebirya eshilayi.
+Paraphrased & Augmented Sentences,Ebirya ebilayi bikhalangwa nende omukhasi.
+Paraphrased & Augmented Sentences,Abasomi bakhasoma khu library.
+Paraphrased & Augmented Sentences,Khu library abasomi bakhenda okhusoma.
