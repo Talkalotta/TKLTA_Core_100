@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core (Sentence Structures & Tenses),"A gae tae the mercat ilka Setturday, but A didna gang yestreen."
+Grammar Core (Sentence Structures & Tenses),She is learnin Ulster-Scotch the day an will practise again the morn.
+Grammar Core (Sentence Structures & Tenses),We hae wrocht thegither this hale week on a new dictionar.
+Grammar Core (Sentence Structures & Tenses),He had finished his letter afore the postman cam up the loanen.
+Grammar Core (Sentence Structures & Tenses),They wad help the neighbours gin the road were blocked wi snaw.
+Grammar Core (Sentence Structures & Tenses),"The bannocks are baked early, an the table is set for tea."
+Grammar Core (Sentence Structures & Tenses),"A am no sayin the plan is wrang, but it needs mair thought."
+Grammar Core (Sentence Structures & Tenses),Did ye hear the choir singin in the kirk last nicht?
+Grammar Core (Sentence Structures & Tenses),"By nixt Friday, the weans will hae learned ten new words."
+Grammar Core (Sentence Structures & Tenses),Let the gate be shut when the cattle are brocht in frae the fiel.
+Conversational Data (Real-Life Dialogues & Exchanges),"Guid mornin, are ye for a cup o tea afore we start?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Aye, A wud tak yin gladly, for the air is caul this mornin."
+Conversational Data (Real-Life Dialogues & Exchanges),Whit time dae ye think the bus leaves Ballymena station?
+Conversational Data (Real-Life Dialogues & Exchanges),"It leaves at ten past nine, unless the traffic at the Tower Centre hauds it back."
+Conversational Data (Real-Life Dialogues & Exchanges),"Are ye comin tae the match, or hae ye ither wark tae dae?"
+Conversational Data (Real-Life Dialogues & Exchanges),"A canna come the day, but A will hear aa aboot it when ye get hame."
+Conversational Data (Real-Life Dialogues & Exchanges),That was a quare shower; did ye get soaked on the road?
+Conversational Data (Real-Life Dialogues & Exchanges),"Naw, A ducked intae the shop till the rain eased aff."
+Conversational Data (Real-Life Dialogues & Exchanges),Ye hae made a brave job o mendin that aul chair.
+Conversational Data (Real-Life Dialogues & Exchanges),"Thanks, but it still creaks when onybody sits doon ower quick."
+Code-Switching & Multilingualism,"A sent the email in English, but A added an Ulster-Scotch greetin at the end."
+Code-Switching & Multilingualism,"The teacher said bonjour for fun, then asked us tae answer in oor ain tongue."
+Code-Switching & Multilingualism,"Mammy uses Irish place-names sometimes, but she tells the stories in Ulster-Scotch."
+Code-Switching & Multilingualism,"At the office, we say meeting and deadline, yet the crack at lunch is pure hame speech."
+Code-Switching & Multilingualism,"He read the notice in Standard English, then explained it tae his granda in Ulster-Scotch."
+Code-Switching & Multilingualism,"The choir sang a Scots psalm, an the visitors whispered gracias when it was done."
+Code-Switching & Multilingualism,"A typed the command in Python, but the comments were written in plain Ulster-Scotch."
+Code-Switching & Multilingualism,"She said the app was grand, then switched tae French tae help the tourist."
+Code-Switching & Multilingualism,"The wean asked for homework help in English, but counted the sheep in Ulster-Scotch."
+Code-Switching & Multilingualism,"On the group chat, folk mix wee bits o English wi Ulster-Scotch when the topic gets technical."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","Please submit the completed form afore five o’clock, sae the office can process it."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The contract should be read carefully afore ony signature is made.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Your appointment has been moved tae Tuesday mornin at half nine.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The nurse advised him tae tak the tablets wi watter efter his dinner.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The engineer confirmed that the server was restored efter the power fault.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",We appreciate your enquiry an will provide a written response within three warkin days.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",The committee recommends further consultation wi local residents afore approval.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Patients should contact the clinic gin symptoms worsen or new pain appears.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","The invoice includes materials, labour, delivery, an applicable charges."
+"Formal & Professional Speech (Business, Legal, Medical, Technical)","For security, users must change their password an enable twa-factor verification."
+"Idioms, Proverbs & Cultural Expressions",He has a tongue like a bell-clapper when the crack gets lively.
+"Idioms, Proverbs & Cultural Expressions",Dinna sell the coo afore ye hae the calf.
+"Idioms, Proverbs & Cultural Expressions",She was as thrang as a bee gettin the hall ready for the ceilidh.
+"Idioms, Proverbs & Cultural Expressions",It is a saft day when the drizzle lies fine ower the braes.
+"Idioms, Proverbs & Cultural Expressions",There is nae use cryin ower spilt milk when the job can still be fixed.
+"Idioms, Proverbs & Cultural Expressions","He would gie ye the shirt aff his back, an never count the cost."
+"Idioms, Proverbs & Cultural Expressions",The news went roon the town quicker nor a hare through stubble.
+"Idioms, Proverbs & Cultural Expressions","A watched him like a cat watchin cream, for he was up tae mischief."
+"Idioms, Proverbs & Cultural Expressions",Better a wee fire that warms ye nor a big blaze that burns ye.
+"Idioms, Proverbs & Cultural Expressions","When the harvest is in, the heart sits lighter at the hearth."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Q: Whaur can A learn mair Ulster-Scotch? A: Ye can start wi local classes, books, recordings, an daily practice."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Q: Is Ballymena far frae Belfast? A: It is no far by train or car, dependin on traffic an time o day."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Q: Why dae folk use standard orthography? A: It helps readers, teachers, an software handle the language consistently."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Q: Can this sentence be used for sentiment trainin? A: Aye, it shows a clear question an a practical answer."
+Question-Answer Pairs (FAQ & Contextual Understanding),Q: Whit makes a phrase idiomatic? A: Its meanin is mair than the plain meanin o the words.
+Question-Answer Pairs (FAQ & Contextual Understanding),"Q: Should names be kept in NER data? A: Aye, proper names help models recognise people, places, an organisations."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Q: Hou dae ye ask politely for help? A: Say please, explain the task, an thank the person efterwards."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Q: Is code-switchin natural? A: Aye, mony speakers mix languages when topics, audiences, or settings change."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Q: Whit is the best way tae improve fluency? A: Listen often, speak daily, read widely, an note corrections."
+Question-Answer Pairs (FAQ & Contextual Understanding),"Q: Can a model learn frae short sentences? A: Aye, gin the examples are varied, accurate, an well labelled."
+Commands & Instructions (Imperative Sentences),Close the windae afore the rain blows in.
+Commands & Instructions (Imperative Sentences),Write your name clearly at the tap o the page.
+Commands & Instructions (Imperative Sentences),"Read the sentence aloud, then mark the verb."
+Commands & Instructions (Imperative Sentences),Keep the receipts in a folder for the accountant.
+Commands & Instructions (Imperative Sentences),Turn left at the bridge an follow the road tae the kirk.
+Commands & Instructions (Imperative Sentences),Save the file as UTF-8 afore ye upload it.
+Commands & Instructions (Imperative Sentences),Dinna interrupt the speaker while the meeting is in hand.
+Commands & Instructions (Imperative Sentences),Check the cattle gate afore ye leave the yard.
+Commands & Instructions (Imperative Sentences),Send a polite reply tae the customer this afternoon.
+Commands & Instructions (Imperative Sentences),Practise the new words in three short sentences.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Sarah McNeill met Andrew Boyd at Ballymena Academy on 14 March 2026.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",The Ulster-Scots Agency held a workshop in Belfast on Monday mornin.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Dr Helen Moore sent the report tae Antrim Area Hospital afore noon.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",James Agnew travelled frae Larne tae Coleraine for the conference.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Mid and East Antrim Borough Council published the notice on 3 September.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Queen’s University Belfast invited Mark Robinson tae speak at the seminar.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",The train frae Great Victoria Street reached Ballymena at 08:42.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Gracehill Moravian Church welcomed visitors frae Scotland in July.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",The BBC Northern Ireland team interviewed Anna Campbell near the Braid.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)","On 25 December, the McCaughey family gathered in Kells for dinner."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),A am delighted wi the clear sound o the new recording.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),The delayed bus left me frustrated an caul at the stop.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"This lesson feels useful, but the examples could be shorter."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),She was proud when her wean read the story without help.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"A didna enjoy the service, for the staff were careless."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),The quiet walk by the river made him feel calm again.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"That answer seems fair enough, though it misses a wee detail."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),We were worried when the phone rang sae late at nicht.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"The festival was lively, friendly, an worth the journey."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),A feel disappointed that the meeting ended without a decision.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),The farmer shut the byre door afore the wind rose.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Afore the gale strengthened, the byre door was closed by the farmer."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),She bought fresh soda farls at the shop near the square.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Fresh soda farls were bought by her at the shop beside the square.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),The weans played football efter school on the green.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Efter school, the weans had a game o football on the green."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),He explained the new rule clearly tae the volunteers.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),The volunteers were given a clear explanation o the new rule.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),A will phone ye when the parcel arrives at the hoose.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"When the parcel gets tae the hoose, A will gie ye a ring."
