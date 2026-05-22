@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core,Mi yah ca kër ga tey.
+Grammar Core,Mi yahaa ca kër ga démb.
+Grammar Core,Mi hay a yah ca kër ga suba.
+Grammar Core,Mi yahut ca kër ga tey.
+Grammar Core,Mi hayut a yah ca kër ga suba.
+Grammar Core,Mi yahaan ca kër ga su ndox mi wacce.
+Grammar Core,Ɗu yah ca toola ga ci suba si.
+Grammar Core,Koɗa ga ñam na ceeb ci kër ga.
+Grammar Core,Ndox ma ñakk na ci teen ga.
+Grammar Core,Ɓoxum ga ɗif na ci ngoon ga.
+Conversational Data,"A: Naka nga fanaane? B: Jàmm rekk, mi ngi sant."
+Conversational Data,"A: Fan nga jóge? B: Mi jóge ci Thiès, ca wetu marse ga."
+Conversational Data,"A: Ndax nga bëgg ndox? B: Waaw, indil ma tuuti."
+Conversational Data,A: Lan nga def tey? B: Mi liggéey na ci toola ga ba ngoon.
+Conversational Data,"A: Ndax nga dégg sama wax? B: Dégg naa, waaye waxal ndank."
+Conversational Data,"A: Kañ lañu daje? B: Su jant bi soobee, ñu daje."
+Conversational Data,"A: Ana sa yaay? B: Mu ngi ci kër ga, mu togg."
+Conversational Data,"A: Ndax mën nga jàngal ma kàddu gii? B: Waaw, mi koy waxaat."
+Conversational Data,A: Lu tax nga ñëw ci kanam? B: Damaa am xibaar bu am solo.
+Conversational Data,"A: Ndax bëgg nga ànd ak ñun? B: Waaw, jàmm la."
+Code-Switching & Multilingualism,Mi bind na message bi ci téléphone ga.
+Code-Switching & Multilingualism,Xale yi jàng nañu Noon ak français ci klas ga.
+Code-Switching & Multilingualism,Mi upload na fichier bi ngir jàngalekat ba gis ko.
+Code-Switching & Multilingualism,Meeting bi am na ci Zoom waaye wax ji bare na Noon.
+Code-Switching & Multilingualism,Client bi laaj na reçu ci bureau ga.
+Code-Switching & Multilingualism,Mi def na backup ci ordinateur ga bala muy far.
+Code-Switching & Multilingualism,Application bi jox na xibaar ci ndox mi.
+Code-Switching & Multilingualism,Ɓaay bi scan na carte bi ci cyber ga.
+Code-Switching & Multilingualism,Mi check na réseau bi ndax internet bi dafa yàq.
+Code-Switching & Multilingualism,Ñu wara traduire formulaire bi ci Noon.
+Formal & Professional Speech,Jàngalekat ba dafay taxawal njàng mu leer ci klas ga.
+Formal & Professional Speech,Doktoor ba laaj na nit ki mu nettali li ko metti.
+Formal & Professional Speech,Njiit li yégle na ndaje mi ci waxtu wu leer.
+Formal & Professional Speech,Avocat ba bind na bataaxal bu rafet ngir yoon wi.
+Formal & Professional Speech,Teknisyen ba seet na masin ga ndax mu dox bu baax.
+Formal & Professional Speech,Bank bi laaj na kayit yi bala muy ubbi kont bi.
+Formal & Professional Speech,Ndaw li joxe na raport bi ak xayma yu wér.
+Formal & Professional Speech,Ɗu denc nañu dokimaa yi ci arsiif bu aar.
+Formal & Professional Speech,Kilifa gi ñaan na ñépp ñu topp ndigal li.
+Formal & Professional Speech,Jëf ju jub war na nekk ci bépp liggéey.
+"Idioms, Proverbs & Cultural Expressions","Ku muñ, mujj na gis leer."
+"Idioms, Proverbs & Cultural Expressions",Nit nitay garabam ci jamono ju metti.
+"Idioms, Proverbs & Cultural Expressions",Ndank ndank mooy jàpp golo ci ñaay.
+"Idioms, Proverbs & Cultural Expressions","Ku am sutura, am na alal bu dul jeex."
+"Idioms, Proverbs & Cultural Expressions",Jàmm moo gën xaalis bu bare.
+"Idioms, Proverbs & Cultural Expressions","Ku bañ a dégg, dina jàng ci metit."
+"Idioms, Proverbs & Cultural Expressions",Liggéey bu rafet du ñàkk pay.
+"Idioms, Proverbs & Cultural Expressions",Xel mu dal moo gën wax ju bari.
+"Idioms, Proverbs & Cultural Expressions","Ku yàgg ci ndox, xam na mbedd mi."
+"Idioms, Proverbs & Cultural Expressions",Bokk kër du tere nit am xelam.
+Question-Answer Pairs,Q: Fan la ndaje mi nekk? A: Ndaje mi nekk na ci kër-u ndajem dëkk ga.
+Question-Answer Pairs,Q: Kan moo indi xibaar bi? A: Awa moo ko indi ci suba si.
+Question-Answer Pairs,Q: Lan la xale yi jàng tey? A: Ñu jàng nañu kàdduy Noon.
+Question-Answer Pairs,"Q: Ndax ndox mi set na? A: Waaw, ndox mi set na te sedd na."
+Question-Answer Pairs,Q: Kañ lañuy tàmbali liggéey bi? A: Ñu koy tàmbali bu jant bi fenkkee.
+Question-Answer Pairs,Q: Lu tax nga dem marse? A: Damaa bëgg jënd dugub ak diw.
+Question-Answer Pairs,Q: Ana kayit yi? A: Kayit yi nekk nañu ci taabal ga.
+Question-Answer Pairs,"Q: Ndax nit ñi dégg nañu yégle bi? A: Waaw, ñépp dégg nañu ko."
+Question-Answer Pairs,Q: Ñaata xale la jàngalekat bi am? A: Mu am na ñaar-fukki xale.
+Question-Answer Pairs,Q: Lan moo tax masin ga taxaw? A: Essence bi jeex na.
+Commands & Instructions,Ubbi bunt ga ndank.
+Commands & Instructions,Indil ma ndox mu set.
+Commands & Instructions,Bindal turam ci kayit gi.
+Commands & Instructions,Bul wax bu ñépp noppiwul.
+Commands & Instructions,Jàngal xale yi kàddu gii.
+Commands & Instructions,Dencal dokimaa yi ci saaku bi.
+Commands & Instructions,Seetal ndox mi bala nga naan.
+Commands & Instructions,Yégalal njiit li su ndaje mi tàmbalee.
+Commands & Instructions,Joxal ma xaalis bi ak seede bi.
+Commands & Instructions,Defal liggéey bi te bul gaawantu.
+Named Entity Recognition,Awa Sarr dem na Thiès ci altine.
+Named Entity Recognition,Moussa Diop jàng na ci Université Cheikh Anta Diop.
+Named Entity Recognition,Fatou Ndiaye liggéey na ci Dakar ak Orange Sénégal.
+Named Entity Recognition,Ndaje mi am na ci Mbour ci fanweeri weer wi.
+Named Entity Recognition,Radio Sénégal yégle na xibaar bi ci ngoon gi.
+Named Entity Recognition,Ibrahima Faye tukki na Saint-Louis ci weeru me.
+Named Entity Recognition,Marie ak Ousmane daje nañu ca gare bu Thiès.
+Named Entity Recognition,ONU ubbi na ndaje ci New York ci talaata.
+Named Entity Recognition,Kaolack am na marse bu mag ci ayu-bis bi.
+Named Entity Recognition,Association Noon yi daje nañu ci Pambal ngir xew-xew bi.
+Sentiment Analysis,Mi bég na lool ndax liggéey bi sotti na.
+Sentiment Analysis,Xol am metti na ci xibaar bu ñaaw bi.
+Sentiment Analysis,Mi am na yaakaar bu dëgër ci njàng mi.
+Sentiment Analysis,Wax ji metti na ma waaye dëgg la.
+Sentiment Analysis,Mi sant na la ci dimbali bu rafet bi.
+Sentiment Analysis,Ñépp kontaan nañu ci ndaje mi.
+Sentiment Analysis,Mi jaaxle na ndax xaalis bi jotagul.
+Sentiment Analysis,Jëf ji neexul te war nañu ko jubanti.
+Sentiment Analysis,Xale bi tiit na ci kanam nit ñi.
+Sentiment Analysis,Jàmm ji neex na ci kër ga tey.
+Paraphrased & Augmented Sentences,Xale bi jàng na Noon ci klas ga.
+Paraphrased & Augmented Sentences,Ci klas ga la xale bi jàng Noon.
+Paraphrased & Augmented Sentences,Noon la xale bi di jàng ci suba si.
+Paraphrased & Augmented Sentences,Jigéen ji togg na lekk bu neex.
+Paraphrased & Augmented Sentences,Lekk bu neex la jigéen ji togg ci ngoon gi.
+Paraphrased & Augmented Sentences,"Ci ngoon gi, togg na lekk bu neex."
+Paraphrased & Augmented Sentences,Nit ñi daje nañu ci kër-u ndajem dëkk ga.
+Paraphrased & Augmented Sentences,Ci kër-u ndajem dëkk ga la nit ñi daje.
+Paraphrased & Augmented Sentences,Ndaje mi dafa am ci diggante dëkk ga.
+Paraphrased & Augmented Sentences,Suba si lañu war a dem marse ga.
