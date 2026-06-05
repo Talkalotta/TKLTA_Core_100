@@ -1,0 +1,101 @@
+Categories,Sentences
+Grammar Core (Sentence Structures & Tenses),Ngarra da ngurran.
+Grammar Core (Sentence Structures & Tenses),Kardu mam kanhi.
+Grammar Core (Sentence Structures & Tenses),Kardu ngamam da.
+Grammar Core (Sentence Structures & Tenses),Kardu namam kanhi-yu?
+Grammar Core (Sentence Structures & Tenses),Kardu pamam mi kanhi.
+Grammar Core (Sentence Structures & Tenses),Nganhi ngama da.
+Grammar Core (Sentence Structures & Tenses),Nganhi thama mi.
+Grammar Core (Sentence Structures & Tenses),Nganhi pama nanthi thay.
+Grammar Core (Sentence Structures & Tenses),Nganhi nganimam ku were.
+Grammar Core (Sentence Structures & Tenses),Nganhi thanimam ku yagurr.
+Conversational Data (Real-Life Dialogues & Exchanges),"Murrinh nhinhi, ngarra da ngurran."
+Conversational Data (Real-Life Dialogues & Exchanges),"Yek, mi kanhi-yu?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Ngarra kanhi, thangkunuma mi?"
+Conversational Data (Real-Life Dialogues & Exchanges),Nhinhi da ngurran-yu?
+Conversational Data (Real-Life Dialogues & Exchanges),"Nganhi pangu, ngarra kanhi."
+Conversational Data (Real-Life Dialogues & Exchanges),"Kardu kanhi, ku were kanhi."
+Conversational Data (Real-Life Dialogues & Exchanges),"Ngarra Wadeye kanhi, nhinhi kanhi?"
+Conversational Data (Real-Life Dialogues & Exchanges),"Nanthi thay kanhi, ku yagurr kanhi."
+Conversational Data (Real-Life Dialogues & Exchanges),"Murrinh patha kanhi, ngarra mam."
+Conversational Data (Real-Life Dialogues & Exchanges),"Yek, ngarra da ngurran, nhinhi pangu."
+Code-Switching & Multilingualism,Ngarra English warda Murrinh-patha mam.
+Code-Switching & Multilingualism,Nhinhi Kriol warda Murrinh-patha namam.
+Code-Switching & Multilingualism,Kardu school-ngime Murrinh-patha pamam.
+Code-Switching & Multilingualism,Clinic-ngime kardu Murrinh-patha mam.
+Code-Switching & Multilingualism,Phone-ngime nhinhi Murrinh-patha warda namam.
+Code-Switching & Multilingualism,Message-ngime ngarra Murrinh-patha ngamam.
+Code-Switching & Multilingualism,Teacher warda kardu Murrinh-patha pamam.
+Code-Switching & Multilingualism,Doctor warda Murrinh-patha mam kanhi.
+Code-Switching & Multilingualism,Computer-ngime nganhi Murrinh-patha ngama.
+Code-Switching & Multilingualism,Online-ngime Murrinh-patha ngarra ngamam.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Kardu clinic-ngime nguddini kanhi.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Kardu council-ngime mam kanhi.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Doctor ngarra thurdini mi kanhi-yu?
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Teacher kardu thamam school-ngime.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Nurse kardu nganimam clinic-ngime.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Wadeye office-ngime kardu ngurdini.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Police kardu wurdini road-ngime.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Business-ngime kardu pamam kanhi.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Meeting-ngime ngarra ngurran da.
+"Formal & Professional Speech (Business, Legal, Medical, Technical)",Report-ngime Murrinh-patha mam kanhi.
+"Idioms, Proverbs & Cultural Expressions","Nanthi thay kardu kanhi, da kardu ngurran."
+"Idioms, Proverbs & Cultural Expressions","Ku were dirranngingarlbarl, kardu pangu kanhi."
+"Idioms, Proverbs & Cultural Expressions","Mi kanhi, kardu kanhi."
+"Idioms, Proverbs & Cultural Expressions","Da kanhi, murrinh kanhi."
+"Idioms, Proverbs & Cultural Expressions","Kardu pangu, murrinh pangu."
+"Idioms, Proverbs & Cultural Expressions","Nanthi thay pangu, ku yagurr kanhi."
+"Idioms, Proverbs & Cultural Expressions","Murrinh patha ngarra mam, kardu ngarra kanhi."
+"Idioms, Proverbs & Cultural Expressions","Ku were kanhi, da pangu."
+"Idioms, Proverbs & Cultural Expressions","Mi pangu, kardu pangu."
+"Idioms, Proverbs & Cultural Expressions","Murrinh kanhi, da kanhi."
+Question-Answer Pairs (FAQ & Contextual Understanding),Mi kanhi-yu? Mi kanhi.
+Question-Answer Pairs (FAQ & Contextual Understanding),Nhinhi da ngurran-yu? Ngarra da ngurran.
+Question-Answer Pairs (FAQ & Contextual Understanding),Kardu kanhi-yu? Kardu kanhi.
+Question-Answer Pairs (FAQ & Contextual Understanding),Ku were kanhi-yu? Ku were kanhi.
+Question-Answer Pairs (FAQ & Contextual Understanding),Nanthi thay kanhi-yu? Nanthi thay kanhi.
+Question-Answer Pairs (FAQ & Contextual Understanding),Wadeye kanhi-yu? Wadeye kanhi.
+Question-Answer Pairs (FAQ & Contextual Understanding),Murrinh-patha mam-yu? Ngarra mam.
+Question-Answer Pairs (FAQ & Contextual Understanding),Thangkunuma mi kanhi-yu? Mi kanhi.
+Question-Answer Pairs (FAQ & Contextual Understanding),Clinic-ngime kardu kanhi-yu? Kardu kanhi.
+Question-Answer Pairs (FAQ & Contextual Understanding),School-ngime teacher kanhi-yu? Teacher kanhi.
+Commands & Instructions (Imperative Sentences),Nhinhi da ngurran.
+Commands & Instructions (Imperative Sentences),Mi kanhi mam.
+Commands & Instructions (Imperative Sentences),Murrinh-patha mam kanhi.
+Commands & Instructions (Imperative Sentences),Ku were pangu thamam.
+Commands & Instructions (Imperative Sentences),Nanthi thay pangu ngamam.
+Commands & Instructions (Imperative Sentences),Kardu pangu namam.
+Commands & Instructions (Imperative Sentences),Clinic-ngime ngurran.
+Commands & Instructions (Imperative Sentences),School-ngime murrinh mam.
+Commands & Instructions (Imperative Sentences),Message-ngime Murrinh-patha mam.
+Commands & Instructions (Imperative Sentences),Report-ngime kanhi mam.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Wadeye-ngime kardu mam kanhi.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Palumpa-ngime kardu ngamam da.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Peppimenarti-ngime kardu namam kanhi.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Darwin-ngime kardu pamam.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Thamarrurr Council-ngime kardu mam.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Monday-ngime ngarra da ngurran.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",June 2026-ngime kardu meeting mam.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Australia-ngime Murrinh-patha kanhi.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",Northern Territory-ngime Wadeye kanhi.
+"Named Entity Recognition (NER) Data (People, Places, Dates, Organizations)",St Joseph's School-ngime teacher Murrinh-patha mam.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Ngarra Murrinh-patha mam, ngarra kanhi."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Ngarra pangu, mi kanhi."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Kardu kanhi, ngarra happy."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Ku were dirranngingarlbarl, ngarra worried."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Mi pangu, kardu sad."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Nanthi thay kanhi, ngarra calm."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),School-ngime ngarra proud.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),Clinic-ngime ngarra nervous.
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Murrinh-patha pangu, ngarra sorry."
+Sentiment Analysis Data (Emotion & Opinion-based Sentences),"Wadeye kanhi, ngarra good."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Ngarra da ngurran kanhi.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Da ngarra ngurran.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Kardu mi kanhi mam.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Mi kardu mam kanhi.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Ku were kanhi, kardu pangu."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),"Kardu pangu, ku were kanhi."
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Wadeye-ngime ngarra Murrinh-patha mam.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Ngarra Murrinh-patha mam Wadeye-ngime.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),School-ngime kardu teacher mam.
+Paraphrased & Augmented Sentences (Rewritten Variations for Robustness),Teacher school-ngime kardu mam.
