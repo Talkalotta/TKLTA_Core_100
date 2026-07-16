@@ -1,0 +1,101 @@
+﻿Categories,Sentences
+Grammar Core,मैं अज्ज घर जांदा आं।
+Grammar Core,मैं काल बजार गया सा।
+Grammar Core,असां कल स्कूल जासां।
+Grammar Core,जे बारिश होवे तां मैं घर रहां।
+Grammar Core,ओह कम नेईं करदा।
+Grammar Core,चिट्ठी लिखी गई।
+Grammar Core,तुसां किताब पढ़ी ऐ?
+Grammar Core,बच्चे खेलदे रहे।
+Grammar Core,ओह खाणा खा चुके ने।
+Grammar Core,काम समय ते मुकाणा चाहिदा ऐ।
+Conversational Data,तूं किन्ना देर नाल आया?
+Conversational Data,मैं रस्ते च ट्रैफिक कारण लेट होया।
+Conversational Data,चल चा पीने चलिए।
+Conversational Data,"नेईं, पैहले कम मुकाईए।"
+Conversational Data,तुसां दा परिवार ठीक ऐ?
+Conversational Data,"हाँ, सारे खुश ने।"
+Conversational Data,आज मौसम बड़ा सुहाणा ऐ।
+Conversational Data,फेर शाम नूं मिलदे आं।
+Conversational Data,फोन करदे रहिओ।
+Conversational Data,"ठीक ऐ, फिर मिलांगे।"
+Code-Switching,मैं meeting वास्ते तैयार आं.
+Code-Switching,ओह online class लांदा ऐ.
+Code-Switching,File email कर दे.
+Code-Switching,Network slow होने कारण call कट गई.
+Code-Switching,Project दा deadline अज्ज ऐ.
+Code-Switching,Laptop charge कर लै.
+Code-Switching,Team नाल discussion होई.
+Code-Switching,Update जल्दी भेज.
+Code-Switching,Report ready ऐ.
+Code-Switching,Login करके form भरो.
+Formal & Professional,कृपा करके आवेदन समय सिर जमा करो।
+Formal & Professional,मरीज नूं दवाई नियमित देओ।
+Formal & Professional,अदालत दा फैसला लिखित रूप च जारी होया।
+Formal & Professional,तकनीकी जांच पूरी हो चुकी ऐ।
+Formal & Professional,कंपनी सुरक्षा नियमां दा पालन करदी ऐ।
+Formal & Professional,बैठक सुबह दस बजे शुरू होवेगी।
+Formal & Professional,बैंक दस्तावेज सत्यापित करेगा।
+Formal & Professional,करार दोनों पक्षां ने मंजूर कीता।
+Formal & Professional,प्रयोगशाला च नमूने जांचे गए।
+Formal & Professional,डॉक्टर ने आराम दी सलाह दित्ती।
+Idioms,ओह अखां दा तारा ऐ.
+Idioms,थोथा चना बाजे घणा.
+Idioms,जिन्नी चादर होवे उन्ने पैर पसार.
+Idioms,दूध दा जळ्या छाछ वी फूक के पींदा.
+Idioms,एक ते एक ग्यारह.
+Idioms,नांह दे ऊंट पहाड़ थल्ले.
+Idioms,घर दा जोगी जोगड़ा.
+Idioms,हाथ कंगन नूं आरसी की.
+Idioms,लोहे नूं गरम होए तां मार.
+Idioms,मन साफ तां रब पास.
+QA,सवाल: तेरा नां की ऐ? जवाब: मेरा नां राजू ऐ.
+QA,सवाल: स्कूल कित्थे ऐ? जवाब: गांव च ऐ.
+QA,सवाल: पानी क्यों जरूरी ऐ? जवाब: जिंदगी लेई जरूरी ऐ.
+QA,"सवाल: तूं खुश ऐं? जवाब: हाँ, बहुत खुश आं."
+QA,सवाल: बस कदों आवेगी? जवाब: दस मिनट च.
+QA,सवाल: किताब किसदी ऐ? जवाब: मेरी ऐ.
+QA,सवाल: खेती दा फायदा की ऐ? जवाब: रोजी मिलदी ऐ.
+QA,सवाल: मौसम केहो जेहा ऐ? जवाब: ठंडा ऐ.
+QA,सवाल: फोन चार्ज ऐ? जवाब: नेईं.
+QA,सवाल: तूं मदद करेगा? जवाब: जरूर.
+Commands,दरवाजा बंद कर.
+Commands,धीरे बोल.
+Commands,इथे बैठ.
+Commands,ध्यान नाल सुन.
+Commands,किताब खोल.
+Commands,बत्ती बंद कर दे.
+Commands,समय ते पहुंच.
+Commands,हाथ धो.
+Commands,रिपोर्ट भेज.
+Commands,फेर कोशिश कर.
+NER,रमेश धर्मशाला गया.
+NER,सीमा कांगड़ा च रहिंदी ऐ.
+NER,15 अगस्त भारत दा आजादी दा दिन ऐ.
+NER,हिमाचल प्रदेश सुंदर ऐ.
+NER,शाहपुर कांगड़ा जिले च ऐ.
+NER,राजीव गांधी दी याद अज्ज वी ऐ.
+NER,दिल्ली भारत दी राजधानी ऐ.
+NER,बीस जनवरी नूं बैठक ऐ.
+NER,आईआईटी मंडी शोध करदी ऐ.
+NER,ब्यास दरिया हिमाचल च वगदा ऐ.
+Sentiment,मैनूं ए फिल्म बहुत पसंद आई.
+Sentiment,ए सेवा बहुत खराब सी.
+Sentiment,आज दा दिन सामान्य रहा.
+Sentiment,मैं तुहाडी मदद लेई आभारी आं.
+Sentiment,मैनूं इस फैसले नाल निराशा होई.
+Sentiment,बच्च्यां दी हंसी सुन के खुशी होई.
+Sentiment,बारिश कारण परेशानी होई.
+Sentiment,नवा कम उत्साह भरदा ऐ.
+Sentiment,माहौल शांत ते संतुलित ऐ.
+Sentiment,उसदी गल मन नूं लगी.
+Paraphrased,मैं बाजार जांदा आं.
+Paraphrased,मैं खरीदारी लेई बाजार वल्ल जा रया आं.
+Paraphrased,ओह जल्दी आया.
+Paraphrased,ओह समय तो पहलां पहुंच गया.
+Paraphrased,साडा गांव सुंदर ऐ.
+Paraphrased,असाडा पिंड बड़ा सोहणा ऐ.
+Paraphrased,मैं किताब पढ़दा आं.
+Paraphrased,मैं पुस्तक दा अध्ययन करदा आं.
+Paraphrased,अज्ज मौसम ठंडा ऐ.
+Paraphrased,अज्ज हवा च काफी ठंडक ऐ.
